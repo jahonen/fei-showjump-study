@@ -11,3 +11,4 @@ app/dist/
 functions/lib/
 functions/node_modules/
 functions/questions/
+functions/.gcloudignore
