@@ -21,6 +21,13 @@ export default function SignInScreen() {
   return (
     <main className="sign-in-screen" role="main" aria-labelledby="app-title">
       <article className="hero-content">
+        <img
+          src="/web-app-manifest-512x512.png"
+          alt="ShowJump Study logo: a horse reading a rulebook"
+          className="hero-logo"
+          width="160"
+          height="160"
+        />
         <h1 id="app-title">ShowJump Study</h1>
         <p className="hero-tagline">
           Master the FEI Jumping Rules with a free study app built for riders, trainers, and
