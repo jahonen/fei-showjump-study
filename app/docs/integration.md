@@ -43,13 +43,21 @@ Deploy with `firebase deploy --only firestore:rules`.
 
 ## Question bank ingestion
 
-Run after any question-bank update:
+Two ingestion options are available:
 
-```bash
-npm run ingest en
-```
+1. **Via gcloud REST API** (recommended when service-account keys are blocked by org policy):
+   ```bash
+   node app/functions/ingest-via-rest.mjs en
+   ```
+   This uses your authenticated gcloud account and the Firestore REST API to write verified parent items with inline variants.
 
-This uses a service-account key with Firestore write access.
+2. **Via service-account key** (if key creation is allowed):
+   ```bash
+   cd app
+   GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json npm run ingest en
+   ```
+
+Run either after any question-bank update.
 
 ## Third-party dependencies
 

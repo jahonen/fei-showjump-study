@@ -15,7 +15,7 @@ Mobile-first web app for studying the FEI Jumping Rules. Built with React, Vite,
 - `npm run build` — production build (outputs to `../dist`)
 - `npm run preview` — preview production build
 - `npm run test` — run Vitest tests
-- `npm run ingest en` — ingest the English question bank into Firestore (requires service-account key)
+- `node functions/ingest-via-rest.mjs en` — ingest the English question bank into Firestore using your authenticated gcloud account (no service-account key required)
 
 ## Firebase setup
 
