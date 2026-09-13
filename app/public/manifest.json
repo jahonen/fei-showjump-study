@@ -1,6 +1,7 @@
 {
-  "name": "ShowJump Study",
-  "short_name": "ShowJump",
+  "name": "ShowJump Study — FEI Jumping Rules",
+  "short_name": "ShowJump Study",
+  "description": "Free mobile study app for FEI Jumping Rules. Free Study, Timed Trial, Review, and Highscore modes for riders, trainers, and officials.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

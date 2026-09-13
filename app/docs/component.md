@@ -118,7 +118,9 @@
 
 ## SignInScreen
 
-**Purpose:** Entry point with Google Sign-In. Includes a link to the Privacy Notice.
+**Purpose:** Entry point with Google Sign-In and SEO-friendly hero content for new riders. Includes links to the Privacy Notice and highlights the FEI Jumping Rules study modes.
+
+**Outputs:** Renders visible `<h1>` and `<h2>` content, feature list, and a Google Sign-In call to action.
 
 **Location:** `src/components/SignInScreen/`
 

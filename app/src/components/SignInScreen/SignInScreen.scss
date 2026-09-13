@@ -3,9 +3,64 @@
 .sign-in-screen {
   flex: 1;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  padding: $spacing-md;
+  justify-content: flex-start;
+  padding: var(--spacing-md);
+  gap: var(--spacing-lg);
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-xl);
+  }
+}
+
+.hero-content {
+  width: 100%;
+  max-width: 600px;
+
+  h1 {
+    font-size: var(--font-size-xl);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  h2 {
+    font-size: var(--font-size-lg);
+    color: var(--color-primary);
+    margin: var(--spacing-lg) 0 var(--spacing-sm);
+  }
+
+  p {
+    margin-bottom: var(--spacing-md);
+  }
+}
+
+.hero-tagline {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-lg);
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--spacing-lg);
+
+  li {
+    margin-bottom: var(--spacing-sm);
+    padding-left: var(--spacing-md);
+    position: relative;
+
+    &::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--color-primary);
+    }
+  }
 }
 
 .sign-in-card {
@@ -18,9 +73,9 @@
   text-align: center;
 }
 
-.sign-in-card h1 {
+.sign-in-heading {
   color: var(--color-primary);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-lg);
   margin-bottom: var(--spacing-sm);
 }
 
@@ -35,12 +90,12 @@
 }
 
 .privacy-link {
-  margin-top: $spacing-lg;
+  margin-top: var(--spacing-lg);
   font-size: 0.875rem;
-  color: $color-text-muted;
+  color: var(--color-text-muted);
   margin-bottom: 0;
 
   a {
-    color: $color-primary;
+    color: var(--color-primary);
   }
 }

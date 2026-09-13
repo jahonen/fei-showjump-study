@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /study
+Disallow: /free-study
+Disallow: /review
+Disallow: /highscore
+Disallow: /highscore-results
+Disallow: /timed-results
+Disallow: /leaderboard
+Disallow: /settings
+
+Sitemap: https://showjump-study.web.app/sitemap.xml

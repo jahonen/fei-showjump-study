@@ -5,7 +5,8 @@ import './SignInScreen.scss';
 
 /**
  * Entry point for unauthenticated visitors.
- * Renders a Google Sign-In button and redirects to dashboard once signed in.
+ * Renders a Google Sign-In button, redirects authenticated users to the dashboard,
+ * and displays SEO-friendly hero content for new riders learning FEI Jumping Rules.
  */
 export default function SignInScreen() {
   const { user, signInWithGoogle } = useAuth();
@@ -19,9 +20,46 @@ export default function SignInScreen() {
 
   return (
     <main className="sign-in-screen" role="main" aria-labelledby="app-title">
-      <div className="sign-in-card">
+      <article className="hero-content">
         <h1 id="app-title">ShowJump Study</h1>
-        <p className="sign-in-subtitle">FEI Jumping Rules study tool</p>
+        <p className="hero-tagline">
+          Master the FEI Jumping Rules with a free study app built for riders, trainers, and
+          officials.
+        </p>
+
+        <section aria-labelledby="modes-heading">
+          <h2 id="modes-heading">How it works</h2>
+          <ul className="feature-list">
+            <li>
+              <strong>Free Study</strong> — browse by domain with instant explanations and article
+              references.
+            </li>
+            <li>
+              <strong>Timed Trial</strong> — 50 questions in 60 minutes with a domain-by-domain
+              breakdown.
+            </li>
+            <li>
+              <strong>Review</strong> — revisit missed questions until you master them.
+            </li>
+            <li>
+              <strong>Highscore</strong> — test your speed with a shrinking-timer survival mode.
+            </li>
+          </ul>
+        </section>
+
+        <section aria-labelledby="why-heading">
+          <h2 id="why-heading">Why use it?</h2>
+          <p>
+            Every question is traced directly to the official FEI Jumping Rules PDF, with article
+            numbers and exact source pages. New riders can build confidence quickly, and experienced
+            riders can keep the rules fresh before competitions.
+          </p>
+        </section>
+      </article>
+
+      <div className="sign-in-card">
+        <h2 className="sign-in-heading">Start studying</h2>
+        <p className="sign-in-subtitle">Sign in with Google to save your progress.</p>
         <button
           type="button"
           className="sign-in-button"
