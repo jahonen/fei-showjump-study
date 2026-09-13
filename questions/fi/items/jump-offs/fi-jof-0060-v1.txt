@@ -7,11 +7,11 @@ SOURCE_PAGE: 22
 TYPE: single-select
 STEM: Mitä yhdistelmäesteen osa-aluetta EI saa muuttaa uusinnan aikana juniorisääntöjen artiklan 218.2.6 mukaisesti?
 OPTION_A: Korkeus
-OPTION_B: Yksittäisten elementtien leviäminen
+OPTION_B: Yksittäisten elementtien leveys
 OPTION_C: Elementtien välinen etäisyys
 OPTION_D: Väri
 CORRECT: C
-EXPLANATION: Yhdistelmäesteen elementtien välisen etäisyyden muuttaminen uusinnan aikana on nimenomaisesti kielletty. Yhteisösääntöjen Artikla 344 kieltää erityisesti yhdistelmäesteen elementtien välisen etäisyyden muuttamisen uusinnan aikana.
+EXPLANATION: Yhdistelmäesteen elementtien välisen etäisyyden muuttaminen uusinnan aikana on nimenomaisesti kielletty. Yhteisösääntöjen artikla 344 kieltää erityisesti yhdistelmäesteen elementtien välisen etäisyyden muuttamisen uusinnan aikana.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

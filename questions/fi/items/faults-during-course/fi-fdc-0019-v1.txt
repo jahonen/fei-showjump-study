@@ -11,7 +11,7 @@ OPTION_B: Sakkoja, ellei toisin mainita
 OPTION_C: Ei huomioida taulukossa C
 OPTION_D: Hae vain ensimmäiselle kierrokselle
 CORRECT: B
-EXPLANATION: Yhteisten sääntöjen Artikla 348 sisältää vesihypyn virheen rangaistuksia aiheuttavien virheiden joukossa, ellei yhteisissä säännöissä toisin määrätä.
+EXPLANATION: Yhteisten sääntöjen artikla 348 sisältää vesihypyn virheen rangaistuksia aiheuttavien virheiden joukossa, ellei yhteisissä säännöissä toisin määrätä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

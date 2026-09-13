@@ -11,7 +11,7 @@ OPTION_B: 8 rangaistusta (yhteensä)
 OPTION_C: Eliminaatio
 OPTION_D: Ei rangaistusta toisesta erästä
 CORRECT: C
-EXPLANATION: Taulukon A mukaan ensimmäinen tottelemattomuus johtaa neljään rangaistukseen ja toinen tottelemattomuus samalla kierroksella johtaa eliminointiin (JR:n Artikla 342).
+EXPLANATION: Taulukon A mukaan ensimmäinen tottelemattomuus johtaa neljään rangaistukseen ja toinen tottelemattomuus samalla kierroksella johtaa eliminointiin (JR:n artikla 342).
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

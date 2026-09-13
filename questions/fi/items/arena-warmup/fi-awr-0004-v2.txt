@@ -11,7 +11,7 @@ OPTION_B: Esteiden määrän lisäämiseksi
 OPTION_C: Näyttää, mitkä elementit ovat valinnaisia
 OPTION_D: Vain suljettujen yhdistelmien merkitsemiseen
 CORRECT: A
-EXPLANATION: Yhteisösääntöjen Artikla 329 selittää, että yksittäinen numero voidaan toistaa jokaisessa elementissä erottavin kirjaimin tuomaristoa ja urheilijoita varten.
+EXPLANATION: Yhteisösääntöjen artikla 329 selittää, että yksittäinen numero voidaan toistaa jokaisessa elementissä erottavin kirjaimin tuomaristoa ja urheilijoita varten.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

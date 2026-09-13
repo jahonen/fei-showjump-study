@@ -11,7 +11,7 @@ OPTION_B: Yhdistelmä, jonka ympäröivät sivut voidaan ylittää vain hyppää
 OPTION_C: Yhdistelmä, jonka elementit ovat niin lähellä toisiaan, että ne muodostavat yhden kokonaisuuden
 OPTION_D: Yhdistelmä, joka ei saa ylittää kahta elementtiä
 CORRECT: B
-EXPLANATION: JR:n Artikla 301 määrittelee täysin suljetun yhdistelmän sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä; esimerkkejä ovat sisään-ulos-este, lammaskarsina, neliön tai kuusikulmainen este.
+EXPLANATION: JR:n artikla 301 määrittelee täysin suljetun yhdistelmän sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä; esimerkkejä ovat sisään-ulos-este, lammaskarsina, neliön tai kuusikulmainen este.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

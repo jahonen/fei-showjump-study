@@ -11,7 +11,7 @@ OPTION_B: Korokepaikat
 OPTION_C: Mikä tahansa palkintorahapaikka
 OPTION_D: Viimeinen sija
 CORRECT: B
-EXPLANATION: Juniorisääntöjen Artikla 344 sallii uusinnan, kun urheilija/hevonen -yhdistelmät ovat tasapisteissä palkintosijoilla mestaruuskilpailuissa tai kisoissa.
+EXPLANATION: Juniorisääntöjen artikla 344 sallii uusinnan, kun urheilija/hevonen -yhdistelmät ovat tasapisteissä palkintosijoilla mestaruuskilpailuissa tai kisoissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

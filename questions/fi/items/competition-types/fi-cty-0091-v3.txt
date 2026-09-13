@@ -11,7 +11,7 @@ OPTION_B: Esteellä, jossa virhe tehtiin
 OPTION_C: Viimeisen esteen kohdalla
 OPTION_D: Tuomarin harkinnan mukaan
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 toteaa, että hylkäämisen tai loppukirin sattuessa urheilijan on jatkettava rataa esteeltä, jossa virhe tapahtui.
+EXPLANATION: JR:n artikla 354 toteaa, että hylkäämisen tai loppukirin sattuessa urheilijan on jatkettava rataa esteeltä, jossa virhe tapahtui.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

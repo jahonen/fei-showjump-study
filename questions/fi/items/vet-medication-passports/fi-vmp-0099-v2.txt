@@ -11,7 +11,7 @@ OPTION_B: Eläinlääkintäedustaja
 OPTION_C: Tekninen edustaja
 OPTION_D: Pääluottamusmies
 CORRECT: B
-EXPLANATION: JR:n Artikla 321 edellyttää, että tuomariston on kuultava eläinlääkäriasiantuntijaa ennen kuin se katsoo hevosen, jolla on verenvuotoriski, jatkamaan kilpailua.
+EXPLANATION: JR:n artikla 321 edellyttää, että tuomariston on kuultava eläinlääkäriasiantuntijaa ennen kuin se katsoo hevosen, jolla on verenvuotoriski, jatkamaan kilpailua.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

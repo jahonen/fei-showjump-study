@@ -11,7 +11,7 @@ OPTION_B: Kaksi
 OPTION_C: Kolme
 OPTION_D: Viisi
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen Artikla 321(a) toteaa, että kaikissa yksilökilpailujen finaalikilpailuissa kolme ensimmäistä hevosta otetaan normaalisti testiin.
+EXPLANATION: Yhteisösääntöjen artikla 321(a) toteaa, että kaikissa yksilökilpailujen finaalikilpailuissa kolme ensimmäistä hevosta otetaan normaalisti testiin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

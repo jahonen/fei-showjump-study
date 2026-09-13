@@ -11,7 +11,7 @@ OPTION_B: Yhden vuoden nuorempi
 OPTION_C: Kaksi vuotta nuorempi
 OPTION_D: Samanikäinen
 CORRECT: A
-EXPLANATION: JR:n Artikla 333 toteaa, että pohjoisen pallonpuoliskon hevosten, jotka kilpailevat eteläisellä pallonpuoliskolla, tulisi sallia kilpailla vuoden ikäisten hevosten kilpailuissa.
+EXPLANATION: JR:n artikla 333 toteaa, että pohjoisen pallonpuoliskon hevosten, jotka kilpailevat eteläisellä pallonpuoliskolla, tulisi sallia kilpailla vuoden ikäisten hevosten kilpailuissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Luvaton apu
 OPTION_C: Syksy
 OPTION_D: Tottelemattomuus
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 listaa luvattoman avun rangaistukseksi.
+EXPLANATION: JR:n artikla 348 listaa luvattoman avun rangaistukseksi.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

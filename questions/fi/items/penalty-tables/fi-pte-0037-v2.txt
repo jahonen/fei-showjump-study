@@ -11,7 +11,7 @@ OPTION_B: 3 sekuntia
 OPTION_C: 4 sekuntia
 OPTION_D: 6 sekuntia
 CORRECT: B
-EXPLANATION: JR:n Artikla 342 määrää, että esteen kaatumisesta tai vesihypyn virheestä seuraa 3 sekuntia taulukon C mukaisissa sisäkilpailuissa.
+EXPLANATION: JR:n artikla 342 määrää, että esteen kaatumisesta tai vesihypyn virheestä seuraa 3 sekuntia taulukon C mukaisissa sisäkilpailuissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Aina kun hevonen on kilpailualueella
 OPTION_C: Palkintojenjakotilaisuudessa
 OPTION_D: Vasta kun kello on soitettu
 CORRECT: B
-EXPLANATION: JR:n Artikla 329 edellyttää, että kaikki sisään- ja uloskäynnit on fyysisesti suljettu aina, kun hevonen on kilpailualueella kilpailun aikana.
+EXPLANATION: JR:n artikla 329 edellyttää, että kaikki sisään- ja uloskäynnit on fyysisesti suljettu aina, kun hevonen on kilpailualueella kilpailun aikana.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

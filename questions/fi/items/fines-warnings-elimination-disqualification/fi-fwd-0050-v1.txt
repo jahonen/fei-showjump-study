@@ -11,7 +11,7 @@ OPTION_B: Takautuva
 OPTION_C: Urheilijan vetämä
 OPTION_D: Rajoitettu nykyiseen kierrokseen
 CORRECT: B
-EXPLANATION: Yhteisen rekisterin Artikla 346 mukaan hylkääminen voi olla myös takautuvaa.
+EXPLANATION: Yhteisen rekisterin artiklan 346 mukaan hylkääminen voi olla myös takautuvaa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: 6 metriä ja 15 metriä
 OPTION_C: 3 m ja 14 m
 OPTION_D: 8 metriä ja 18 metriä
 CORRECT: B
-EXPLANATION: JR:n Artikla 329 sallii 6–15 metrin etäisyyden ensimmäisestä ja viimeisestä esteestä; 6 m ja 15 m ovat täsmälleen sallitut rajat.
+EXPLANATION: JR:n artikla 329 sallii 6–15 metrin etäisyyden ensimmäisestä ja viimeisestä esteestä; 6 m ja 15 m ovat täsmälleen sallitut rajat.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

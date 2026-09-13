@@ -11,7 +11,7 @@ OPTION_B: Yhdistelmät mihin tahansa kilpailuun
 OPTION_C: Vähintään yksi pystysuora ja yksi leveä este
 OPTION_D: Hevosten kävelytys kohotettujen keppien yli kupeissa
 CORRECT: C
-EXPLANATION: Vaikka juniorisääntöjen Artikla 329 kieltää voimistelu-/harjoitusliikkeet ja Artikla 329 yleisesti kieltää yhdistelmät, Artikla 329 vaatii vähintään yhden pystysuoran ja yhden levitettävän esteen lämmittelyalueella.
+EXPLANATION: Vaikka juniorisääntöjen artikla 329 kieltää voimistelu-/harjoitusliikkeet ja artikla 329 yleisesti kieltää yhdistelmät, artikla 329 vaatii vähintään yhden pystysuoran ja yhden levitettävän esteen lämmittelyalueella.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

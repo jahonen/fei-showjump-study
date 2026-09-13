@@ -11,7 +11,7 @@ OPTION_B: Saattaa vaikuttaa sijoitteluun
 OPTION_C: Koskee vain seuraavaa kilpailua
 OPTION_D: Urheilijoiden on hyväksyttävä
 CORRECT: B
-EXPLANATION: Yhteistyösääntöjen Artikla 341 sisältää kaikki ratasuunnitelmassa mainitut muutokset, jotka vaikuttavat sijoituksen määrittämiseen.
+EXPLANATION: Yhteistyösääntöjen artikla 341 sisältää kaikki ratasuunnitelmassa mainitut muutokset, jotka vaikuttavat sijoituksen määrittämiseen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Ei rangaistuksia
 OPTION_C: Tasan 4 rangaistusta
 OPTION_D: Eliminaatio
 CORRECT: B
-EXPLANATION: JR:n Artikla 344 sallii uusinnan, kun useampi kuin yksi urheilija/hevonen -yhdistelmä ei ole saanut rangaistuksia alkuerissä.
+EXPLANATION: JR:n artikla 344 sallii uusinnan, kun useampi kuin yksi urheilija/hevonen -yhdistelmä ei ole saanut rangaistuksia alkuerissä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

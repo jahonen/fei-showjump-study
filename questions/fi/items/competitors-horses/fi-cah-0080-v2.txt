@@ -11,7 +11,7 @@ OPTION_B: Nations Cup/Longines League of Nations™ CSIO-kilpailuissa; kaikissa 
 OPTION_C: Vain olympialaiset
 OPTION_D: Vain palkintojenjakotilaisuudet
 CORRECT: B
-EXPLANATION: JR:n Artikla 333 edellyttää virallisten kansallisten liittojen (NF) pukeutumista CSIO-kilpailuissa Nations Cup/Longines League of Nations™ -kilpailuissa ja kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa, sekä, asianomaisen kansallisen olympiakomitean hyväksynnällä, olympia- ja alueellisten kisojen kilpailuissa.
+EXPLANATION: JR:n artikla 333 edellyttää virallisten kansallisten liittojen (NF) pukeutumista CSIO-kilpailuissa Nations Cup/Longines League of Nations™ -kilpailuissa ja kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa, sekä, asianomaisen kansallisen olympiakomitean hyväksynnällä, olympia- ja alueellisten kisojen kilpailuissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

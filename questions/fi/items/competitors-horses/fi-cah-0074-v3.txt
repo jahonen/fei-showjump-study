@@ -11,7 +11,7 @@ OPTION_B: Ilmoitettujen aloituskokoonpanon osallistujien määrä on enintään 
 OPTION_C: Järjestäjä ilmoittaa sen kilpailun aikana
 OPTION_D: Se on Kansakuntien Cup
 CORRECT: B
-EXPLANATION: Juniorisääntöjen Artikla 333 sallii kaksi hevosta urheilijaa kohden Grand Prix'ssä vain, jos ilmoitettujen lähtöhenkilöiden määrä on enintään 50 % suunnitellusta lähtöhenkilömäärästä ja aikataulussa on mainittu tämä mahdollisuus.
+EXPLANATION: Juniorisääntöjen artikla 333 sallii kaksi hevosta urheilijaa kohden Grand Prix'ssä vain, jos ilmoitettujen lähtöhenkilöiden määrä on enintään 50 % suunnitellusta lähtöhenkilömäärästä ja aikataulussa on mainittu tämä mahdollisuus.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

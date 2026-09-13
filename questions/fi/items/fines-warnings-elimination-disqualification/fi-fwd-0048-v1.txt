@@ -11,7 +11,7 @@ OPTION_B: Olosuhteet tekivät välittömän pysähtymisen hihnan uudelleen kiinn
 OPTION_C: He ovat juniori
 OPTION_D: Tuomaristo ei nähnyt sitä
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 sisältää poikkeuksen eliminoinnista, jos olosuhteet tekevät urheilijan vaaralliseksi pysähtyä välittömästi kiinnittääkseen hihnan uudelleen.
+EXPLANATION: JR:n artikla 346 sisältää poikkeuksen eliminoinnista, jos olosuhteet tekevät urheilijan vaaralliseksi pysähtyä välittömästi kiinnittääkseen hihnan uudelleen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

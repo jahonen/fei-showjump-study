@@ -11,7 +11,7 @@ OPTION_B: Ei, normaalisti leviävät esteet ovat rajoitettu 2,00 metriin
 OPTION_C: Kyllä, jos ratasuunnittelija hyväksyy
 OPTION_D: Ei, raja on 1,80 m
 CORRECT: B
-EXPLANATION: JR:n Artikla 301 rajoittaa esteiden leveyden 2,00 metriin, lukuun ottamatta kolmoispuomeja, jotka voivat ulottua 2,20 metriin.
+EXPLANATION: JR:n artikla 301 rajoittaa esteiden leveyden 2,00 metriin, lukuun ottamatta kolmoispuomeja, jotka voivat ulottua 2,20 metriin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Taide 260
 OPTION_C: 263.1 artikla
 OPTION_D: Artikla 264.1
 CORRECT: C
-EXPLANATION: Kilpailusääntöjen Artikla 346 määrittelee eliminoinnin siten, että urheilija ja hänen hevosensa eivät pysty jatkamaan kyseisessä kilpailussa.
+EXPLANATION: Kilpailusääntöjen artikla 346 määrittelee eliminoinnin siten, että urheilija ja hänen hevosensa eivät pysty jatkamaan kyseisessä kilpailussa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

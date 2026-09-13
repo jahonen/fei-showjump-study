@@ -11,7 +11,7 @@ OPTION_B: 18 mm
 OPTION_C: 20 mm
 OPTION_D: 22 mm
 CORRECT: B
-EXPLANATION: JR:n Artikla 301 mukaan tukikupin syvyyden on oltava vähintään 18 mm.
+EXPLANATION: JR:n artiklan 301 mukaan tukikupin syvyyden on oltava vähintään 18 mm.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Poistaminen, ellei sen välitön pysäyttäminen uudelleen kiinnittäm
 OPTION_C: 500 Sveitsin frangin sakko
 OPTION_D: Varoitus
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 toteaa, että esteen hyppääminen tai hyppäämisyritys päähineen leukahihnan ollessa väärin kiinnitettynä tai kiinnittämättä johtaa hylkäämiseen, ellei olosuhteet tee urheilijan vaaralliseksi pysähtyä välittömästi hihnan kiinnittämiseksi uudelleen.
+EXPLANATION: JR:n artikla 346 toteaa, että esteen hyppääminen tai hyppäämisyritys päähineen leukahihnan ollessa väärin kiinnitettynä tai kiinnittämättä johtaa hylkäämiseen, ellei olosuhteet tee urheilijan vaaralliseksi pysähtyä välittömästi hihnan kiinnittämiseksi uudelleen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

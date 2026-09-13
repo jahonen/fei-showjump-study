@@ -11,7 +11,7 @@ OPTION_B: He voivat silti saada palkinnon, vaikka eivät olisikaan suorittaneet 
 OPTION_C: Ne eliminoidaan automaattisesti.
 OPTION_D: Heidän on aloitettava ensimmäinen kierros alusta.
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 määrää, että urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoja, paitsi tietyissä erikoiskilpailuissa, mikä tarkoittaa, että näissä erikoiskilpailuissa palkinto voidaan myöntää, vaikka kierros olisi suoritettu kesken.
+EXPLANATION: JR:n artikla 341 määrää, että urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoja, paitsi tietyissä erikoiskilpailuissa, mikä tarkoittaa, että näissä erikoiskilpailuissa palkinto voidaan myöntää, vaikka kierros olisi suoritettu kesken.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

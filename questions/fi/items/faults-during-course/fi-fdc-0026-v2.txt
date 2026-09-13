@@ -11,7 +11,7 @@ OPTION_B: Ei aiheuta eliminointia
 OPTION_C: Antaa 4 rangaistusta
 OPTION_D: Tuloksena on varoitus
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 määrää, että kaatuminen maaliviivan ylityksen jälkeen ei aiheuta hylkäämistä.
+EXPLANATION: JR:n artikla 348 määrää, että kaatuminen maaliviivan ylityksen jälkeen ei aiheuta hylkäämistä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

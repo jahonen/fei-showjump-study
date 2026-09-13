@@ -11,7 +11,7 @@ OPTION_B: Kaksi
 OPTION_C: Yksi
 OPTION_D: Ei mitään
 CORRECT: C
-EXPLANATION: JR:n Artikla 321(b) mukaan näyte otetaan normaalisti yhdestä hevosesta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta.
+EXPLANATION: JR:n artikla 321(b) mukaan näyte otetaan normaalisti yhdestä hevosesta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

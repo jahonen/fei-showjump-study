@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on suurin sallittu leviäminen esteelle, jonka ylittäminen vaatii vain yhden ponnistuksen?
+STEM: Mikä on suurin sallittu leveys esteelle, jonka ylittäminen vaatii vain yhden ponnistuksen?
 OPTION_A: 1,60 metriä
 OPTION_B: 1,80 metriä
 OPTION_C: 2,00 metriä
 OPTION_D: 2,20 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 301 mukaan esteiden leveys saa olla enintään 2,00 m, lukuun ottamatta kolmoispuomeja, joiden leveys voi olla enintään 2,20 m.
+EXPLANATION: JR:n artiklan 301 mukaan esteiden leveys saa olla enintään 2,00 m, lukuun ottamatta kolmoispuomeja, joiden leveys voi olla enintään 2,20 m.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Elektroniset laitteet
 OPTION_C: Suojaava pääpanssari leukahihnalla
 OPTION_D: Saappaat ja siteet
 CORRECT: C
-EXPLANATION: JR:n Artikla 346 käsittelee hyppimistä suojakypärän leukahihna väärin kiinnitettynä tai kiinnittämättä jääneenä.
+EXPLANATION: JR:n artikla 346 käsittelee hyppimistä suojakypärän leukahihna väärin kiinnitettynä tai kiinnittämättä jääneenä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

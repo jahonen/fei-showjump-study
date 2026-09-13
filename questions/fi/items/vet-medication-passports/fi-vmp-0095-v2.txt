@@ -11,7 +11,7 @@ OPTION_B: Sääntöä rikkoen
 OPTION_C: Sallittu, jos eläinlääkäriedustaja on hyväksynyt sen
 OPTION_D: Sallittu vain CSI1*-tapahtumissa
 CORRECT: B
-EXPLANATION: JR:n Artikla 321 kieltää hevosen henkilöllisyyden peittämisen millään tavalla maalilla tai värjäyksellä.
+EXPLANATION: JR:n artikla 321 kieltää hevosen henkilöllisyyden peittämisen millään tavalla maalilla tai värjäyksellä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Vain aikarangaistukset
 OPTION_C: Eliminaatio
 OPTION_D: Sakko
 CORRECT: C
-EXPLANATION: Yhteisen ohjeiston Artikla 346 määrää, että taulukon C mukaisen enimmäisaikarajan ylittäminen johtaa hylkäämiseen, ja Artikla 346 vahvistaa tämän yleisesti.
+EXPLANATION: Yhteisen ohjeiston artikla 346 määrää, että taulukon C mukaisen enimmäisaikarajan ylittäminen johtaa hylkäämiseen, ja artikla 346 vahvistaa tämän yleisesti.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

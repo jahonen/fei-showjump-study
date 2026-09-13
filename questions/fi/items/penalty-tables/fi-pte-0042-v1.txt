@@ -11,7 +11,7 @@ OPTION_B: Vain uusintahyppy
 OPTION_C: Kolikonheitto
 OPTION_D: Palkintojen jakaminen
 CORRECT: D
-EXPLANATION: JR:n Artikla 342 tarjoaa muotovaihtoehtoja taulukon A mukaisille kilpailuille, joissa ei pelata aikaa vastaan, mukaan lukien vaihtoehdon, jossa urheilijat, joilla on samat rangaistuspisteet missä tahansa sijassa, jakavat palkinnot eikä uusintaa ole; jos uusintahyppy on järjestetty, urheilijat, jotka eivät ole uusinnassa, jakavat silti palkinnot muista kuin ensimmäisestä sijasta.
+EXPLANATION: JR:n artikla 342 tarjoaa muotovaihtoehtoja taulukon A mukaisille kilpailuille, joissa ei pelata aikaa vastaan, mukaan lukien vaihtoehdon, jossa urheilijat, joilla on samat rangaistuspisteet missä tahansa sijassa, jakavat palkinnot eikä uusintaa ole; jos uusintahyppy on järjestetty, urheilijat, jotka eivät ole uusinnassa, jakavat silti palkinnot muista kuin ensimmäisestä sijasta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

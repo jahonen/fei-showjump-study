@@ -11,7 +11,7 @@ OPTION_B: Kun tottelemattomuus siirtää tai kaataa esteen tai asiaankuuluvan li
 OPTION_C: Aina kun urheilija pyytää kellon pysäyttämistä
 OPTION_D: Jokaisen tottelemattomuuden jälkeen
 CORRECT: B
-EXPLANATION: JR:n Artikla 352 lisää kuuden sekunnin aikakorjauksen, kun urheilija tottelemattomuuden seurauksena siirtää tai kaataa esteen tai lipun artiklassa määritellyissä olosuhteissa.
+EXPLANATION: JR:n artikla 352 lisää kuuden sekunnin aikakorjauksen, kun urheilija tottelemattomuuden seurauksena siirtää tai kaataa esteen tai lipun artiklassa määritellyissä olosuhteissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

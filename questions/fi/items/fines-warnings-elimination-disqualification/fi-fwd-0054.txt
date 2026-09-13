@@ -11,7 +11,7 @@ OPTION_B: Vain tuomariston puheenjohtaja
 OPTION_C: Tuomaristo, päätuomari ja tekninen asiantuntija, riippuen rikkomuksesta
 OPTION_D: Urheilijoiden kansallinen liitto
 CORRECT: B
-EXPLANATION: Yleisten kilpailusääntöjen Artikla 346 määrää, että tuomariston puheenjohtaja voi määrätä sakkoja yleisten kilpailusääntöjen mukaisesti luetelluissa olosuhteissa.
+EXPLANATION: Yleisten kilpailusääntöjen artikla 346 määrää, että tuomariston puheenjohtaja voi määrätä sakkoja yleisten kilpailusääntöjen mukaisesti luetelluissa olosuhteissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

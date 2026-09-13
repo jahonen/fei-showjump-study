@@ -11,7 +11,7 @@ OPTION_B: 50 metriä estettä kohden
 OPTION_C: 60 metriä estettä kohden
 OPTION_D: 70 metriä estettä kohden
 CORRECT: C
-EXPLANATION: JR:n Artikla 329 määrää, että radan kokonaispituus metreinä ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60:llä.
+EXPLANATION: JR:n artikla 329 määrää, että radan kokonaispituus metreinä ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60:llä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

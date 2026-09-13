@@ -11,7 +11,7 @@ OPTION_B: Yksi rangaistus jokaisesta aloitetusta sekunnista
 OPTION_C: Kaksi rangaistusta jokaisesta sekunnista
 OPTION_D: Neljä rangaistusta jokaisesta aloitetusta sekunnista
 CORRECT: B
-EXPLANATION: JR:n Artikla 352 toteaa, että taulukon A mukaan sallitun ajan ylittäminen johtaa yhteen rangaistukseen jokaista aloitettua sekuntia kohden.
+EXPLANATION: JR:n artikla 352 toteaa, että taulukon A mukaan sallitun ajan ylittäminen johtaa yhteen rangaistukseen jokaista aloitettua sekuntia kohden.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

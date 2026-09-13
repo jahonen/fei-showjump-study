@@ -11,7 +11,7 @@ OPTION_B: Eliminaatio
 OPTION_C: Sakko
 OPTION_D: Varoitus
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 toteaa, että luvaton avustaminen kierroksen aikana johtaa hylkäämiseen.
+EXPLANATION: JR:n artikla 348 toteaa, että luvaton avustaminen kierroksen aikana johtaa hylkäämiseen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

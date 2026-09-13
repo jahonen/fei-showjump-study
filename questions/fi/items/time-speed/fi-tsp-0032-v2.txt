@@ -11,7 +11,7 @@ OPTION_B: Ei rangaista, paitsi toisesta hylkäämisestä alaslyönnillä tehdyn 
 OPTION_C: Aina eliminoitu
 OPTION_D: Täysin huomiotta jätetty
 CORRECT: B
-EXPLANATION: JR:n Artikla 352 toteaa, että tottelemattomuudesta ei rangaista keskeytetyn peliajan aikana, lukuun ottamatta toista hylkäämistä hylkäämisen jälkeen, johon liittyi alasvienti.
+EXPLANATION: JR:n artikla 352 toteaa, että tottelemattomuudesta ei rangaista keskeytetyn peliajan aikana, lukuun ottamatta toista hylkäämistä hylkäämisen jälkeen, johon liittyi alasvienti.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

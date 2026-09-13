@@ -11,7 +11,7 @@ OPTION_B: Neljä
 OPTION_C: Viisi
 OPTION_D: Kuusi
 CORRECT: B
-EXPLANATION: Juniorisääntöjen Artikla 333 asettaa CSI- ja CSIO-kilpailuissa urheilijaa kohden enimmäismäärän neljäksi hevoseksi.
+EXPLANATION: Juniorisääntöjen artikla 333 asettaa CSI- ja CSIO-kilpailuissa urheilijaa kohden enimmäismäärän neljäksi hevoseksi.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: 45 sekunnin lähtölaskenta
 OPTION_C: Tulostaulu aiemmilla tuloksilla
 OPTION_D: verryttely kenttän aikataulu
 CORRECT: B
-EXPLANATION: JR:n Artikla 352 mukaan 45 sekunnin lähtölaskentaa näyttävän taulun on oltava urheilijan selvästi näkyvissä.
+EXPLANATION: JR:n artiklan 352 mukaan 45 sekunnin lähtölaskentaa näyttävän taulun on oltava urheilijan selvästi näkyvissä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

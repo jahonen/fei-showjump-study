@@ -11,7 +11,7 @@ OPTION_B: Säilyttää jo voitetut palkinnot
 OPTION_C: Sakotetaan
 OPTION_D: Hylätään automaattisesti
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 nimenomaisesti säilyttää karsintakilpailuissa voitetut palkinnot, vaikka urheilija kieltäytyisi osallistumasta finaaliin.
+EXPLANATION: JR:n artikla 341 nimenomaisesti säilyttää karsintakilpailuissa voitetut palkinnot, vaikka urheilija kieltäytyisi osallistumasta finaaliin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

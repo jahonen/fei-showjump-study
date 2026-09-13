@@ -11,7 +11,7 @@ OPTION_B: Ensimmäisen vaiheen viimeisen esteen hyppäämisen jälkeen tai ensim
 OPTION_C: Toisen vaiheen alussa
 OPTION_D: Toisen vaiheen maaliviivalla
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 kuvaa tarkalleen kohdan, jossa ensimmäisessä vaiheessa rangaistuksia saaneet urheilijat pysäytetään.
+EXPLANATION: JR:n artikla 354 kuvaa tarkalleen kohdan, jossa ensimmäisessä vaiheessa rangaistuksia saaneet urheilijat pysäytetään.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

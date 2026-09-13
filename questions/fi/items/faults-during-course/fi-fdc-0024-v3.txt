@@ -11,7 +11,7 @@ OPTION_B: Artikla 246.5
 OPTION_C: Artikla 263.4.4
 OPTION_D: Artikla 248.1
 CORRECT: A
-EXPLANATION: Vaikka Artikla 348 mainitsee myös 45 sekunnin yhtäjaksoisen vastustamisen pakollisena eliminointina, JR:n Artikla 348 on ensisijainen sääntö, joka määrittelee seurauksen.
+EXPLANATION: Vaikka artikla 348 mainitsee myös 45 sekunnin yhtäjaksoisen vastustamisen pakollisena eliminointina, JR:n artikla 348 on ensisijainen sääntö, joka määrittelee seurauksen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

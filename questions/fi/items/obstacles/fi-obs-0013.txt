@@ -11,7 +11,7 @@ OPTION_B: Vuohisnivel jättää jäljen rimaan
 OPTION_C: Hevonen koskettaa vettä yhdellä tai useammalla jalalla
 OPTION_D: Hevonen osuu ponnistuksen puolella olevaan pensaikkoon
 CORRECT: A,C
-EXPLANATION: JR:n Artikla 301 määrää, että virhe tapahtuu, kun jalka tai kenkä koskettaa rimaa ja jättää jäljen, tai kun hevonen koskettaa vettä yhdellä tai useammalla jalalla. Vuohisnivelen tai saappaan jälki ei ole virhe, eikä harjaan osuminen ole virhe Artikla 301 nojalla.
+EXPLANATION: JR:n artikla 301 määrää, että virhe tapahtuu, kun jalka tai kenkä koskettaa rimaa ja jättää jäljen, tai kun hevonen koskettaa vettä yhdellä tai useammalla jalalla. Vuohisnivelen tai saappaan jälki ei ole virhe, eikä harjaan osuminen ole virhe artikla 301 nojalla.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

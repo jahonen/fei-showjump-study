@@ -11,7 +11,7 @@ OPTION_B: Se on määritelty aikataulussa
 OPTION_C: Kaikki urheilijat ovat samaa mieltä
 OPTION_D: Se on Kansakuntien Cup
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen Artikla 344 sallii taulukon A mukaisen uusinnan tuomaroinnin taulukon C mukaisesti vain, jos se on mainittu ohjelmassa.
+EXPLANATION: Yhteisösääntöjen artikla 344 sallii taulukon A mukaisen uusinnan tuomaroinnin taulukon C mukaisesti vain, jos se on mainittu ohjelmassa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

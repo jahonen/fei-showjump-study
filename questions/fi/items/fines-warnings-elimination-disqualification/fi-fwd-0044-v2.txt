@@ -11,7 +11,7 @@ OPTION_B: 4 rangaistusta
 OPTION_C: Eliminaatio
 OPTION_D: Varoitus
 CORRECT: C
-EXPLANATION: JR:n Artikla 346 määrää, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin; kieltäytyminen ja loppukiri ovat molemmat tottelemattomuus.
+EXPLANATION: JR:n artikla 346 määrää, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin; kieltäytyminen ja loppukiri ovat molemmat tottelemattomuus.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Seitsemän vuotta
 OPTION_C: Kahdeksan vuotta
 OPTION_D: Yhdeksän vuotta
 CORRECT: C
-EXPLANATION: JR:n Artikla 333 asettaa hevosen vähimmäisiän seniorien mannertenmestaruuskilpailuihin kahdeksaksi vuodeksi.
+EXPLANATION: JR:n artikla 333 asettaa hevosen vähimmäisiän seniorien mannertenmestaruuskilpailuihin kahdeksaksi vuodeksi.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Kansakuntien Cup
 OPTION_C: Voima ja taito
 OPTION_D: Nuori hevonen
 CORRECT: C
-EXPLANATION: JR:n Artikla 352 nimenomaisesti määrää, ettei voima- ja taitokilpailuissa vaadita vähimmäisnopeutta.
+EXPLANATION: JR:n artikla 352 nimenomaisesti määrää, ettei voima- ja taitokilpailuissa vaadita vähimmäisnopeutta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Raipan käyttö normaalina ratsastusapuna
 OPTION_C: Hevosen koputtaminen
 OPTION_D: Kosketa hevosta kevyesti kannuksella suoruuden säilyttämiseksi
 CORRECT: A,C
-EXPLANATION: Ratsastussääntöjen Artikla 346 kieltää koputtamisen ja Artikla 346 kieltää raipan liiallisen käytön. Raipan käyttöä normaalina ratsastusapuna ja kannusten normaalia käyttöä ei pidetä kaltoinkohteluna.
+EXPLANATION: Ratsastussääntöjen artikla 346 kieltää koputtamisen ja artikla 346 kieltää raipan liiallisen käytön. Raipan käyttöä normaalina ratsastusapuna ja kannusten normaalia käyttöä ei pidetä kaltoinkohteluna.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

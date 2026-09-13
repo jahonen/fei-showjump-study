@@ -11,7 +11,7 @@ OPTION_B: Tasapeli viimeinen uusinnassa kaikkien kierroksen päättäneiden urhe
 OPTION_C: He säilyttävät alkusarjan sijoituksensa
 OPTION_D: Heidät poistetaan tapahtumasta
 CORRECT: B
-EXPLANATION: JR:n Artikla 344 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy luvalla uusinnasta, toisesta kierroksesta tai voittavasta kierroksesta, sijoittuu kyseisellä kierroksella tasan viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
+EXPLANATION: JR:n artikla 344 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy luvalla uusinnasta, toisesta kierroksesta tai voittavasta kierroksesta, sijoittuu kyseisellä kierroksella tasan viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Artikla 242.4.7
 OPTION_C: Artikla 242.4.10
 OPTION_D: Artikla 242.4.12
 CORRECT: D
-EXPLANATION: JR:n Artikla 329 kieltää nimenomaisesti voimistelu-/harjoitusliikkeet kilpailun lämmittelyn aikana.
+EXPLANATION: JR:n artikla 329 kieltää nimenomaisesti voimistelu-/harjoitusliikkeet kilpailun lämmittelyn aikana.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

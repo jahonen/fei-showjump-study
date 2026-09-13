@@ -11,7 +11,7 @@ OPTION_B: Artikla 218.2.6
 OPTION_C: Artikla 218.2.7
 OPTION_D: Artikla 218.3
 CORRECT: C
-EXPLANATION: JR:n Artikla 344 määrää, että hyppyradalle saa lisätä enintään kaksi ylimääräistä estettä.
+EXPLANATION: JR:n artikla 344 määrää, että hyppyradalle saa lisätä enintään kaksi ylimääräistä estettä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

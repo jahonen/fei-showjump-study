@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: JR:n artiklan 263.4.30 ristiviittaukset mihin kilpailuareenalla käytettäviin elektronisiin laitteisiin liittyvään artikkeliin?
+STEM: Mihin artiklaan JR:n artikla 263.4.30 viittaa kilpailualueella käytettäviin elektronisiin laitteisiin liittyen?
 OPTION_A: Artikla 207.3.1
 OPTION_B: Artikla 207.3.2
 OPTION_C: Artikla 207.3.3
 OPTION_D: Artikla 207.2
 CORRECT: B
-EXPLANATION: Yhteisten sääntöjen Artikla 346 viittaa yhteisten sääntöjen artiklaan 207.3.2, joka kieltää matkapuhelimien ja elektronisten laitteiden käytön kilpailualueella kilpailun aikana.
+EXPLANATION: Yhteisten sääntöjen artikla 346 viittaa yhteisten sääntöjen artiklaan 207.3.2, joka kieltää matkapuhelimien ja elektronisten laitteiden käytön kilpailualueella kilpailun aikana.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

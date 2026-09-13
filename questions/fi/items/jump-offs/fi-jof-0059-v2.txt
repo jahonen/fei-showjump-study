@@ -11,7 +11,7 @@ OPTION_B: Artikla 218.2.3
 OPTION_C: Artikla 218.2.4
 OPTION_D: Artikla 218.2.5
 CORRECT: A
-EXPLANATION: JR:n Artikla 344 vaatii, että uusintahyppyyn sisältyy vähintään yksi yhdistelmä, jos alkuperäinen rata sisälsi yhdistelmän/yhdistelmiä.
+EXPLANATION: JR:n artikla 344 vaatii, että uusintahyppyyn sisältyy vähintään yksi yhdistelmä, jos alkuperäinen rata sisälsi yhdistelmän/yhdistelmiä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

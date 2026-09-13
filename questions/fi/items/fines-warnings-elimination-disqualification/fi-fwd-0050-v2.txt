@@ -11,7 +11,7 @@ OPTION_B: Artikla 262.1 ja artikla 263.1
 OPTION_C: Artikla 260 ja artikla 261
 OPTION_D: Artikla 265 ja artikla 266
 CORRECT: A
-EXPLANATION: Yhteisten sääntöjen Artikla 346 määrittelee eliminoinnin ja yhteisten sääntöjen Artikla 346 määrittelee hylkäämisen; ne ovat erillisiä seurauksia.
+EXPLANATION: Yhteisten sääntöjen artikla 346 määrittelee eliminoinnin ja yhteisten sääntöjen artikla 346 määrittelee hylkäämisen; ne ovat erillisiä seurauksia.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
 OPTION_C: Alustavan kierroksen ajan mukaan
 OPTION_D: Ei sijoitettu
 CORRECT: B
-EXPLANATION: JR:n Artikla 344 määrää, että eliminointi, keskeytys tai sallittu vetäytyminen asettaa urheilijan tasan viimeiseksi kierroksella kaikkien loppuun suorittaneiden jälkeen.
+EXPLANATION: JR:n artikla 344 määrää, että eliminointi, keskeytys tai sallittu vetäytyminen asettaa urheilijan tasan viimeiseksi kierroksella kaikkien loppuun suorittaneiden jälkeen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

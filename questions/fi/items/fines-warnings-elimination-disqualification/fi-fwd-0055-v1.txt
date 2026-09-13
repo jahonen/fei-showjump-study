@@ -11,7 +11,7 @@ OPTION_B: Hevonen katsotaan kilpailukelpoiseksi artiklan 259.3 mukaisesti
 OPTION_C: Verenvuoto tyrehtyy 10 sekunnissa
 OPTION_D: Urheilija pyytää anteeksi
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 sallii huuhtelun/pyyhkimisen tietyissä veritapauksissa, mutta Artikla 346 edellyttää, että tuomaristo katsoo hevosen kilpailukelpoiseksi eläinlääkäriasiantuntijan kanssa neuvoteltuaan.
+EXPLANATION: JR:n artikla 346 sallii huuhtelun/pyyhkimisen tietyissä veritapauksissa, mutta artikla 346 edellyttää, että tuomaristo katsoo hevosen kilpailukelpoiseksi eläinlääkäriasiantuntijan kanssa neuvoteltuaan.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

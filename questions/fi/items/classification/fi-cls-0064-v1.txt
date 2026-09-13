@@ -11,7 +11,7 @@ OPTION_B: Aikataulu ja mahdolliset kurssisuunnitelmassa mainitut muutokset
 OPTION_C: Virallinen kalenteri
 OPTION_D: Chef d'Equipen lausunto
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 perustuu sijoituksiin kilpailun pisteytykseen, aikataulun ohjeisiin ja ratasuunnitelmassa ilmoitettuihin muutoksiin.
+EXPLANATION: JR:n artikla 341 perustuu sijoituksiin kilpailun pisteytykseen, aikataulun ohjeisiin ja ratasuunnitelmassa ilmoitettuihin muutoksiin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Kiinnitä se heti uudelleen
 OPTION_C: Pysähdy ja jää eläkkeelle
 OPTION_D: Signaali tuomaristolle
 CORRECT: B
-EXPLANATION: JR:n Artikla 333 edellyttää urheilijalta, jonka leukahihna irtoaa kierroksen aikana, sen kiinnittämistä välittömästi uudelleen.
+EXPLANATION: JR:n artikla 333 edellyttää urheilijalta, jonka leukahihna irtoaa kierroksen aikana, sen kiinnittämistä välittömästi uudelleen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Urheilijoiden pukukoodi
 OPTION_C: Loimet hevosilla palkintojenjaon aikana
 OPTION_D: Palkintojen jakojärjestys
 CORRECT: C
-EXPLANATION: JR:n Artikla 341 säätelee, voivatko hevoset käyttää loimia palkintojenjakotilaisuudessa.
+EXPLANATION: JR:n artikla 341 säätelee, voivatko hevoset käyttää loimia palkintojenjakotilaisuudessa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Ei yksittäisiä sijoituksia
 OPTION_C: Erillinen yksilökilpailu
 OPTION_D: Joukkue- ja yksilösijoitukset
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 määrää, että Nations Cupissa ei saa olla yksilösijoituksia sen erityisluonteen säilyttämiseksi.
+EXPLANATION: JR:n artikla 354 määrää, että Nations Cupissa ei saa olla yksilösijoituksia sen erityisluonteen säilyttämiseksi.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Pystysuora este
 OPTION_C: Kolminkertainen palkki
 OPTION_D: Yhdistelmä
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 vaatii vähintään yhden pystysuoran esteen neljästä kuuteen yksittäisestä esteestä Puissance-alkukilpailussa.
+EXPLANATION: JR:n artikla 354 vaatii vähintään yhden pystysuoran esteen neljästä kuuteen yksittäisestä esteestä Puissance-alkukilpailussa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

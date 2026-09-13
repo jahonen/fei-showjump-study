@@ -11,7 +11,7 @@ OPTION_B: Hevosen ja/tai urheilijan kaatuminen
 OPTION_C: Ympyröinti jopa 45 sekuntia ulosajon tai kieltäytymisen jälkeen päästä paikalle
 OPTION_D: Sallitun ajan ylittäminen
 CORRECT: A,B,D
-EXPLANATION: JR:n artiklassa 244.1 luetellaan esteen kaataminen, virhe vesihypyllä, tottelemattomuus, radalta poikkeaminen, kaatuminen, luvaton avustaminen ja sallitun ajan tai aikarajan ylittäminen rangaistuksia aiheuttavina virheinä. Artikla 348 mukaan enintään 45 sekunnin pitäminen ympyrässä ulosajosta tai kieltäytymisestä asettumasta paikalleen ei ole tottelemattomuus eikä siten Artikla 348 mukainen virhe.
+EXPLANATION: JR:n artiklassa 244.1 luetellaan esteen kaataminen, virhe vesihypyllä, tottelemattomuus, radalta poikkeaminen, kaatuminen, luvaton avustaminen ja sallitun ajan tai aikarajan ylittäminen rangaistuksia aiheuttavina virheinä. artiklan 348 mukaan enintään 45 sekunnin pitäminen ympyrässä ulosajosta tai kieltäytymisestä asettumasta paikalleen ei ole tottelemattomuus eikä siten artiklan 348 mukainen virhe.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

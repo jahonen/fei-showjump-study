@@ -11,7 +11,7 @@ OPTION_B: Ratasuunnittelija
 OPTION_C: Eläinlääkintäedustaja
 OPTION_D: Urheilija
 CORRECT: C
-EXPLANATION: JR:n Artikla 346 edellyttää, että tuomariston neuvottelee eläinlääkäriasiantuntijan kanssa ennen kuin se katsoo hevosen kelvolliseksi jatkamaan.
+EXPLANATION: JR:n artikla 346 edellyttää, että tuomariston neuvottelee eläinlääkäriasiantuntijan kanssa ennen kuin se katsoo hevosen kelvolliseksi jatkamaan.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

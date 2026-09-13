@@ -11,7 +11,7 @@ OPTION_B: Peräkkäin kierroksen aikana
 OPTION_C: Vasta ensimmäisen esteen kohdalla
 OPTION_D: Koko kilpailun ajan
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 määrittelee '45 peräkkäisen sekunnin' vastusta kierroksen aikana, ei kumulatiivista aikaa.
+EXPLANATION: JR:n artikla 348 määrittelee '45 peräkkäisen sekunnin' vastusta kierroksen aikana, ei kumulatiivista aikaa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

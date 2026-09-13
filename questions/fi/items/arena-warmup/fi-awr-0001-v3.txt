@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mikä kilpailuareenaa koskeva väittämä on oikein JR:n artiklan 241.1.1 nojalla?
+STEM: Mikä kilpailualueeseen liittyvä väittämä on oikein JR:n artiklan 241.1.1 nojalla?
 OPTION_A: Areenaa ei tarvitse sulkea kentän tarkastuksen aikana.
-OPTION_B: Maneesin on oltava aidattu ja sisään- ja uloskäynnit fyysisesti suljettu hevosen ollessa maneesissa kilpailun aikana.
+OPTION_B: Kilpailualueen on oltava aidattu ja sisään- ja uloskäynnit fyysisesti suljettu hevosen ollessa kilpailualueella kilpailun aikana.
 OPTION_C: Järjestyshenkilöt voivat jättää portit auki nopeuttaakseen reitin uudelleenasennuksia
-OPTION_D: Sääntö koskee vain ulkoareenoita
+OPTION_D: Sääntö koskee vain ulkokenttiä
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen Artikla 329 edellyttää, että kilpailualue on aidattu ja kaikki sisään- ja uloskäynnit fyysisesti suljettu hevosen ollessa alueella kilpailun aikana.
+EXPLANATION: Kilpailusääntöjen artikla 329 edellyttää, että kilpailualue on aidattu ja kaikki sisään- ja uloskäynnit fyysisesti suljettu hevosen ollessa alueella kilpailun aikana.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

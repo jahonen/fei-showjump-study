@@ -11,7 +11,7 @@ OPTION_B: 45 sekunnin lähtölaskenta päättyy ennen lähtöviivan ylittämist�
 OPTION_C: Kello soi kahdesti
 OPTION_D: Tuomariston jäsenet heiluttavat lippua
 CORRECT: B
-EXPLANATION: JR:n Artikla 352 määrää, että aika alkaa joko siitä, kun urheilija ylittää lähtöviivan kellon soiton jälkeen, tai siitä, kun 45 sekunnin lähtölaskenta päättyy, riippuen siitä, kumpi tapahtuu ensin.
+EXPLANATION: JR:n artikla 352 määrää, että aika alkaa joko siitä, kun urheilija ylittää lähtöviivan kellon soiton jälkeen, tai siitä, kun 45 sekunnin lähtölaskenta päättyy, riippuen siitä, kumpi tapahtuu ensin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

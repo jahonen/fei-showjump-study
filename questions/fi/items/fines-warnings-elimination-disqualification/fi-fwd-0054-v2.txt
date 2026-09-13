@@ -11,7 +11,7 @@ OPTION_B: Artikla 261
 OPTION_C: Artikla 262
 OPTION_D: Artikla 263
 CORRECT: C
-EXPLANATION: Yhteistyölainsäädännön Artikla 346 otsikko on ”Sakot”, ja siinä säädetään, kuka voi määrätä sakkoja ja miten niitä käsitellään.
+EXPLANATION: Yhteistyölainsäädännön artikla 346 otsikko on ”Sakot”, ja siinä säädetään, kuka voi määrätä sakkoja ja miten niitä käsitellään.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

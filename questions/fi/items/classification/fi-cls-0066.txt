@@ -11,7 +11,7 @@ OPTION_B: Tasapeli viimeinen uusinnassa kaikkien kierroksen päättäneiden urhe
 OPTION_C: Vain alkukierroksen sijoituksensa perusteella
 OPTION_D: He eivät saa sijoitusta
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy uusinnasta luvalla, sijoittuu uusinnassa viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
+EXPLANATION: JR:n artikla 341 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy uusinnasta luvalla, sijoittuu uusinnassa viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

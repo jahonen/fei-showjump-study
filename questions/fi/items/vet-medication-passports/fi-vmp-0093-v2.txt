@@ -11,7 +11,7 @@ OPTION_B: Olympialaiset ja mannertenväliset kisat, FEI esteratsastuksen maailma
 OPTION_C: Vain Kansakuntien Cupin finaalit
 OPTION_D: Vain ulkona toimivat CSIO-pelaajat
 CORRECT: B
-EXPLANATION: Junioriratsastajan sääntöjen Artikla 321 edellyttää toista hevostarkastusta olympialaisissa ja mannertenvälisissä kisoissa, FEI Esteratsastuksen maailmancupin finaaleissa sekä kaikkien luokkien maailmanmestaruuskilpailuissa ja mannertenvälisissä mestaruuskilpailuissa.
+EXPLANATION: Junioriratsastajan sääntöjen artikla 321 edellyttää toista hevostarkastusta olympialaisissa ja mannertenvälisissä kisoissa, FEI Esteratsastuksen maailmancupin finaaleissa sekä kaikkien luokkien maailmanmestaruuskilpailuissa ja mannertenvälisissä mestaruuskilpailuissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

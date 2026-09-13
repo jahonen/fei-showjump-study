@@ -11,7 +11,7 @@ OPTION_B: 40 cm
 OPTION_C: 50 cm
 OPTION_D: 60 cm
 CORRECT: B
-EXPLANATION: JR:n Artikla 301 edellyttää ponnistuselementtiä (harja, pieni seinä), jonka vähimmäiskorkeus on 40 cm ja enimmäiskorkeus 50 cm.
+EXPLANATION: JR:n artikla 301 edellyttää ponnistuselementtiä (harja, pieni seinä), jonka vähimmäiskorkeus on 40 cm ja enimmäiskorkeus 50 cm.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

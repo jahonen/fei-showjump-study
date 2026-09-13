@@ -11,7 +11,7 @@ OPTION_B: Luvattomien esteiden hyppiminen tapahtumapaikalla
 OPTION_C: Takin käyttämättä jättäminen lämpimällä säällä
 OPTION_D: Hevosen siirtäminen epävirallisille talleille ilman lupaa
 CORRECT: C
-EXPLANATION: JR:n Artikla 346 luettelee pakolliset hylkäykset, mukaan lukien liialliset kannuksen/piiskan jäljet, luvattomien esteiden hyppääminen ja hevosen siirtäminen epävirallisille talleille. Pukeutumiskoodista voidaan poiketa Artikla 346 nojalla lämpimällä säällä.
+EXPLANATION: JR:n artikla 346 luettelee pakolliset hylkäykset, mukaan lukien liialliset kannuksen/piiskan jäljet, luvattomien esteiden hyppääminen ja hevosen siirtäminen epävirallisille talleille. Pukeutumiskoodista voidaan poiketa artikla 346 nojalla lämpimällä säällä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

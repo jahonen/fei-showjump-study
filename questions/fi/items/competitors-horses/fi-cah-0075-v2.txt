@@ -11,7 +11,7 @@ OPTION_B: Alle 18-vuotiaat urheilijat voivat kilpailla olympialaisissa
 OPTION_C: Alle 18-vuotiaat urheilijat eivät saa kilpailla voima- ja taitokilpailuissa
 OPTION_D: Alle 18-vuotiaat urheilijat voivat kilpailla missä tahansa Nations Cupissa
 CORRECT: C
-EXPLANATION: JR:n Artikla 333 kieltää alle 18-vuotiailta urheilijoilta osallistumisen voima- ja taitokilpailuihin sekä olympialaisiin ja Longines League of Nations™ -kilpailuihin.
+EXPLANATION: JR:n artikla 333 kieltää alle 18-vuotiailta urheilijoilta osallistumisen voima- ja taitokilpailuihin sekä olympialaisiin ja Longines League of Nations™ -kilpailuihin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

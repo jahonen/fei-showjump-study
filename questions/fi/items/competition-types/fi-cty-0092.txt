@@ -11,7 +11,7 @@ OPTION_B: Keräilykilpailu
 OPTION_C: Kansakuntien Cup
 OPTION_D: Kuusi baaria
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 toteaa, että Jokeri on vaikea valinnainen este, jota saa käyttää vain yhdistelmäkilpailussa. Artikla 354 säätelee yhdistelmäkilpailuja.
+EXPLANATION: JR:n artikla 354 toteaa, että Jokeri on vaikea valinnainen este, jota saa käyttää vain yhdistelmäkilpailussa. artikla 354 säätelee yhdistelmäkilpailuja.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Kaatuminen radalle astumisen jälkeen, mutta ennen lähtöviivan ylitt
 OPTION_C: Tottelemattomuudesta ennen lähtöviivan ylittämistä rangaistaan aina
 OPTION_D: Tuomariston jäsenet voivat peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen.
 CORRECT: A,B,D
-EXPLANATION: JR:n Artikla 329 antaa tuomaristolle oikeuden keskeyttää lähtölaskennan odottamattomissa olosuhteissa, määrää, että kaatuminen radalle astumisen jälkeen lähtöviivan ylitykseen asti estää lähdön, ja sallii tuomaristolle oikeuden peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen. Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista.
+EXPLANATION: JR:n artikla 329 antaa tuomaristolle oikeuden keskeyttää lähtölaskennan odottamattomissa olosuhteissa, määrää, että kaatuminen radalle astumisen jälkeen lähtöviivan ylitykseen asti estää lähdön, ja sallii tuomaristolle oikeuden peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen. Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: 1,40 metriä
 OPTION_C: 1,45 metriä
 OPTION_D: 1,60 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 301 soveltaa 3 cm:n toleranssia vain kilpailuihin, joiden ohjelmassa on mainittu enimmäiskorkeus 1,45 m tai enemmän.
+EXPLANATION: JR:n artikla 301 soveltaa 3 cm:n toleranssia vain kilpailuihin, joiden ohjelmassa on mainittu enimmäiskorkeus 1,45 m tai enemmän.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

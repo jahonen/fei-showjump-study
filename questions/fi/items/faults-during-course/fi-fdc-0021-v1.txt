@@ -9,9 +9,9 @@ STEM: Yhteisen pelisäännön artiklan 246.1.4 mukaan säännöllinen ympyrä ta
 OPTION_A: Se tapahtuu lämmittelyalueella
 OPTION_B: Se kiertää jopa 45 sekuntia sen jälkeen, kun se on kieltäytynyt asettumasta paikalleen tai on rynninyt ulos.
 OPTION_C: Urheilija kiertää viimeisen hypätyn esteen
-OPTION_D: Se tehdään taloudenhoitajan pyynnöstä
+OPTION_D: Se tehdään stewardin pyynnöstä
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 toteaa, että enintään 45 sekunnin kiertäminen esteen ylityksen tai esteen hyppäämisasentoon asettumisen kieltäytymisen jälkeen ei ole tottelemattomuutta.
+EXPLANATION: JR:n artikla 348 toteaa, että enintään 45 sekunnin kiertäminen esteen ylityksen tai esteen hyppäämisasentoon asettumisen kieltäytymisen jälkeen ei ole tottelemattomuutta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Molemmat lasketaan mukaan kierroksen kokonaistulokseen.
 OPTION_C: Peruuttaa toisensa
 OPTION_D: Ei huomioida taulukossa A
 CORRECT: B
-EXPLANATION: JR:n Artikla 342 sanoo nimenomaisesti, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajalta, eivät vain samalla esteellä.
+EXPLANATION: JR:n artikla 342 sanoo nimenomaisesti, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajalta, eivät vain samalla esteellä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

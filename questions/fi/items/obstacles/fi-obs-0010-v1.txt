@@ -11,7 +11,7 @@ OPTION_B: 1,52 metriä
 OPTION_C: 1,53 metriä
 OPTION_D: 1,55 metriä
 CORRECT: C
-EXPLANATION: Yhteisen käyttöohjeen Artikla 301 sallii enintään 3 cm:n ylityksen suunnitellusta korkeudesta, kun kyseinen korkeus on 1,45 m tai enemmän; 1,50 m + 0,03 m = 1,53 m.
+EXPLANATION: Yhteisen käyttöohjeen artikla 301 sallii enintään 3 cm:n ylityksen suunnitellusta korkeudesta, kun kyseinen korkeus on 1,45 m tai enemmän; 1,50 m + 0,03 m = 1,53 m.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Artikla 209
 OPTION_C: Artikla 210
 OPTION_D: Artikla 211
 CORRECT: C
-EXPLANATION: Yhteisen rekisterin Artikla 321 otsikko on "Eläinlääkintäkomissio ja eläinlääkintäedustaja".
+EXPLANATION: Yhteisen rekisterin artikla 321 otsikko on "Eläinlääkintäkomissio ja eläinlääkintäedustaja".
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

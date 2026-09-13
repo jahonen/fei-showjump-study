@@ -11,7 +11,7 @@ OPTION_B: VR-reaktioissa ja kengän ja siteen hallintaprotokollassa
 OPTION_C: Yleisten sääntöjen 142 artiklassa
 OPTION_D: Yhteisten suositusten liitteessä VIII
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen Artikla 346 edellyttää jalkojen ja siteiden tarkastusta tietyissä kilpailuissa ja toteaa, että lisätietoja löytyy kilpailusäännöistä ja jalkojen ja siteiden tarkastusprotokollasta, jotka ovat saatavilla FEI:n verkkosivujen stewardiit Hubissa.
+EXPLANATION: Kilpailusääntöjen artikla 346 edellyttää jalkojen ja siteiden tarkastusta tietyissä kilpailuissa ja toteaa, että lisätietoja löytyy kilpailusäännöistä ja jalkojen ja siteiden tarkastusprotokollasta, jotka ovat saatavilla FEI:n verkkosivujen stewardiit Hubissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

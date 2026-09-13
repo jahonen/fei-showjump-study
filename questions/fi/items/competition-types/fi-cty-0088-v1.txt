@@ -11,7 +11,7 @@ OPTION_B: CSIO
 OPTION_C: Mestaruus
 OPTION_D: Mikä tahansa FEI-tapahtuma
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 toteaa, että Nations Cupin saa järjestää vain CSIO:ssa.
+EXPLANATION: JR:n artikla 354 toteaa, että Nations Cupin saa järjestää vain CSIO:ssa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Aikataulu
 OPTION_C: Palkintojenjako-ohjelma
 OPTION_D: Lämmittelyareenan säännöt
 CORRECT: B
-EXPLANATION: JR:n Artikla 344 mukaan aikataulussa on määriteltävä, onko kilpailussa uusintahyppy.
+EXPLANATION: JR:n artiklan 344 mukaan aikataulussa on määriteltävä, onko kilpailussa uusintahyppy.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

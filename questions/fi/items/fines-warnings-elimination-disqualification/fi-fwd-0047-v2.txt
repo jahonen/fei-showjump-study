@@ -11,7 +11,7 @@ OPTION_B: Artikla 207
 OPTION_C: Art 208
 OPTION_D: Artikla 209
 CORRECT: A
-EXPLANATION: Yhteisen ohjesäännön Artikla 346 sisältää hylkäämisen halssien ja varusteiden sääntöjen noudattamatta jättämisestä viitaten yhteisen ohjesäännön artiklaan 206 ja liitteeseen VIII.
+EXPLANATION: Yhteisen ohjesäännön artikla 346 sisältää hylkäämisen halssien ja varusteiden sääntöjen noudattamatta jättämisestä viitaten yhteisen ohjesäännön artiklaan 206 ja liitteeseen VIII.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

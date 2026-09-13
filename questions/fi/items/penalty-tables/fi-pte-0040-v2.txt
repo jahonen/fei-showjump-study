@@ -11,7 +11,7 @@ OPTION_B: Vain taulukko C
 OPTION_C: Sekä taulukko A että taulukko C
 OPTION_D: Kumpikaan
 CORRECT: A
-EXPLANATION: Yhteisösääntöjen Artikla 342 asettaa tämän vaatimuksen taulukon A mukaisesti tuomaroiduille kilpailuille.
+EXPLANATION: Yhteisösääntöjen artikla 342 asettaa tämän vaatimuksen taulukon A mukaisesti tuomaroiduille kilpailuille.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

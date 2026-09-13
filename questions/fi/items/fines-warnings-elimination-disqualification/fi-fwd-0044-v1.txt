@@ -11,7 +11,7 @@ OPTION_B: Toinen
 OPTION_C: Kolmas
 OPTION_D: Neljäs
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 toteaa, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin.
+EXPLANATION: JR:n artikla 346 toteaa, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

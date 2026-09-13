@@ -11,7 +11,7 @@ OPTION_B: Artikla 251
 OPTION_C: Artikla 252
 OPTION_D: Artikla 258
 CORRECT: D
-EXPLANATION: JR:n Artikla 352 viittaa JR:n artiklassa 258 asetettuihin nopeuksiin sallitun ajan määrittämiseksi.
+EXPLANATION: JR:n artikla 352 viittaa JR:n artiklassa 258 asetettuihin nopeuksiin sallitun ajan määrittämiseksi.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

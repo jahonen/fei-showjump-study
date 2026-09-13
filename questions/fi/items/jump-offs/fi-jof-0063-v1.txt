@@ -11,7 +11,7 @@ OPTION_B: Urheilijoiden aikojen käänteisessä järjestyksessä edellisellä ki
 OPTION_C: Arvonnan perusteella
 OPTION_D: Kansalaisuuden mukaan
 CORRECT: B
-EXPLANATION: JR:n Artikla 344 sallii yksittäisen Longines Ranking -kilpailun uusinnan lähtöjärjestyksen määräytymisen käänteisessä järjestyksessä urheilijoiden edellisen kierroksen aikoihin verrattuna, jos aikataulussa niin on määrätty.
+EXPLANATION: JR:n artikla 344 sallii yksittäisen Longines Ranking -kilpailun uusinnan lähtöjärjestyksen määräytymisen käänteisessä järjestyksessä urheilijoiden edellisen kierroksen aikoihin verrattuna, jos aikataulussa niin on määrätty.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
 OPTION_C: Ensimmäisen kierroksen ajan mukaan
 OPTION_D: Ei luokiteltu
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 koskee uusintoja, toisia kierroksia ja voittaneita kierroksia, ja luopuneet/pudotetut/luvan saaneet urheilijat sijoittuvat tasan viimeisiksi maaliin tulleiden jälkeen.
+EXPLANATION: JR:n artikla 341 koskee uusintoja, toisia kierroksia ja voittaneita kierroksia, ja luopuneet/pudotetut/luvan saaneet urheilijat sijoittuvat tasan viimeisiksi maaliin tulleiden jälkeen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

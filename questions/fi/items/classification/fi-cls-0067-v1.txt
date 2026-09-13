@@ -11,7 +11,7 @@ OPTION_B: Tuomaristo
 OPTION_C: Joukkueenjohtaja
 OPTION_D: Sponsori
 CORRECT: B
-EXPLANATION: Tuomariston Artikla 341 määrää, että tuomaristo voi erityisissä olosuhteissa sopia toisin.
+EXPLANATION: Tuomariston artikla 341 määrää, että tuomaristo voi erityisissä olosuhteissa sopia toisin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

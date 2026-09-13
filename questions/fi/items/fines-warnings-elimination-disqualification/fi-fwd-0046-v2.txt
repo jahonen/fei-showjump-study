@@ -11,7 +11,7 @@ OPTION_B: Artikla 252
 OPTION_C: Artikla 253
 OPTION_D: Artikla 258
 CORRECT: C
-EXPLANATION: Yhteisen kilpailusäännön Artikla 346 määrää, että enimmäisaika on kaksinkertainen sallittuun aikaan verrattuna, ja Artikla 346 tekee sen ylittämisestä hylkäämisen.
+EXPLANATION: Yhteisen kilpailusäännön artikla 346 määrää, että enimmäisaika on kaksinkertainen sallittuun aikaan verrattuna, ja artikla 346 tekee sen ylittämisestä hylkäämisen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

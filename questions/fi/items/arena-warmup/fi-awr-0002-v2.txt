@@ -11,7 +11,7 @@ OPTION_B: 550 metriä
 OPTION_C: 600 metriä
 OPTION_D: 650 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 329 rajoittaa radan pituuden esteiden lukumäärään kerrottuna 60:llä; 10 × 60 = 600 m.
+EXPLANATION: JR:n artikla 329 rajoittaa radan pituuden esteiden lukumäärään kerrottuna 60:llä; 10 × 60 = 600 m.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

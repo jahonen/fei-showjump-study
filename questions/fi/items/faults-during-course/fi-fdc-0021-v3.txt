@@ -11,7 +11,7 @@ OPTION_B: Karkaa urheilijan hallinnasta ja väistää esteen, joka sen on hypät
 OPTION_C: Takapenkit lähtöviivalla
 OPTION_D: Hyppää esteen yli kahden punaisen lipun välissä
 CORRECT: B
-EXPLANATION: JR:n Artikla 348 määrittelee loppukirin hevosen karkaamiseksi ratsastajan hallinnasta ja väistämiseksi esteen, joka sen on hypättävä, tai pakollisen käännöspisteen, joka sen on ohitettava.
+EXPLANATION: JR:n artikla 348 määrittelee loppukirin hevosen karkaamiseksi ratsastajan hallinnasta ja väistämiseksi esteen, joka sen on hypättävä, tai pakollisen käännöspisteen, joka sen on ohitettava.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

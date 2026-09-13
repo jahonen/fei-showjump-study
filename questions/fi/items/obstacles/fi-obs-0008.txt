@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on sallittu syvyysalue tuille (kupeille), jotka kannattelevat pylväitä ja muita esteen osia?
+STEM: Mikä on sallittu syvyys tuille (kupeille), jotka kannattelevat pylväitä ja muita esteen osia?
 OPTION_A: Vähintään 12 mm ja enintään 15 mm
 OPTION_B: Vähintään 15 mm ja enintään 20 mm
 OPTION_C: Vähintään 18 mm ja enintään 20 mm
 OPTION_D: Vähintään 20 mm ja enintään 25 mm
 CORRECT: C
-EXPLANATION: JR:n Artikla 301 mukaan tuen (kupin) syvyyden on oltava vähintään 18 mm ja enintään 20 mm.
+EXPLANATION: JR:n artiklan 301 mukaan tuen (kupin) syvyyden on oltava vähintään 18 mm ja enintään 20 mm.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

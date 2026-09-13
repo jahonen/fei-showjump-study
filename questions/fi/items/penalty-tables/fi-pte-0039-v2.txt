@@ -11,7 +11,7 @@ OPTION_B: Kierrosta kohden
 OPTION_C: Kilpailua kohden
 OPTION_D: Vain uusintahyppyissä
 CORRECT: B
-EXPLANATION: JR:n Artikla 342 toteaa, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajan.
+EXPLANATION: JR:n artikla 342 toteaa, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajan.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

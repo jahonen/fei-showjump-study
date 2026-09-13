@@ -11,7 +11,7 @@ OPTION_B: Missä tahansa sisätiloissa järjestettävässä kilpailussa
 OPTION_C: Kun tuomariston hyväksyntä
 OPTION_D: Puissance-kilpailuissa
 CORRECT: A
-EXPLANATION: Juniorisääntöjen Artikla 301 tarjoaa poikkeuksen taulukon C mukaisesti tuomaroiduille nopeus- ja kätevyyskilpailuille sekä pysyville kiinteille esteille, jotka vaativat kaksi tai useampia peräkkäisiä suorituksia.
+EXPLANATION: Juniorisääntöjen artikla 301 tarjoaa poikkeuksen taulukon C mukaisesti tuomaroiduille nopeus- ja kätevyyskilpailuille sekä pysyville kiinteille esteille, jotka vaativat kaksi tai useampia peräkkäisiä suorituksia.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

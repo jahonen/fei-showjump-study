@@ -11,7 +11,7 @@ OPTION_B: Loppuunmyyty
 OPTION_C: Kierrä kerran 30 sekunnin ajan palauttaaksesi aseman kieltäytymisen jälkeen
 OPTION_D: Vastarinta
 CORRECT: A,B,D
-EXPLANATION: JR:n Artikla 348 luettelee tottelemattomuudeksi kieltäytymisen, ulosajon, vastustamisen ja ympyrää liikkumisen. Ympyrässä liikkuminen jopa 45 sekuntia ulosajon tai kieltäytymisen asettua paikalleen jälkeen ei kuitenkaan ole tottelemattomuutta.
+EXPLANATION: JR:n artikla 348 luettelee tottelemattomuudeksi kieltäytymisen, ulosajon, vastustamisen ja ympyrää liikkumisen. Ympyrässä liikkuminen jopa 45 sekuntia ulosajon tai kieltäytymisen asettua paikalleen jälkeen ei kuitenkaan ole tottelemattomuutta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

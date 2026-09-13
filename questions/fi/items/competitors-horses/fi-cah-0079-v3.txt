@@ -11,7 +11,7 @@ OPTION_B: Artikla 207.2
 OPTION_C: Artikla 207.3
 OPTION_D: Art 208
 CORRECT: B
-EXPLANATION: Pukeutumista säätelee JR:n Artikla 333. Artikla 333 edellyttää urheilijoilta Artikla 333 ja yleisten sääntöjen Artikla 333 mukaista pukeutumista rataa tarkastaessaan, kilpaillessaan ja palkintojenjakotilaisuuksissa.
+EXPLANATION: Pukeutumista säätelee JR:n artikla 333. artikla 333 edellyttää urheilijoilta artikla 333 ja yleisten sääntöjen artikla 333 mukaista pukeutumista rataa tarkastaessaan, kilpaillessaan ja palkintojenjakotilaisuuksissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

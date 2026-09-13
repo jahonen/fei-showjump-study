@@ -11,7 +11,7 @@ OPTION_B: Artikla 267.6
 OPTION_C: Artikla 267.7
 OPTION_D: 268.1 artikla
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 sisältää säännön, jonka mukaan urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoa, paitsi tietyissä erikoiskilpailuissa.
+EXPLANATION: JR:n artikla 341 sisältää säännön, jonka mukaan urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoa, paitsi tietyissä erikoiskilpailuissa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

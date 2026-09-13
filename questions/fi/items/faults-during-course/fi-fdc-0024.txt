@@ -11,7 +11,7 @@ OPTION_B: Urheilija saa varoituksen
 OPTION_C: Eliminaatio
 OPTION_D: Kello pysähtyy, mutta kierros jatkuu
 CORRECT: C
-EXPLANATION: JR:n Artikla 348 määrää, että jos hevonen vastustaa 45 sekuntia peräkkäin, ratsastaja/hevonen-yhdistelmä hylätään.
+EXPLANATION: JR:n artikla 348 määrää, että jos hevonen vastustaa 45 sekuntia peräkkäin, ratsastaja/hevonen-yhdistelmä hylätään.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

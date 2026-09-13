@@ -11,7 +11,7 @@ OPTION_B: Säilytetään
 OPTION_C: Lahjoitetaan
 OPTION_D: On mitätön
 CORRECT: B
-EXPLANATION: JR:n Artikla 341 mukaan palkinnonsaajat säilyttävät karsintakilpailuissa voittamansa palkinnot, vaikka he kieltäytyisivätkään osallistumasta finaaliin.
+EXPLANATION: JR:n artiklan 341 mukaan palkinnonsaajat säilyttävät karsintakilpailuissa voittamansa palkinnot, vaikka he kieltäytyisivätkin osallistumasta finaaliin.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

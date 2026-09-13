@@ -11,7 +11,7 @@ OPTION_B: Yhdistelmät lasketaan yhdeksi esteeksi
 OPTION_C: Niitä ei lasketa
 OPTION_D: Ne lasketaan kahdeksi esteeksi
 CORRECT: B
-EXPLANATION: Yhteiskilpailun säännöt Artikla 344 nimenomaisesti todetaan, että yhdistelmät lasketaan yhdeksi esteeksi esteiden vähimmäismäärää laskettaessa.
+EXPLANATION: Yhteiskilpailun säännöt artikla 344 nimenomaisesti todetaan, että yhdistelmät lasketaan yhdeksi esteeksi esteiden vähimmäismäärää laskettaessa.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

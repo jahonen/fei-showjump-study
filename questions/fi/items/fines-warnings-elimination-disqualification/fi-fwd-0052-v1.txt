@@ -11,7 +11,7 @@ OPTION_B: Kielletty väärinkäytöksenä
 OPTION_C: Sallittu vain lämmittelyssä
 OPTION_D: Pisteytysmenetelmä
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 listaa räpäyttämisen kiellettyjen tekojen joukkoon, jotka voivat olla hevosen kaltoinkohtelua.
+EXPLANATION: JR:n artikla 346 listaa räpäyttämisen kiellettyjen tekojen joukkoon, jotka voivat olla hevosen kaltoinkohtelua.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

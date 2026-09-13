@@ -11,7 +11,7 @@ OPTION_B: Liian lyhyt
 OPTION_C: Liian pitkä
 OPTION_D: Sallittu vain sisätiloissa
 CORRECT: B
-EXPLANATION: Juniorisääntöjen Artikla 301 vaatii yhdistelmässä esteiden välisen vähimmäisetäisyyden seitsemään metriin, joten 6,5 m on liian lyhyt.
+EXPLANATION: Juniorisääntöjen artikla 301 vaatii yhdistelmässä esteiden välisen vähimmäisetäisyyden seitsemään metriin, joten 6,5 m on liian lyhyt.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

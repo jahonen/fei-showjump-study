@@ -11,7 +11,7 @@ OPTION_B: Este kaadettu
 OPTION_C: Vika vesihypyssä
 OPTION_D: Hevosen ja/tai urheilijan kaatuminen
 CORRECT: A,B,C
-EXPLANATION: JR:n Artikla 342 toteaa, että taulukon A mukaan ensimmäinen tottelemattomuus, esteen kaatuminen ja vesiesteessä tehty virhe tuottavat kukin neljä rangaistusta. Kaatuminen johtaa kilpailusta poistamiseen.
+EXPLANATION: JR:n artikla 342 toteaa, että taulukon A mukaan ensimmäinen tottelemattomuus, esteen kaatuminen ja vesiesteessä tehty virhe tuottavat kukin neljä rangaistusta. Kaatuminen johtaa kilpailusta poistamiseen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

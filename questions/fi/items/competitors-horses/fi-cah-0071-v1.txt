@@ -11,7 +11,7 @@ OPTION_B: 1. elokuuta
 OPTION_C: 1. maaliskuuta
 OPTION_D: 1. kesäkuuta
 CORRECT: B
-EXPLANATION: JR:n Artikla 333 toteaa, että eteläisen pallonpuoliskon hevosten virallinen syntymäaika on 1. elokuuta.
+EXPLANATION: JR:n artikla 333 toteaa, että eteläisen pallonpuoliskon hevosten virallinen syntymäaika on 1. elokuuta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

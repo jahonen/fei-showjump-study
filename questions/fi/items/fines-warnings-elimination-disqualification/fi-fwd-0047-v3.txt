@@ -11,7 +11,7 @@ OPTION_B: Eliminaatio
 OPTION_C: Varoitus
 OPTION_D: Ei seurauksia
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 tekee takkien ja varusteiden sääntöjen noudattamatta jättämisestä pakollisen hylkäämisen.
+EXPLANATION: JR:n artikla 346 tekee takkien ja varusteiden sääntöjen noudattamatta jättämisestä pakollisen hylkäämisen.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

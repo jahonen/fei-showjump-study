@@ -11,7 +11,7 @@ OPTION_B: Artikla 275.1.3.2
 OPTION_C: Artikla 275.1.3.3
 OPTION_D: Artikla 275.1.3.4
 CORRECT: D
-EXPLANATION: JR:n Artikla 321 kieltää nimenomaisesti hevosen esittämisen, jonka tunnistetiedot on peitetty maalilla tai värjäyksellä.
+EXPLANATION: JR:n artikla 321 kieltää nimenomaisesti hevosen esittämisen, jonka tunnistetiedot on peitetty maalilla tai värjäyksellä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: 1,40 metriä
 OPTION_C: 1,45 metriä
 OPTION_D: 1,65 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 329 sallii lämmittelyesteiden ylittää kilpailun enimmäiskorkeuden 10 cm:llä; 1,35 m + 0,10 m = 1,45 m.
+EXPLANATION: JR:n artikla 329 sallii lämmittelyesteiden ylittää kilpailun enimmäiskorkeuden 10 cm:llä; 1,35 m + 0,10 m = 1,45 m.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

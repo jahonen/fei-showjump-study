@@ -11,7 +11,7 @@ OPTION_B: Varoitus
 OPTION_C: Sakko
 OPTION_D: Ei seurauksia
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 toteaa, että urheilija ei saa koskaan käyttää matkapuhelimia ollessaan lämmittelyalueella kilpailun aikana, ja tämän noudattamatta jättäminen johtaa varoitukseen Artikla 346 mukaisesti.
+EXPLANATION: JR:n artikla 346 toteaa, että urheilija ei saa koskaan käyttää matkapuhelimia ollessaan lämmittelyalueella kilpailun aikana, ja tämän noudattamatta jättäminen johtaa varoitukseen artikla 346 mukaisesti.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

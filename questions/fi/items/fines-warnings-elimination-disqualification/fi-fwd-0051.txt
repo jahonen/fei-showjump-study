@@ -11,7 +11,7 @@ OPTION_B: Kannusten tai raipan liialliseen käyttöön viittaavat merkit missä 
 OPTION_C: Pukeutumiskoodin rikkominen
 OPTION_D: Kieltäytyminen osallistumasta palkintojenjakoon
 CORRECT: B
-EXPLANATION: JR:n Artikla 346 määrää, että kannusten tai raipan liialliseen käyttöön viittaavat merkit missä tahansa hevosessa johtavat pakolliseen hylkäämiseen, ja lisäksi on olemassa artiklojen 265 ja 266 mukaisia seuraamuksia.
+EXPLANATION: JR:n artikla 346 määrää, että kannusten tai raipan liialliseen käyttöön viittaavat merkit missä tahansa hevosessa johtavat pakolliseen hylkäämiseen, ja lisäksi on olemassa artiklojen 265 ja 266 mukaisia seuraamuksia.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

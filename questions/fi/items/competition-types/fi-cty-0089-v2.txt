@@ -11,7 +11,7 @@ OPTION_B: 2,10 metriä
 OPTION_C: 2,20 metriä
 OPTION_D: 2,30 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 354 taulukossa kolmoispuomin enimmäisleveys 5 tähden NC:ssä on 2,20 m.
+EXPLANATION: JR:n artikla 354 taulukossa kolmoispuomin enimmäisleveys 5 tähden NC:ssä on 2,20 m.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

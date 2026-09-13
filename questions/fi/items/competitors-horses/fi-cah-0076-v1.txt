@@ -11,7 +11,7 @@ OPTION_B: 1,35 metriä
 OPTION_C: 1,40 metriä
 OPTION_D: 1,45 metriä
 CORRECT: C
-EXPLANATION: JR:n Artikla 333 asettaa ensimmäisen kierroksen korkeusrajan 1,40 metriin urheilijoille siitä vuodesta lähtien, kun he täyttävät 14 vuotta.
+EXPLANATION: JR:n artikla 333 asettaa ensimmäisen kierroksen korkeusrajan 1,40 metriin urheilijoille siitä vuodesta lähtien, kun he täyttävät 14 vuotta.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

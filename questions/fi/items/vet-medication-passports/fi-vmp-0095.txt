@@ -11,7 +11,7 @@ OPTION_B: Sen identiteetti peitettynä maalilla tai väriaineella
 OPTION_C: Valkoiset merkinnät näkyvissä
 OPTION_D: Urheilijan selässä
 CORRECT: B
-EXPLANATION: JR:n Artikla 321 toteaa, että hevosta ei saa esittää, jonka tunnistetiedot on peitetty millään tavalla maalilla tai värjäyksellä.
+EXPLANATION: JR:n artikla 321 toteaa, että hevosta ei saa esittää, jonka tunnistetiedot on peitetty millään tavalla maalilla tai värjäyksellä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

@@ -11,7 +11,7 @@ OPTION_B: 6–15 metriä
 OPTION_C: 8–20 metriä
 OPTION_D: 10–25 metriä
 CORRECT: B
-EXPLANATION: JR:n Artikla 329 määrää, että lähtö- ja maaliviivat eivät saa olla yli 15 metrin ja alle kuuden metrin etäisyydellä ensimmäisestä ja viimeisestä esteestä.
+EXPLANATION: JR:n artikla 329 määrää, että lähtö- ja maaliviivat eivät saa olla yli 15 metrin ja alle kuuden metrin etäisyydellä ensimmäisestä ja viimeisestä esteestä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

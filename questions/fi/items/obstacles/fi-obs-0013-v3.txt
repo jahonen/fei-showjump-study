@@ -11,7 +11,7 @@ OPTION_B: Veden koskettaminen yhdellä tai useammalla jalalla
 OPTION_C: Harjan siirtäminen
 OPTION_D: Lipun lyöminen alas
 CORRECT: A,B
-EXPLANATION: JR:n Artikla 301 listaa virheiksi ainoastaan listan koskettamisen ja jäljen jättämisen tai veden koskettamisen. Harjan siirtäminen paikaltaan (kohta 236.1.4) ja lipun kaataminen eivät ole vesihyppyvirheitä tässä yhteydessä.
+EXPLANATION: JR:n artikla 301 listaa virheiksi ainoastaan listan koskettamisen ja jäljen jättämisen tai veden koskettamisen. Harjan siirtäminen paikaltaan (kohta 236.1.4) ja lipun kaataminen eivät ole vesihyppyvirheitä tässä yhteydessä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

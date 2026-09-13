@@ -11,7 +11,7 @@ OPTION_B: Artikla 241.2.4
 OPTION_C: Artikla 241.2.5
 OPTION_D: Artikla 241.3.4
 CORRECT: B
-EXPLANATION: Yhteistyösääntöjen Artikla 329 asettaa rajoituksen: kokonaispituus ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60 metrillä.
+EXPLANATION: Yhteistyösääntöjen artikla 329 asettaa rajoituksen: kokonaispituus ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60 metrillä.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

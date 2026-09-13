@@ -11,7 +11,7 @@ OPTION_B: Artikla 228
 OPTION_C: Artikla 229
 OPTION_D: Art 230
 CORRECT: C
-EXPLANATION: JR:n Artikla 354 otsikko on 'Accumulator kilpailu'.
+EXPLANATION: JR:n artikla 354 otsikko on 'Accumulator kilpailu'.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

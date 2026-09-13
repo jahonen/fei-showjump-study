@@ -11,7 +11,7 @@ OPTION_B: Kaksi
 OPTION_C: Kolme
 OPTION_D: Ei rajaa
 CORRECT: A
-EXPLANATION: JR:n Artikla 333 määrää, että CSI- ja CSIO-kilpailuissa jokainen urheilija saa ratsastaa vain yhdellä hevosella Grand Prix -kilpailussa tai, jos Grand Prix -kilpailua ei ole, kilpailussa, jossa on korkein palkintoraha. Derbyssä urheilijat voivat ratsastaa useammalla kuin yhdellä hevosella.
+EXPLANATION: JR:n artikla 333 määrää, että CSI- ja CSIO-kilpailuissa jokainen urheilija saa ratsastaa vain yhdellä hevosella Grand Prix -kilpailussa tai, jos Grand Prix -kilpailua ei ole, kilpailussa, jossa on korkein palkintoraha. Derbyssä urheilijat voivat ratsastaa useammalla kuin yhdellä hevosella.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no

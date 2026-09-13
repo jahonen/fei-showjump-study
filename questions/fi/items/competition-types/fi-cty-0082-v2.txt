@@ -11,7 +11,7 @@ OPTION_B: Taulukko A
 OPTION_C: Ei pöytää (vain aika)
 OPTION_D: Joukkuepäällikkö päättää
 CORRECT: B
-EXPLANATION: JR:n Artikla 354 määrää taulukon A mukaisen uusinnan aikaan, kun rangaistuspotkuissa on tasapisteet.
+EXPLANATION: JR:n artikla 354 määrää taulukon A mukaisen uusinnan aikaan, kun rangaistuspotkuissa on tasapisteet.
 STATUS: draft
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: no
