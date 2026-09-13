@@ -1,0 +1,17 @@
+ID: el-pte-0038-v1
+PARENT_ID: el-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 217.2.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με τον Πίνακα Γ, εάν το μήκος της διαδρομής είναι 500 μέτρα, ποιο είναι το μέγιστο χρονικό όριο;
+OPTION_A: Ένα λεπτό
+OPTION_B: Δύο λεπτά
+OPTION_C: Τρία λεπτά
+OPTION_D: Τέσσερα λεπτά
+CORRECT: B
+EXPLANATION: Το άρθρο 217.2.3.2 των JR ορίζει ότι εάν το μήκος της διαδρομής είναι μικρότερο από 600 μέτρα, το μέγιστο χρονικό όριο σύμφωνα με τον Πίνακα Γ είναι δύο λεπτά.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

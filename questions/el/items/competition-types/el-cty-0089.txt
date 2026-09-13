@@ -1,0 +1,17 @@
+ID: el-cty-0089
+PARENT_ID: el-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: multi-select
+STEM: Για έναν αγώνα Nations Cup 5* σε εξωτερικό χώρο, ποια τεχνικά όρια ισχύουν σύμφωνα με το άρθρο 226.3.1 των JR;
+OPTION_A: Αριθμός εμποδίων: 12
+OPTION_B: Ελάχ./μέγ. ύψος: 1,45/1,60 μ.
+OPTION_C: Ταχύτητα: 400 μ/λεπτό
+OPTION_D: Μέγιστο άνοιγμα: 2,00 m
+CORRECT: A,C,D
+EXPLANATION: Ο πίνακας JRs Art 226.3.1 για 5* NC σε εξωτερικούς χώρους παραθέτει 12 εμπόδια, ελάχιστο/μέγιστο ύψος 1,45/1,60 m, ταχύτητα 400 m/min και μέγιστο άνοιγμα 2,00 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-pte-0041-v2
+PARENT_ID: el-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 217.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 217.3 των JR, ο κανόνας του γύρου προπόνησης ισχύει για τους αγώνες ενάντια στον χρόνο, υπό ποια τραπέζια;
+OPTION_A: Μόνο ο Πίνακας Α
+OPTION_B: Μόνο Πίνακας Γ
+OPTION_C: Πίνακας Α ή Γ
+OPTION_D: Ούτε
+CORRECT: C
+EXPLANATION: Το Άρθρο 217.3 των JRs ισχύει για γύρους προπόνησης σε Αγώνες Ενάντια στον Χρόνο σύμφωνα με τον Πίνακα Α ή Γ.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

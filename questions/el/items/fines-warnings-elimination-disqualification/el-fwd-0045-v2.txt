@@ -1,0 +1,17 @@
+ID: el-fwd-0045-v2
+PARENT_ID: el-fwd-0045
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Το άρθρο 263.4.4 των JRs παραπέμπει σε ποιο άρθρο ορίζεται η Αντίσταση;
+OPTION_A: Άρθρο 246.4.1
+OPTION_B: Άρθρο 246.4.2
+OPTION_C: Άρθρο 246.4.3
+OPTION_D: Άρθρο 246.5
+CORRECT: C
+EXPLANATION: Το Άρθρο 263.4.4 των JRs αναφέρεται στο Άρθρο 246.4.3, το οποίο ορίζει ότι η Αντίσταση για 45 συνεχόμενα δευτερόλεπτα οδηγεί σε Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

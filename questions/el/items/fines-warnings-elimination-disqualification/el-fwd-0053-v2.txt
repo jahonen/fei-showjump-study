@@ -1,0 +1,17 @@
+ID: el-fwd-0053-v2
+PARENT_ID: el-fwd-0053
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 266
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 63
+TYPE: single-select
+STEM: Ποιο άρθρο απαιτεί τον έλεγχο μπότας και επιδέσμου για τα άλογα που συμμετέχουν στο Grand Prix, τον αγώνα με το υψηλότερο χρηματικό έπαθλο, στο Nations Cup/Longines League of Nations™ και στους αγώνες Puissance και Six Bar;
+OPTION_A: Άρθρο 264
+OPTION_B: Άρθρο 265
+OPTION_C: Άρθρο 266
+OPTION_D: Άρθρο 275
+CORRECT: C
+EXPLANATION: Το Άρθρο 266 των JRs έχει τίτλο «Έλεγχος Μπότας και Επιδέσμου» και ορίζει ότι είναι υποχρεωτικός ο έλεγχος μπότας και επιδέσμου σε όλα τα Ίππα που συμμετέχουν στο Grand Prix, τον Αγώνα με το υψηλότερο χρηματικό έπαθλο σε κάθε Αγώνα (αν όχι στο Grand Prix), στο Nations Cup/Longines League of Nations™ και στους Αγώνες Puissance και Six Bar.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

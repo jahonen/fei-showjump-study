@@ -1,0 +1,17 @@
+ID: el-fdc-0022-v2
+PARENT_ID: el-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Ένα άλογο σταματά σε ένα εμπόδιο, κάνει ένα βήμα πίσω και μετά πηδάει. Σύμφωνα με το άρθρο 246.2.2 των JR, αυτό ισχύει:
+OPTION_A: Δεν είναι άρνηση
+OPTION_B: Μια Άρνηση
+OPTION_C: Ένα Υπεκφυγή
+OPTION_D: Μια πτώση
+CORRECT: B
+EXPLANATION: Το Άρθρο 246.2.2 των JR ορίζει ότι εάν ο Ίππος κάνει ένα βήμα πίσω, έστω και ένα βήμα, η στάση μετράει ως Άρνηση.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

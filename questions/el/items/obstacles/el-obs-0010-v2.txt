@@ -1,0 +1,17 @@
+ID: el-obs-0010-v2
+PARENT_ID: el-obs-0010
+DOMAIN: obstacles
+ARTICLE: 233.2.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Η διακριτική ευχέρεια υπέρβασης του προγραμματισμένου ύψους έως και 3 cm βάσει του άρθρου 233.2.2 των JRs ισχύει μόνο όταν το προγραμματισμένο μέγιστο είναι τουλάχιστον:
+OPTION_A: 1,30 μ.
+OPTION_B: 1,40 μ.
+OPTION_C: 1,45 μ.
+OPTION_D: 1,60 μ.
+CORRECT: C
+EXPLANATION: Το άρθρο 233.2.2 των JRs εφαρμόζει την ανοχή των 3 cm μόνο σε Αγώνες για τους οποίους το Πρόγραμμα ορίζει μέγιστο ύψος 1,45 m ή περισσότερο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

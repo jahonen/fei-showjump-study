@@ -1,0 +1,17 @@
+ID: el-fdc-0024-v1
+PARENT_ID: el-fdc-0024
+DOMAIN: faults-during-course
+ARTICLE: 246.4.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Ένας Ίππος αντιστέκεται για 30 δευτερόλεπτα και στη συνέχεια συνεχίζει. Σύμφωνα με το άρθρο 246.4.3 των JR, αυτό ισχύει:
+OPTION_A: Εξάλειψη
+OPTION_B: Τιμωρήθηκε ως Άρνηση
+OPTION_C: Αγνοήθηκε
+OPTION_D: Μια προειδοποίηση
+CORRECT: B
+EXPLANATION: Το άρθρο 246.4.3 των JR ορίζει ότι μια Αντίσταση μικρότερης διάρκειας από 45 συνεχόμενα δευτερόλεπτα τιμωρείται ως Άρνηση.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

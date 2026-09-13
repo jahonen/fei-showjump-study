@@ -1,0 +1,17 @@
+ID: el-cah-0072-v2
+PARENT_ID: el-cah-0072
+DOMAIN: competitors-horses
+ARTICLE: 202.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 10
+TYPE: single-select
+STEM: Ποια είναι η ελάχιστη ηλικία για έναν Ίππο σε ένα Ηπειρωτικό Πρωτάθλημα Ενηλίκων σύμφωνα με το Άρθρο 202.2 των JRs;
+OPTION_A: Έξι χρόνια
+OPTION_B: Επτά χρόνια
+OPTION_C: Οκτώ χρόνια
+OPTION_D: Εννέα χρόνια
+CORRECT: C
+EXPLANATION: Το Άρθρο 202.2 των JR ορίζει την ελάχιστη ηλικία ίππων για τα Ηπειρωτικά Πρωταθλήματα Ενηλίκων στα οκτώ έτη.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-cah-0074-v2
+PARENT_ID: el-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Εάν δεν υπάρχει Γκραν Πρι, σύμφωνα με το άρθρο 203.2.1 των JRs, σε ποιον αγώνα ισχύει ο κανόνας ενός Ίππου ανά Αθλητή;
+OPTION_A: Ο πρώτος διαγωνισμός
+OPTION_B: Ο Διαγωνισμός με το υψηλότερο χρηματικό έπαθλο
+OPTION_C: Το Κύπελλο Εθνών
+OPTION_D: Ο Συσσωρευτής
+CORRECT: B
+EXPLANATION: Το άρθρο 203.2.1 των JRs εφαρμόζει τον κανόνα του ενός Ίππου στο Grand Prix ή, εάν δεν υπάρχει Grand Prix, στον Αγώνα με το υψηλότερο χρηματικό έπαθλο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

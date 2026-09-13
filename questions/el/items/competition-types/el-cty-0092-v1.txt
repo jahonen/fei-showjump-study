@@ -1,0 +1,17 @@
+ID: el-cty-0092-v1
+PARENT_ID: el-cty-0092
+DOMAIN: competition-types
+ARTICLE: 229.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Ο Τζόκερ μπορεί να χρησιμοποιηθεί μόνο σε ποιο είδος διαγωνισμού;
+OPTION_A: Καπέλο ημίψηλο
+OPTION_B: Διαγωνισμός παρολί
+OPTION_C: Δύναμη και Δεξιότητα
+OPTION_D: Κύπελλο Εθνών
+CORRECT: B
+EXPLANATION: Το Άρθρο 240.3 των JR περιορίζει τον Τζόκερ σε αγώνες παρολί.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

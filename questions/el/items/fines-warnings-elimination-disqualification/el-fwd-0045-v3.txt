@@ -1,0 +1,17 @@
+ID: el-fwd-0045-v3
+PARENT_ID: el-fwd-0045
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Ένας Ίππος αντιστέκεται για 42 δευτερόλεπτα και στη συνέχεια συνεχίζει. Σύμφωνα με τους σχετικούς κανόνες:
+OPTION_A: Εξάλειψη
+OPTION_B: Τιμωρήθηκε ως Άρνηση
+OPTION_C: Χωρίς Ποινή
+OPTION_D: Προειδοποίηση
+CORRECT: B
+EXPLANATION: Το άρθρο 246.4.3 των JR ορίζει ότι μια Αντίσταση μικρότερης διάρκειας από 45 συνεχόμενα δευτερόλεπτα τιμωρείται ως Άρνηση.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

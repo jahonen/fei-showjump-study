@@ -1,0 +1,17 @@
+ID: el-fdc-0021-v2
+PARENT_ID: el-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 246.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Ποιο από αυτά ΔΕΝ αναφέρεται ως ανυπακοή στο άρθρο 246.1 των JRs;
+OPTION_A: Μια Άρνηση
+OPTION_B: Ένα Υπεκφυγή
+OPTION_C: Μια πτώση
+OPTION_D: Μια Αντίσταση
+CORRECT: C
+EXPLANATION: Το Άρθρο 246.1 των JRs αναφέρει την Άρνηση, την Τρέξιμο, την Αντίσταση και τον Κύκλο ως Ανυπακοή. Μια Πτώση αναφέρεται ξεχωριστά στο Άρθρο 248 των JRs και δεν αποτελεί Ανυπακοή.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

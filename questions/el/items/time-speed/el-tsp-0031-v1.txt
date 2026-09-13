@@ -1,0 +1,17 @@
+ID: el-tsp-0031-v1
+PARENT_ID: el-tsp-0031
+DOMAIN: time-speed
+ARTICLE: 253
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: Αν ο χρόνος που επιτρέπεται για έναν γύρο είναι 72 δευτερόλεπτα, ποιο είναι το μέγιστο χρονικό όριο;
+OPTION_A: 108 δευτερόλεπτα
+OPTION_B: 120 δευτερόλεπτα
+OPTION_C: 144 δευτερόλεπτα
+OPTION_D: 180 δευτερόλεπτα
+CORRECT: C
+EXPLANATION: Το άρθρο 253 των JR ορίζει ότι το μέγιστο χρονικό όριο είναι το διπλάσιο του επιτρεπόμενου χρόνου. 72 δευτερόλεπτα × 2 = 144 δευτερόλεπτα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

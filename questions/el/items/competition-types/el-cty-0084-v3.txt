@@ -1,0 +1,17 @@
+ID: el-cty-0084-v3
+PARENT_ID: el-cty-0084
+DOMAIN: competition-types
+ARTICLE: 221.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Ποιο άρθρο απαιτεί από το Πρόγραμμα να καθορίζει ποιοι Αθλητές συνεχίζουν στον δεύτερο γύρο ενός Διπλού Αγώνα;
+OPTION_A: Άρθρο 220.2
+OPTION_B: Άρθρο 221.2
+OPTION_C: Άρθρο 222.1
+OPTION_D: Άρθρο 223.1
+CORRECT: B
+EXPLANATION: Το Άρθρο 221.2 των JRs ορίζει ποιοι Αθλητές συνεχίζουν στον δεύτερο γύρο σε έναν Αγώνα Δύο Γύρων.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

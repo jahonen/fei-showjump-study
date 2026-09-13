@@ -1,0 +1,17 @@
+ID: el-fdc-0026-v1
+PARENT_ID: el-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.2.2.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 248.2.2.2 των JR, μια πτώση κατά τη διάρκεια ενός γύρου τιμωρείται με:
+OPTION_A: 4 ποινές
+OPTION_B: Εξάλειψη
+OPTION_C: Μια κίτρινη κάρτα
+OPTION_D: Ένα πρόστιμο
+CORRECT: B
+EXPLANATION: Το άρθρο 248.2.2.2 των JRs ορίζει ότι μια πτώση στην Αρένα του Αγώνα κατά τη διάρκεια του γύρου έχει ως αποτέλεσμα τον Αποκλεισμό του Συνδυασμού Αθλητή/Ίππου.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

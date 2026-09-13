@@ -1,0 +1,17 @@
+ID: el-fdc-0019-v2
+PARENT_ID: el-fdc-0019
+DOMAIN: faults-during-course
+ARTICLE: 244.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: Ποιο Σφάλμα που αναφέρεται στο Άρθρο 244.1 των JRs αφορά τη λήψη βοήθειας εκτός του γηπέδου;
+OPTION_A: Απόκλιση από το μάθημα
+OPTION_B: Μη εξουσιοδοτημένη βοήθεια
+OPTION_C: Μια πτώση
+OPTION_D: Μια ανυπακοή
+CORRECT: B
+EXPLANATION: Το άρθρο 244.1.6 των JRs αναφέρει την μη εξουσιοδοτημένη βοήθεια ως Σφάλμα που επιφέρει Ποινές.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

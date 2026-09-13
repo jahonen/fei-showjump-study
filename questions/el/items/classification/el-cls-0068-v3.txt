@@ -1,0 +1,17 @@
+ID: el-cls-0068-v3
+PARENT_ID: el-cls-0068
+DOMAIN: classification
+ARTICLE: 267.7
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 64
+TYPE: single-select
+STEM: Ένας Αθλητής κερδίζει έναν προκριματικό γύρο αλλά επιλέγει να μην ξεκινήσει τον τελικό. Το έπαθλό του από τον προκριματικό:
+OPTION_A: Επιστρέφεται
+OPTION_B: Διατηρείται
+OPTION_C: Δωρίζεται
+OPTION_D: Είναι άκυρο
+CORRECT: B
+EXPLANATION: Το άρθρο 267.7 των JR ορίζει ότι οι νικητές διατηρούν τα βραβεία που κέρδισαν σε προκριματικούς αγώνες, ακόμη και αν απορρίψουν τον τελικό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

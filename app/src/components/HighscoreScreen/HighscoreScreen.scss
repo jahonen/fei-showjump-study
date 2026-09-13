@@ -36,6 +36,12 @@
   font-variant-numeric: tabular-nums;
 }
 
+.highscore-header-actions {
+  display: flex;
+  align-items: center;
+  gap: $spacing-md;
+}
+
 .highscore-card {
   flex: 1;
   display: flex;

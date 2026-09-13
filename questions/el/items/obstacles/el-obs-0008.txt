@@ -1,0 +1,17 @@
+ID: el-obs-0008
+PARENT_ID: el-obs-0008
+DOMAIN: obstacles
+ARTICLE: 232.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 26
+TYPE: single-select
+STEM: Ποιο είναι το επιτρεπόμενο εύρος βάθους για τα στηρίγματα (κύπελλα) που συγκρατούν στύλους και άλλα μέρη εμποδίων;
+OPTION_A: Ελάχιστο 12 mm και μέγιστο 15 mm
+OPTION_B: Ελάχιστο 15 mm και μέγιστο 20 mm
+OPTION_C: Ελάχιστο 18 mm και μέγιστο 20 mm
+OPTION_D: Ελάχιστο 20 mm και μέγιστο 25 mm
+CORRECT: C
+EXPLANATION: Το άρθρο 232.3 των JRs ορίζει ότι το στήριγμα (κύπελλο) πρέπει να έχει βάθος τουλάχιστον 18 mm και μέγιστο 20 mm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

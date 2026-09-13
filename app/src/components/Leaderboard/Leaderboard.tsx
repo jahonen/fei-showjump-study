@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { getLeaderboard } from '@/services/firestore';
 import { formatLanguageLabel } from '@/utils/questionSelection';
 import type { Language, LeaderboardEntry } from '@/types';
@@ -26,7 +27,10 @@ export default function Leaderboard() {
 
   return (
     <main className="leaderboard" role="main">
-      <h1>Leaderboard</h1>
+      <header className="leaderboard-header">
+        <h1>Leaderboard</h1>
+        <ExitButton />
+      </header>
 
       <section className="language-bar" aria-label="Leaderboard language">
         {languages.map((l) => (

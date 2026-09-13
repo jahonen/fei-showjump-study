@@ -1,0 +1,17 @@
+ID: el-obs-0008-v2
+PARENT_ID: el-obs-0008
+DOMAIN: obstacles
+ARTICLE: 232.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 26
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 232.3 των JR, ποιο είναι το μέγιστο επιτρεπόμενο βάθος ενός κυπέλλου στήριξης στύλου εμποδίου;
+OPTION_A: 18 χιλιοστά
+OPTION_B: 19 χιλιοστά
+OPTION_C: 20 χιλιοστά
+OPTION_D: 22 χιλιοστά
+CORRECT: C
+EXPLANATION: Το JRs Art 232.3 περιορίζει το βάθος του κυπέλλου στήριξης στα 20 mm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

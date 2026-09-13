@@ -8,6 +8,17 @@
   padding: $spacing-md;
 }
 
+.leaderboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: $spacing-md;
+
+  h1 {
+    margin: 0;
+  }
+}
+
 .language-bar {
   display: flex;
   gap: $spacing-sm;

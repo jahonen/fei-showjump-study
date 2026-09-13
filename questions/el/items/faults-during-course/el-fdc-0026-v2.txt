@@ -1,0 +1,17 @@
+ID: el-fdc-0026-v2
+PARENT_ID: el-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: Ένας Ίππος πέφτει αφού περάσει τη γραμμή τερματισμού. Σύμφωνα με το άρθρο 248.2 των JR, αυτό γενικά:
+OPTION_A: Εξακολουθεί να συνεπάγεται Αποβολή
+OPTION_B: Δεν συνεπάγεται Αποβολή
+OPTION_C: Επισύρει 4 ποινές
+OPTION_D: Αποτελέσματα σε μια προειδοποίηση
+CORRECT: B
+EXPLANATION: Το άρθρο 248.2.2.3 των JR ορίζει ότι μια Πτώση μετά τη διέλευση της γραμμής τερματισμού δεν συνεπάγεται Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

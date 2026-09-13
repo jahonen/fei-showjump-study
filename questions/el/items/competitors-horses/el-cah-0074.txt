@@ -1,0 +1,17 @@
+ID: el-cah-0074
+PARENT_ID: el-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Σε ένα CSI ή CSIO, πόσα Ίππα μπορεί να ιππεύσει κάθε Αθλητής στο Grand Prix ή, εάν δεν υπάρχει Grand Prix, στον Αγώνα με το υψηλότερο χρηματικό έπαθλο;
+OPTION_A: Ενας
+OPTION_B: Δυο
+OPTION_C: Τρία
+OPTION_D: Χωρίς όριο
+CORRECT: A
+EXPLANATION: Το Άρθρο 203.2.1 των JR ορίζει ότι στα CSI και CSIO, κάθε Αθλητής μπορεί να ιππεύσει μόνο ένα Ίππο στο Grand Prix ή, εάν δεν υπάρχει Grand Prix, στον Αγώνα με το υψηλότερο χρηματικό έπαθλο, με την εξαίρεση ότι οι Αθλητές μπορούν να ιππεύσουν περισσότερα από ένα Ίππο σε ένα Ντέρμπι.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

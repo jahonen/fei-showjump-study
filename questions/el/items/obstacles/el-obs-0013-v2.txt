@@ -1,0 +1,17 @@
+ID: el-obs-0013-v2
+PARENT_ID: el-obs-0013
+DOMAIN: obstacles
+ARTICLE: 236.1.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 236.1.3 των JR, ποιο από τα παρακάτω ΔΕΝ αποτελεί σφάλμα στο άλμα στο νερό;
+OPTION_A: Το άλογο αγγίζει το νερό με το πίσω πόδι
+OPTION_B: Η άρθρωση fetlock αφήνει ένα αποτύπωμα στο πηχάκι
+OPTION_C: Το παπούτσι αφήνει ένα αποτύπωμα στο πηχάκι
+OPTION_D: Ένα πόδι αγγίζει το νερό
+CORRECT: B
+EXPLANATION: Το άρθρο 236.1.3.1 του JR ορίζει ρητά ότι το αποτύπωμα της άρθρωσης fetlock ή της μπότας δεν συνιστά Σφάλμα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

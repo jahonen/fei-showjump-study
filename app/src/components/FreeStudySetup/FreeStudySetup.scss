@@ -8,6 +8,17 @@
   width: 100%;
 }
 
+.setup-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: $spacing-sm;
+
+  h1 {
+    margin: 0;
+  }
+}
+
 .setup-subtitle {
   color: $color-text-muted;
   margin-bottom: $spacing-lg;

@@ -1,0 +1,17 @@
+ID: el-obs-0014-v2
+PARENT_ID: el-obs-0014
+DOMAIN: obstacles
+ARTICLE: 236.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Τι είδους εμπόδιο θεωρείται μια κατακόρυφος που τοποθετείται πάνω από ένα άλμα στο νερό;
+OPTION_A: Σαν άλμα στο νερό
+OPTION_B: Ως κατακόρυφο εμπόδιο
+OPTION_C: Ως Λίβερπουλ
+OPTION_D: Ως εμπόδιο εξάπλωσης
+CORRECT: B
+EXPLANATION: Το άρθρο 236.2 των JR ορίζει ρητά ότι το κατακόρυφο εμπόδιο που τοποθετείται πάνω από το νερό κρίνεται ως κατακόρυφο εμπόδιο και όχι ως Άλμα σε Νερό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

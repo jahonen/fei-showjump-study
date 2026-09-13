@@ -1,0 +1,17 @@
+ID: el-fwd-0052-v2
+PARENT_ID: el-fwd-0052
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 265.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 62
+TYPE: single-select
+STEM: Ποιο άρθρο αναφέρεται στην κακοποίηση αλόγων στους Κανόνες Άλματος;
+OPTION_A: Άρθρο 263
+OPTION_B: Άρθρο 264
+OPTION_C: Άρθρο 265
+OPTION_D: Άρθρο 266
+CORRECT: C
+EXPLANATION: Το Άρθρο 265 του JRs έχει τίτλο «Κακοποίηση Ιπποειδών» και ορίζει απαγορευμένες συμπεριφορές.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

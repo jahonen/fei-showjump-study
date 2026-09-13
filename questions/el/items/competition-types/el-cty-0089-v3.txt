@@ -1,0 +1,17 @@
+ID: el-cty-0089-v3
+PARENT_ID: el-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Για όλα τα επίπεδα αστεριών του Κυπέλλου Εθνών που αναφέρονται στο άρθρο 226.3.1 των JR, ο αριθμός των εμποδίων είναι:
+OPTION_A: 10
+OPTION_B: 11
+OPTION_C: 12
+OPTION_D: Εξαρτάται από το επίπεδο αστεριών
+CORRECT: C
+EXPLANATION: Ο πίνακας JRs Art 226.3.1 δείχνει 12 εμπόδια για τους αγώνες Nations Cup 5*, 4*, 3*, 2* και 1*.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

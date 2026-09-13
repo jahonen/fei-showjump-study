@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { getPersonalBest, submitLeaderboardEntry } from '@/services/firestore';
 import type { Language } from '@/types';
 import './HighscoreResults.scss';
@@ -48,7 +49,10 @@ export default function HighscoreResults() {
 
   return (
     <main className="highscore-results" role="main">
-      <h1>Highscore Results</h1>
+      <header className="results-header">
+        <h1>Highscore Results</h1>
+        <ExitButton />
+      </header>
 
       <section className="result-summary" aria-label="Score summary">
         <p className="final-score">{score}</p>

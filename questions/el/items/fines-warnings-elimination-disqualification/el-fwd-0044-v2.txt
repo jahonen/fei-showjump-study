@@ -1,0 +1,17 @@
+ID: el-fwd-0044-v2
+PARENT_ID: el-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.25
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Ένας Αθλητής έχει μια πρώτη Άρνηση και στη συνέχεια έναν δεύτερο Υπεκφυγή στον ίδιο γύρο. Σύμφωνα με το άρθρο 263.4.25 των JR, η συνέπεια είναι:
+OPTION_A: Χωρίς Ποινή
+OPTION_B: 4 ποινές
+OPTION_C: Εξάλειψη
+OPTION_D: Προειδοποίηση
+CORRECT: C
+EXPLANATION: Το άρθρο 263.4.25 των JR ορίζει ότι μια δεύτερη Ανυπακοή κατά τη διάρκεια ενός γύρου οδηγεί σε Αποκλεισμό. Η Άρνηση και ο Αποκλεισμός είναι και οι δύο Ανυπακοές.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

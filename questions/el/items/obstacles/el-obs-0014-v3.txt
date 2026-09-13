@@ -1,0 +1,17 @@
+ID: el-obs-0014-v3
+PARENT_ID: el-obs-0014
+DOMAIN: obstacles
+ARTICLE: 236.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Ποιο είναι το βάθος του κυπέλλου για τον άνω στύλο μιας κατακόρυφης επιφάνειας τοποθετημένης πάνω από ένα Υδάτινο Άλμα σύμφωνα με το JRs Art 236.2;
+OPTION_A: 15 χιλιοστά
+OPTION_B: 18 χιλιοστά
+OPTION_C: 20 χιλιοστά
+OPTION_D: 22 χιλιοστά
+CORRECT: B
+EXPLANATION: Το άρθρο 236.2 του JR ορίζει ότι το βάθος των κυπέλλων ασφαλείας για τον άνω στύλο της κατακόρυφης δοκού είναι 18 mm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-vmp-0098-v2
+PARENT_ID: el-vmp-0098
+DOMAIN: vet-medication-passports
+ARTICLE: 275.3.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 73
+TYPE: single-select
+STEM: Ποιος εκχωρεί τον αριθμό αναγνώρισης που πρέπει να φέρει ένα Ίππος κάθε φορά που φεύγει από τους στάβλους σύμφωνα με το Άρθρο 275.3.2 των JRs;
+OPTION_A: Ο Αθλητής
+OPTION_B: Ο Σεφ της Ομάδας
+OPTION_C: Η Ο.Κ.
+OPTION_D: Η FEI
+CORRECT: C
+EXPLANATION: Το άρθρο 275.3.2 των JRs ορίζει ότι σε κάθε Ίππο αποδίδεται ένας αριθμός αναγνώρισης από την Οργανωτική Επιτροπή (OC).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

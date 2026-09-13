@@ -1,0 +1,17 @@
+ID: el-vmp-0096-v1
+PARENT_ID: el-vmp-0096
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.4.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 73
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 275.1.4.2 των JR, στους Ατομικούς Τελικούς, πόσα άλογα που έχουν καταταχθεί λαμβάνονται κανονικά ως δείγματα;
+OPTION_A: Ενας
+OPTION_B: Δυο
+OPTION_C: Τρία
+OPTION_D: Πέντε
+CORRECT: C
+EXPLANATION: Το άρθρο 275.1.4.2(α) των JR ορίζει ότι σε όλους τους Τελικούς Αγώνες Ατόμων, οι τρεις πρώτοι ίπποι που κατατάσσονται συνήθως δειγματίζονται.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

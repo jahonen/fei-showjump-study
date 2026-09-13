@@ -1,0 +1,17 @@
+ID: el-pte-0039-v2
+PARENT_ID: el-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 217.1.5
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Το άρθρο 217.1.5 των JRs διευκρινίζει ότι οι κυρώσεις για ανυπακοή συσσωρεύονται:
+OPTION_A: Ανά εμπόδιο
+OPTION_B: Ανά γύρο
+OPTION_C: Ανά Διαγωνισμό
+OPTION_D: Μόνο σε αγώνες διαβάθμισης
+CORRECT: B
+EXPLANATION: Το άρθρο 217.1.5 των JR ορίζει ότι οι ποινές για ανυπακοή συσσωρεύονται σε όλο τον γύρο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-fwd-0054-v3
+PARENT_ID: el-fwd-0054
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 262.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 56
+TYPE: single-select
+STEM: Ένα μπουφάν μέλους ομάδας δεν έχει το ίδιο χρώμα με το υπόλοιπο της ομάδας. Σύμφωνα με το άρθρο 207.2.4.3 των JRs, το πρόστιμο είναι:
+OPTION_A: 500 ελβετικά φράγκα
+OPTION_B: 1.000 ελβετικά φράγκα
+OPTION_C: 2.000 ελβετικά φράγκα
+OPTION_D: Κανένα πρόστιμο
+CORRECT: B
+EXPLANATION: Το άρθρο 207.2.4.3 των JR ορίζει ότι οι αθλητές που δεν συμμορφώνονται με τον κανόνα χρώματος της φανέλας της ομάδας θα τιμωρούνται με πρόστιμο 1.000 ελβετικών φράγκων από την Αγωνόδικο Επιτροπή.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

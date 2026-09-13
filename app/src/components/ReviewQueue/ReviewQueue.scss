@@ -8,6 +8,17 @@
   padding: $spacing-md;
 }
 
+.review-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: $spacing-md;
+
+  h1 {
+    margin: 0;
+  }
+}
+
 .empty-queue {
   background-color: $color-surface;
   border: 1px solid $color-border;

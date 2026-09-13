@@ -10,6 +10,7 @@ export default function Dashboard() {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [profile, setProfile] = useState<UserProfile | null>(null);
+  const [selectedLang, setSelectedLang] = useState<Language>('en');
   const [reviewCount, setReviewCount] = useState<number>(0);
   const [highscore, setHighscore] = useState<number | null>(null);
 
@@ -29,6 +30,7 @@ export default function Dashboard() {
 
       if (cancelled) return;
       setProfile(profile);
+      setSelectedLang(profile.preferredLanguage);
       setReviewCount(flags.length);
       setHighscore(best?.score ?? null);
     }
@@ -38,6 +40,7 @@ export default function Dashboard() {
   }, [user]);
 
   const changeLanguage = (lang: Language) => {
+    setSelectedLang(lang);
     if (profile) {
       setProfile({ ...profile, preferredLanguage: lang });
     }
@@ -48,7 +51,7 @@ export default function Dashboard() {
     navigate('/');
   };
 
-  const availableLanguages: Language[] = ['en']; // extend when el/fi banks exist
+  const availableLanguages: Language[] = ['en', 'el']; // extend when fi bank exists
 
   return (
     <main className="dashboard" role="main">
@@ -79,10 +82,9 @@ export default function Dashboard() {
           <button
             key={lang}
             type="button"
-            className={profile?.preferredLanguage === lang ? 'active' : ''}
+            className={selectedLang === lang ? 'active' : ''}
             onClick={() => changeLanguage(lang)}
-            aria-pressed={profile?.preferredLanguage === lang}
-            disabled={isGuest}
+            aria-pressed={selectedLang === lang}
           >
             {formatLanguageLabel(lang)}
           </button>
@@ -93,12 +95,12 @@ export default function Dashboard() {
         <ModeCard
           title="Free Study"
           description="Untimed practice by domain with instant feedback."
-          onClick={() => navigate('/free-study')}
+          onClick={() => navigate('/free-study', { state: { lang: selectedLang } })}
         />
         <ModeCard
           title="Timed Trial"
           description="50 questions, 60 minutes, results at the end."
-          onClick={() => navigate('/study', { state: { mode: 'timed-trial' } })}
+          onClick={() => navigate('/study', { state: { mode: 'timed-trial', lang: selectedLang } })}
         />
         <ModeCard
           title="Review"

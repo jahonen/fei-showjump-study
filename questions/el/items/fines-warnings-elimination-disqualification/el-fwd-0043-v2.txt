@@ -1,0 +1,17 @@
+ID: el-fwd-0043-v2
+PARENT_ID: el-fwd-0043
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Ποιο άρθρο ορίζει τη γενική έννοια του Αποκλεισμού στους Κανόνες Άλματος;
+OPTION_A: Άρθρο 259
+OPTION_B: Άρθρο 260
+OPTION_C: Άρθρο 263.1
+OPTION_D: Άρθρο 264.1
+CORRECT: C
+EXPLANATION: Το Άρθρο 263.1 των JR ορίζει τον Αποκλεισμό ως την αδυναμία του Αθλητή με τον εν λόγω Ίππο να συνεχίσει στον εν λόγω Αγώνα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

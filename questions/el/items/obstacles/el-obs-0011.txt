@@ -1,0 +1,17 @@
+ID: el-obs-0011
+PARENT_ID: el-obs-0011
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Για ένα εμπόδιο εξάπλωσης που απαιτεί μόνο μία προσπάθεια, ποια είναι η μέγιστη επιτρεπόμενη εξάπλωση;
+OPTION_A: 1,60 μ.
+OPTION_B: 1,80 μ.
+OPTION_C: 2,00 μ.
+OPTION_D: 2,20 μ.
+CORRECT: C
+EXPLANATION: Το άρθρο 233.1 των JR ορίζει ότι τα εμπόδια ανοίγματος δεν πρέπει να υπερβαίνουν τα 2,00 m σε άνοιγμα, εκτός από τις τριπλές ράβδους, οι οποίες μπορούν να έχουν μέγιστο άνοιγμα 2,20 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

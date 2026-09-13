@@ -1,0 +1,17 @@
+ID: el-cls-0067-v1
+PARENT_ID: el-cls-0067
+DOMAIN: classification
+ARTICLE: 267.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 64
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 267.4 των JRs, ποιος μπορεί να συμφωνήσει να επιτρέψει χαλιά σε τελετή απονομής βραβείων υπό ειδικές περιστάσεις;
+OPTION_A: Η Ο.Κ.
+OPTION_B: Το Δικαστήριο του Έργου
+OPTION_C: Ο Σεφ της Ομάδας
+OPTION_D: Ο χορηγός
+CORRECT: B
+EXPLANATION: Το άρθρο 267.4 των JR ορίζει ότι η Αγωνόδικος Επιτροπή μπορεί να συμφωνήσει διαφορετικά σε ειδικές περιπτώσεις.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

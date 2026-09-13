@@ -1,0 +1,17 @@
+ID: el-vmp-0095-v3
+PARENT_ID: el-vmp-0095
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 73
+TYPE: single-select
+STEM: Η απαγόρευση απόκρυψης ταυτότητας κατά την επιθεώρηση αλόγων στοχεύει να διασφαλίσει:
+OPTION_A: Σωστή αναγνώριση
+OPTION_B: Ομοιόμορφο χρώμα
+OPTION_C: Προβολή χορηγού
+OPTION_D: Ρύθμιση θερμοκρασίας
+CORRECT: A
+EXPLANATION: Το άρθρο 275.1.3.4 των JRs αποτελεί μέρος του ελέγχου διαβατηρίων/ταυτότητας για να διασφαλιστεί ότι ο Ίππος που παρουσιάζεται ταιριάζει με την επίσημη ταυτότητά του.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

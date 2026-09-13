@@ -1,0 +1,17 @@
+ID: el-pte-0036-v2
+PARENT_ID: el-pte-0036
+DOMAIN: penalty-tables
+ARTICLE: 217.1.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Ποιες είναι οι συνέπειες μιας πτώσης Ίππου ή/και Αθλητή σύμφωνα με τον Πίνακα Α;
+OPTION_A: 4 ποινές
+OPTION_B: 6 ποινές
+OPTION_C: Εξάλειψη
+OPTION_D: Μια προειδοποίηση
+CORRECT: C
+EXPLANATION: Το άρθρο 217.1.1 των JR αναφέρει ότι η πτώση Ίππου ή/και Αθλητή έχει ως αποτέλεσμα τον Αποκλεισμό σύμφωνα με τον Πίνακα Α.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

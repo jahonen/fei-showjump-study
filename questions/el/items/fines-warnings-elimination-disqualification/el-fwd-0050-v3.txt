@@ -1,0 +1,17 @@
+ID: el-fwd-0050-v3
+PARENT_ID: el-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 58
+TYPE: single-select
+STEM: Ο αποκλεισμός βάσει του άρθρου 264.1 των JRs μπορεί να ισχύει για:
+OPTION_A: Μόνο ο Αθλητής
+OPTION_B: Μόνο το άλογο
+OPTION_C: Ο Αθλητής ή/και το Ίππος
+OPTION_D: Μόνο ο Σεφ ντ'Εκιπ
+CORRECT: C
+EXPLANATION: Το Άρθρο 264.1 των JRs ορίζει ότι Αποκλεισμός σημαίνει ότι ο Αθλητής ή/και ο Ίππος αποκλείεται/αποκλείονται από τον εν λόγω Αγώνα ή από ολόκληρο το Αγώνισμα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

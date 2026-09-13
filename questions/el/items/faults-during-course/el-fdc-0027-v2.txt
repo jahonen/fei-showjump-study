@@ -1,0 +1,17 @@
+ID: el-fdc-0027-v2
+PARENT_ID: el-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 249.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 249.1 των JR, η συνήθης συνέπεια της μη εξουσιοδοτημένης βοήθειας κατά τη διάρκεια ενός γύρου είναι:
+OPTION_A: 4 ποινές
+OPTION_B: Εξάλειψη
+OPTION_C: Ένα πρόστιμο
+OPTION_D: Προειδοποίηση
+CORRECT: B
+EXPLANATION: Το άρθρο 249.1 των JR ορίζει ότι η μη εξουσιοδοτημένη βοήθεια κατά τη διάρκεια ενός γύρου θα έχει ως αποτέλεσμα τον Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

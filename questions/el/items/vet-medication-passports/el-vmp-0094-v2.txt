@@ -1,0 +1,17 @@
+ID: el-vmp-0094-v2
+PARENT_ID: el-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 73
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 275.1.3.3 των JR, ένας Ίππος που παρουσιάζεται για επιθεώρηση με σκοινί αντί για χαλινάρι ή διπλό χαλινάρι θα είναι:
+OPTION_A: Επιτρέπεται
+OPTION_B: Δεν συμμορφώνεται
+OPTION_C: Επιτρέπεται με την έγκριση του Κτηνιατρικού Εκπροσώπου
+OPTION_D: Επιτρέπεται μόνο για νεαρά άλογα
+CORRECT: B
+EXPLANATION: Το άρθρο 275.1.3.3 των JR απαιτεί την παρουσία είτε σε σνάφλα είτε σε διπλό χαλινάρι. Δεν επιτρέπεται η χρήση hackamore.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-pte-0040-v2
+PARENT_ID: el-pte-0040
+DOMAIN: penalty-tables
+ARTICLE: 217.1.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σε ποιον πίνακα Ποινών απαιτείται να καθορίζονται ξεχωριστά τα αποτελέσματα των χρονικών ποινών;
+OPTION_A: Μόνο ο Πίνακας Α
+OPTION_B: Μόνο Πίνακας Γ
+OPTION_C: Τόσο ο Πίνακας Α όσο και ο Πίνακας Γ
+OPTION_D: Ούτε
+CORRECT: A
+EXPLANATION: Το άρθρο 217.1.2 των JRs επιβάλλει αυτήν την απαίτηση σε Αγώνες που κρίνονται σύμφωνα με τον Πίνακα Α.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

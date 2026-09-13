@@ -1,0 +1,17 @@
+ID: el-jof-0061
+PARENT_ID: el-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 218.2.7
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Πόσα επιπλέον εμπόδια μπορούν να προστεθούν σε μια διαδρομή διαβάθμισης;
+OPTION_A: Ενας
+OPTION_B: Δυο
+OPTION_C: Τρία
+OPTION_D: Κανένας
+CORRECT: B
+EXPLANATION: Το άρθρο 218.2.7 των JR ορίζει ότι μπορούν να προστεθούν έως και δύο επιπλέον εμπόδια στην διαδρομή διαβάθμισης.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

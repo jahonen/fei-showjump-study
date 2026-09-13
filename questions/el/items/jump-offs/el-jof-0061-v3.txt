@@ -1,0 +1,17 @@
+ID: el-jof-0061-v3
+PARENT_ID: el-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 218.2.7
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Ποιο άρθρο περιορίζει τον αριθμό των επιπλέον εμποδίων σε έναν αγώνα διαβάθμισης σε δύο το πολύ;
+OPTION_A: Άρθρο 218.2.5
+OPTION_B: Άρθρο 218.2.6
+OPTION_C: Άρθρο 218.2.7
+OPTION_D: Άρθρο 218.3
+CORRECT: C
+EXPLANATION: Το άρθρο 218.2.7 των JR ορίζει ότι μπορούν να προστεθούν έως και δύο επιπλέον εμπόδια στην διαδρομή διαβάθμισης.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

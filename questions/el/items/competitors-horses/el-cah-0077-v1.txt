@@ -1,0 +1,17 @@
+ID: el-cah-0077-v1
+PARENT_ID: el-cah-0077
+DOMAIN: competitors-horses
+ARTICLE: 205.3.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 205.3.3 των JR, ένας Αθλητής μπορεί να αγωνιστεί ως Έφηβος από την ηλικία των 14 ετών μέχρι το τέλος του έτους που συμπληρώνει:
+OPTION_A: 16
+OPTION_B: 18
+OPTION_C: 21
+OPTION_D: 25
+CORRECT: B
+EXPLANATION: Το άρθρο 205.3.3 των JRs ορίζει ότι οι αθλητές μπορούν να αγωνίζονται ως Νέοι από το έτος που γίνονται 14 ετών μέχρι το τέλος του έτους που γίνονται 18 ετών.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

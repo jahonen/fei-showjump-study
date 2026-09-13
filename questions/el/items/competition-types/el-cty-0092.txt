@@ -1,0 +1,17 @@
+ID: el-cty-0092
+PARENT_ID: el-cty-0092
+DOMAIN: competition-types
+ARTICLE: 229.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Ποιος τύπος διαγωνισμού μπορεί να περιλαμβάνει έναν Τζόκερ ως δύσκολο προαιρετικό εμπόδιο;
+OPTION_A: Δύναμη
+OPTION_B: Διαγωνισμός παρολί
+OPTION_C: Κύπελλο Εθνών
+OPTION_D: Έξι Μπαρ
+CORRECT: B
+EXPLANATION: Το Άρθρο 240.3 των JR ορίζει ότι ο Τζόκερ είναι ένα δύσκολο προαιρετικό εμπόδιο που μπορεί να χρησιμοποιηθεί μόνο σε Αγώνες Παρολί. Το Άρθρο 229 διέπει τους Αγώνες Παρολί.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

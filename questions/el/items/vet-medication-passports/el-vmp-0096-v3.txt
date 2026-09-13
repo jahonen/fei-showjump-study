@@ -1,0 +1,17 @@
+ID: el-vmp-0096-v3
+PARENT_ID: el-vmp-0096
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.4.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 73
+TYPE: single-select
+STEM: Ποιο άρθρο απαιτεί δειγματοληψία EADCM από άλογα που έχουν καταταχθεί σε μεγάλα Πρωταθλήματα και Τελικούς;
+OPTION_A: Άρθρο 275.1.3
+OPTION_B: Άρθρο 275.1.4.1
+OPTION_C: Άρθρο 275.1.4.2
+OPTION_D: Άρθρο 275.2
+CORRECT: C
+EXPLANATION: Το άρθρο 275.1.4.2 των JR ορίζει τις απαιτήσεις δειγματοληψίας για τις δοκιμές EADCM σε μεγάλες διοργανώσεις.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

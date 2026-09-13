@@ -1,0 +1,17 @@
+ID: el-fwd-0050-v2
+PARENT_ID: el-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 58
+TYPE: single-select
+STEM: Ποιο άρθρο κάνει διάκριση μεταξύ Αποκλεισμού και Ακύρωσης στους Κανόνες Άλματος;
+OPTION_A: Άρθρα 263.1 και 264.1
+OPTION_B: Άρθρα 262.1 και 263.1
+OPTION_C: Άρθρο 260 και άρθρο 261
+OPTION_D: Άρθρα 265 και 266
+CORRECT: A
+EXPLANATION: Το άρθρο 263.1 των Κυριακών Κανονισμών ορίζει τον Αποκλεισμό και το άρθρο 264.1 των Κυριακών Κανονισμών ορίζει τον Αποκλεισμό· πρόκειται για διακριτές συνέπειες.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

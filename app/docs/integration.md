@@ -29,7 +29,7 @@ See `.env.example` for the full list.
 Firestore security rules are in `rules/firestore.rules`. Highlights:
 
 - Users can only read/write their own `users/{uid}` subcollections.
-- Question bank is read-only for authenticated users and filtered to `status == "verified"`.
+- Question bank is read-only and filtered to `status == "verified"` (open to guests and signed-in users).
 - Leaderboard is readable by any authenticated user and writable only by the entry owner, only if the new score is higher.
 
 Deploy with `firebase deploy --only firestore:rules`.

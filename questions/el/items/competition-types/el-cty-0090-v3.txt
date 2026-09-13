@@ -1,0 +1,17 @@
+ID: el-cty-0090-v3
+PARENT_ID: el-cty-0090
+DOMAIN: competition-types
+ARTICLE: 230.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 26
+TYPE: single-select
+STEM: Σε έναν αρχικό γύρο Puissance, το πρώτο εμπόδιο πρέπει να έχει τουλάχιστον πόσο ύψος;
+OPTION_A: 1,30 μ.
+OPTION_B: 1,40 μ.
+OPTION_C: 1,50 μ.
+OPTION_D: 1,60 μ.
+CORRECT: B
+EXPLANATION: Το άρθρο 230.2.1 των JR ορίζει ότι το πρώτο εμπόδιο πρέπει να έχει ύψος τουλάχιστον 1,40 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

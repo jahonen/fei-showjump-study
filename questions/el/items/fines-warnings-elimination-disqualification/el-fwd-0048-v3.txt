@@ -1,0 +1,17 @@
+ID: el-fwd-0048-v3
+PARENT_ID: el-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.29
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Το άρθρο 263.4.29 των JRs είναι ένας κανόνας αποκλεισμού που αφορά συγκεκριμένα:
+OPTION_A: Χρήση μαστιγίου
+OPTION_B: Ηλεκτρονικές συσκευές
+OPTION_C: Προστατευτικό ιμάντα κεφαλής για το πηγούνι
+OPTION_D: Μπότες και επίδεσμοι
+CORRECT: C
+EXPLANATION: Το άρθρο 263.4.29 των JRs αναφέρεται στο άλμα με το λουράκι του προστατευτικού κεφαλιού στο πηγούνι να είναι λανθασμένα στερεωμένο ή μη στερεωμένο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

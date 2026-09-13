@@ -1,0 +1,17 @@
+ID: el-obs-0012-v1
+PARENT_ID: el-obs-0012
+DOMAIN: obstacles
+ARTICLE: 236.1.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 236.1.1 των JR, ένα άλμα στο νερό πρέπει να έχει στοιχείο απογείωσης με ελάχιστο ύψος:
+OPTION_A: 30 εκ.
+OPTION_B: 40 εκ.
+OPTION_C: 50 εκ.
+OPTION_D: 60 εκ.
+CORRECT: B
+EXPLANATION: Το άρθρο 236.1.1 των JR απαιτεί ένα στοιχείο απογείωσης (βούρτσα, μικρό τοίχο) με ελάχιστο ύψος 40 cm και μέγιστο ύψος 50 cm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

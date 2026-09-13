@@ -1,0 +1,17 @@
+ID: el-awr-0003-v2
+PARENT_ID: el-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 32
+TYPE: single-select
+STEM: Ποιο ζεύγος αποστάσεων βρίσκεται εντός των ορίων που ορίζονται από το JRs Art 241.2.5 για την τοποθέτηση της γραμμής εκκίνησης/τερματισμού;
+OPTION_A: 4 μ. και 16 μ.
+OPTION_B: 6 μ. και 15 μ.
+OPTION_C: 3 μ. και 14 μ.
+OPTION_D: 8 μ. και 18 μ.
+CORRECT: B
+EXPLANATION: Το άρθρο 241.2.5 των JR επιτρέπει μια απόσταση από 6 m έως 15 m από το πρώτο και το τελευταίο εμπόδιο. Τα 6 m και 15 m είναι ακριβώς τα επιτρεπόμενα όρια.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-cty-0085-v2
+PARENT_ID: el-cty-0085
+DOMAIN: competition-types
+ARTICLE: 222.1.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Σε έναν Κανονικό Αγώνα σε Δύο Φάσεις, πόσα εμπόδια μπορεί να περιέχει η δεύτερη φάση σύμφωνα με το Άρθρο 222.1.2 των JRs;
+OPTION_A: Δύο έως τέσσερα
+OPTION_B: Τέσσερα έως έξι
+OPTION_C: Έξι έως οκτώ
+OPTION_D: Επτά έως εννέα
+CORRECT: B
+EXPLANATION: Το άρθρο 222.1.2 των JR ορίζει ότι η δεύτερη φάση λαμβάνει χώρα σε τέσσερα έως έξι εμπόδια.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

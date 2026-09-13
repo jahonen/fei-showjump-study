@@ -1,0 +1,17 @@
+ID: el-cah-0079
+PARENT_ID: el-cah-0079
+DOMAIN: competitors-horses
+ARTICLE: 207.2.3.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 14
+TYPE: single-select
+STEM: Όταν αγωνίζεται, τι χρώμα πρέπει να έχει η γραβάτα ή το κολάρο ενός αθλητή;
+OPTION_A: Μαύρος
+OPTION_B: Λευκό
+OPTION_C: Εθνικά χρώματα
+OPTION_D: Οποιοδήποτε χρώμα ταιριάζει με το σακάκι
+CORRECT: B
+EXPLANATION: Το άρθρο 207.2.3.1 των JR απαιτεί να φοριέται λευκή γραβάτα ή τσόκερ κατά τη διάρκεια των αγώνων και κατά τη διάρκεια των τελετών απονομής βραβείων.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

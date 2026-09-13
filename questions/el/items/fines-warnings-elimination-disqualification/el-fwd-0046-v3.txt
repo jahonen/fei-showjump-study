@@ -1,0 +1,17 @@
+ID: el-fwd-0046-v3
+PARENT_ID: el-fwd-0046
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.13
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Στον Πίνακα Γ, η υπέρβαση του μέγιστου χρονικού ορίου έχει ως αποτέλεσμα:
+OPTION_A: 4 Ποινές
+OPTION_B: Μόνο Χρονικές Ποινές
+OPTION_C: Εξάλειψη
+OPTION_D: Ένα πρόστιμο
+CORRECT: C
+EXPLANATION: Το άρθρο 217.2.4 των JR ορίζει ότι η υπέρβαση του μέγιστου χρονικού ορίου που ορίζεται στον Πίνακα Γ οδηγεί σε Αποκλεισμό, και το άρθρο 263.4.13 το επιβεβαιώνει αυτό γενικά.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

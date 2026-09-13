@@ -1,0 +1,17 @@
+ID: el-cty-0088
+PARENT_ID: el-cty-0088
+DOMAIN: competition-types
+ARTICLE: 226.1.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Ποιος είναι ο ελάχιστος αριθμός Εθνικών Ομοσπονδιών που απαιτείται για να αναγνωριστεί ένας Διαγωνισμός ως Κύπελλο Εθνών;
+OPTION_A: Δυο
+OPTION_B: Τρία
+OPTION_C: Τέσσερα
+OPTION_D: Πέντε
+CORRECT: B
+EXPLANATION: Το άρθρο 226.1.2 των JR ορίζει ότι τουλάχιστον τρεις Εθνικές Ομοσπονδίες πρέπει να συμμετάσχουν σε αυτή τη διοργάνωση για να αναγνωριστεί ως Κύπελλο Εθνών.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: el-fwd-0047-v3
+PARENT_ID: el-fwd-0047
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.22
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 263.4.22 των JR, η μη συμμόρφωση με τους κανόνες τακ και εξοπλισμού κατά τη διάρκεια ενός γύρου έχει ως αποτέλεσμα:
+OPTION_A: 4 ποινές
+OPTION_B: Εξάλειψη
+OPTION_C: Μια προειδοποίηση
+OPTION_D: Καμία συνέπεια
+CORRECT: B
+EXPLANATION: Το άρθρο 263.4.22 των JRs καθιστά υποχρεωτική την μη συμμόρφωση με τους κανόνες τακ και εξοπλισμού.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

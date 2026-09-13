@@ -1,0 +1,17 @@
+ID: el-fdc-0026-v3
+PARENT_ID: el-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: Ποιο άρθρο διέπει το εάν μια Πτώση μετά τη γραμμή τερματισμού επιφέρει Αποκλεισμό;
+OPTION_A: Άρθρο 248.1
+OPTION_B: Άρθρο 248.2
+OPTION_C: Άρθρο 263.4.26
+OPTION_D: Άρθρο 246.4
+CORRECT: B
+EXPLANATION: Το Άρθρο 248.2.2.3 των JR ορίζει ρητά ότι μια Πτώση μετά τη διέλευση της γραμμής τερματισμού δεν συνεπάγεται Αποκλεισμό, ενώ το Άρθρο 248.1 διέπει τις Πτώσεις κατά τη διάρκεια του γύρου.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

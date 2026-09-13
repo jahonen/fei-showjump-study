@@ -1,0 +1,17 @@
+ID: el-fwd-0047
+PARENT_ID: el-fwd-0047
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.22
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Ποιες είναι οι συνέπειες της μη συμμόρφωσης με τους κανόνες που αφορούν την τροχαλία και τον εξοπλισμό;
+OPTION_A: Ένα πρόστιμο
+OPTION_B: Εξάλειψη
+OPTION_C: Μια προειδοποίηση
+OPTION_D: Αποκλεισμός από τον επόμενο διαγωνισμό
+CORRECT: B
+EXPLANATION: Το άρθρο 263.4.22 των JRs αναφέρει τη μη συμμόρφωση με τους κανόνες που αφορούν την τροχιά και τον εξοπλισμό ως υποχρεωτική εξαίρεση.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

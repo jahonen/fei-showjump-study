@@ -1,0 +1,17 @@
+ID: el-cah-0074-v1
+PARENT_ID: el-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 203.2.1 των JR, σε ποιον αγώνα μπορεί ένας αθλητής να ιππεύσει περισσότερους από έναν Ίππους παρά τον κανόνα του ενός Ίππου;
+OPTION_A: Κύπελλο Εθνών
+OPTION_B: Γκραν Πρι
+OPTION_C: Καπέλο ημίψηλο
+OPTION_D: Συσσωρευτής
+CORRECT: C
+EXPLANATION: Το άρθρο 203.2.1 των JRs εξαιρεί τους αγώνες Derby από τον κανόνα ενός Ίππου για τον αγώνα Grand Prix/υψηλότερου χρηματικού επάθλου.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

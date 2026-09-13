@@ -1,0 +1,17 @@
+ID: el-awr-0002-v2
+PARENT_ID: el-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 241.2.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 32
+TYPE: single-select
+STEM: Εάν ένας Αγώνας έχει 10 εμπόδια, το μήκος της διαδρομής δεν πρέπει να υπερβαίνει:
+OPTION_A: 500 μ.
+OPTION_B: 550 μ.
+OPTION_C: 600 μ.
+OPTION_D: 650 μ.
+CORRECT: C
+EXPLANATION: Το άρθρο 241.2.4 των JR περιορίζει το μήκος της διαδρομής στον αριθμό των εμποδίων πολλαπλασιασμένο επί 60· 10 × 60 = 600 μ.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

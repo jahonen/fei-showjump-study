@@ -1,0 +1,17 @@
+ID: el-fdc-0024-v2
+PARENT_ID: el-fdc-0024
+DOMAIN: faults-during-course
+ARTICLE: 246.4.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 246.4.3 των JR, ο κανόνας αντίστασης των 45 δευτερολέπτων μετριέται:
+OPTION_A: Από το σήμα εκκίνησης μέχρι τη γραμμή τερματισμού
+OPTION_B: Συνεχόμενα κατά τη διάρκεια του γύρου
+OPTION_C: Μόνο στο πρώτο εμπόδιο
+OPTION_D: Σε όλο το Διαγωνισμό
+CORRECT: B
+EXPLANATION: Το άρθρο 246.4.3 των JR ορίζει «45 συνεχόμενα δευτερόλεπτα» Αντίστασης κατά τη διάρκεια του γύρου, όχι αθροιστικό χρόνο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

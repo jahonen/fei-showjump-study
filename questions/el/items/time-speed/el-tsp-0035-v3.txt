@@ -1,0 +1,17 @@
+ID: el-tsp-0035-v3
+PARENT_ID: el-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 258.1.6
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Σε ποιο άρθρο εντοπίζεται η απουσία ελάχιστης απαίτησης ταχύτητας για τους Αγώνες Δύναμης και Δεξιοτήτων;
+OPTION_A: Άρθρο 230.1.4
+OPTION_B: Άρθρο 258.1.4
+OPTION_C: Άρθρο 258.1.6
+OPTION_D: Άρθρο 252
+CORRECT: C
+EXPLANATION: Το άρθρο 258.1.6 των JRs ορίζει ότι δεν απαιτείται ελάχιστη ταχύτητα για τους Αγώνες Δύναμης και Δεξιοτήτων.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

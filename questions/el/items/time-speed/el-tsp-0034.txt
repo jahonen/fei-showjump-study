@@ -1,0 +1,17 @@
+ID: el-tsp-0034
+PARENT_ID: el-tsp-0034
+DOMAIN: time-speed
+ARTICLE: 258.1.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Ποιο είναι το γενικό επιτρεπόμενο εύρος ταχύτητας για τους αγώνες;
+OPTION_A: 300-375 μέτρα ανά λεπτό
+OPTION_B: 325-400 μέτρα ανά λεπτό
+OPTION_C: 350-425 μέτρα ανά λεπτό
+OPTION_D: 375-450 μέτρα ανά λεπτό
+CORRECT: B
+EXPLANATION: Το άρθρο 258.1.1 των JR ορίζει ότι το γενικό εύρος ταχύτητας είναι τουλάχιστον 325 m ανά λεπτό και μέγιστο 400 m ανά λεπτό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

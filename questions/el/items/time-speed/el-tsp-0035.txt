@@ -1,0 +1,17 @@
+ID: el-tsp-0035
+PARENT_ID: el-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 258.1.6
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Στους Αγώνες Δύναμης και Δεξιοτήτων, ποια απαίτηση ταχύτητας ισχύει;
+OPTION_A: Ελάχιστη ταχύτητα 325 m ανά λεπτό
+OPTION_B: Ελάχιστη ταχύτητα 350 m ανά λεπτό
+OPTION_C: Δεν απαιτείται ελάχιστη ταχύτητα
+OPTION_D: Μέγιστη ταχύτητα 400 m ανά λεπτό
+CORRECT: C
+EXPLANATION: Το άρθρο 258.1.6 των JRs ορίζει ότι για τους Αγώνες Δύναμης και Δεξιοτήτων δεν απαιτείται ελάχιστη ταχύτητα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

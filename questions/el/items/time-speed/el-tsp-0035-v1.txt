@@ -1,0 +1,17 @@
+ID: el-tsp-0035-v1
+PARENT_ID: el-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 258.1.6
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Ποιος τύπος αγώνα δεν έχει ελάχιστη απαίτηση ταχύτητας σύμφωνα με το άρθρο 258.1.6 των JRs;
+OPTION_A: Τραπέζι Α ενάντια στον χρόνο
+OPTION_B: Κύπελλο Εθνών
+OPTION_C: Δύναμη και Δεξιότητα
+OPTION_D: Νεαρό άλογο
+CORRECT: C
+EXPLANATION: Το άρθρο 258.1.6 των JR ορίζει συγκεκριμένα ότι δεν απαιτείται ελάχιστη ταχύτητα για τους Αγώνες Ισχύος και Δεξιοτήτων.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

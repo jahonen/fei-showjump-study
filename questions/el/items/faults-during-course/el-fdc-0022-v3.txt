@@ -1,0 +1,17 @@
+ID: el-fdc-0022-v3
+PARENT_ID: el-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 246.2.2 των JR, ένας Ίππος που σταματά σε ένα εμπόδιο και πηδάει αμέσως από στάση χωρίς να κινηθεί προς τα πίσω είναι:
+OPTION_A: Πάντα τιμωρείται ως Άρνηση
+OPTION_B: Δεν είναι άρνηση
+OPTION_C: Τιμωρήθηκε με νοκ ντάουν
+OPTION_D: Αγνοήθηκε από το Εφετείο
+CORRECT: B
+EXPLANATION: Το άρθρο 246.2.2 των JRs ορίζει ρητά ότι η κατάσταση αυτή δεν αποτελεί Άρνηση.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

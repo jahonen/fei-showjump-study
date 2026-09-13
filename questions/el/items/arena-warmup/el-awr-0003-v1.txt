@@ -1,0 +1,17 @@
+ID: el-awr-0003-v1
+PARENT_ID: el-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 32
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 241.2.5 των JR, η ελάχιστη απόσταση μεταξύ της γραμμής εκκίνησης και του πρώτου εμποδίου είναι:
+OPTION_A: 3 μ.
+OPTION_B: 6 μ.
+OPTION_C: 10 μ.
+OPTION_D: 15 μ.
+CORRECT: B
+EXPLANATION: Το άρθρο 241.2.5 των JR απαιτεί οι γραμμές εκκίνησης και τερματισμού να απέχουν τουλάχιστον 6 μέτρα και όχι περισσότερο από 15 μέτρα από το πρώτο και το τελευταίο εμπόδιο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

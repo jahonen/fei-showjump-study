@@ -1,0 +1,17 @@
+ID: el-pte-0038-v3
+PARENT_ID: el-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 217.2.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με τον Πίνακα Γ, η υπέρβαση της μέγιστης προθεσμίας έχει ως αποτέλεσμα:
+OPTION_A: 4 ποινές
+OPTION_B: 6 ποινές
+OPTION_C: Εξάλειψη
+OPTION_D: Μόνο Χρονικές Ποινές
+CORRECT: C
+EXPLANATION: Το άρθρο 217.2.4 των JR ορίζει ότι η υπέρβαση του μέγιστου χρονικού ορίου που ορίζεται στον Πίνακα Γ οδηγεί σε Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

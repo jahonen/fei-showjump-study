@@ -1,0 +1,17 @@
+ID: el-cty-0089-v2
+PARENT_ID: el-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Ποιο είναι το μέγιστο spread για ένα triple bar σε ένα 5* Nations Cup σύμφωνα με το άρθρο 226.3.1 των JRs;
+OPTION_A: 2,00 μ.
+OPTION_B: 2,10 μ.
+OPTION_C: 2,20 μ.
+OPTION_D: 2,30 μ.
+CORRECT: C
+EXPLANATION: Ο πίνακας JRs Art 226.3.1 παραθέτει το μέγιστο άνοιγμα της τριπλής ράβδου για 5* NC ως 2,20 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

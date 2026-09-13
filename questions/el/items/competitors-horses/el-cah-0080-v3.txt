@@ -1,0 +1,17 @@
+ID: el-cah-0080-v3
+PARENT_ID: el-cah-0080
+DOMAIN: competitors-horses
+ARTICLE: 207.2.4.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 14
+TYPE: single-select
+STEM: Σε ποιον παραπέμπονται οι διαφορές σχετικά με τα χρώματα των επίσημων μπουφάν της NF βάσει του άρθρου 207.2.4.4 των JRs;
+OPTION_A: Ο Πρόεδρος της FEI
+OPTION_B: Ο Γενικός Γραμματέας της FEI
+OPTION_C: Το Δικαστήριο του Έργου
+OPTION_D: Ο Σεφ της Ομάδας
+CORRECT: B
+EXPLANATION: Το άρθρο 207.2.4.4 των JR ορίζει ότι οι διαφορές σχετικά με τα χρώματα θα παραπέμπονται στον Γενικό Γραμματέα της FEI, η απόφαση του οποίου είναι οριστική.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

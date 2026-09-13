@@ -1,0 +1,17 @@
+ID: el-tsp-0028-v2
+PARENT_ID: el-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 217.2.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σε ποιο είδος Διαγωνισμού δεν επιτρέπεται χρόνος αλλά υπάρχει μέγιστο χρονικό όριο;
+OPTION_A: Τραπέζι Α ενάντια στον χρόνο
+OPTION_B: Τραπέζι Α Όχι ενάντια στο χρόνο
+OPTION_C: Πίνακας Γ
+OPTION_D: Δύναμη
+CORRECT: C
+EXPLANATION: Το άρθρο 217.2.3 των JR ορίζει ότι οι Αγώνες του Πίνακα Γ δεν έχουν επιτρεπόμενο χρόνο, αλλά έχουν μέγιστο χρονικό όριο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

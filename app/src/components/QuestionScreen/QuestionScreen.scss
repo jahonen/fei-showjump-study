@@ -21,6 +21,13 @@
   z-index: 10;
   border-bottom: 1px solid $color-border;
   margin-bottom: $spacing-md;
+  gap: $spacing-md;
+}
+
+.question-header-actions {
+  display: flex;
+  align-items: center;
+  gap: $spacing-md;
 }
 
 .progress {

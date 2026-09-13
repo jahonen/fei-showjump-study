@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { getVerifiedItems } from '@/services/firestore';
 import { pickSingleSelectVariants } from '@/utils/questionSelection';
 import type { ActiveQuestion } from '@/types';
@@ -149,12 +150,15 @@ export default function HighscoreScreen() {
         <span className="highscore-score" aria-label={`Score ${run.score}`}>
           {run.score}
         </span>
-        <span
-          className="highscore-timer"
-          aria-label={`${Math.ceil(run.timeLeft)} seconds remaining`}
-        >
-          {Math.ceil(run.timeLeft)}s
-        </span>
+        <div className="highscore-header-actions">
+          <span
+            className="highscore-timer"
+            aria-label={`${Math.ceil(run.timeLeft)} seconds remaining`}
+          >
+            {Math.ceil(run.timeLeft)}s
+          </span>
+          <ExitButton />
+        </div>
       </header>
 
       <section className="highscore-card" aria-labelledby="highscore-stem">

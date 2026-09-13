@@ -1,0 +1,17 @@
+ID: el-cty-0090
+PARENT_ID: el-cty-0090
+DOMAIN: competition-types
+ARTICLE: 230.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 26
+TYPE: single-select
+STEM: Σε έναν Αγώνα Ισχύος, ο αρχικός γύρος πρέπει να περιλαμβάνει πόσα μεμονωμένα εμπόδια;
+OPTION_A: Δύο έως τέσσερα
+OPTION_B: Τέσσερα έως έξι
+OPTION_C: Έξι έως οκτώ
+OPTION_D: Οκτώ έως δέκα
+CORRECT: B
+EXPLANATION: Το άρθρο 230.2.1 των JRs ορίζει ότι ο αρχικός γύρος μιας Puissance πρέπει να περιλαμβάνει τέσσερα έως έξι μεμονωμένα εμπόδια, εκ των οποίων τουλάχιστον το ένα πρέπει να είναι κατακόρυφο εμπόδιο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

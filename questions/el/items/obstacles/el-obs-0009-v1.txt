@@ -1,0 +1,17 @@
+ID: el-obs-0009-v1
+PARENT_ID: el-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Ποιο είναι το μέγιστο επιτρεπόμενο ύψος εμποδίου σε εσωτερικούς χώρους σύμφωνα με το άρθρο 233.1 των JR;
+OPTION_A: 1,60 μ.
+OPTION_B: 1,65 μ.
+OPTION_C: 1,70 μ.
+OPTION_D: 1,75 μ.
+CORRECT: B
+EXPLANATION: Το άρθρο 233.1 των JR ορίζει ότι το ύψος των εμποδίων σε αγώνες κλειστού χώρου δεν πρέπει ποτέ να υπερβαίνει τα 1,65 μ., εκτός από τους αγώνες Six Bar και Puissance.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

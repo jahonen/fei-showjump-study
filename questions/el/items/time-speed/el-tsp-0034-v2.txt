@@ -1,0 +1,17 @@
+ID: el-tsp-0034-v2
+PARENT_ID: el-tsp-0034
+DOMAIN: time-speed
+ARTICLE: 258.1.2
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Για τους αγώνες Nations Cup 5* σε εξωτερικούς χώρους, ποια είναι η απαιτούμενη ταχύτητα σύμφωνα με το άρθρο 258.1.2 των JRs;
+OPTION_A: 350 μ/λεπτό
+OPTION_B: 375 μ/λεπτό
+OPTION_C: 400 μ/λεπτό
+OPTION_D: 425 μ/λεπτό
+CORRECT: C
+EXPLANATION: Το άρθρο 258.1.2 των JR ορίζει ότι οι αγώνες CSIO 5* Nations Cup/Longines League of Nations™ σε εξωτερικούς χώρους έχουν ταχύτητα 400 μέτρα ανά λεπτό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

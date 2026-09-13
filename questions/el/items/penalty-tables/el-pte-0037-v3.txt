@@ -1,0 +1,17 @@
+ID: el-pte-0037-v3
+PARENT_ID: el-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 217.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με τον Πίνακα Γ, μια πρώτη Ανυπακοή χωρίς καταστολή έχει ως αποτέλεσμα:
+OPTION_A: Προστέθηκαν 4 δευτερόλεπτα
+OPTION_B: Προστέθηκαν 6 δευτερόλεπτα
+OPTION_C: Χωρίς Ποινή
+OPTION_D: Εξάλειψη
+CORRECT: C
+EXPLANATION: Το άρθρο 217.2.1 των JR ορίζει ότι η πρώτη ανυπακοή σύμφωνα με τον Πίνακα Γ δεν επιφέρει καμία ποινή (Καμία).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

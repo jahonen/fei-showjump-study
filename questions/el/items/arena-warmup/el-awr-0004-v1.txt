@@ -1,0 +1,17 @@
+ID: el-awr-0004-v1
+PARENT_ID: el-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 241.3.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 32
+TYPE: single-select
+STEM: Ένας τριπλός συνδυασμός μπορεί να επισημανθεί στο σχέδιο μαθήματος ως εξής:
+OPTION_A: 7, 8, 9
+OPTION_B: 8Α, 8Β, 8Γ
+OPTION_C: 8, 8α, 8β
+OPTION_D: III
+CORRECT: B
+EXPLANATION: Το άρθρο 241.3.3 των JRs δίνει το παράδειγμα 8Α, 8Β, 8Γ για τα στοιχεία ενός Συνδυασμού που φέρει έναν μόνο αριθμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

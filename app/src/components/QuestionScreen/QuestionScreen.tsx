@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import {
   getActiveFlags,
   getLastReviewEvent,
@@ -235,11 +236,14 @@ export default function QuestionScreen() {
         aria-live={mode === 'timed-trial' ? 'polite' : undefined}
       >
         <span className="progress">{progressText}</span>
-        {timerText && (
-          <span className="timer" aria-label={`${timeLeft} seconds remaining`}>
-            {timerText}
-          </span>
-        )}
+        <div className="question-header-actions">
+          {timerText && (
+            <span className="timer" aria-label={`${timeLeft} seconds remaining`}>
+              {timerText}
+            </span>
+          )}
+          <ExitButton />
+        </div>
       </header>
 
       <section className="question-card" aria-labelledby="question-stem">

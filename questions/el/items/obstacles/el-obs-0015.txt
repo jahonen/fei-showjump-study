@@ -1,0 +1,17 @@
+ID: el-obs-0015
+PARENT_ID: el-obs-0015
+DOMAIN: obstacles
+ARTICLE: 237.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Ποια είναι η επιτρεπόμενη απόσταση μεταξύ εμποδίων σε έναν συνδυασμό;
+OPTION_A: 5 έως 10 μέτρα
+OPTION_B: 6 έως 11 μέτρα
+OPTION_C: 7 έως 12 μέτρα
+OPTION_D: 8 έως 13 μέτρα
+CORRECT: C
+EXPLANATION: Το άρθρο 237.1 των JR ορίζει ότι οι συνδυασμοί είναι ομάδες δύο ή περισσότερων εμποδίων με αποστάσεις τουλάχιστον επτά μέτρων και μέγιστη 12 μέτρων μεταξύ των εμποδίων.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

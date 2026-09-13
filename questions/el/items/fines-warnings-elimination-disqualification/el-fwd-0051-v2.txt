@@ -1,0 +1,17 @@
+ID: el-fwd-0051-v2
+PARENT_ID: el-fwd-0051
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.2.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 58
+TYPE: single-select
+STEM: Το άρθρο 264.2.1 των JRs παραπέμπει σε ποια πρόσθετα άρθρα ενδέχεται να ισχύουν;
+OPTION_A: Άρθρα 259.1 και 265.2
+OPTION_B: Άρθρα 265 και 266
+OPTION_C: Άρθρα 261 και 262
+OPTION_D: Άρθρα 267 και 268
+CORRECT: A
+EXPLANATION: Το άρθρο 264.2.1 των JR ορίζει ότι τα σημάδια που υποδηλώνουν υπερβολική χρήση σπιρουνιών ή μαστιγίου θα τιμωρούνται και σημειώνει ότι ενδέχεται να ισχύουν πρόσθετες συνέπειες βάσει των άρθρων 259.1 και 265.2 των JR.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

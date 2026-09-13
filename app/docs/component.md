@@ -116,6 +116,17 @@
 
 **Location:** `src/components/PrivateRoute/`
 
+## ExitButton
+
+**Purpose:** Top-right button that returns the user to the dashboard from any study/game mode screen.
+
+**Inputs:**
+- `label?: string` — button text, defaults to "Exit"
+
+**Outputs:** Navigates to `/dashboard`.
+
+**Location:** `src/components/ExitButton/`
+
 ## SignInScreen
 
 **Purpose:** Entry point with Google Sign-In and SEO-friendly hero content for new riders. Includes links to the Privacy Notice and highlights the FEI Jumping Rules study modes.

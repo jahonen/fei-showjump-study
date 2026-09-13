@@ -1,0 +1,17 @@
+ID: el-fwd-0055-v3
+PARENT_ID: el-fwd-0055
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 259.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: Σύμφωνα με το Άρθρο 259.3 των JRs, ποιον πρέπει να συμβουλευτεί η Αγωνόδικος Επιτροπή πριν επιτρέψει σε έναν Ίππο με αίμα να συνεχίσει;
+OPTION_A: Ο Σεφ της Ομάδας
+OPTION_B: Ο Σχεδιαστής Μαθημάτων
+OPTION_C: Ο Κτηνιατρικός Εκπρόσωπος
+OPTION_D: Ο Αθλητής
+CORRECT: C
+EXPLANATION: Το Άρθρο 259.3 των JR απαιτεί από την Αγωνόδικο Επιτροπή να συμβουλευτεί τον Κτηνιατρικό Εκπρόσωπο πριν κρίνει τον Ίππο ικανό να συνεχίσει.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

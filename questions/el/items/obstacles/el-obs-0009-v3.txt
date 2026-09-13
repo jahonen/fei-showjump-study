@@ -1,0 +1,17 @@
+ID: el-obs-0009-v3
+PARENT_ID: el-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Ποιος τύπος εμποδίου εξαιρείται από το κανονικό όριο μέγιστου ύψους 1,70 m;
+OPTION_A: Ντέρμπι με εμπόδια
+OPTION_B: Έξι Μπαρ και Δύναμη
+OPTION_C: Εμπόδια στο Κύπελλο Εθνών
+OPTION_D: Εμπόδια συσσωρευτών
+CORRECT: B
+EXPLANATION: Το άρθρο 233.1 των JR ορίζει ότι κανένα εμπόδιο δεν μπορεί να υπερβαίνει τα 1,70 μ. εκτός από τους αγώνες Six Bar και Puissance.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

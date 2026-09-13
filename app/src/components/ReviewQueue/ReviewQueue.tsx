@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { getActiveFlags } from '@/services/firestore';
 import { formatDomainLabel } from '@/utils/questionSelection';
 import type { ItemFlag, Language } from '@/types';
@@ -61,7 +62,10 @@ export default function ReviewQueue() {
 
   return (
     <main className="review-queue" role="main">
-      <h1>Review</h1>
+      <header className="review-header">
+        <h1>Review</h1>
+        <ExitButton />
+      </header>
 
       {flags.length === 0 ? (
         <p className="empty-queue">No items to review. Nice work!</p>

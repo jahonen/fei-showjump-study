@@ -1,0 +1,17 @@
+ID: el-tsp-0031-v2
+PARENT_ID: el-tsp-0031
+DOMAIN: time-speed
+ARTICLE: 217.1.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με τον Πίνακα Α, ποια είναι η ποινή για την υπέρβαση του μέγιστου χρονικού ορίου;
+OPTION_A: Τέσσερις Ποινές
+OPTION_B: Μόνο Χρονικές Ποινές
+OPTION_C: Εξάλειψη
+OPTION_D: Μια προειδοποίηση
+CORRECT: C
+EXPLANATION: Το άρθρο 217.1.1 των JR αναφέρει τον Αποκλεισμό ως ποινή βάσει του Πίνακα Α για την υπέρβαση του μέγιστου χρονικού ορίου.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

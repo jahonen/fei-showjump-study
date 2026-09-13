@@ -1,0 +1,17 @@
+ID: el-cty-0091
+PARENT_ID: el-cty-0091
+DOMAIN: competition-types
+ARTICLE: 230.3.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 26
+TYPE: single-select
+STEM: Σε έναν αγώνα Six Bar, πόσα κάθετα εμπόδια τοποθετούνται σε ευθεία γραμμή με απόσταση περίπου 11 μέτρων μεταξύ κάθε εμποδίου;
+OPTION_A: Τέσσερα
+OPTION_B: Πέντε
+OPTION_C: Εξι
+OPTION_D: Οκτώ
+CORRECT: C
+EXPLANATION: Το άρθρο 230.3.1 των JR ορίζει ότι σε έναν αγώνα έξι ποδιών, έξι κάθετα εμπόδια τοποθετούνται σε ευθεία γραμμή με απόσταση περίπου 11 μέτρων μεταξύ κάθε εμποδίου.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

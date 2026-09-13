@@ -1,0 +1,17 @@
+ID: el-fwd-0050-v1
+PARENT_ID: el-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 58
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 264.1 των JR, ο αποκλεισμός μπορεί να είναι:
+OPTION_A: Μετατράπηκε σε πρόστιμο
+OPTION_B: Αναδρομικός
+OPTION_C: Αποσύρθηκε από τον Αθλητή
+OPTION_D: Περιορίζεται στον τρέχοντα γύρο
+CORRECT: B
+EXPLANATION: Το άρθρο 264.1 των JR ορίζει ότι ο αποκλεισμός μπορεί επίσης να έχει αναδρομική ισχύ.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

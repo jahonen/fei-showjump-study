@@ -1,0 +1,17 @@
+ID: el-obs-0009
+PARENT_ID: el-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Ποιο είναι το μέγιστο ύψος εμποδίων σε κανονικούς αγώνες ανοιχτού τύπου;
+OPTION_A: 1,50 μ.
+OPTION_B: 1,60 μ.
+OPTION_C: 1,70 μ.
+OPTION_D: 1,80 μ.
+CORRECT: C
+EXPLANATION: Το άρθρο 233.1 των JR ορίζει ότι σε καμία περίπτωση κανένα εμπόδιο δεν μπορεί να υπερβαίνει το 1,70 μ. σε ύψος, εκτός από τους αγώνες Six Bar και Puissance.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

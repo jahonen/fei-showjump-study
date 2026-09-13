@@ -1,0 +1,17 @@
+ID: el-pte-0038-v2
+PARENT_ID: el-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 217.2.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Ποιο άρθρο ορίζει ότι οι Αγώνες του Πίνακα Γ δεν έχουν χρόνο;
+OPTION_A: Άρθρο 217.1.3
+OPTION_B: Άρθρο 217.2.3
+OPTION_C: Άρθρο 250.1
+OPTION_D: Άρθρο 252
+CORRECT: B
+EXPLANATION: Το άρθρο 217.2.3 των JR ορίζει ότι οι Αγώνες του Πίνακα Γ δεν έχουν επιτρεπόμενο χρόνο, αλλά έχουν μέγιστο χρονικό όριο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

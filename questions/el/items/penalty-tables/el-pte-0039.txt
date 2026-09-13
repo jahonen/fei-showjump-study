@@ -1,0 +1,17 @@
+ID: el-pte-0039
+PARENT_ID: el-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 217.1.5
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 21
+TYPE: single-select
+STEM: Σύμφωνα με τον Πίνακα Α, πώς συσσωρεύονται οι Ποινές για Ανυπακοή;
+OPTION_A: Μόνο στο ίδιο εμπόδιο
+OPTION_B: Σε όλο τον γύρο
+OPTION_C: Μόνο στο πρώτο μισό του μαθήματος
+OPTION_D: Μόνο μετά από μια πτώση
+CORRECT: B
+EXPLANATION: Το άρθρο 217.1.5 των JRs ορίζει ότι οι Ποινές για Ανυπακοή συσσωρεύονται όχι μόνο στο ίδιο εμπόδιο, αλλά σε ολόκληρο τον γύρο.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

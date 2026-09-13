@@ -1,0 +1,17 @@
+ID: el-cah-0077-v3
+PARENT_ID: el-cah-0077
+DOMAIN: competitors-horses
+ARTICLE: 205.3.4
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: Ποια κατηγορία αθλητών σύμφωνα με το άρθρο 205.3.4 των JRs ξεκινά στην ηλικία των 45 ετών;
+OPTION_A: U25
+OPTION_B: Νέος Αναβάτης
+OPTION_C: Βετεράνος
+OPTION_D: Ερασιτέχνης
+CORRECT: C
+EXPLANATION: Το άρθρο 205.3.4 των JRs ορίζει ότι οι Αθλητές μπορούν να αγωνιστούν στην Κατηγορία Βετεράνων από την αρχή του έτους κατά το οποίο συμπληρώνουν τα 45α γενέθλιά τους.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

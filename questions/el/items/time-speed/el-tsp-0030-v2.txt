@@ -1,0 +1,17 @@
+ID: el-tsp-0030-v2
+PARENT_ID: el-tsp-0030
+DOMAIN: time-speed
+ARTICLE: 252
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: Για μια διαδρομή 400 μέτρων με ταχύτητα 400 μέτρα/λεπτό, ποιος είναι ο επιτρεπόμενος χρόνος;
+OPTION_A: 60 δευτερόλεπτα
+OPTION_B: 80 δευτερόλεπτα
+OPTION_C: 90 δευτερόλεπτα
+OPTION_D: 100 δευτερόλεπτα
+CORRECT: A
+EXPLANATION: Επιτρεπόμενος χρόνος = μήκος διαδρομής / ταχύτητα. 400 μ. / 400 μ./λεπτό = 1 λεπτό = 60 δευτερόλεπτα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

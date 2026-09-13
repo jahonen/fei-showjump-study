@@ -1,0 +1,17 @@
+ID: el-obs-0018-v3
+PARENT_ID: el-obs-0018
+DOMAIN: obstacles
+ARTICLE: 240.3
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: Σύμφωνα με το άρθρο 240.3 των JR, πώς πρέπει να σχεδιάζονται τα εμπόδια του Joker;
+OPTION_A: Όσο το δυνατόν υψηλότερα τεχνικά
+OPTION_B: Με γνώμονα την ιππασία και τη δικαιοσύνη
+OPTION_C: Ίδιο με όλα τα άλλα εμπόδια
+OPTION_D: Χωρίς καμία σημαία
+CORRECT: B
+EXPLANATION: Το άρθρο 240.3 των JR ορίζει ότι τα εμπόδια του Joker πρέπει να σχεδιάζονται με γνώμονα την ιππική δεινότητα και την ισότητα.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

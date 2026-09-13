@@ -1,0 +1,17 @@
+ID: el-fwd-0044
+PARENT_ID: el-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.25
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Ένα άλογο διαπράττει μια δεύτερη Ανυπακοή κατά τη διάρκεια του ίδιου γύρου. Ποιες είναι οι συνέπειες;
+OPTION_A: Προστίθενται 4 ποινές
+OPTION_B: Εξάλειψη
+OPTION_C: Μια προειδοποίηση
+OPTION_D: Το ρολόι σταματάει για 45 δευτερόλεπτα
+CORRECT: B
+EXPLANATION: Το άρθρο 263.4.25 των JRs ορίζει ότι μια δεύτερη Ανυπακοή κατά τη διάρκεια ενός γύρου οδηγεί σε Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

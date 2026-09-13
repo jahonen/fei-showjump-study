@@ -1,15 +1,17 @@
 import { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import { getVerifiedItems } from '@/services/firestore';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { formatDomainLabel } from '@/utils/questionSelection';
 import type { Language, ParentItem } from '@/types';
 import './FreeStudySetup.scss';
 
 export default function FreeStudySetup() {
   const navigate = useNavigate();
+  const location = useLocation();
   const [items, setItems] = useState<ParentItem[]>([]);
   const [selectedDomains, setSelectedDomains] = useState<Set<string>>(new Set());
-  const [lang] = useState<Language>('en');
+  const [lang] = useState<Language>((location.state as { lang?: Language } | null)?.lang ?? 'en');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -51,14 +53,21 @@ export default function FreeStudySetup() {
     });
   };
 
+  const langLabel = formatLanguageLabel(lang);
+
   if (loading) {
     return <div className="loading" role="status">Loading domains…</div>;
   }
 
   return (
     <main className="free-study-setup" role="main">
-      <h1>Free Study</h1>
-      <p className="setup-subtitle">Choose the domains you want to practise.</p>
+      <header className="setup-header">
+        <h1>Free Study</h1>
+        <ExitButton />
+      </header>
+      <p className="setup-subtitle">
+        Language: {langLabel}. Choose the domains you want to practise.
+      </p>
 
       <fieldset className="domain-fieldset">
         <legend>Domains</legend>

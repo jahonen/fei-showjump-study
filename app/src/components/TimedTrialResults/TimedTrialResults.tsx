@@ -1,4 +1,5 @@
 import { useLocation, useNavigate } from 'react-router-dom';
+import ExitButton from '@/components/ExitButton/ExitButton';
 import { formatDomainLabel } from '@/utils/questionSelection';
 import type { DomainBreakdown } from '@/types';
 import './TimedTrialResults.scss';
@@ -25,7 +26,10 @@ export default function TimedTrialResults() {
 
   return (
     <main className="timed-results" role="main">
-      <h1>Timed Trial Results</h1>
+      <header className="results-header">
+        <h1>Timed Trial Results</h1>
+        <ExitButton />
+      </header>
 
       <section className="score-summary" aria-label="Score summary">
         <p className="big-score">

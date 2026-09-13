@@ -1,0 +1,17 @@
+ID: el-vmp-0099
+PARENT_ID: el-vmp-0099
+DOMAIN: vet-medication-passports
+ARTICLE: 210
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: Ποιο άρθρο των Κανόνων Άλματος αναφέρεται στην Κτηνιατρική Επιτροπή και τον Κτηνιατρικό Εκπρόσωπο;
+OPTION_A: Άρθρο 208
+OPTION_B: Άρθρο 209
+OPTION_C: Άρθρο 210
+OPTION_D: Άρθρο 211
+CORRECT: C
+EXPLANATION: Το άρθρο 210 των Κτηνιατρικών Κανονισμών έχει τίτλο «Κτηνιατρική Επιτροπή και Κτηνιατρικός Εκπρόσωπος».
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

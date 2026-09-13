@@ -1,0 +1,17 @@
+ID: el-fwd-0044-v3
+PARENT_ID: el-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.25
+EDITION_REF: Κανονισμός Αγώνων Υπερπήδησης Εμποδίων, 25η έκδοση (Ενημέρωση 2017)
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Σε ποιο άρθρο εξετάζεται η δεύτερη Ανυπακοή σε έναν γύρο;
+OPTION_A: Άρθρο 217.1.1
+OPTION_B: Άρθρο 246.2
+OPTION_C: Άρθρο 263.4.25
+OPTION_D: Άρθρο 264.2
+CORRECT: C
+EXPLANATION: Το άρθρο 263.4.25 των JR ορίζει ότι μια δεύτερη Ανυπακοή κατά τη διάρκεια ενός γύρου οδηγεί σε Αποκλεισμό.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes
