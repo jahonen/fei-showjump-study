@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
 import './SignInScreen.scss';
 
@@ -30,6 +30,10 @@ export default function SignInScreen() {
         >
           Sign in with Google
         </button>
+        <p className="privacy-link">
+          By signing in, you agree to our{' '}
+          <Link to="/privacy">Privacy Notice</Link>.
+        </p>
       </div>
     </main>
   );

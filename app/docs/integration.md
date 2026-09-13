@@ -34,6 +34,13 @@ Firestore security rules are in `rules/firestore.rules`. Highlights:
 
 Deploy with `firebase deploy --only firestore:rules`.
 
+## Privacy / GDPR
+
+- Data controller: CVPE Development Ltd, Finnish business ID 3651473-2.
+- Data privacy contact: <a href="mailto:dpo@cvpe.dev">dpo@cvpe.dev</a>.
+- The Privacy Notice lives in the app at `/privacy` (`src/components/PrivacyNotice/`).
+- Personal data is stored in Firestore in the European multi-region (`eur3`). Firebase Authentication and other Google Cloud subprocessors may process limited data outside the EEA under EU adequacy decisions and/or Standard Contractual Clauses.
+
 ## Question bank ingestion
 
 Run after any question-bank update:

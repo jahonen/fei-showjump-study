@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
 import { ensureUserProfile, updatePreferredLanguage, updatePublicName } from '@/services/firestore';
 import { formatLanguageLabel } from '@/utils/questionSelection';
@@ -95,6 +95,10 @@ export default function Settings() {
           Sign out
         </button>
       </section>
+
+      <p className="settings-privacy-link">
+        <Link to="/privacy">Privacy Notice</Link>
+      </p>
     </main>
   );
 }

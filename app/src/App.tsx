@@ -9,6 +9,7 @@ import HighscoreScreen from '@/components/HighscoreScreen/HighscoreScreen';
 import HighscoreResults from '@/components/HighscoreResults/HighscoreResults';
 import Leaderboard from '@/components/Leaderboard/Leaderboard';
 import Settings from '@/components/Settings/Settings';
+import PrivacyNotice from '@/components/PrivacyNotice/PrivacyNotice';
 import PrivateRoute from '@/components/PrivateRoute/PrivateRoute';
 
 function App() {
@@ -88,6 +89,7 @@ function App() {
             </PrivateRoute>
           }
         />
+        <Route path="/privacy" element={<PrivacyNotice />} />
       </Routes>
     </div>
   );

@@ -33,3 +33,14 @@
   width: 100%;
   font-weight: 600;
 }
+
+.privacy-link {
+  margin-top: $spacing-lg;
+  font-size: 0.875rem;
+  color: $color-text-muted;
+  margin-bottom: 0;
+
+  a {
+    color: $color-primary;
+  }
+}

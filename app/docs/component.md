@@ -118,6 +118,16 @@
 
 ## SignInScreen
 
-**Purpose:** Entry point with Google Sign-In.
+**Purpose:** Entry point with Google Sign-In. Includes a link to the Privacy Notice.
 
 **Location:** `src/components/SignInScreen/`
+
+## PrivacyNotice
+
+**Purpose:** Displays the minimum viable GDPR Privacy Notice.
+
+**Inputs:** None.
+
+**Outputs:** Static privacy notice content with controller details, legal bases, recipients, retention, and data subject rights.
+
+**Location:** `src/components/PrivacyNotice/`

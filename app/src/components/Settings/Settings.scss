@@ -87,3 +87,13 @@
     background-color: $color-error;
   }
 }
+
+.settings-privacy-link {
+  text-align: center;
+  margin-top: $spacing-lg;
+  margin-bottom: 0;
+
+  a {
+    color: $color-primary;
+  }
+}

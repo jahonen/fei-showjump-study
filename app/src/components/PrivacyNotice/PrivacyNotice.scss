@@ -1,0 +1,80 @@
+@use '../../styles/variables' as *;
+
+.privacy-notice {
+  flex: 1;
+  max-width: 720px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.privacy-notice h1 {
+  color: $color-primary;
+  margin-bottom: $spacing-sm;
+}
+
+.privacy-updated {
+  color: $color-text-muted;
+  margin-bottom: $spacing-lg;
+}
+
+.privacy-notice section {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-md;
+  margin-bottom: $spacing-md;
+}
+
+.privacy-notice h2 {
+  font-size: $font-size-lg;
+  color: $color-primary;
+  margin: 0 0 $spacing-md;
+}
+
+.privacy-notice p,
+.privacy-notice ul {
+  margin-bottom: $spacing-md;
+}
+
+.privacy-notice ul {
+  padding-left: $spacing-lg;
+}
+
+.privacy-notice li {
+  margin-bottom: $spacing-sm;
+}
+
+.privacy-notice table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: $spacing-md;
+}
+
+.privacy-notice th,
+.privacy-notice td {
+  text-align: left;
+  padding: $spacing-sm $spacing-md;
+  border-bottom: 1px solid $color-border;
+}
+
+.privacy-notice th {
+  background-color: $color-background;
+  font-weight: 600;
+}
+
+.privacy-notice code {
+  background-color: $color-background;
+  padding: $spacing-xs $spacing-sm;
+  border-radius: $radius / 2;
+}
+
+.privacy-notice a {
+  color: $color-primary;
+  text-decoration: underline;
+}
+
+.back-button {
+  margin-top: $spacing-lg;
+  width: 100%;
+}
