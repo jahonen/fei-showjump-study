@@ -12,6 +12,6 @@ OPTION_C: Artikla 221.3
 OPTION_D: Artikla 222.1.4
 CORRECT: B
 EXPLANATION: Kilpailusääntöjen artikla 354 määrittelee taulukon A mukaisesti tuomaroitavien aikaa vastaan otteluiden eri formaattivaihtoehdot.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: 1,40 metriä
 OPTION_D: 1,45 metriä
 CORRECT: D
 EXPLANATION: Juniorisääntöjen artikla 333 sallii urheilijoiden 16 vuotta täyttäessään kilpailla kaikissa CSI/CSIO 1*-5* -kilpailuissa ja seniorien alueellisissa kisoissa, edellyttäen, että aloituskierroksen korkeus ei ylitä 1,45 m seniorien alueellisissa kisoissa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

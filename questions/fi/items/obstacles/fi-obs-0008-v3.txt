@@ -12,6 +12,6 @@ OPTION_C: Turvakupit ovat syvyysrajoituksista vapautettuja
 OPTION_D: Kupin syvyys mitataan standardin ulkopuolelta
 CORRECT: B
 EXPLANATION: JR:n artikla 301 edellyttää, että tanko voi vieriä tuellaan, ja asettaa kupin syvyydeksi vähintään 18 mm ja enintään 20 mm.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

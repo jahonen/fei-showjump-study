@@ -12,6 +12,6 @@ OPTION_C: Ei vaadittua vähimmäisnopeutta
 OPTION_D: enintään 400 m minuutissa
 CORRECT: C
 EXPLANATION: JR:n artiklassa 258.1.6 todetaan, että voima- ja taitokilpailuissa ei ole vähimmäisnopeusvaatimusta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

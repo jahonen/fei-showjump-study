@@ -12,6 +12,6 @@ OPTION_C: Loimet hevosilla palkintojenjaon aikana
 OPTION_D: Palkintojen jakojärjestys
 CORRECT: C
 EXPLANATION: JR:n artikla 341 säätelee, voivatko hevoset käyttää loimia palkintojenjakotilaisuudessa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

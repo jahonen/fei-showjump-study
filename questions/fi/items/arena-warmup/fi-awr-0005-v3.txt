@@ -12,6 +12,6 @@ OPTION_C: Ajastin käynnistyy automaattisesti uudelleen, jos se keskeytyy
 OPTION_D: Tuomariston jäsenet voivat keskeyttää lähtölaskennan odottamattomien olosuhteiden sattuessa.
 CORRECT: A,B,D
 EXPLANATION: Lähtöjärjestyksen artiklassa 241.6.1.2 määrätään, että kello aktivoi 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteessa tulostaululla tai muulla näytöllä kilpailualueen vieressä. Lähtölaskenta asettaa ajan, jonka kuluttua urheilijan on aloitettava kierros ylittämällä lähtöviiva oikeaan suuntaan. Tuomaristo voi keskeyttää sen odottamattomissa olosuhteissa; se ei käynnisty uudelleen automaattisesti.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Eliminaatio
 OPTION_D: Urheilijan on jatkettava lyhyen tauon jälkeen
 CORRECT: C
 EXPLANATION: JR:n artikla 346 määrää, että jos hevonen vastustaa 45 sekuntia yhtäjaksoisesti kierroksen aikana, se johtaa kilpailusta poistumiseen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

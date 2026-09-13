@@ -12,6 +12,6 @@ OPTION_C: 250.1 artikla
 OPTION_D: Artikla 263.4
 CORRECT: B
 EXPLANATION: Yhteistyösääntöjen artikla 348 määrittelee luvattoman avun miksi tahansa kolmannen osapuolen fyysiseksi väliintuloksi lähtöviivan oikeaan suuntaan ylittämisen ja maaliviivan ylittämisen välillä viimeisen esteen hyppäämisen jälkeen, riippumatta siitä, onko avustus pyydetty vai ei, tarkoituksena auttaa urheilijaa tai hänen hevostaan. artikla 348 sisältää poikkeuksia.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Kun urheilija/hevosyhdistelmä ylittää lähtöviivan oikeaan suuntaa
 OPTION_D: Kun urheilija ylittää ensimmäisen esteen
 CORRECT: C
 EXPLANATION: JR:n artiklan 352 mukaan aika alkaa kulua, kun urheilija/hevonen-yhdistelmä ylittää lähtöviivan oikeaan suuntaan ensimmäistä kertaa kellon soiton jälkeen tai kun 45 sekunnin lähtölaskenta päättyy, riippuen siitä, kumpi tapahtuu ensin.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

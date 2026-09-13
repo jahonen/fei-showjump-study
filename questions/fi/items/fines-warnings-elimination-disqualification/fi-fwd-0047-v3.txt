@@ -12,6 +12,6 @@ OPTION_C: Varoitus
 OPTION_D: Ei seurauksia
 CORRECT: B
 EXPLANATION: JR:n artikla 346 tekee takkien ja varusteiden sääntöjen noudattamatta jättämisestä pakollisen hylkäämisen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

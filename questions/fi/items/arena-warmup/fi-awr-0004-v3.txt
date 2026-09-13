@@ -12,6 +12,6 @@ OPTION_C: Vain yhdistelmän viimeinen elementti numeroidaan
 OPTION_D: Kirjaimia ei sallita kurssisuunnitelmassa
 CORRECT: B
 EXPLANATION: Yhteiskilpailun estesääntöjen artiklassa 241.3.3 todetaan, että yhdistelmäesteillä on yksi numero, johon on lisätty erottavat kirjaimet, kuten 8A, 8B, 8C, jokaiseen elementtiin.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

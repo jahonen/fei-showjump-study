@@ -12,6 +12,6 @@ OPTION_C: Arvottu
 OPTION_D: Nopein alkuerä menee ensin
 CORRECT: B
 EXPLANATION: Yhteisten kilpailusääntöjen artiklassa 218.1.8 määrätään, että lähtöjärjestyksen uusinnassa on pysyttävä samana kuin lähtöjärjestys edellisellä kierroksella, ellei aikataulussa tai yhteisissä kilpailusäännöissä toisin määrätä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

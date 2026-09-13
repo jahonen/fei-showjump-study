@@ -12,6 +12,6 @@ OPTION_C: Kilpailu, jossa on alle kahdeksan estettä
 OPTION_D: Jokainen sisätiloissa järjestettävä kilpailu
 CORRECT: A
 EXPLANATION: Kilpailusääntöjen artiklassa 253 määrätään, että enimmäisaika on kaksinkertainen sallittuun aikaan nähden kilpailussa, jossa on määritelty sallittu aika.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

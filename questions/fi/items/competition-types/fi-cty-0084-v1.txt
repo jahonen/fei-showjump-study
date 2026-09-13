@@ -12,6 +12,6 @@ OPTION_C: Vain jaetut ensimmäiset
 OPTION_D: Nopein 50%
 CORRECT: B
 EXPLANATION: JR:n artiklassa 221.2.2 määrätään, että kaikissa Grand Prix -kilpailuissa kaikki rangaistuksettomat urheilijat palaavat toiselle kierrokselle, vaikka tämä lukumäärä olisi suurempi kuin aikataulussa vahvistettu prosenttiosuus.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

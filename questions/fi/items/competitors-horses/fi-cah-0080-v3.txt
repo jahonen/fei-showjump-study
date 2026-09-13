@@ -12,6 +12,6 @@ OPTION_C: Tuomaristo
 OPTION_D: Joukkueenjohtaja
 CORRECT: B
 EXPLANATION: Yhteisten kilpailusääntöjen artiklassa 207.2.4.4 todetaan, että värejä koskevat kiistat annetaan FEI:n pääsihteerin käsiteltäväksi, jonka päätös on lopullinen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

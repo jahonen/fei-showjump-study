@@ -12,6 +12,6 @@ OPTION_C: Eliminaatio
 OPTION_D: Sakko
 CORRECT: C
 EXPLANATION: Yhteisten sääntöjen artiklassa 217.1.1 luetellaan "Toinen tottelemattomuus tai muu yhteisten sääntöjen artiklan 342 mukainen rikkomus" taulukon A mukaiseksi hylkäämiseksi.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

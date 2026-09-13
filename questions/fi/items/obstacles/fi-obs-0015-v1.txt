@@ -12,6 +12,6 @@ OPTION_C: Ensimmäisen esteen etureunasta toisen esteen etureunaan
 OPTION_D: Kunkin esteen korkeimmasta kohdasta
 CORRECT: B
 EXPLANATION: JR:n artiklassa 237.1 todetaan, että etäisyys mitataan laskeutumispuolella olevan esteen tyvestä seuraavan ponnistuspuolella olevan esteen tyveen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

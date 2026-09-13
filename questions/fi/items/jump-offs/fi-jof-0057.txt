@@ -12,6 +12,6 @@ OPTION_C: Kun urheilija/hevosyhdistelmät ovat tasoissa palkintokorokesijoissa m
 OPTION_D: Aina kun aikataulussa mainitaan sana hyppy-off
 CORRECT: A,B,C
 EXPLANATION: JR:n artikla 344 määrittelee kolme tilannetta, joissa uusinnat voidaan suorittaa, mukaan lukien rangaistuksettomat yhdistelmät, tasapisteet ensimmäisestä sijasta ja tasapisteet mestaruuskilpailuissa/kisoissa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

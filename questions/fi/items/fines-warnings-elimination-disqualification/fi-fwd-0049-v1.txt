@@ -12,6 +12,6 @@ OPTION_C: Sykemittari, jota ei ole yhdistetty urheilijaan
 OPTION_D: Hevosen selkään kiinnitetty kamera
 CORRECT: A
 EXPLANATION: Yhteistyösopimuksen artikla 346 viittaa nimenomaisesti matkapuhelimiin, muihin elektronisiin viestintälaitteisiin ja kuulokkeisiin.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Ei rangaistusta
 OPTION_D: Eliminaatio
 CORRECT: C
 EXPLANATION: Yhteisen säännön artikla 342 toteaa, että ensimmäisestä tottelemattomuudesta taulukon C mukaisesti ei seuraa rangaistusta (ei mitään).
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Takin käyttämättä jättäminen lämpimällä säällä
 OPTION_D: Hevosen siirtäminen epävirallisille talleille ilman lupaa
 CORRECT: C
 EXPLANATION: JR:n artikla 346 luettelee pakolliset hylkäykset, mukaan lukien liialliset kannuksen/piiskan jäljet, luvattomien esteiden hyppääminen ja hevosen siirtäminen epävirallisille talleille. Pukeutumiskoodista voidaan poiketa artikla 346 nojalla lämpimällä säällä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

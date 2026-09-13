@@ -12,6 +12,6 @@ OPTION_C: Palkintorahat
 OPTION_D: Karsintojen osallistujien lukumäärä
 CORRECT: B
 EXPLANATION: JR:n artiklassa 217.1.2 todetaan, että virherangaistusten yhteenlaskeminen antaa urheilija/hevonen-yhdistelmän kierroksen pisteet.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

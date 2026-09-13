@@ -12,6 +12,6 @@ OPTION_C: Voi osallistua toiselle kierrokselle eri hevosella
 OPTION_D: Sijoitetaan automaattisesti viimeiseksi
 CORRECT: B
 EXPLANATION: Urheilijasääntöjen artiklassa 221.1 todetaan, että urheilijat, jotka on pudotettu tai jotka ovat keskeyttäneet kilpailun ensimmäisellä kierroksella, eivät saa osallistua toiselle kierrokselle eivätkä he saa sijoittua.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

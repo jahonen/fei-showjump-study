@@ -12,6 +12,6 @@ OPTION_C: Yhdeksän vuotta
 OPTION_D: Kymmenen vuotta
 CORRECT: C
 EXPLANATION: Junioriratsastajan sääntöjen artikla 333 edellyttää hevosten olevan vähintään yhdeksänvuotiaita olympialaisissa, maailmanmestaruuskilpailuissa ja FEI:n esteratsastuksen maailmancupin finaalissa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

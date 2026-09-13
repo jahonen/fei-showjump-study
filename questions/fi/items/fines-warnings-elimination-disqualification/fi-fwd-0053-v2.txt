@@ -12,6 +12,6 @@ OPTION_C: Artikla 266
 OPTION_D: Artikla 275
 CORRECT: C
 EXPLANATION: JR:n artikla 346 on otsikoitu "Suojien ja siteiden tarkastus", ja se määrää, että suoja- ja siteiden tarkastus on pakollista kaikille hevosille, jotka osallistuvat Grand Prix'hin, kunkin kilpailun korkeimman palkintosumman kilpailuun (ellei kyseessä ole Grand Prix), Nations Cupiin/Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

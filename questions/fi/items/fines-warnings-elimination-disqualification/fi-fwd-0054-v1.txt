@@ -12,6 +12,6 @@ OPTION_C: FEI
 OPTION_D: Joukkueenjohtaja
 CORRECT: C
 EXPLANATION: Yhteisen kilpailusäännön artikla 346 määrää, että kaikki tuomariston puheenjohtajan määräämät sakot on maksettava kyseisen urheilijan kansallisen liiton toimesta FEI:lle.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

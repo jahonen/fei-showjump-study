@@ -12,6 +12,6 @@ OPTION_C: Kansakuntien Cup-kilpailu
 OPTION_D: Puissance-kilpailu
 CORRECT: B
 EXPLANATION: JR:n artiklassa 240.3 todetaan, että Jokeri on vaikea valinnainen este, jota saa käyttää vain keräilykilpailussa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

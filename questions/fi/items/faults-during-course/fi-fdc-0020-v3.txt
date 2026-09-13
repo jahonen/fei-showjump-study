@@ -12,6 +12,6 @@ OPTION_C: Lipun kaataminen hypätessään
 OPTION_D: Koko esteen tai sen yläosan kaataminen
 CORRECT: D
 EXPLANATION: JR:n artiklassa 245.1.1 todetaan, että esteen kaatuminen tapahtuu, kun urheilija/hevosyhdistelmän virheen vuoksi este tai sen saman pystysuoran tason yläosa kaatuu. artikla 348 tapauksissa ei rangaista kaatumisesta, mukaan lukien esteen täytteen kaataminen (245.5.4), suljetun yhdistelmän siirtäminen pois paikaltaan (mikä johtaa hylkäämiseen artikla 348 mukaisesti) ja lipun kaataminen hypyn aikana (245.5.2).
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

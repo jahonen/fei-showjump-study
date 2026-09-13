@@ -12,6 +12,6 @@ OPTION_C: 45 sekunnin lähtölaskentaa ei saa keskeyttää
 OPTION_D: Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista
 CORRECT: B,D
 EXPLANATION: Lähtömerkin ja lähtöviivan ylityksen välisenä aikana tapahtuvista tottelemattomuudesta ei rangaisteta, mutta kaatuminen radalle tulon ja lähtöviivan ylityksen välillä estää urheilijaa lähtemästä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

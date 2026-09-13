@@ -12,6 +12,6 @@ OPTION_C: 15 cm
 OPTION_D: 20 cm
 CORRECT: B
 EXPLANATION: JR:n artikla 329 sallii lämmittelyesteiden, joiden korkeus on 1,40 m tai vähemmän, ylittää sekä kilpailuesteiden todellisen enimmäiskorkeuden että -leveyden 10 cm:llä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

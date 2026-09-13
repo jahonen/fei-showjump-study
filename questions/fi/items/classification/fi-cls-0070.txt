@@ -12,6 +12,6 @@ OPTION_C: Täydellinen läsnäolo tapahtumissa
 OPTION_D: Virkamiespalvelu
 CORRECT: B
 EXPLANATION: JR:n artiklassa 268.1 määrätään, että FEI:n esteratsastuksen kunniamerkit myönnetään urheilijoille, jotka ovat suorittaneet ensimmäisen kierroksen Nations Cup/Longines League of Nations™ -kilpailussa seniorien CSIO-kilpailussa, olympialaisten joukkue- ja/tai yksilökilpailussa sekä seniorien maailman- ja seniorien mannertenvälisissä joukkue- ja/tai yksilömestaruuskilpailuissa luopumatta kilpailusta tai putoamatta kilpailusta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

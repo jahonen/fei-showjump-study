@@ -12,6 +12,6 @@ OPTION_C: Neljä minuuttia
 OPTION_D: Ei aikarajaa
 CORRECT: B
 EXPLANATION: JR:n artiklan 342 mukaan taulukon C mukaan, jos radan pituus on 600 m tai enemmän, enimmäisaikaraja on kolme minuuttia.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Sallittu aika lasketaan uudelleen
 OPTION_D: Kierros alkaa uudelleen lähtöviivalta
 CORRECT: B
 EXPLANATION: JR:n artiklassa 256 määrätään, että kun este on rakennettu uudelleen, kelloa soitetaan merkiksi siitä, että rata on valmis ja urheilija voi jatkaa kierrosta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

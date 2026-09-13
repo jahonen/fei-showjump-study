@@ -12,6 +12,6 @@ OPTION_C: Yleiset säännöt, hevosten antidoping- ja valvottujen lääkkeiden k
 OPTION_D: Vain tapahtuman aikataulu
 CORRECT: C
 EXPLANATION: Yhteisten ohjeiden artiklassa 275.2 todetaan, että lääkityksen valvonta on suoritettava yleisten ohjeiden, hevossääntöjen, hevosten antidoping- ja valvottujen lääkkeiden määräysten sekä muiden sovellettavien FEI:n sääntöjen tai määräysten mukaisesti.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

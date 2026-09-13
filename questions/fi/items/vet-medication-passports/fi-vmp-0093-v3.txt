@@ -12,6 +12,6 @@ OPTION_C: Tuomaristo yhdessä eläinlääkäriasiantuntijan kanssa
 OPTION_D: Tekninen edustaja yksin
 CORRECT: C
 EXPLANATION: Yhteisösääntöjen artikla 321 määrää, että tuomariston on eläinlääkäriasiantuntijan kanssa neuvoteltuaan mahdollista harkintansa mukaan sallia toinen hevostarkastus myöhemmin hevosille, jotka eivät ole voineet olla läsnä poikkeuksellisten ja odottamattomien olosuhteiden vuoksi.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

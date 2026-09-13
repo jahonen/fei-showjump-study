@@ -12,6 +12,6 @@ OPTION_C: Urheilijan valmentaja huutaa ohjeita areenan ulkopuolelta
 OPTION_D: Kaikki tuomariston valtuuttama apu
 CORRECT: B
 EXPLANATION: JR:n artikla 348 määrittelee luvattoman avun mitä tahansa kolmannen osapuolen fyysistä puuttumista asiaan lähtöviivan ylityksen ja maaliviivan välillä viimeisen esteen hyppäämisen jälkeen, olipa se pyydetty tai ei, tarkoituksena auttaa urheilijaa tai hänen hevostaan. Luvaton apu kierroksen aikana johtaa kilpailusta poistamiseen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

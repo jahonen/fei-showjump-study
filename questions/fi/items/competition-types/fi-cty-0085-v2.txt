@@ -12,6 +12,6 @@ OPTION_C: Kuusi vai kahdeksan
 OPTION_D: Seitsemästä yhdeksään
 CORRECT: B
 EXPLANATION: Yhteisen kilpailusäännön artiklassa 222.1.2 todetaan, että toinen vaihe tapahtuu neljästä kuuteen esteen yli.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

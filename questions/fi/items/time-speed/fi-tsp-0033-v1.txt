@@ -12,6 +12,6 @@ OPTION_C: Aika nollataan
 OPTION_D: Esteen uudelleenrakentamiseen kuluva aika lisätään
 CORRECT: B
 EXPLANATION: JR:n artikla 352 määrää, että määritellyn tottelemattomuuden ja alaslyönnin jälkeen urheilijan kierroksen suorittamiseen käyttämään aikaan lisätään kuusi sekuntia aikakorjausta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

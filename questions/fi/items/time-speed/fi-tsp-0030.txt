@@ -12,6 +12,6 @@ OPTION_C: Radan pituuden ja JR:n artiklan 258 mukaisesti asetettujen nopeuksien 
 OPTION_D: Se on kiinteä 80 sekuntia kaikissa kilpailuissa.
 CORRECT: C
 EXPLANATION: JR:n artiklassa 252 todetaan, että kierroksen sallittu aika määräytyy suhteessa radan pituuteen ja JR:n artiklassa 258 määriteltyihin nopeuksiin.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

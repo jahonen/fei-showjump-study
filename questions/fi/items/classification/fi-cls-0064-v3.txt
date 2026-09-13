@@ -12,6 +12,6 @@ OPTION_C: Artikla 268.1
 OPTION_D: Artikla 269
 CORRECT: B
 EXPLANATION: JR:n artikla 341 sisältää säännön siitä, miten yksilöllinen sijoitus määritetään.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

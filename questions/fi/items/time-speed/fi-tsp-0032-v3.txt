@@ -12,6 +12,6 @@ OPTION_C: Kuka tahansa tuomariston jäsen
 OPTION_D: Vain kellosta vastaava tuomari
 CORRECT: D
 EXPLANATION: Tuomarisääntöjen artiklassa 255.3 todetaan, että vain kellosta vastaava tuomari saa käynnistää ja pysäyttää kellon; ajanottajaa ei voida asettaa vastuulliseksi tästä toiminnosta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

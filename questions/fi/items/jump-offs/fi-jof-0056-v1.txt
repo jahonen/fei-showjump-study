@@ -12,6 +12,6 @@ OPTION_C: Järjestäjä päättää päivän
 OPTION_D: Tuomaristo päättää
 CORRECT: B
 EXPLANATION: Kilpailusääntöjen artikla 344 määrää, että jos aikataulussa ei ole toisin määrätty, kilpailua ei katsota järjestettävän uusintahyppyä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

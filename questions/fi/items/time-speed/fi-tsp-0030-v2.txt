@@ -12,6 +12,6 @@ OPTION_C: 90 sekuntia
 OPTION_D: 100 sekuntia
 CORRECT: A
 EXPLANATION: Sallittu aika = radan pituus / nopeus. 400 m / 400 m/min = 1 min = 60 sekuntia.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

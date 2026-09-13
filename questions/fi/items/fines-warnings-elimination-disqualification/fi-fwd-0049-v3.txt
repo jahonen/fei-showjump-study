@@ -12,6 +12,6 @@ OPTION_C: Artikla 207.3.3
 OPTION_D: Artikla 207.2
 CORRECT: B
 EXPLANATION: Yhteisten sääntöjen artikla 346 viittaa yhteisten sääntöjen artiklaan 207.3.2, joka kieltää matkapuhelimien ja elektronisten laitteiden käytön kilpailualueella kilpailun aikana.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

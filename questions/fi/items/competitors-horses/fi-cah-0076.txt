@@ -12,6 +12,6 @@ OPTION_C: 1,40 metriä
 OPTION_D: 1,50 metriä
 CORRECT: B
 EXPLANATION: Juniorisääntöjen artiklassa 205.2.2 määrätään, että urheilijat voivat 12. syntymäpäivästään alkaen kilpailla CSI/CSIO 1*–5* ja CSIAm A/B -lajeissa edellyttäen, että ensimmäisen kierroksen estekorkeus ei ylitä 1,30 m.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

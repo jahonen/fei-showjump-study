@@ -12,6 +12,6 @@ OPTION_C: Artikla 218.1.7
 OPTION_D: Artikla 218.2.1
 CORRECT: B
 EXPLANATION: Yhteisen ohjeistuksen 218.1.6 artiklassa esitetään yleinen periaate ja taulukosta A taulukkoon C tehty poikkeus, jos liitteessä on niin määritelty.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Elementtien välinen etäisyys
 OPTION_D: Väri
 CORRECT: C
 EXPLANATION: Yhdistelmäesteen elementtien välisen etäisyyden muuttaminen uusinnan aikana on nimenomaisesti kielletty. Yhteisösääntöjen artikla 344 kieltää erityisesti yhdistelmäesteen elementtien välisen etäisyyden muuttamisen uusinnan aikana.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

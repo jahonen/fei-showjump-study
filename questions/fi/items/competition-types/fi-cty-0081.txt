@@ -12,6 +12,6 @@ OPTION_C: Nopeampi kierros voittaa
 OPTION_D: Ne asetetaan tasaväkisesti ensimmäiseksi
 CORRECT: B
 EXPLANATION: JR:n artiklassa 220.1.1.1 todetaan, että taulukossa A (ei aikaa vastaan) urheilijat, joilla on samat rangaistuspisteet missä tahansa sijoituksessa, jakavat palkinnot eikä uusintaa ole.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

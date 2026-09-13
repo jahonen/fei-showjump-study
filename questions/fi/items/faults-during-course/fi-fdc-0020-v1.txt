@@ -12,6 +12,6 @@ OPTION_C: Yksi putoavaa osaa kohden
 OPTION_D: Ei mitään, elleivät molemmat putoa
 CORRECT: A
 EXPLANATION: JR:n artikla 348 määrää, että kun yhdellä suorituksella ylitettävä este koostuu osista, jotka eivät ole samassa pystytasossa, yhden tai useamman päällimmäisen osan putoaminen lasketaan vain yhdeksi virheeksi riippumatta pudonneiden osien lukumäärästä ja sijainnista.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

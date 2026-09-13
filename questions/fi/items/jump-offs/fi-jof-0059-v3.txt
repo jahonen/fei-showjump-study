@@ -12,6 +12,6 @@ OPTION_C: 6 estettä
 OPTION_D: 7 estettä
 CORRECT: C
 EXPLANATION: JR:n artikla 344 sallii esteiden määrän vähentämisen uusinnassa vähintään kuuteen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

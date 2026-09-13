@@ -12,6 +12,6 @@ OPTION_C: Useampi kuin yksi yhdistelmä ilman rangaistuksia alkuerissä
 OPTION_D: Tasapeli pelkästään peliajalla ilman rangaistuspotkukilpailua
 CORRECT: D
 EXPLANATION: JR:n artikla 344 listaa tasapisteet rangaistuspisteissä (ensimmäinen sija tai palkintokoroke mestaruuskilpailuissa/peleissä) ja useat nolla rangaistuspistettä sisältävät kierrokset perusteiksi uusinnalle, ei mielivaltaisia tasapisteitä pelkästään ajassa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

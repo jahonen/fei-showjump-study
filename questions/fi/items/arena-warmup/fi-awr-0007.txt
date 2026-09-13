@@ -12,6 +12,6 @@ OPTION_C: Yhden pystysuoran hyppääminen
 OPTION_D: Ohjainpylväiden käyttö
 CORRECT: B
 EXPLANATION: JR:n artikla 329 nimenomaisesti toteaa, että voimistelu-/harjoitteluharjoituksia ei sallita kilpailun lämmittelyn aikana.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

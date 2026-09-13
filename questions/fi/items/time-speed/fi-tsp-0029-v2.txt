@@ -12,6 +12,6 @@ OPTION_C: Kun kello soitetaan
 OPTION_D: Kun urheilija poistuu areenalta
 CORRECT: B
 EXPLANATION: JR:n artiklassa 251.1.2 määrätään, että aika pysähtyy, kun urheilija/hevosyhdistelmä ylittää maaliviivan oikeaan suuntaan hypättyään viimeisen esteen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

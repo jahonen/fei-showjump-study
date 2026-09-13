@@ -12,6 +12,6 @@ OPTION_C: Kokonaisrangaistukset ja erikseen aikarangaistukset ja muut rangaistuk
 OPTION_D: Vain kierroksen aika
 CORRECT: C
 EXPLANATION: JR:n artiklan 342 mukaan virallisissa tuloksissa on ilmoitettava rangaistuspisteiden kokonaismäärä ja erikseen eriteltävä aikarangaistukset ja muut kierroksen aikana kertyneet rangaistukset.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

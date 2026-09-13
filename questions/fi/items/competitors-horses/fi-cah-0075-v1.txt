@@ -12,6 +12,6 @@ OPTION_C: Vain CSIAm
 OPTION_D: Kaikki CSI:t
 CORRECT: B
 EXPLANATION: Juniorisääntöjen artikla 333 kieltää alle 18-vuotiaita urheilijoita kilpailemasta CSI3* – CSI5* Grand Prix -kilpailuissa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

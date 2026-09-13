@@ -12,6 +12,6 @@ OPTION_C: 1. maaliskuuta
 OPTION_D: 1. kesäkuuta
 CORRECT: A
 EXPLANATION: JR:n artikla 333 toteaa, että pohjoisen pallonpuoliskon hevosten virallinen syntymäaika on 1. tammikuuta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

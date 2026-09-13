@@ -12,6 +12,6 @@ OPTION_C: Alaosan putoamisesta rangaistaan aina.
 OPTION_D: Kumpikaan osa putoaa, ei lasketa kaatumiseksi.
 CORRECT: A
 EXPLANATION: Yhteisten sääntöjen artikla 348 ja sitä seuraava kappale toteavat, että kun osat asetetaan päällekkäin samassa pystytasossa, vain ylimmän osan putoamisesta rangaistaan.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

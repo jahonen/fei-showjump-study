@@ -12,6 +12,6 @@ OPTION_C: Sallittu vain olkapäällä
 OPTION_D: Hevonen kieltäytyy, jos se jätetään huomiotta
 CORRECT: B
 EXPLANATION: JR:n artikla 346 määrää, että raipan liiallinen käyttö on ehdottomasti kielletty, ja antaa esimerkkejä tästä, kuten käyttö hevosen päässä useammin kuin kolme kertaa peräkkäin ja karsintakilpailun jälkeen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

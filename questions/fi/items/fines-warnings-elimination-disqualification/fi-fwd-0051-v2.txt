@@ -12,6 +12,6 @@ OPTION_C: 261 ja 262 artikla
 OPTION_D: 267 ja 268 artikla
 CORRECT: A
 EXPLANATION: Yhteisen säännöt 264.2.1 artiklassa määrätään, että kannusten tai raipan liialliseen käyttöön viittaavista merkinnöistä rangaistaan, ja todetaan, että yhteisen säännöt 259.1 ja 265.2 artiklojen nojalla voi olla lisäseuraamuksia.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

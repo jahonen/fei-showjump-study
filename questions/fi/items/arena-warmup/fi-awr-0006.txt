@@ -12,6 +12,6 @@ OPTION_C: 10 cm enemmän kuin kilpailun enimmäispituus, jopa 1,50 m
 OPTION_D: 1,65 metriä
 CORRECT: C
 EXPLANATION: Kilpailusääntöjen artikla 329 määrää, että kilpailuissa (poikkeamalla ponikilpailut), joissa esteiden enimmäiskorkeus on 1,40 m tai vähemmän, lämmittelyesteet eivät saa ylittää 10 cm kilpailuesteiden todellista enimmäiskorkeutta ja -leveyttä.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

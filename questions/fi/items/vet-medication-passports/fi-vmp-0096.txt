@@ -12,6 +12,6 @@ OPTION_C: Jokainen hevonen jokaisessa kilpailussa
 OPTION_D: Vain hevoset, jotka kieltäytyvät tarkastuksesta
 CORRECT: A,B
 EXPLANATION: Yhteisösääntöjen artiklassa 275.1.4.2 todetaan, että näytettä on normaalisti otettava riittävästi hevosia sen varmistamiseksi, että (a) kaikissa yksilökilpailujen finaalikilpailuissa näyte otetaan kolmelta ensimmäiseltä sijoittuneelta hevoselta ja (b) joukkuekilpailujen estekilpailuissa yksi hevonen kunkin kolmen ensimmäiseksi sijoittuneen joukkueen kaikista hevosista otetaan näyte.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

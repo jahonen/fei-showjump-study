@@ -12,6 +12,6 @@ OPTION_C: Artikla 267.7
 OPTION_D: 268.1 artikla
 CORRECT: C
 EXPLANATION: Yhteiskilpailujen säännöt artiklassa 267.7 todetaan, että karsintakilpailujen voittajat säilyttävät voittamansa palkinnot, vaikka he kieltäytyisivät osallistumasta loppukilpailuun.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

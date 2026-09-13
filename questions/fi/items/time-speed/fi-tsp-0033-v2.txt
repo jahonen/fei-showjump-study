@@ -12,6 +12,6 @@ OPTION_C: Kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtu
 OPTION_D: Kun hevonen laskeutuu esteen ylityksen jälkeen
 CORRECT: C
 EXPLANATION: JR:n artiklassa 256 määrätään, että kello käynnistetään uudelleen, kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtui; jos hylkääminen tapahtui sarjan toisessa tai sitä seuraavassa osassa, kello käynnistetään uudelleen, kun hevonen nousee maasta esteen ensimmäisessä osassa.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

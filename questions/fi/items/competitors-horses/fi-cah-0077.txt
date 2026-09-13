@@ -12,6 +12,6 @@ OPTION_C: 25
 OPTION_D: 16
 CORRECT: B
 EXPLANATION: Nuorten ratsastajien sääntöjen artiklassa 205.3.2 todetaan, että urheilijat voivat kilpailla nuorena ratsastajana sen kalenterivuoden alusta, jona he täyttävät 16 vuotta, sen kalenterivuoden loppuun, jona he täyttävät 21 vuotta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Se on vasta ensimmäinen este
 OPTION_D: Urheilija maksaa sakon
 CORRECT: A
 EXPLANATION: Kilpailusääntöjen artiklassa 263.3 määrätään, että urheilija saa hypätä yhden esteen hylättyään kilpailusta, edellyttäen että se on osa meneillään olevaa kilpailurataa eikä hylätty kilpailusta johtuvan kaatumisen seurauksena.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

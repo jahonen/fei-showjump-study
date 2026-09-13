@@ -12,6 +12,6 @@ OPTION_C: Neljä
 OPTION_D: Rajoittamaton
 CORRECT: C
 EXPLANATION: JR:n artiklassa 203.1.1 määrätään, että jos samana viikonloppuna järjestetään eri luokkien kilpailuja, hevosten määrä urheilijaa kohden saa olla enintään neljä luokkaa kohden.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

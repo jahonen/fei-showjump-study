@@ -12,6 +12,6 @@ OPTION_C: Sininen
 OPTION_D: Keltainen
 CORRECT: B
 EXPLANATION: JR:n artikla 348 edellyttää urheilijan ohittavan lippujen välistä, joissa punainen lippu on oikealla ja valkoinen lippu vasemmalla. Esteen hyppääminen kahden samanvärisen lipun välistä rangaistaan heittona artikla 348 mukaisesti.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

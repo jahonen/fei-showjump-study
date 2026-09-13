@@ -12,6 +12,6 @@ OPTION_C: Artikla 267.2
 OPTION_D: 268.1 artikla
 CORRECT: B
 EXPLANATION: JR:n artikla 341 sisältää luokitussäännöt urheilijoille, jotka keskeyttävät, putoavat tai vetäytyvät luvalla uusinnasta, toisesta kierroksesta tai voittavasta kierroksesta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

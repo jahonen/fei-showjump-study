@@ -12,6 +12,6 @@ OPTION_C: Vain pystysuorille esteille
 OPTION_D: Vain jos urheilija myöntää virheen
 CORRECT: B
 EXPLANATION: JR:n artiklassa 245.2 määrätään, että alasajot tapahtuvat lähtö- ja maaliviivan välillä, lukuun ottamatta viimeistä estettä, jos se kaatuu maaliviivan ylityksen jälkeen, mutta ennen radalta poistumista tai seuraavan urheilijan poistumista kellosta.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

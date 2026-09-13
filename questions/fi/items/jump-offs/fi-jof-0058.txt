@@ -12,6 +12,6 @@ OPTION_C: Esteet voidaan tehdä eri materiaaleista
 OPTION_D: Urheilija voi vaihtaa hevosta
 CORRECT: A
 EXPLANATION: Yhteisösääntöjen artiklassa 218.1.6 todetaan, että periaatteessa uusintahyppy on suoritettava samojen sääntöjen ja taulukon mukaisesti kuin alkuerä(t), mutta taulukon A mukaisen kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaisesti, jos ohjelmassa niin määrätään.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

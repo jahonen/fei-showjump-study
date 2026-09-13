@@ -12,6 +12,6 @@ OPTION_C: Artikla 246.4.3
 OPTION_D: Artikla 246.5
 CORRECT: C
 EXPLANATION: Yhteistyösääntöjen artikla 346 viittaa artiklaan 246.4.3, jonka mukaan 45 sekunnin yhtäjaksoinen vastus johtaa hylkäämiseen.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes

@@ -12,6 +12,6 @@ OPTION_C: Nopeus: 400 m/min
 OPTION_D: Suurin leviämä: 2,00 m
 CORRECT: A,C,D
 EXPLANATION: JR:n artikla 354 taulukossa 5 tähden NC-ulkoradoille on 12 estettä, joiden minimi-/maksimikorkeus on 1,45/1,60 m, nopeus 400 m/min ja suurin esteleveys 2,00 m.
-STATUS: draft
+STATUS: verified
 CREATED: 2026-09-13
-VERIFIED_AGAINST_SOURCE: no
+VERIFIED_AGAINST_SOURCE: yes
