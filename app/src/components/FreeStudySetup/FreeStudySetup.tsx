@@ -1,13 +1,11 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useAuth } from '@/hooks/useAuth';
 import { getVerifiedItems } from '@/services/firestore';
 import { formatDomainLabel } from '@/utils/questionSelection';
 import type { Language, ParentItem } from '@/types';
 import './FreeStudySetup.scss';
 
 export default function FreeStudySetup() {
-  const { user } = useAuth();
   const navigate = useNavigate();
   const [items, setItems] = useState<ParentItem[]>([]);
   const [selectedDomains, setSelectedDomains] = useState<Set<string>>(new Set());
@@ -15,7 +13,6 @@ export default function FreeStudySetup() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (!user) return;
     let cancelled = false;
 
     async function load() {
@@ -28,7 +25,7 @@ export default function FreeStudySetup() {
 
     load();
     return () => { cancelled = true; };
-  }, [user, lang]);
+  }, [lang]);
 
   const domains = Array.from(new Set(items.map((item) => item.domain))).sort();
 

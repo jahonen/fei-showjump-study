@@ -13,6 +13,8 @@ export default function Dashboard() {
   const [reviewCount, setReviewCount] = useState<number>(0);
   const [highscore, setHighscore] = useState<number | null>(null);
 
+  const isGuest = user === null;
+
   useEffect(() => {
     if (!user) return;
     const uid = user.uid;
@@ -52,10 +54,25 @@ export default function Dashboard() {
     <main className="dashboard" role="main">
       <header className="dashboard-header">
         <h1>ShowJump Study</h1>
-        <button type="button" onClick={handleLogout} className="logout-button">
-          Sign out
-        </button>
+        {isGuest ? (
+          <button type="button" onClick={() => navigate('/')} className="logout-button">
+            Sign in
+          </button>
+        ) : (
+          <button type="button" onClick={handleLogout} className="logout-button">
+            Sign out
+          </button>
+        )}
       </header>
+
+      {isGuest && (
+        <section className="guest-banner" aria-label="Guest mode">
+          <p>
+            You are using the app as a guest. Free Study and Timed Trial are available.
+            Sign in to save your progress and unlock Review and Highscore.
+          </p>
+        </section>
+      )}
 
       <section className="language-bar" aria-label="Language selector">
         {availableLanguages.map((lang) => (
@@ -65,6 +82,7 @@ export default function Dashboard() {
             className={profile?.preferredLanguage === lang ? 'active' : ''}
             onClick={() => changeLanguage(lang)}
             aria-pressed={profile?.preferredLanguage === lang}
+            disabled={isGuest}
           >
             {formatLanguageLabel(lang)}
           </button>
@@ -84,14 +102,16 @@ export default function Dashboard() {
         />
         <ModeCard
           title="Review"
-          description={`${reviewCount} item${reviewCount === 1 ? '' : 's'} to review`}
+          description={isGuest ? 'Sign in to review missed questions' : `${reviewCount} item${reviewCount === 1 ? '' : 's'} to review`}
           onClick={() => navigate('/review')}
-          badge={reviewCount > 0 ? reviewCount : undefined}
+          badge={!isGuest && reviewCount > 0 ? reviewCount : undefined}
+          disabled={isGuest}
         />
         <ModeCard
           title="Highscore"
-          description={highscore !== null ? `Best: ${highscore}` : 'Speed survival mode'}
+          description={isGuest ? 'Sign in to compete on the leaderboard' : highscore !== null ? `Best: ${highscore}` : 'Speed survival mode'}
           onClick={() => navigate('/highscore')}
+          disabled={isGuest}
         />
       </section>
 
@@ -99,6 +119,7 @@ export default function Dashboard() {
         type="button"
         className="settings-link"
         onClick={() => navigate('/settings')}
+        disabled={isGuest}
       >
         Settings
       </button>
@@ -111,11 +132,18 @@ interface ModeCardProps {
   description: string;
   onClick: () => void;
   badge?: number;
+  disabled?: boolean;
 }
 
-function ModeCard({ title, description, onClick, badge }: ModeCardProps) {
+function ModeCard({ title, description, onClick, badge, disabled }: ModeCardProps) {
   return (
-    <button type="button" className="mode-card" onClick={onClick} aria-label={title}>
+    <button
+      type="button"
+      className={`mode-card ${disabled ? 'disabled' : ''}`}
+      onClick={onClick}
+      aria-label={title}
+      disabled={disabled}
+    >
       <h2>{title}</h2>
       <p>{description}</p>
       {badge !== undefined && <span className="mode-badge" aria-label={`${badge} waiting`}>{badge}</span>}

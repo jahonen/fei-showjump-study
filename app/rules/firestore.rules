@@ -28,11 +28,11 @@ service cloud.firestore {
     }
 
     match /questionBank/{lang}/items/{parentId} {
-      allow read: if request.auth != null && resource.data.status == "verified";
+      allow read: if resource.data.status == "verified";
       allow write: if false;
 
       match /variants/{variantId} {
-        allow read: if request.auth != null;
+        allow read: if true;
         allow write: if false;
       }
     }

@@ -17,38 +17,10 @@ function App() {
     <div className="app">
       <Routes>
         <Route path="/" element={<SignInScreen />} />
-        <Route
-          path="/dashboard"
-          element={
-            <PrivateRoute>
-              <Dashboard />
-            </PrivateRoute>
-          }
-        />
-        <Route
-          path="/free-study"
-          element={
-            <PrivateRoute>
-              <FreeStudySetup />
-            </PrivateRoute>
-          }
-        />
-        <Route
-          path="/study"
-          element={
-            <PrivateRoute>
-              <QuestionScreen />
-            </PrivateRoute>
-          }
-        />
-        <Route
-          path="/timed-results"
-          element={
-            <PrivateRoute>
-              <TimedTrialResults />
-            </PrivateRoute>
-          }
-        />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/free-study" element={<FreeStudySetup />} />
+        <Route path="/study" element={<QuestionScreen />} />
+        <Route path="/timed-results" element={<TimedTrialResults />} />
         <Route
           path="/review"
           element={

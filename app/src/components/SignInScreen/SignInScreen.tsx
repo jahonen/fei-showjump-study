@@ -75,8 +75,15 @@ export default function SignInScreen() {
         >
           Sign in with Google
         </button>
+        <button
+          type="button"
+          className="guest-button"
+          onClick={() => navigate('/dashboard')}
+        >
+          Continue without signing in
+        </button>
         <p className="privacy-link">
-          By signing in, you agree to our{' '}
+          By using this app, you agree to our{' '}
           <Link to="/privacy">Privacy Notice</Link>.
         </p>
       </div>

@@ -46,8 +46,7 @@ export default function QuestionScreen() {
 
   // Load questions
   useEffect(() => {
-    if (!user) return;
-    const uid = user.uid;
+    if (mode === 'review' && !user) return;
     let cancelled = false;
 
     async function load() {
@@ -56,6 +55,7 @@ export default function QuestionScreen() {
 
       let selectedQuestions: ActiveQuestion[] = [];
       if (mode === 'review') {
+        const uid = user!.uid;
         const activeFlags = await getActiveFlags(uid, lang);
         const parentIds = new Set(activeFlags.map((f) => f.id));
         const reviewItems = allItems.filter((item) => parentIds.has(item.id));
@@ -101,12 +101,10 @@ export default function QuestionScreen() {
   }, [mode, loading, questions.length]);
 
   const handleFinish = async () => {
-    if (!user) return;
-    const uid = user.uid;
     const result = session.finish();
 
-    if (mode === 'free-study' || mode === 'timed-trial') {
-      await recordAttempt(uid, {
+    if (user && (mode === 'free-study' || mode === 'timed-trial')) {
+      await recordAttempt(user.uid, {
         mode,
         lang: (state.lang ?? 'en') as Language,
         domainsIncluded: state.domains ?? [],
@@ -128,15 +126,15 @@ export default function QuestionScreen() {
   finishRef.current = handleFinish;
 
   const handleSubmit = async () => {
-    if (!current || selected.length === 0 || !user) return;
-    const uid = user.uid;
+    if (!current || selected.length === 0) return;
 
     session.answerQuestion(current.variant.id, selected);
 
     if (mode === 'free-study' || mode === 'review') {
       setSubmitted(true);
 
-      if (mode === 'review') {
+      if (mode === 'review' && user) {
+        const uid = user.uid;
         const parentId = current.parent.id;
         const flag = flags[parentId];
         const isCorrect =
