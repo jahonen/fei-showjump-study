@@ -29,6 +29,7 @@ async function loadItems(lang) {
   for (const filePath of files) {
     const text = await readFile(filePath, 'utf-8');
     const item = parseItem(text);
+    if (item.status !== 'verified') continue;
     if (item.id === item.parentId) {
       parents.set(item.id, item);
     } else {
@@ -113,27 +114,13 @@ async function ingest(lang) {
 
   for (const item of items) {
     const parentRef = db.collection('questionBank').doc(lang).collection('items').doc(item.id);
-    const { variants, ...parentData } = item;
 
-    batch.set(parentRef, parentData);
+    batch.set(parentRef, item);
     written += 1;
-
-    for (const variant of variants) {
-      const variantRef = parentRef.collection('variants').doc(variant.id);
-      batch.set(variantRef, {
-        type: variant.type,
-        stem: variant.stem,
-        options: variant.options,
-        correct: variant.correct,
-        explanation: variant.explanation,
-        sourcePage: variant.sourcePage,
-      });
-      written += 1;
-    }
   }
 
   await batch.commit();
-  console.log(`Ingested ${written} documents for ${lang}.`);
+  console.log(`Ingested ${written} parent documents (${parents.size} parent items) for ${lang}.`);
 }
 
 const lang = process.argv[2];

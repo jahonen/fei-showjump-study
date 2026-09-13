@@ -8,7 +8,7 @@
 - User IDs, language codes, parent IDs, and typed data objects.
 
 **Outputs:**
-- User profiles, verified items, attempts, flags, review history, and leaderboard entries.
+- User profiles, verified parent items (with variants stored inline), attempts, flags, review history, and leaderboard entries.
 
 **Side effects:** Performs Firestore reads/writes; creates user profile on first sign-in.
 

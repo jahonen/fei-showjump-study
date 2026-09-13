@@ -62,27 +62,12 @@ export const ingestQuestionBank = functions.https.onCall(
 
     for (const item of parents.values()) {
       const parentRef = db.collection('questionBank').doc(lang).collection('items').doc(item.id);
-      const { variants: itemVariants, ...parentData } = item;
-
-      batch.set(parentRef, parentData);
+      batch.set(parentRef, item);
       written += 1;
-
-      for (const variant of itemVariants) {
-        const variantRef = parentRef.collection('variants').doc(variant.id);
-        batch.set(variantRef, {
-          type: variant.type,
-          stem: variant.stem,
-          options: variant.options,
-          correct: variant.correct,
-          explanation: variant.explanation,
-          sourcePage: variant.sourcePage,
-        });
-        written += 1;
-      }
     }
 
     await batch.commit();
-    console.log(`Ingested ${written} documents for ${lang}`);
+    console.log(`Ingested ${written} parent documents (${parents.size} parent items) for ${lang}`);
     return { written, parents: parents.size };
   }
 );

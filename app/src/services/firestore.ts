@@ -86,13 +86,30 @@ export async function getVerifiedItems(lang: Language): Promise<ParentItem[]> {
 
 export function parseParentItem(docSnap: QueryDocumentSnapshot): ParentItem {
   const data = docSnap.data();
+  const variants = Array.isArray(data.variants)
+    ? data.variants.map((v: unknown) => parseVariant(v))
+    : [];
   return {
     id: docSnap.id,
     domain: data.domain ?? '',
     article: data.article ?? '',
     editionRef: data.editionRef ?? '',
     status: data.status ?? 'draft',
-    variants: (data.variants ?? []) as Variant[],
+    variants,
+  };
+}
+
+function parseVariant(data: unknown): Variant {
+  const v = (data ?? {}) as Record<string, unknown>;
+  return {
+    id: String(v.id ?? ''),
+    parentId: String(v.parentId ?? ''),
+    type: (v.type as 'single-select' | 'multi-select') ?? 'single-select',
+    stem: String(v.stem ?? ''),
+    options: (v.options as Record<string, string>) ?? {},
+    correct: Array.isArray(v.correct) ? v.correct.map(String) : [],
+    explanation: String(v.explanation ?? ''),
+    sourcePage: typeof v.sourcePage === 'number' ? v.sourcePage : 0,
   };
 }
 
