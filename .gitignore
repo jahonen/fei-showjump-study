@@ -9,3 +9,4 @@ app/node_modules/
 app/dist/
 functions/lib/
 functions/node_modules/
+functions/questions/
