@@ -1,0 +1,17 @@
+ID: fi-tsp-0029-v3
+PARENT_ID: fi-tsp-0029
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Minkä näytön on oltava urheilijan selvästi näkyvissä JR:n artiklan 251.1.1 mukaisesti?
+OPTION_A: Palkintolista
+OPTION_B: 45 sekunnin lähtölaskenta
+OPTION_C: Tulostaulu aiemmilla tuloksilla
+OPTION_D: verryttely kenttän aikataulu
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 mukaan 45 sekunnin lähtölaskentaa näyttävän taulun on oltava urheilijan selvästi näkyvissä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

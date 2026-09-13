@@ -1,0 +1,17 @@
+ID: fi-cty-0089-v3
+PARENT_ID: fi-cty-0089
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Kaikilla JR:n artiklassa 226.3.1 luetelluilla Nations Cupin tähtitasoilla esteiden lukumäärä on:
+OPTION_A: 10
+OPTION_B: 11
+OPTION_C: 12
+OPTION_D: Riippuu tähtitasosta
+CORRECT: C
+EXPLANATION: Juniorisääntöjen Artikla 354 taulukossa on 12 estettä 5*, 4*, 3*, 2* ja 1* Nations Cup -kilpailuihin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

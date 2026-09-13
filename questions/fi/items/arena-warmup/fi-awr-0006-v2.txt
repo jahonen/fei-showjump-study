@@ -1,0 +1,17 @@
+ID: fi-awr-0006-v2
+PARENT_ID: fi-awr-0006
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Kilpailuissa, joissa estekorkeus on yli 1,40 m, mikä on lämmittelyareenan korkeusrajoitus JR:n artiklan 242.4.3 mukaisesti?
+OPTION_A: 1,50 metriä
+OPTION_B: 1,60 metriä
+OPTION_C: 1,65 metriä
+OPTION_D: Sama kuin kilpailun enimmäismäärä
+CORRECT: C
+EXPLANATION: JR:n artiklassa 242.4.3 määrätään, että jos kilpailun esteiden korkeus on yli 1,40 m, lämmittelyesteiden korkeus saa olla enintään 1,65 m ja leveys 1,80 m.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-fdc-0023
+PARENT_ID: fi-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Hevonen hyppää esteen kahden punaisen lipun välissä. Miten tästä rangaistaan?
+OPTION_A: Kuten kaatuminen
+OPTION_B: Loppukirinä, ja este on hypättävä uudelleen oikein
+OPTION_C: Kieltäytymisenä
+OPTION_D: Ei rangaistusta
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 toteaa, että kahden punaisen tai kahden valkoisen lipun välisen esteen hyppääminen tarkoittaa, että estettä ei ole hypätty oikein; yhdistelmästä rangaistaan kuten loppukiristä ja este on hypättävä uudelleen oikein.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

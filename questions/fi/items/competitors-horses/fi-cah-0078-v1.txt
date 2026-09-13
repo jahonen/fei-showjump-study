@@ -1,0 +1,17 @@
+ID: fi-cah-0078-v1
+PARENT_ID: fi-cah-0078
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Mitä urheilijan on tehtävä JR:n artiklan 207.1.2 mukaan, jos hänen leukahihnansa irtoaa kierroksen aikana?
+OPTION_A: Jatka hyppäämistä
+OPTION_B: Kiinnitä se heti uudelleen
+OPTION_C: Pysähdy ja jää eläkkeelle
+OPTION_D: Signaali tuomaristolle
+CORRECT: B
+EXPLANATION: JR:n Artikla 333 edellyttää urheilijalta, jonka leukahihna irtoaa kierroksen aikana, sen kiinnittämistä välittömästi uudelleen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

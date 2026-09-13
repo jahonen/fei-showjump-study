@@ -1,0 +1,17 @@
+ID: fi-pte-0039-v1
+PARENT_ID: fi-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Urheilija kieltäytyy esteestä 3 ja myöhemmin esteestä 7 samalla kierroksella taulukon A mukaisesti. Kuinka monta tottelemattomuusrangaistusta annetaan?
+OPTION_A: 4 rangaistusta (vain ensimmäinen)
+OPTION_B: 8 rangaistusta (yhteensä)
+OPTION_C: Eliminaatio
+OPTION_D: Ei rangaistusta toisesta erästä
+CORRECT: C
+EXPLANATION: Taulukon A mukaan ensimmäinen tottelemattomuus johtaa neljään rangaistukseen ja toinen tottelemattomuus samalla kierroksella johtaa eliminointiin (JR:n Artikla 342).
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

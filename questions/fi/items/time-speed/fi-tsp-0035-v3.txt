@@ -1,0 +1,17 @@
+ID: fi-tsp-0035-v3
+PARENT_ID: fi-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Missä artikkelissa mainitaan, ettei voima- ja taitokilpailuissa ole vähimmäisnopeusvaatimusta?
+OPTION_A: Artikla 230.1.4
+OPTION_B: Artikla 258.1.4
+OPTION_C: Artikla 258.1.6
+OPTION_D: Artikla 252
+CORRECT: C
+EXPLANATION: JR:n Artikla 352 toteaa, että voima- ja taitokilpailuissa ei ole vähimmäisnopeusvaatimusta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-fdc-0027-v2
+PARENT_ID: fi-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 249.1 mukaan luvattoman avun normaali seuraus kierroksen aikana on:
+OPTION_A: 4 rangaistusta
+OPTION_B: Eliminaatio
+OPTION_C: Sakko
+OPTION_D: Varoitus
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 toteaa, että luvaton avustaminen kierroksen aikana johtaa hylkäämiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

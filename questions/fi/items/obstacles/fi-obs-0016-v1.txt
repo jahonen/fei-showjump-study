@@ -1,0 +1,17 @@
+ID: fi-obs-0016-v1
+PARENT_ID: fi-obs-0016
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Urheilijalla on ohitus normaalin avoimen tuplasarjan toisella elementillä. Mitä hänen on tehtävä?
+OPTION_A: Hyppää uudelleen vain toiseen elementtiin
+OPTION_B: Hyppää molempiin elementteihin uudelleen
+OPTION_C: Hyppää toisen elementin yli ja jatka sitten
+OPTION_D: Heidät on eliminoitu
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 edellyttää urheilijan hyppäävän uudelleen kaikki sarjan elementit hylkäämisen tai loppukirin jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

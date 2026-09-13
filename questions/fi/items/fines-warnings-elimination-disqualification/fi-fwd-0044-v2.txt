@@ -1,0 +1,17 @@
+ID: fi-fwd-0044-v2
+PARENT_ID: fi-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Urheilijalla on ensimmäinen hylkääminen ja sitten toinen loppukiri samassa erässä. Yhteisösääntöjen artiklan 263.4.25 mukaan seuraus on:
+OPTION_A: Ei rangaistusta
+OPTION_B: 4 rangaistusta
+OPTION_C: Eliminaatio
+OPTION_D: Varoitus
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 määrää, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin; kieltäytyminen ja loppukiri ovat molemmat tottelemattomuus.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

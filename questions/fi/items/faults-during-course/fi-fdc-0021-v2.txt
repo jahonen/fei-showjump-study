@@ -1,0 +1,17 @@
+ID: fi-fdc-0021-v2
+PARENT_ID: fi-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Mitä näistä EI ole lueteltu tottelemattomuudeksi JR:n artiklassa 246.1?
+OPTION_A: Kieltäytyminen
+OPTION_B: Loppuunmyyty
+OPTION_C: Syksy
+OPTION_D: Vastarinta
+CORRECT: C
+EXPLANATION: JR:n Artikla 348 luettelee tottelemattomuudeksi kieltäytymisen, ulosajon, vastustamisen ja kiertämisen. Kaatumista käsitellään erikseen JR:n artiklassa 248, eikä se ole tottelemattomuus.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

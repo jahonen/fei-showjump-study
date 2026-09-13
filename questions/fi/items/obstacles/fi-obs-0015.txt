@@ -1,0 +1,17 @@
+ID: fi-obs-0015
+PARENT_ID: fi-obs-0015
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä on sallittu etäisyys esteiden välillä yhdistelmässä?
+OPTION_A: 5–10 metriä
+OPTION_B: 6–11 metriä
+OPTION_C: 7–12 metriä
+OPTION_D: 8–13 metriä
+CORRECT: C
+EXPLANATION: JR:n artiklassa 237.1 todetaan, että yhdistelmät ovat kahden tai useamman esteen ryhmiä, joiden välinen etäisyys on vähintään seitsemän metriä ja enintään 12 metriä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

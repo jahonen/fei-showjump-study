@@ -1,0 +1,17 @@
+ID: fi-cah-0072-v3
+PARENT_ID: fi-cah-0072
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: CSI1*–2*-, CSIJ/CSIOJ-, CSICh/CSIOCh-, CSIP/CSIOP-, CSIV/CSIOV- ja CSIAm/mannermestaruuskilpailuissa poniratsastajille/lapsille/veteraaneille hevosen vähimmäisikä on yleensä:
+OPTION_A: Viisi vuotta
+OPTION_B: Kuusi vuotta
+OPTION_C: Seitsemän vuotta
+OPTION_D: Kahdeksan vuotta
+CORRECT: B
+EXPLANATION: JR:n artiklassa 202.2 näiden lajien alaikärajaksi määritellään kuusi vuotta, paitsi jos pituus on 1,40 m tai korkeampi, jolloin se on seitsemän vuotta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

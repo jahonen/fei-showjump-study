@@ -1,0 +1,17 @@
+ID: fi-vmp-0095
+PARENT_ID: fi-vmp-0095
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Miten hevosta ei saa esittää tarkastuksessa JR:n artiklan 275.1.3.4 nojalla?
+OPTION_A: Harja letitettynä
+OPTION_B: Sen identiteetti peitettynä maalilla tai väriaineella
+OPTION_C: Valkoiset merkinnät näkyvissä
+OPTION_D: Urheilijan selässä
+CORRECT: B
+EXPLANATION: JR:n Artikla 321 toteaa, että hevosta ei saa esittää, jonka tunnistetiedot on peitetty millään tavalla maalilla tai värjäyksellä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-fdc-0022-v1
+PARENT_ID: fi-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Milloin pysähdyksestä esteen eteen tulee JR:n artiklan 246.2.2 mukaan kielto?
+OPTION_A: Jos hevonen astuu taaksepäin, vaikka vain yhden askeleen
+OPTION_B: Jos hevonen laskee päätään
+OPTION_C: Jos pysähdys kestää yli 10 sekuntia
+OPTION_D: Jos urheilija käyttää ruoskaa
+CORRECT: A
+EXPLANATION: JR:n Artikla 348 määrää, että jos pysähdys on pitkä tai hevonen astuu taaksepäin, joko tahallisesti tai tahattomasti, vaikka vain yhden askeleen, se lasketaan kieltäytymiseksi.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

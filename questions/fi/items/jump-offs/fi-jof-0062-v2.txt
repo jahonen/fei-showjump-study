@@ -1,0 +1,17 @@
+ID: fi-jof-0062-v2
+PARENT_ID: fi-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Urheilija keskeyttää uusinnan ilman tuomariston lupaa. Minne hänet sijoitetaan tuomarisääntöjen artiklan 218.3.2 mukaisesti?
+OPTION_A: Tasa-arvoinen ensin
+OPTION_B: Sen jälkeen, kun ne, jotka vetäytyivät luvalla, eläkkeelle tai eliminoitiin
+OPTION_C: Ei sijoitettu
+OPTION_D: Tasa-arvoinen toiseksi viimeinen eläkkeelle jääneiden joukossa
+CORRECT: B
+EXPLANATION: JR:n artiklassa 218.3.2 todetaan, että urheilija, joka keskeyttää kilpailun ilman lupaa, sijoittuu luvallisesti keskeyttäneiden, luopuneiden tai uusintakilpailusta pudonneiden urheilijoiden jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

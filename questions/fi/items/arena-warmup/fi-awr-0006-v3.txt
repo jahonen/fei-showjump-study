@@ -1,0 +1,17 @@
+ID: fi-awr-0006-v3
+PARENT_ID: fi-awr-0006
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: JR:n artiklan 242.4.3 mukaan, kuinka paljon lämmittelyesteet saavat ylittää käynnissä olevan kilpailun todellisen enimmäisleveyden, kun enimmäiskorkeus on 1,30 m?
+OPTION_A: 5 cm
+OPTION_B: 10 cm
+OPTION_C: 15 cm
+OPTION_D: 20 cm
+CORRECT: B
+EXPLANATION: JR:n Artikla 329 sallii lämmittelyesteiden, joiden korkeus on 1,40 m tai vähemmän, ylittää sekä kilpailuesteiden todellisen enimmäiskorkeuden että -leveyden 10 cm:llä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

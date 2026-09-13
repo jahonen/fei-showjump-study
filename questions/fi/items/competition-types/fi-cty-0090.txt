@@ -1,0 +1,17 @@
+ID: fi-cty-0090
+PARENT_ID: fi-cty-0090
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Kuinka monta yksittäistä estettä ensimmäisen kierroksen täytyy sisältää ponnistuskilpailussa?
+OPTION_A: Kahdesta neljään
+OPTION_B: Neljästä kuuteen
+OPTION_C: Kuusi vai kahdeksan
+OPTION_D: Kahdeksasta kymmeneen
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 mukaan puissanssin ensimmäisen kierroksen on koostuttava neljästä kuuteen yksittäisestä esteestä, joista vähintään yhden on oltava pystysuora este.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

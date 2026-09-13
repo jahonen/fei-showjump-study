@@ -1,0 +1,17 @@
+ID: fi-obs-0009
+PARENT_ID: fi-obs-0009
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä on esteiden enimmäiskorkeus normaaleissa ulkokilpailuissa?
+OPTION_A: 1,50 metriä
+OPTION_B: 1,60 metriä
+OPTION_C: 1,70 metriä
+OPTION_D: 1,80 metriä
+CORRECT: C
+EXPLANATION: JR:n Artikla 301 määrää, että esteen korkeus ei missään olosuhteissa saa ylittää 1,70 metriä, paitsi kuuden tahdin ja ponnistuskilpailuissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

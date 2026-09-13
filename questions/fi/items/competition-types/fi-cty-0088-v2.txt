@@ -1,0 +1,17 @@
+ID: fi-cty-0088-v2
+PARENT_ID: fi-cty-0088
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: JR:n artikla 226.1.4 toteaa, että Nations Cup on ainoa kilpailu, jossa:
+OPTION_A: Yksilöpalkintorahaa jaetaan
+OPTION_B: Viralliset joukkueet edustavat kansallisia liittoja
+OPTION_C: Ulkomaiset tuomarit toimivat tuomioistuimissa
+OPTION_D: Nuoret urheilijat kilpailevat
+CORRECT: B
+EXPLANATION: JR:n artiklassa 226.1.4 todetaan, että Nations Cup on ainoa kilpailu, jossa viralliset joukkueet edustavat kansallisia liittoja.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

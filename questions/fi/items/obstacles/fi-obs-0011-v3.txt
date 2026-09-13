@@ -1,0 +1,17 @@
+ID: fi-obs-0011-v3
+PARENT_ID: fi-obs-0011
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Normaalilevyinen este rakennetaan 2,10 metrin levyiseksi. Onko tämä sallittua JR:n artiklan 233.1 nojalla?
+OPTION_A: Kyllä, koska kaikki enintään 2,20 metrin levennykset ovat sallittuja.
+OPTION_B: Ei, normaalisti leviävät esteet ovat rajoitettu 2,00 metriin
+OPTION_C: Kyllä, jos ratasuunnittelija hyväksyy
+OPTION_D: Ei, raja on 1,80 m
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 rajoittaa esteiden leveyden 2,00 metriin, lukuun ottamatta kolmoispuomeja, jotka voivat ulottua 2,20 metriin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

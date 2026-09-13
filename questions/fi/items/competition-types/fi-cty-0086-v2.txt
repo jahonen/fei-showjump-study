@@ -1,0 +1,17 @@
+ID: fi-cty-0086-v2
+PARENT_ID: fi-cty-0086
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Missä normaalissa kahdessa vaiheessa järjestettävässä kilpailussa urheilijat, joille on langetettu rangaistuksia ensimmäisessä vaiheessa, pysäytetään JR:n artiklan 222.1.3 nojalla?
+OPTION_A: Välittömästi esteen kohdalla, josta rangaistus tuli
+OPTION_B: Ensimmäisen vaiheen viimeisen esteen hyppäämisen jälkeen tai ensimmäisen maaliviivan ylittämisen jälkeen, jos ensimmäisen vaiheen sallittu aika on ylitetty
+OPTION_C: Toisen vaiheen alussa
+OPTION_D: Toisen vaiheen maaliviivalla
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 kuvaa tarkalleen kohdan, jossa ensimmäisessä vaiheessa rangaistuksia saaneet urheilijat pysäytetään.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

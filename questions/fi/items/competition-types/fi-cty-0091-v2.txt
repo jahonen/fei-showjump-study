@@ -1,0 +1,17 @@
+ID: fi-cty-0091-v2
+PARENT_ID: fi-cty-0091
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: JR:n artiklan 230.3.2 mukaan kuuden tangon tankoja tukevien kuppien enimmäissyvyys on:
+OPTION_A: 15 mm
+OPTION_B: 18 mm
+OPTION_C: 20 mm
+OPTION_D: 22 mm
+CORRECT: C
+EXPLANATION: JR:n Artikla 354 määrää, että Six Barin tankoja tukevien kuppien enimmäissyvyys on 20 mm.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

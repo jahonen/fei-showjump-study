@@ -1,0 +1,17 @@
+ID: fi-obs-0017
+PARENT_ID: fi-obs-0017
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä on suljettu yhdistelmä?
+OPTION_A: Yhdistelmä, jossa on lippuja vain ensimmäisessä ja viimeisessä elementissä
+OPTION_B: Yhdistelmä, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä
+OPTION_C: Yhdistelmä, jonka elementit ovat niin lähellä toisiaan, että ne muodostavat yhden kokonaisuuden
+OPTION_D: Yhdistelmä, joka ei saa ylittää kahta elementtiä
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 määrittelee täysin suljetun yhdistelmän sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä; esimerkkejä ovat sisään-ulos-este, lammaskarsina, neliön tai kuusikulmainen este.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-cls-0066
+PARENT_ID: fi-cls-0066
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Urheilija, joka keskeyttää uusinnan, sijoittuu:
+OPTION_A: Yhtä hyvä kuin kaikki karsinnat
+OPTION_B: Tasapeli viimeinen uusinnassa kaikkien kierroksen päättäneiden urheilijoiden jälkeen
+OPTION_C: Vain alkukierroksen sijoituksensa perusteella
+OPTION_D: He eivät saa sijoitusta
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy uusinnasta luvalla, sijoittuu uusinnassa viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

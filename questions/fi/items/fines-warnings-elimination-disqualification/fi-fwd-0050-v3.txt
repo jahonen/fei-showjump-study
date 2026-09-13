@@ -1,0 +1,17 @@
+ID: fi-fwd-0050-v3
+PARENT_ID: fi-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Yhteisten sääntöjen artiklan 264.1 mukainen hylkääminen voi koskea:
+OPTION_A: Vain urheilija
+OPTION_B: Vain hevonen
+OPTION_C: Urheilija ja/tai hevonen
+OPTION_D: Vain joukkueen päälikkö
+CORRECT: C
+EXPLANATION: Kilpailusääntöjen artiklassa 264.1 todetaan, että hylkääminen tarkoittaa, että urheilija ja/tai hevonen hylätään kyseisestä kilpailusta tai koko tapahtumasta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-cls-0068-v1
+PARENT_ID: fi-cls-0068
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Urheilijan sääntöjen artiklan 267.7 mukaisesti urheilija, joka on selviytynyt finaaliin, mutta kieltäytyy osallistumasta:
+OPTION_A: Menettää kaikki karsintakilpailun palkinnot
+OPTION_B: Säilyttää jo voitetut palkinnot
+OPTION_C: Sakotetaan
+OPTION_D: Hylätään automaattisesti
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 nimenomaisesti säilyttää karsintakilpailuissa voitetut palkinnot, vaikka urheilija kieltäytyisi osallistumasta finaaliin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-jof-0062-v1
+PARENT_ID: fi-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: JR:n artiklan 218.3.1 mukaisesti urheilija, joka putoaa uusinnasta, sijoittuu:
+OPTION_A: Ensimmäinen
+OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
+OPTION_C: Alustavan kierroksen ajan mukaan
+OPTION_D: Ei sijoitettu
+CORRECT: B
+EXPLANATION: JR:n Artikla 344 määrää, että eliminointi, keskeytys tai sallittu vetäytyminen asettaa urheilijan tasan viimeiseksi kierroksella kaikkien loppuun suorittaneiden jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

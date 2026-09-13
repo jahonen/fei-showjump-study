@@ -1,0 +1,17 @@
+ID: fi-cls-0066-v2
+PARENT_ID: fi-cls-0066
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Joukkue vetäytyy Nations Cupin toiselta kierrokselta. Miten se asetetaan JR:n artiklan 218.3.1 nojalla?
+OPTION_A: Tasapeli viimeinen toisella kierroksella
+OPTION_B: Ensimmäisen kierroksen pistemäärän mukaan
+OPTION_C: Ei oikeutettu palkintorahaan, mutta sijoittuu ensimmäisen kierroksen pistemäärän perusteella
+OPTION_D: Hylätty
+CORRECT: C
+EXPLANATION: JR:n Artikla 341 toteaa, että joukkueet, jotka vetäytyvät Nations Cupin toiselta kierrokselta, eivät ole oikeutettuja palkintorahoihin ja sijoittuvat ensimmäisellä kierroksella saavuttamansa pistemäärän mukaan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-awr-0001-v1
+PARENT_ID: fi-awr-0001
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Milloin kilpailun aikana kaikki kilpailuareenan sisään- ja uloskäynnit on suljettava fyysisesti?
+OPTION_A: Vain kierroksen ollessa käynnissä
+OPTION_B: Aina kun hevonen on kilpailualueella
+OPTION_C: Palkintojenjakotilaisuudessa
+OPTION_D: Vasta kun kello on soitettu
+CORRECT: B
+EXPLANATION: JR:n Artikla 329 edellyttää, että kaikki sisään- ja uloskäynnit on fyysisesti suljettu aina, kun hevonen on kilpailualueella kilpailun aikana.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

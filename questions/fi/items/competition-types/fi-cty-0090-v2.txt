@@ -1,0 +1,17 @@
+ID: fi-cty-0090-v2
+PARENT_ID: fi-cty-0090
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Mitä estetyyppejä EI sallita puissance-kilpailussa JR:n artiklan 230.2.1 nojalla?
+OPTION_A: Pystysuorat ja seinät
+OPTION_B: Yhdistelmäesteet, vesihypyt, ojat ja luonnonesteet
+OPTION_C: Levitä esteitä
+OPTION_D: Yksittäisnavat
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 kieltää yhdistelmäesteet, vesihypyt, ojat ja luonnonesteet ponnistelukilpailuissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

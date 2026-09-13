@@ -1,0 +1,17 @@
+ID: fi-jof-0057
+PARENT_ID: fi-jof-0057
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: multi-select
+STEM: Milloin JR:n artiklan 218.1.3 mukaan uusintahyppy voidaan järjestää?
+OPTION_A: Kun useampi kuin yksi urheilija/hevonen -yhdistelmä ei ole saanut rangaistuksia alkuerissä
+OPTION_B: Kun urheilija/hevosyhdistelmät ovat tasoissa ensimmäisellä sijalla alkuerän/alkuerien jälkeen
+OPTION_C: Kun urheilija/hevosyhdistelmät ovat tasoissa palkintokorokesijoissa mestaruuskilpailuissa tai kisoissa
+OPTION_D: Aina kun aikataulussa mainitaan sana hyppy-off
+CORRECT: A,B,C
+EXPLANATION: JR:n Artikla 344 määrittelee kolme tilannetta, joissa uusinnat voidaan suorittaa, mukaan lukien rangaistuksettomat yhdistelmät, tasapisteet ensimmäisestä sijasta ja tasapisteet mestaruuskilpailuissa/kisoissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

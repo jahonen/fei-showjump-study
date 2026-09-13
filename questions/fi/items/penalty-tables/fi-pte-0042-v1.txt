@@ -1,0 +1,17 @@
+ID: fi-pte-0042-v1
+PARENT_ID: fi-pte-0042
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Pöydän A kilpailuissa, joissa ei pelata aikaa vastaan, rangaistuspotkukilpailujen tasapisteet ratkaistaan yleensä seuraavasti:
+OPTION_A: Kierroksella käytetty aika
+OPTION_B: Vain uusintahyppy
+OPTION_C: Kolikonheitto
+OPTION_D: Palkintojen jakaminen
+CORRECT: D
+EXPLANATION: JR:n Artikla 342 tarjoaa muotovaihtoehtoja taulukon A mukaisille kilpailuille, joissa ei pelata aikaa vastaan, mukaan lukien vaihtoehdon, jossa urheilijat, joilla on samat rangaistuspisteet missä tahansa sijassa, jakavat palkinnot eikä uusintaa ole; jos uusintahyppy on järjestetty, urheilijat, jotka eivät ole uusinnassa, jakavat silti palkinnot muista kuin ensimmäisestä sijasta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

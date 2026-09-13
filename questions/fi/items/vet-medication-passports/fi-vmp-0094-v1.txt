@@ -1,0 +1,17 @@
+ID: fi-vmp-0094-v1
+PARENT_ID: fi-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Mitkä esineet on JR:n artiklan 275.1.3.3 mukaan poistettava ennen hevosen esittämistä hevostarkastuksessa?
+OPTION_A: Vain matot
+OPTION_B: Loimet, siteet ja muut valjaat tai varusteet
+OPTION_C: Vain siteet
+OPTION_D: Ei mitään; hevonen esitetään kuin tallissa
+CORRECT: B
+EXPLANATION: JR:n Artikla 321 edellyttää loimien, siteiden ja muiden valjaiden tai varusteiden poistamista.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

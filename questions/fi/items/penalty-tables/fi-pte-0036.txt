@@ -1,0 +1,17 @@
+ID: fi-pte-0036
+PARENT_ID: fi-pte-0036
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: multi-select
+STEM: Mitkä taulukon A mukaiset virheet aiheuttavat 4 rangaistusta ensimmäisellä esiintymisellä?
+OPTION_A: Ensimmäinen tottelemattomuus
+OPTION_B: Este kaadettu
+OPTION_C: Vika vesihypyssä
+OPTION_D: Hevosen ja/tai urheilijan kaatuminen
+CORRECT: A,B,C
+EXPLANATION: JR:n Artikla 342 toteaa, että taulukon A mukaan ensimmäinen tottelemattomuus, esteen kaatuminen ja vesiesteessä tehty virhe tuottavat kukin neljä rangaistusta. Kaatuminen johtaa kilpailusta poistamiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-obs-0010-v1
+PARENT_ID: fi-obs-0010
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Kilpailuohjelmassa esteiden enimmäiskorkeudeksi sallitaan 1,50 m. Mikä on korkein este, jonka voi todellisuudessa rakentaa JR:n artiklan 233.2.2 nojalla?
+OPTION_A: 1,50 metriä
+OPTION_B: 1,52 metriä
+OPTION_C: 1,53 metriä
+OPTION_D: 1,55 metriä
+CORRECT: C
+EXPLANATION: Yhteisen käyttöohjeen Artikla 301 sallii enintään 3 cm:n ylityksen suunnitellusta korkeudesta, kun kyseinen korkeus on 1,45 m tai enemmän; 1,50 m + 0,03 m = 1,53 m.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

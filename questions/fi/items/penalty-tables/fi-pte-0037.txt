@@ -1,0 +1,17 @@
+ID: fi-pte-0037
+PARENT_ID: fi-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: multi-select
+STEM: Mitkä taulukon C rangaistuksia koskevat väittämät ovat oikein?
+OPTION_A: Esteen kaatuminen lisää urheilijan aikaan sekunteja
+OPTION_B: Ensimmäinen tottelemattomuus ilman kaatamista ei lisää sekunteja
+OPTION_C: Ensimmäinen tottelemattomuus, johon liittyy kaataminen, lisää 6 sekuntia
+OPTION_D: Pudotus johtaa 10 sekunnin yhteenlaskuun
+CORRECT: A,B,C
+EXPLANATION: JR:n Artikla 342 toteaa, että taulukon C mukaan esteen kaatuminen tai vesihypyn virhe lisää sekunteja, ensimmäinen tottelemattomuus ei lisää yhtään sekuntia ja ensimmäinen tottelemattomuus, johon liittyy esteen kaatuminen ja/tai esteen siirtäminen, lisää 6 sekuntia. Kaatuminen johtaa kilpailusta poistamiseen, ei ajan lisäykseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

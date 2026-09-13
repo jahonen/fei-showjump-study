@@ -1,0 +1,17 @@
+ID: fi-pte-0041-v2
+PARENT_ID: fi-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Millä pöydillä harjoituskierrossääntöä sovelletaan JR:n artiklan 217.3 mukaan aikaa vastaan pelattaviin kilpailuihin?
+OPTION_A: Vain pöytä A
+OPTION_B: Vain taulukko C
+OPTION_C: Taulukko A tai C
+OPTION_D: Kumpikaan
+CORRECT: C
+EXPLANATION: JR:n Artikla 342 koskee taulukon A tai C mukaisten aikaa vastaan käytävän kilpailun harjoituskierroksia.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

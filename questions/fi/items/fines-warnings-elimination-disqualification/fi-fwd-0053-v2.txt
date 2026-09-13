@@ -1,0 +1,17 @@
+ID: fi-fwd-0053-v2
+PARENT_ID: fi-fwd-0053
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mikä artikla vaatii suoja- ja tukisuojatarkastusta hevosille, jotka osallistuvat Grand Prix -kilpailuun, joka on palkintorahoista korkein, Nations Cup/Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin?
+OPTION_A: Artikla 264
+OPTION_B: Artikla 265
+OPTION_C: Artikla 266
+OPTION_D: Artikla 275
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 on otsikoitu "Suojien ja siteiden tarkastus", ja se määrää, että suoja- ja siteiden tarkastus on pakollista kaikille hevosille, jotka osallistuvat Grand Prix'hin, kunkin kilpailun korkeimman palkintosumman kilpailuun (ellei kyseessä ole Grand Prix), Nations Cupiin/Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-fdc-0027-v1
+PARENT_ID: fi-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Tuomariston sääntöjen artiklan 249.2 mukaan tuomaristo sallii poikkeuksellisissa olosuhteissa avustamisen seuraavasti:
+OPTION_A: Luvaton apu
+OPTION_B: Ei pidetä luvatonta apua
+OPTION_C: Aina hylkäävä
+OPTION_D: Ohitettu
+CORRECT: B
+EXPLANATION: Kilpailusääntöjen Artikla 348 määrää, että tietyissä poikkeustapauksissa tuomaristo voi antaa urheilijalle luvan tulla kilpailualueelle jalan tai toisen henkilön avustuksella ilman, että tätä pidetään luvattomana avunantona.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

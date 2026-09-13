@@ -1,0 +1,17 @@
+ID: fi-awr-0004
+PARENT_ID: fi-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Miten yhdistelmäesteet on numeroitu ratakartassa?
+OPTION_A: Jokainen elementti saa erillisen juoksevan numeron
+OPTION_B: Niissä on vain yksi numero, jossa on kirjaimia, kuten 8A, 8B, 8C, jokaisessa elementissä
+OPTION_C: Vain ensimmäinen elementti on numeroitu
+OPTION_D: Ne on numeroitu roomalaisilla numeroilla
+CORRECT: B
+EXPLANATION: Yhdistelmäesteiden artiklassa 241.3.3 määrätään, että yhdistelmäesteissä on vain yksi numero, joka voidaan toistaa jokaisessa elementissä erottuvilla kirjaimilla.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

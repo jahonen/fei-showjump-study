@@ -1,0 +1,17 @@
+ID: fi-awr-0005-v2
+PARENT_ID: fi-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: multi-select
+STEM: Mitkä lähtömenettelyä koskevat väittämät ovat oikein JR:n artiklan 241.6.1.2 nojalla?
+OPTION_A: 45 sekunnin lähtölaskenta voi keskeytyä odottamattomien olosuhteiden vuoksi.
+OPTION_B: Kaatuminen radalle astumisen jälkeen, mutta ennen lähtöviivan ylittämistä, estää urheilijaa lähtemästä.
+OPTION_C: Tottelemattomuudesta ennen lähtöviivan ylittämistä rangaistaan aina
+OPTION_D: Tuomariston jäsenet voivat peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen.
+CORRECT: A,B,D
+EXPLANATION: JR:n Artikla 329 antaa tuomaristolle oikeuden keskeyttää lähtölaskennan odottamattomissa olosuhteissa, määrää, että kaatuminen radalle astumisen jälkeen lähtöviivan ylitykseen asti estää lähdön, ja sallii tuomaristolle oikeuden peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen. Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

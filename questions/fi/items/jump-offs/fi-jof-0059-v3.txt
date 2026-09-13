@@ -1,0 +1,17 @@
+ID: fi-jof-0059-v3
+PARENT_ID: fi-jof-0059
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Yhteisen sääntöjen artiklan 218.2.3 mukaan uusintahyppyä voidaan lyhentää vähintään:
+OPTION_A: 4 estettä
+OPTION_B: 5 estettä
+OPTION_C: 6 estettä
+OPTION_D: 7 estettä
+CORRECT: C
+EXPLANATION: JR:n Artikla 344 sallii esteiden määrän vähentämisen uusinnassa vähintään kuuteen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

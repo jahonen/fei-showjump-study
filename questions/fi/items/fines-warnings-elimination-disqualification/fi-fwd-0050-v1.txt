@@ -1,0 +1,17 @@
+ID: fi-fwd-0050-v1
+PARENT_ID: fi-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Yhteisten sääntöjen artiklan 264.1 mukaan hylkääminen voi olla:
+OPTION_A: Muunnettu sakoksi
+OPTION_B: Takautuva
+OPTION_C: Urheilijan vetämä
+OPTION_D: Rajoitettu nykyiseen kierrokseen
+CORRECT: B
+EXPLANATION: Yhteisen rekisterin Artikla 346 mukaan hylkääminen voi olla myös takautuvaa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

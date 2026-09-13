@@ -1,0 +1,17 @@
+ID: fi-tsp-0032-v1
+PARENT_ID: fi-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Mitä urheilija/hevonen-yhdistelmä saa tehdä JR:n artiklan 255.1 nojalla, kun kello on pysäytetty?
+OPTION_A: Sen on pysyttävä liikkumattomana
+OPTION_B: Se voi liikkua ympäriinsä, kunnes kello antaa luvan jatkaa kierrosta
+OPTION_C: Se saattaa poistua kilpailualueelta
+OPTION_D: Sen on heti hypättävä seuraava este
+CORRECT: B
+EXPLANATION: JR:n artiklassa 255.1 määrätään, että kellon ollessa pysäytettynä urheilija/hevonen -yhdistelmä voi liikkua vapaasti, kunnes kello soi, mikä antaa luvan jatkaa kierrosta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

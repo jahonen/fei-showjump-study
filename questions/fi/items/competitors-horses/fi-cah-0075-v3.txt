@@ -1,0 +1,17 @@
+ID: fi-cah-0075-v3
+PARENT_ID: fi-cah-0075
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Yhteisen urheilijasäännön 205.1 artiklassa todetaan myös, että urheilijaa ei voida luokitella ammattilaiseksi ennen vuotta, jona hän täyttää:
+OPTION_A: 16. syntymäpäivä
+OPTION_B: 17. syntymäpäivä
+OPTION_C: 18. syntymäpäivä
+OPTION_D: 21. syntymäpäivä
+CORRECT: C
+EXPLANATION: Yhteisurheilusääntöjen Artikla 333 toteaa, että urheilijaa ei voida luokitella ammattilaiseksi ennen kuin hän täyttää 18 vuotta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

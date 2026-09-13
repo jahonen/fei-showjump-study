@@ -1,0 +1,17 @@
+ID: fi-cls-0065-v2
+PARENT_ID: fi-cls-0065
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Jos palkinnon voittaja ei osallistu palkintojenjakotilaisuuteen ilman hyväksyttävää syytä, tuomaristo voi:
+OPTION_A: Urheilijan sakottaminen
+OPTION_B: Antaa järjestäjälle luvan pidättää urheilijan palkinnon/palkinnot
+OPTION_C: Hylätä urheilija
+OPTION_D: Myönnä palkinto seuraavaksi sijoittuneelle urheilijalle
+CORRECT: B
+EXPLANATION: Yhteiskilpailun sääntöjen Artikla 341 määrää, että jos palkinnon voittaja ei osallistu palkintojenjakotilaisuuteen ilman uskottavaa syytä, tuomaristo voi antaa järjestäjälle luvan evätä urheilijan palkinnon/palkinnot.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

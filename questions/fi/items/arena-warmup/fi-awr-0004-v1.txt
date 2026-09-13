@@ -1,0 +1,17 @@
+ID: fi-awr-0004-v1
+PARENT_ID: fi-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Kolmoisyhdistelmä voidaan merkitä ratasuunnitelmassa seuraavasti:
+OPTION_A: 7, 8, 9
+OPTION_B: 8A, 8B, 8C
+OPTION_C: 8, 8a, 8b
+OPTION_D: III
+CORRECT: B
+EXPLANATION: Yhteisen ohjesäännön artiklassa 241.3.3 annetaan esimerkit 8A, 8B ja 8C yhdistelmän elementeille, joilla on yksi numero.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

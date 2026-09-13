@@ -1,0 +1,17 @@
+ID: fi-fwd-0051-v1
+PARENT_ID: fi-fwd-0051
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Yhteisen sääntöjen artiklan 264.2.1 mukaan kannusten tai raipan liiallisesta käytöstä kertovat merkit johtavat:
+OPTION_A: Eliminaatio
+OPTION_B: Sakko
+OPTION_C: Hylkääminen
+OPTION_D: Varoitus
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 tekee kannusten tai raipan liiallisesta käytöstä johtuvista merkeistä pakollisen hylkäyksen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

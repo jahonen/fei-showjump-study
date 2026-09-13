@@ -1,0 +1,17 @@
+ID: fi-jof-0062-v3
+PARENT_ID: fi-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Joukkuekilpailussa Nations Cupissa toiselta kierrokselta putoava joukkue sijoittuu seuraavasti:
+OPTION_A: Tasapeli viimeinen toisella kierroksella
+OPTION_B: Heidän pistemääränsä ensimmäisellä kierroksella
+OPTION_C: Kolikonheitto
+OPTION_D: Heidän alustava sijoituksensa
+CORRECT: B
+EXPLANATION: JR:n Artikla 344 toteaa, että joukkueet, jotka vetäytyvät Nations Cupin toiselta kierrokselta, sijoittuvat ensimmäisellä kierroksella saavuttamiensa pisteiden mukaan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

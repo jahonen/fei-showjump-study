@@ -1,0 +1,17 @@
+ID: fi-pte-0036-v3
+PARENT_ID: fi-pte-0036
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Taulukon A mukaan toinen tottelemattomuus samalla kierroksella johtaa:
+OPTION_A: 4 rangaistusta
+OPTION_B: 6 rangaistusta
+OPTION_C: Eliminaatio
+OPTION_D: Sakko
+CORRECT: C
+EXPLANATION: Yhteisten sääntöjen artiklassa 217.1.1 luetellaan "Toinen tottelemattomuus tai muu yhteisten sääntöjen Artikla 342 mukainen rikkomus" taulukon A mukaiseksi hylkäämiseksi.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

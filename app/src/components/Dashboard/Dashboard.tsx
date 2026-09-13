@@ -51,7 +51,7 @@ export default function Dashboard() {
     navigate('/');
   };
 
-  const availableLanguages: Language[] = ['en', 'el']; // extend when fi bank exists
+  const availableLanguages: Language[] = ['en', 'el', 'fi'];
 
   return (
     <main className="dashboard" role="main">

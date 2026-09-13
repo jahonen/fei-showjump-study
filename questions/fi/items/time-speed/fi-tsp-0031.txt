@@ -1,0 +1,17 @@
+ID: fi-tsp-0031
+PARENT_ID: fi-tsp-0031
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Mikä on enimmäisaika, kun sallittu aika on määritelty?
+OPTION_A: Yhtä pitkä kuin sallittu aika
+OPTION_B: Puolitoista kertaa sallittu aika
+OPTION_C: Kaksinkertainen sallittu aika
+OPTION_D: Kolme kertaa sallittu aika
+CORRECT: C
+EXPLANATION: Kilpailusääntöjen artiklassa 253 määrätään, että (suurin) aikaraja on kaksinkertainen sallittuun aikaan nähden kilpailussa, jossa on määritelty sallittu aika.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

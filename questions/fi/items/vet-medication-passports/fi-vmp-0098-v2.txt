@@ -1,0 +1,17 @@
+ID: fi-vmp-0098-v2
+PARENT_ID: fi-vmp-0098
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Kuka antaa hevoselle tunnistenumeron, jota sen on käytettävä lähtiessään talleilta JR:n artiklan 275.3.2 mukaisesti?
+OPTION_A: Urheilija
+OPTION_B: Joukkueenjohtaja
+OPTION_C: OC
+OPTION_D: FEI
+CORRECT: C
+EXPLANATION: Yhteisösääntöjen artiklassa 275.3.2 todetaan, että jokaiselle hevoselle annetaan järjestäjän toimesta tunnistusnumero.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

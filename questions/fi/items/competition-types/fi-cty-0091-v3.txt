@@ -1,0 +1,17 @@
+ID: fi-cty-0091-v3
+PARENT_ID: fi-cty-0091
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Kuuden tahdin kilpailussa, hylkäämisen tai loppukirin jälkeen, missä kohtaa urheilijan on jatkettava rataa JR:n artiklan 230.3.4 mukaisesti?
+OPTION_A: Ensimmäisen esteen kohdalla
+OPTION_B: Esteellä, jossa virhe tehtiin
+OPTION_C: Viimeisen esteen kohdalla
+OPTION_D: Tuomarin harkinnan mukaan
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 toteaa, että hylkäämisen tai loppukirin sattuessa urheilijan on jatkettava rataa esteeltä, jossa virhe tapahtui.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

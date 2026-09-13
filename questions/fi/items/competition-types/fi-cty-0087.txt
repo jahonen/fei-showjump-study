@@ -1,0 +1,17 @@
+ID: fi-cty-0087
+PARENT_ID: fi-cty-0087
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Mikä artikla säätelee nopeus- ja kädentaitokilpailuja?
+OPTION_A: Art 220
+OPTION_B: 222 artikla
+OPTION_C: Artikla 224
+OPTION_D: Artikla 225
+CORRECT: D
+EXPLANATION: JR:n Artikla 354 on otsikoitu "Nopeus- ja kätevyyskilpailu" ja se säätelee tätä kilpailumuotoa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

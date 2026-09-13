@@ -1,0 +1,17 @@
+ID: fi-obs-0012-v2
+PARENT_ID: fi-obs-0012
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mitä rakennusvaatimuksia vesihypyn pohjalle sovelletaan, jos se on tehty betonista tai kovasta materiaalista?
+OPTION_A: Se on maalattava valkoiseksi
+OPTION_B: Se on peitettävä pehmeämmällä liukumattomalla materiaalilla
+OPTION_C: Sen on pysyttävä paljaana
+OPTION_D: Sen on oltava vähintään 30 cm syvä
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 mukaan betonista tai kovasta materiaalista tehdyn vesihypyn pohja on peitettävä pehmeämmällä liukumattomalla materiaalilla, kuten kookos- tai kumimatolla.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

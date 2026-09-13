@@ -1,0 +1,17 @@
+ID: fi-obs-0016-v2
+PARENT_ID: fi-obs-0016
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Minkä tyyppinen yhdistelmä EI vaadi kaikkien elementtien uudelleenhyppäämistä hylkäämisen tai loppukirin jälkeen?
+OPTION_A: Avoin yhdistelmä
+OPTION_B: Suljettu yhdistelmä
+OPTION_C: Kolmoisyhdistelmä
+OPTION_D: Tuplayhdistelmä
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 vapauttaa suljetut tai osittain suljetut sarjat vaatimuksesta hypätä kaikki elementit uudelleen hylkäämisen tai loppukirin jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

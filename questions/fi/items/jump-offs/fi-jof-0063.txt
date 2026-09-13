@@ -1,0 +1,17 @@
+ID: fi-jof-0063
+PARENT_ID: fi-jof-0063
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Mikä on oletuslähtöjärjestys uusinnassa?
+OPTION_A: Käänteinen alkukierroksen sijoitusjärjestys
+OPTION_B: Sama kuin lähtöjärjestys edellisellä kierroksella ennen hyppyä
+OPTION_C: Arvottu
+OPTION_D: Nopein alkuerä menee ensin
+CORRECT: B
+EXPLANATION: Yhteisten kilpailusääntöjen artiklassa 218.1.8 määrätään, että lähtöjärjestyksen uusinnassa on pysyttävä samana kuin lähtöjärjestys edellisellä kierroksella, ellei aikataulussa tai yhteisissä kilpailusäännöissä toisin määrätä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

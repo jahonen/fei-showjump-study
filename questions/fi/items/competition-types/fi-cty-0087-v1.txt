@@ -1,0 +1,17 @@
+ID: fi-cty-0087-v1
+PARENT_ID: fi-cty-0087
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Millä pöydällä nopeus- ja kädentaitokilpailut yleensä tuomaroidaan?
+OPTION_A: Taulukko A
+OPTION_B: Taulukko C
+OPTION_C: Taulukko B
+OPTION_D: Ei pöytää
+CORRECT: B
+EXPLANATION: Nopeus- ja kätevyyskilpailut tuomaroidaan yleensä taulukon C mukaan, kuten yleisten kilpailusääntöjen artiklassa 225 ja artiklassa 237.1 olevassa viittauksessa taulukon C mukaan tuomaroituihin nopeus- ja kätevyyskilpailuihin on osoitettu.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-tsp-0035-v2
+PARENT_ID: fi-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Missä kilpailutyypissä aika ei ole koskaan ratkaiseva tekijä JR:n artiklan 230.1.4 mukaan?
+OPTION_A: Pöydän A Grand Prix
+OPTION_B: Voima ja taito
+OPTION_C: Kansakuntien Cup
+OPTION_D: Taulukon C nopeus
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 toteaa, että aika ei ole koskaan ratkaiseva tekijä voima- ja taitokilpailuissa; aikaa ei ole sallittua eikä aikarajaa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

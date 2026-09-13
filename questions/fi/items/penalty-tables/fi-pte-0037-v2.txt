@@ -1,0 +1,17 @@
+ID: fi-pte-0037-v2
+PARENT_ID: fi-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: C-taulukon sisäkilpailussa este kaadetaan. Kuinka monta sekuntia lisätään?
+OPTION_A: 2 sekuntia
+OPTION_B: 3 sekuntia
+OPTION_C: 4 sekuntia
+OPTION_D: 6 sekuntia
+CORRECT: B
+EXPLANATION: JR:n Artikla 342 määrää, että esteen kaatumisesta tai vesihypyn virheestä seuraa 3 sekuntia taulukon C mukaisissa sisäkilpailuissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

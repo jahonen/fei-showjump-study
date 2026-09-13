@@ -1,0 +1,17 @@
+ID: fi-cls-0066-v3
+PARENT_ID: fi-cls-0066
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Missä artiklassa eläkkeelle jääneet, pudonneet tai luvan saaneet vetäytyneet urheilijat sijoittuvat viimeiseksi niiden jälkeen, jotka ovat suorittaneet uusinnan/toisen kierroksen/voittavan kierroksen?
+OPTION_A: Artikla 218.1.8
+OPTION_B: Artikla 218.3.1
+OPTION_C: Artikla 267.2
+OPTION_D: 268.1 artikla
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 sisältää luokitussäännöt urheilijoille, jotka keskeyttävät, putoavat tai vetäytyvät luvalla uusinnasta, toisesta kierroksesta tai voittavasta kierroksesta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

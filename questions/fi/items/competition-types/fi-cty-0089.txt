@@ -1,0 +1,17 @@
+ID: fi-cty-0089
+PARENT_ID: fi-cty-0089
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: multi-select
+STEM: Mitä teknisiä rajoituksia sovelletaan JR:n artiklan 226.3.1 nojalla 5 tähden Nations Cup -kilpailuissa ulkona?
+OPTION_A: Esteiden lukumäärä: 12
+OPTION_B: Min./max. korkeus: 1,45/1,60 m
+OPTION_C: Nopeus: 400 m/min
+OPTION_D: Suurin leviämä: 2,00 m
+CORRECT: A,C,D
+EXPLANATION: JR:n Artikla 354 taulukossa 5 tähden NC-ulkoradoille on 12 estettä, joiden minimi-/maksimikorkeus on 1,45/1,60 m, nopeus 400 m/min ja suurin esteleveys 2,00 m.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

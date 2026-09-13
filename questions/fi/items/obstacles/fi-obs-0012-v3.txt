@@ -1,0 +1,17 @@
+ID: fi-obs-0012-v3
+PARENT_ID: fi-obs-0012
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Vesihypyn etuleveyden on oltava vähintään kuinka paljon suurempi kuin sen pituus?
+OPTION_A: 10 %
+OPTION_B: 20 %
+OPTION_C: 30 %
+OPTION_D: 40 %
+CORRECT: C
+EXPLANATION: JR:n Artikla 301 mukaan vesihypyn etuosan leveyden on oltava vähintään 30 % suurempi kuin sen pituus.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

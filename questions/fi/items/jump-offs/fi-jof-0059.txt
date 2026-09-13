@@ -1,0 +1,17 @@
+ID: fi-jof-0059
+PARENT_ID: fi-jof-0059
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Mikä on pienin sallittu esteiden määrä uusinnassa?
+OPTION_A: Neljä
+OPTION_B: Viisi
+OPTION_C: Kuusi
+OPTION_D: Kahdeksan
+CORRECT: C
+EXPLANATION: Yhteisösääntöjen artiklassa 218.2.3 määrätään, että esteiden lukumäärää uusinnassa voidaan vähentää vähintään kuuteen, ja yhdistelmät lasketaan yhdeksi esteeksi tässä tarkoituksessa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-awr-0007
+PARENT_ID: fi-awr-0007
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Mitä toimintaa kilpailun lämmittelyn aikana ei erityisesti sallita?
+OPTION_A: Maahan asetettujen keppien yli käveleminen
+OPTION_B: Voimistelu-/harjoitusharjoitukset
+OPTION_C: Yhden pystysuoran hyppääminen
+OPTION_D: Ohjainpylväiden käyttö
+CORRECT: B
+EXPLANATION: JR:n Artikla 329 nimenomaisesti toteaa, että voimistelu-/harjoitteluharjoituksia ei sallita kilpailun lämmittelyn aikana.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

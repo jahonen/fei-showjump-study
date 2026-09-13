@@ -1,0 +1,17 @@
+ID: fi-pte-0038-v3
+PARENT_ID: fi-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Taulukon C mukaan enimmäisaikarajan ylittäminen johtaa seuraavaan:
+OPTION_A: 4 rangaistusta
+OPTION_B: 6 rangaistusta
+OPTION_C: Eliminaatio
+OPTION_D: Vain aikarangaistukset
+CORRECT: C
+EXPLANATION: Yhteisen sääntöjen artiklassa 217.2.4 todetaan, että taulukon C mukaisen enimmäisaikarajan ylittäminen johtaa hylkäämiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

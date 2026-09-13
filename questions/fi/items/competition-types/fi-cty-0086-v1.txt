@@ -1,0 +1,17 @@
+ID: fi-cty-0086-v1
+PARENT_ID: fi-cty-0086
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Missä pysäytetään urheilijat, joille on langetettu rangaistuksia normaalin kaksivaiheisen kilpailun ensimmäisessä vaiheessa, JR:n artiklan 222.1.3 nojalla?
+OPTION_A: Ennen ensimmäisen vaiheen viimeisen esteen hyppäämistä
+OPTION_B: Ensimmäisen vaiheen viimeisen esteen hyppäämisen jälkeen tai maaliviivan ylittämisen jälkeen, jos sallittu aika ylitettiin
+OPTION_C: Toisen vaiheen lähtöviivalla
+OPTION_D: Toisen maaliviivan ylityksen jälkeen
+CORRECT: B
+EXPLANATION: JR:n artiklassa 222.1.3 määrätään, että urheilijat, joilla on rangaistuksia ensimmäisessä vaiheessa, pysäytetään soittamalla kelloa sen jälkeen, kun he ovat hypänneet ensimmäisen vaiheen viimeisen esteen tai (jos ensimmäisen vaiheen aika on ylitetty) sen jälkeen, kun he ovat ylittäneet ensimmäisen vaiheen maaliviivan. Näiden urheilijoiden on pysähdyttävä ylitettyään ensimmäisen maaliviivan, eivätkä he saa jatkaa toiseen vaiheeseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

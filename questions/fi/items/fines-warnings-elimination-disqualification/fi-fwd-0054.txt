@@ -1,0 +1,17 @@
+ID: fi-fwd-0054
+PARENT_ID: fi-fwd-0054
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Kuka voi määrätä sakkoja esteratsastussääntöjen rikkomisesta?
+OPTION_A: Vain FEI:n pääsihteeri
+OPTION_B: Vain tuomariston puheenjohtaja
+OPTION_C: Tuomaristo, päätuomari ja tekninen asiantuntija, riippuen rikkomuksesta
+OPTION_D: Urheilijoiden kansallinen liitto
+CORRECT: B
+EXPLANATION: Yleisten kilpailusääntöjen Artikla 346 määrää, että tuomariston puheenjohtaja voi määrätä sakkoja yleisten kilpailusääntöjen mukaisesti luetelluissa olosuhteissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

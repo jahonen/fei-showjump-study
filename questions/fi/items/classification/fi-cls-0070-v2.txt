@@ -1,0 +1,17 @@
+ID: fi-cls-0070-v2
+PARENT_ID: fi-cls-0070
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Missä JR:n luvussa FEI:n kunniamerkkejä mainitaan?
+OPTION_A: Luku IX
+OPTION_B: Luku X
+OPTION_C: Luku XI
+OPTION_D: Luku XII
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 on luvussa X, "Sijoitus ja kunnianosoitukset".
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

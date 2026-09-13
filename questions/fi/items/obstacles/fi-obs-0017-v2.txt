@@ -1,0 +1,17 @@
+ID: fi-obs-0017-v2
+PARENT_ID: fi-obs-0017
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Suljettu yhdistelmä erotetaan osittain suljetusta yhdistelmästä seuraavasti:
+OPTION_A: Elementtien lukumäärä
+OPTION_B: Onko yhdistelmä kokonaan sellaisten sivujen ympäröimä, jotka voidaan ylittää vain hyppäämällä, vai onko vain yksi osa suljettu
+OPTION_C: Elementtien välinen etäisyys
+OPTION_D: Vesihypyn läsnäolo
+CORRECT: B
+EXPLANATION: Yhteistyösääntöjen Artikla 301 määrittelee täysin suljetun sarjan sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä, kun taas yhteissääntöjen Artikla 301 määrittelee osittain suljetun sarjan sellaiseksi, jossa on yksi suljettu ja yksi avoin osa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

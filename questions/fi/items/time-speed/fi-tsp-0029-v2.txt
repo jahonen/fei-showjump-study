@@ -1,0 +1,17 @@
+ID: fi-tsp-0029-v2
+PARENT_ID: fi-tsp-0029
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Milloin kierroksen aika päättyy JR:n artiklan 251.1.2 mukaisesti?
+OPTION_A: Kun urheilija on ylittänyt viimeisen esteen
+OPTION_B: Kun ratsastaja/hevosyhdistelmä ylittää maaliviivan oikeaan suuntaan viimeisen esteen hypättyään
+OPTION_C: Kun kello soitetaan
+OPTION_D: Kun urheilija poistuu areenalta
+CORRECT: B
+EXPLANATION: JR:n artiklassa 251.1.2 määrätään, että aika pysähtyy, kun urheilija/hevosyhdistelmä ylittää maaliviivan oikeaan suuntaan hypättyään viimeisen esteen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

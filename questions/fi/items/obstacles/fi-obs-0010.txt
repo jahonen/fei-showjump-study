@@ -1,0 +1,17 @@
+ID: fi-obs-0010
+PARENT_ID: fi-obs-0010
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Kilpailussa, jonka enimmäiskorkeus on 1,45 m tai enemmän, kuinka paljon ratasuunnittelija voi ylittää suunnitellun korkeuden?
+OPTION_A: 1 cm
+OPTION_B: 2 cm
+OPTION_C: 3 cm
+OPTION_D: 5 cm
+CORRECT: C
+EXPLANATION: Kilpailuissa, joiden suunniteltu enimmäiskorkeus on 1,45 m tai enemmän, JR:n Artikla 301 sallii esteiden korkeuden ylittää suunnitellun korkeuden enintään 3 cm:llä radan suunnittelijan harkinnan mukaan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

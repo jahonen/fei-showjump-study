@@ -1,0 +1,17 @@
+ID: fi-cty-0084
+PARENT_ID: fi-cty-0084
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Kahden kierroksen kilpailussa aikataulussa on määriteltävä, mitkä urheilijat jatkavat toiselle kierrokselle. Mikä on urheilijoiden vähimmäisprosenttiosuus, joka voidaan valita?
+OPTION_A: 10 %
+OPTION_B: 15 %
+OPTION_C: 25 %
+OPTION_D: 50 %
+CORRECT: C
+EXPLANATION: Yhteisen kilpailusäännön artiklassa 221.2.2 määrätään, että toiselle kierrokselle osallistuvien urheilijoiden määrää voidaan rajoittaa, mutta vähintään 25 prosenttiin, kuten aikataulussa on määritelty.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

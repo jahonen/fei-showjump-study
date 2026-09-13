@@ -1,0 +1,17 @@
+ID: fi-fdc-0021-v3
+PARENT_ID: fi-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 246.3.1 mukaan loppukiri tapahtuu, kun hevonen:
+OPTION_A: Pysähtyy esteen eteen ja astuu taaksepäin
+OPTION_B: Karkaa urheilijan hallinnasta ja väistää esteen, joka sen on hypättävä
+OPTION_C: Takapenkit lähtöviivalla
+OPTION_D: Hyppää esteen yli kahden punaisen lipun välissä
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 määrittelee loppukirin hevosen karkaamiseksi ratsastajan hallinnasta ja väistämiseksi esteen, joka sen on hypättävä, tai pakollisen käännöspisteen, joka sen on ohitettava.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

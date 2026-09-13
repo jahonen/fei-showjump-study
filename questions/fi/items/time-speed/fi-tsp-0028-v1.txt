@@ -1,0 +1,17 @@
+ID: fi-tsp-0028-v1
+PARENT_ID: fi-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Yhteisten sääntöjen artiklan 250.1 mukaan sallitun ajan ylittäminen johtaa:
+OPTION_A: Eliminaatio
+OPTION_B: Aikarangaistukset
+OPTION_C: Varoitus
+OPTION_D: Ei seurauksia
+CORRECT: B
+EXPLANATION: Yhteisten sääntöjen Artikla 352 määrää, että sallitun ajan ylittämisestä seuraa aikarangaistus. Enimmäisaikarajan ylittäminen voi kuitenkin johtaa hylkäämiseen Artikla 352/263.4.13 nojalla.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-cls-0070-v1
+PARENT_ID: fi-cls-0070
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Mikä esteratsastussääntöjen artikla käsittelee FEI:n kunniamerkkejä?
+OPTION_A: Artikla 267
+OPTION_B: Artikla 268
+OPTION_C: Artikla 269
+OPTION_D: Art 270
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 on otsikoitu "FEI:n kunniamerkit", ja siinä esitetään asiaankuuluvat säännöt.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

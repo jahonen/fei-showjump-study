@@ -1,0 +1,17 @@
+ID: fi-pte-0039
+PARENT_ID: fi-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Miten tottelemattomuusrangaistukset kertyvät taulukon A mukaisesti?
+OPTION_A: Vain samalla esteellä
+OPTION_B: Koko kierroksen ajan
+OPTION_C: Vain kurssin ensimmäisellä puoliskolla
+OPTION_D: Vasta kaatumisen jälkeen
+CORRECT: B
+EXPLANATION: JR:n Artikla 342 määrää, että tottelemattomuusrangaistukset eivät kerry vain samalla esteellä, vaan koko kierroksen ajalta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

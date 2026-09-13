@@ -1,0 +1,17 @@
+ID: fi-cls-0068-v3
+PARENT_ID: fi-cls-0068
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Urheilija voittaa karsintakierroksen, mutta ei halua osallistua finaaliin. Hänen palkintonsa karsinnasta:
+OPTION_A: Palautetaan
+OPTION_B: Säilytetään
+OPTION_C: Lahjoitetaan
+OPTION_D: On mitätön
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 mukaan palkinnonsaajat säilyttävät karsintakilpailuissa voittamansa palkinnot, vaikka he kieltäytyisivätkään osallistumasta finaaliin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

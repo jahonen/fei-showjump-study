@@ -1,0 +1,17 @@
+ID: fi-cah-0071-v1
+PARENT_ID: fi-cah-0071
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Mikä on eteläisen pallonpuoliskon hevosten virallinen syntymäaika JR:n artiklan 202.1.1 mukaisesti?
+OPTION_A: 1. tammikuuta
+OPTION_B: 1. elokuuta
+OPTION_C: 1. maaliskuuta
+OPTION_D: 1. kesäkuuta
+CORRECT: B
+EXPLANATION: JR:n Artikla 333 toteaa, että eteläisen pallonpuoliskon hevosten virallinen syntymäaika on 1. elokuuta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

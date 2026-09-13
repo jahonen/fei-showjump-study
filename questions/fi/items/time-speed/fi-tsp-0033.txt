@@ -1,0 +1,17 @@
+ID: fi-tsp-0033
+PARENT_ID: fi-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Milloin urheilijan aikaan lisätään kuuden sekunnin aikakorjaus JR:n artiklan 256 mukaan?
+OPTION_A: Aina kun este kaadetaan
+OPTION_B: Kun tottelemattomuus siirtää tai kaataa esteen tai asiaankuuluvan lipun artikkelin mukaisesti
+OPTION_C: Aina kun urheilija pyytää kellon pysäyttämistä
+OPTION_D: Jokaisen tottelemattomuuden jälkeen
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 lisää kuuden sekunnin aikakorjauksen, kun urheilija tottelemattomuuden seurauksena siirtää tai kaataa esteen tai lipun artiklassa määritellyissä olosuhteissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

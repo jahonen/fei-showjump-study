@@ -1,0 +1,17 @@
+ID: fi-fwd-0048-v3
+PARENT_ID: fi-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JR:n artikla 263.4.29 on eliminointisääntö, joka koskee erityisesti:
+OPTION_A: Piiskan käyttö
+OPTION_B: Elektroniset laitteet
+OPTION_C: Suojaava pääpanssari leukahihnalla
+OPTION_D: Saappaat ja siteet
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 käsittelee hyppimistä suojakypärän leukahihna väärin kiinnitettynä tai kiinnittämättä jääneenä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

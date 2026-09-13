@@ -1,0 +1,17 @@
+ID: fi-cah-0074-v2
+PARENT_ID: fi-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Jos Grand Prix -kilpailua ei ole, mihin kilpailuun sovelletaan JR:n artiklan 203.2.1 mukaista yksi hevonen urheilijaa kohden -sääntöä?
+OPTION_A: Ensimmäinen kilpailu
+OPTION_B: Kilpailu, jossa on suurin palkintoraha
+OPTION_C: Kansakuntien Cup
+OPTION_D: Akkumulaattori
+CORRECT: B
+EXPLANATION: JR:n Artikla 333 soveltaa yhden hevosen sääntöä Grand Prix -kilpailuun tai, jos Grand Prix -kilpailua ei ole, kilpailuun, jossa on korkein palkintoraha.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

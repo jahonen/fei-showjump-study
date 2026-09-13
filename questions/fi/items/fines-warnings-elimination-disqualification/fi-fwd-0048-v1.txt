@@ -1,0 +1,17 @@
+ID: fi-fwd-0048-v1
+PARENT_ID: fi-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JR:n artiklan 263.4.29 mukaisesti urheilijaa EI hylätä kilpailusta kiinnittämättömän leukahihnan vuoksi, jos:
+OPTION_A: He huomasivat sen maaliviivan jälkeen
+OPTION_B: Olosuhteet tekivät välittömän pysähtymisen hihnan uudelleen kiinnittämiseksi vaaralliseksi
+OPTION_C: He ovat juniori
+OPTION_D: Tuomaristo ei nähnyt sitä
+CORRECT: B
+EXPLANATION: JR:n Artikla 346 sisältää poikkeuksen eliminoinnista, jos olosuhteet tekevät urheilijan vaaralliseksi pysähtyä välittömästi kiinnittääkseen hihnan uudelleen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

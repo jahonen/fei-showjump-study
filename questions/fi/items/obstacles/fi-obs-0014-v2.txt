@@ -1,0 +1,17 @@
+ID: fi-obs-0014-v2
+PARENT_ID: fi-obs-0014
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Minkä tyyppiseksi esteeksi tuomitaan vesihypyn päälle asetettu pystysuora este?
+OPTION_A: Vesihyppynä
+OPTION_B: Pystysuorana esteenä
+OPTION_C: Liverpoolina
+OPTION_D: Leviämisen esteenä
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 toteaa nimenomaisesti, että veden päälle asetettu pystysuora este tuomitaan pystysuorana esteenä eikä vesihyppynä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

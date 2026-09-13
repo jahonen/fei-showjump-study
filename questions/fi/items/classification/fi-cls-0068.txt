@@ -1,0 +1,17 @@
+ID: fi-cls-0068
+PARENT_ID: fi-cls-0068
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Mitä tapahtuu karsintakilpailussa voitetuille palkinnoille, jos urheilija kieltäytyy osallistumasta siihen loppukilpailuun, johon hän on karsinut itsensä?
+OPTION_A: Heidän on palautettava palkinnot
+OPTION_B: He säilyttävät voitetut palkinnot
+OPTION_C: Palkinnot menetetään järjestäjälle
+OPTION_D: Palkinnot annetaan seuraavalle karsinnan suorittaneelle
+CORRECT: B
+EXPLANATION: Yhteistyösääntöjen artiklassa 267.7 todetaan, että karsintakilpailujen voittajat säilyttävät voittamansa palkinnot, vaikka he kieltäytyisivät osallistumasta loppukilpailuun, johon he ovat karsineet paikkansa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

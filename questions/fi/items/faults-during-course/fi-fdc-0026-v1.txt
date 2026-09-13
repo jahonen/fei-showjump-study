@@ -1,0 +1,17 @@
+ID: fi-fdc-0026-v1
+PARENT_ID: fi-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 248.2.2.2 mukaan kaatumisesta kierroksen aikana rangaistaan:
+OPTION_A: 4 rangaistusta
+OPTION_B: Eliminaatio
+OPTION_C: Keltainen kortti
+OPTION_D: Sakko
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 toteaa, että kaatuminen kilpailualueella kierroksen aikana johtaa urheilija/hevonen -yhdistelmän sulkemiseen kilpailusta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

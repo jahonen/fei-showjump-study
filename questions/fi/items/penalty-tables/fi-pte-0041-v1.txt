@@ -1,0 +1,17 @@
+ID: fi-pte-0041-v1
+PARENT_ID: fi-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Urheilijat, jotka eivät noudata harjoituskierrosten ilmoitussääntöä JR:n artiklan 217.3 mukaisesti, voidaan tuomita:
+OPTION_A: Sakoitettu
+OPTION_B: Tuomariston pudottama
+OPTION_C: Annettu varoitus
+OPTION_D: Hylätty tapahtumasta
+CORRECT: B
+EXPLANATION: Yhteisösääntöjen artiklassa 217.3 todetaan, että tuomaristo voi poistaa sääntöä rikkovat urheilijat kilpailusta (katso yhteisösääntöjen Artikla 342).
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

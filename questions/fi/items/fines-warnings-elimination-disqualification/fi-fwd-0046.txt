@@ -1,0 +1,17 @@
+ID: fi-fwd-0046
+PARENT_ID: fi-fwd-0046
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mitä seuraa enimmäisajan ylittämisestä?
+OPTION_A: Yksi rangaistus sekuntia kohden ylitetty
+OPTION_B: Varoitus
+OPTION_C: Eliminaatio
+OPTION_D: Tapahtumasta hylkääminen
+CORRECT: C
+EXPLANATION: Yhteisen sääntöjen Artikla 346 toteaa, että enimmäisaikarajan ylittäminen johtaa hylkäämiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

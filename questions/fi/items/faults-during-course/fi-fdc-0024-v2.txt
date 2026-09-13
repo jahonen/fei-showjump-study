@@ -1,0 +1,17 @@
+ID: fi-fdc-0024-v2
+PARENT_ID: fi-fdc-0024
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 246.4.3 mukaan 45 sekunnin vastustussääntö mitataan:
+OPTION_A: Lähtömerkistä maaliviivalle
+OPTION_B: Peräkkäin kierroksen aikana
+OPTION_C: Vasta ensimmäisen esteen kohdalla
+OPTION_D: Koko kilpailun ajan
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 määrittelee '45 peräkkäisen sekunnin' vastusta kierroksen aikana, ei kumulatiivista aikaa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

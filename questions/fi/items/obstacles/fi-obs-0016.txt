@@ -1,0 +1,17 @@
+ID: fi-obs-0016
+PARENT_ID: fi-obs-0016
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mitä urheilijan on tehtävä normaalien sääntöjen mukaan hylkäämisen tai loppukirin jälkeen yhdistetyssä suorituksessa?
+OPTION_A: Hyppää uudelleen vain siihen elementtiin, jossa vika ilmeni
+OPTION_B: Hyppää uudelleen kaikki yhdistelmän elementit
+OPTION_C: Jatka seuraavalle esteelle
+OPTION_D: Ympyröi kerran ja jatka seuraavasta elementistä
+CORRECT: B
+EXPLANATION: JR:n artiklassa 237.3 määrätään, että hylkäyksen tai loppukirin sattuessa urheilija/hevosyhdistelmän on hypättävä kaikki yhdistelmän elementit uudelleen, ellei kyseessä ole suljettu tai osittain suljettu yhdistelmä tai kuuden palkin hyppy.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-vmp-0093-v1
+PARENT_ID: fi-vmp-0093
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Kuka voi JR:n artiklan 275.1.3.1 nojalla sopia hevostensa tarkastusajankohdasta?
+OPTION_A: Tuomaristo
+OPTION_B: Kilpailijat ja/tai vastuuhenkilöt
+OPTION_C: Tekninen edustaja
+OPTION_D: OC:n puheenjohtaja
+CORRECT: B
+EXPLANATION: Yhteisten kilpailusääntöjen artiklassa 275.1.3.1 määrätään, että kilpailijaryhmien päälliköiden ja/tai vastuuhenkilöiden tulee sopia hevostensa tarkastukselle tietty aika aikataulussa mainitun ajan puitteissa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

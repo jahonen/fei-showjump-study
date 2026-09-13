@@ -1,0 +1,17 @@
+ID: fi-pte-0040-v2
+PARENT_ID: fi-pte-0040
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Missä rangaistuspistetaulukossa tuloksissa on erikseen määriteltävä aikarangaistukset?
+OPTION_A: Vain pöytä A
+OPTION_B: Vain taulukko C
+OPTION_C: Sekä taulukko A että taulukko C
+OPTION_D: Kumpikaan
+CORRECT: A
+EXPLANATION: Yhteisösääntöjen Artikla 342 asettaa tämän vaatimuksen taulukon A mukaisesti tuomaroiduille kilpailuille.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-awr-0007-v2
+PARENT_ID: fi-awr-0007
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Mikä näistä on sallittu lämmittelyareenalla JR:n artiklan 242.4 nojalla?
+OPTION_A: Voimistelu-/harjoitusharjoitukset
+OPTION_B: Yhdistelmät mihin tahansa kilpailuun
+OPTION_C: Vähintään yksi pystysuora ja yksi leveä este
+OPTION_D: Hevosten kävelytys kohotettujen keppien yli kupeissa
+CORRECT: C
+EXPLANATION: Vaikka juniorisääntöjen Artikla 329 kieltää voimistelu-/harjoitusliikkeet ja Artikla 329 yleisesti kieltää yhdistelmät, Artikla 329 vaatii vähintään yhden pystysuoran ja yhden levitettävän esteen lämmittelyalueella.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

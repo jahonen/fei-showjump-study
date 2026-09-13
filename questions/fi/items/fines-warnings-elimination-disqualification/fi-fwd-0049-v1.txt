@@ -1,0 +1,17 @@
+ID: fi-fwd-0049-v1
+PARENT_ID: fi-fwd-0049
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Minkä elektronisen laitteen käyttö kilpailualueella kilpailun aikana johtaa kilpailusta poistamiseen JR:n artiklan 263.4.30 mukaisesti?
+OPTION_A: Matkapuhelin
+OPTION_B: Sekuntikello
+OPTION_C: Sykemittari, jota ei ole yhdistetty urheilijaan
+OPTION_D: Hevosen selkään kiinnitetty kamera
+CORRECT: A
+EXPLANATION: Yhteistyösopimuksen Artikla 346 viittaa nimenomaisesti matkapuhelimiin, muihin elektronisiin viestintälaitteisiin ja kuulokkeisiin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

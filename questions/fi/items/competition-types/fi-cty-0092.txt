@@ -1,0 +1,17 @@
+ID: fi-cty-0092
+PARENT_ID: fi-cty-0092
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Missä kilpailutyypissä Jokeri voi olla valinnainen vaikea este?
+OPTION_A: Voimakkuus
+OPTION_B: Keräilykilpailu
+OPTION_C: Kansakuntien Cup
+OPTION_D: Kuusi baaria
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 toteaa, että Jokeri on vaikea valinnainen este, jota saa käyttää vain yhdistelmäkilpailussa. Artikla 354 säätelee yhdistelmäkilpailuja.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

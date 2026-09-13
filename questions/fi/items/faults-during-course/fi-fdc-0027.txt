@@ -1,0 +1,17 @@
+ID: fi-fdc-0027
+PARENT_ID: fi-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Mitä yleensä pidetään luvattomana apuna kierroksen aikana?
+OPTION_A: Tuomariston jäsen antaa pysähtymismerkin
+OPTION_B: Mikä tahansa kolmannen osapuolen fyysinen puuttuminen kierroksen aikana tarkoituksena auttaa urheilijaa tai hänen hevostaan
+OPTION_C: Urheilijan valmentaja huutaa ohjeita areenan ulkopuolelta
+OPTION_D: Kaikki tuomariston valtuuttama apu
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 määrittelee luvattoman avun mitä tahansa kolmannen osapuolen fyysistä puuttumista asiaan lähtöviivan ylityksen ja maaliviivan välillä viimeisen esteen hyppäämisen jälkeen, olipa se pyydetty tai ei, tarkoituksena auttaa urheilijaa tai hänen hevostaan. Luvaton apu kierroksen aikana johtaa kilpailusta poistamiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

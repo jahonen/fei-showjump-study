@@ -1,0 +1,17 @@
+ID: fi-fdc-0025-v3
+PARENT_ID: fi-fdc-0025
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Mikä näistä EI ole JR:n artiklan 247.1 mukainen poikkeama radalta?
+OPTION_A: Pakollisen kääntöpaikan poisjättäminen
+OPTION_B: Rataan kuulumattoman esteen hyppääminen
+OPTION_C: 20 sekunnin ympyrää loppukirin jälkeen
+OPTION_D: Ei ylitä maaliviivaa lippujen välistä
+CORRECT: C
+EXPLANATION: JR:n Artikla 348 mukaan pakollisen käännöspaikan väliin jättäminen, radalle kuulumattoman esteen hyppääminen ja maaliviivan ylittämättä jättäminen lippujen välistä ovat kaikki poikkeamia radalta. Jopa 45 sekunnin mittainen ympyrän kiertäminen maaliviivalle asettumista varten ei ole Artikla 348 mukainen tottelemattomuus, eikä siten radalta poikkeaminen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

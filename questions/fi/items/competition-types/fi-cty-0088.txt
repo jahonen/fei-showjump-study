@@ -1,0 +1,17 @@
+ID: fi-cty-0088
+PARENT_ID: fi-cty-0088
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Mikä on vähimmäismäärä kansallisia liittoja, jotta kilpailu voidaan tunnustaa Nations Cupiksi?
+OPTION_A: Kaksi
+OPTION_B: Kolme
+OPTION_C: Neljä
+OPTION_D: Viisi
+CORRECT: B
+EXPLANATION: JR:n artiklassa 226.1.2 todetaan, että vähintään kolmen kansallisen liiton on osallistuttava tähän kilpailuun, jotta se voidaan tunnustaa maiden cupiksi.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

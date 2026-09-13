@@ -1,0 +1,17 @@
+ID: fi-tsp-0035-v1
+PARENT_ID: fi-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Millä kilpailutyypillä ei ole vähimmäisnopeusvaatimusta JR:n artiklan 258.1.6 nojalla?
+OPTION_A: Taulukko A aikaa vastaan
+OPTION_B: Kansakuntien Cup
+OPTION_C: Voima ja taito
+OPTION_D: Nuori hevonen
+CORRECT: C
+EXPLANATION: JR:n Artikla 352 nimenomaisesti määrää, ettei voima- ja taitokilpailuissa vaadita vähimmäisnopeutta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

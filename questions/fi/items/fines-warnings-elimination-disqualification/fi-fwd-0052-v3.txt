@@ -1,0 +1,17 @@
+ID: fi-fwd-0052-v3
+PARENT_ID: fi-fwd-0052
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JR:n artiklan 265.1.2 mukaan ruoskan liiallinen käyttö on:
+OPTION_A: Sallittu kerran
+OPTION_B: Ehdottomasti kielletty
+OPTION_C: Sallittu vain olkapäällä
+OPTION_D: Hevonen kieltäytyy, jos se jätetään huomiotta
+CORRECT: B
+EXPLANATION: JR:n Artikla 346 määrää, että raipan liiallinen käyttö on ehdottomasti kielletty, ja antaa esimerkkejä tästä, kuten käyttö hevosen päässä useammin kuin kolme kertaa peräkkäin ja karsintakilpailun jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-tsp-0032-v2
+PARENT_ID: fi-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Keskeytetyn ajan aikana tottelemattomuudet ovat yleensä:
+OPTION_A: Rangaistetaan kuten tavallisista kieltäytymisistä
+OPTION_B: Ei rangaista, paitsi toisesta hylkäämisestä alaslyönnillä tehdyn hylkäämisen jälkeen
+OPTION_C: Aina eliminoitu
+OPTION_D: Täysin huomiotta jätetty
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 toteaa, että tottelemattomuudesta ei rangaista keskeytetyn peliajan aikana, lukuun ottamatta toista hylkäämistä hylkäämisen jälkeen, johon liittyi alasvienti.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

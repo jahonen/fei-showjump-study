@@ -1,0 +1,17 @@
+ID: fi-fwd-0045
+PARENT_ID: fi-fwd-0045
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Hevonen osoittaa vastustusta 45 sekuntia peräkkäin kierroksen aikana. Mitä siitä seuraa?
+OPTION_A: 4 rangaistusta
+OPTION_B: Varoitus
+OPTION_C: Eliminaatio
+OPTION_D: Urheilijan on jatkettava lyhyen tauon jälkeen
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 määrää, että jos hevonen vastustaa 45 sekuntia yhtäjaksoisesti kierroksen aikana, se johtaa kilpailusta poistumiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

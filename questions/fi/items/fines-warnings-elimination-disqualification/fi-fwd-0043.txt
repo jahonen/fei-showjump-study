@@ -1,0 +1,17 @@
+ID: fi-fwd-0043
+PARENT_ID: fi-fwd-0043
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mikä on eliminoinnin yleinen vaikutus kilpailussa?
+OPTION_A: Urheilija voi jatkaa, mutta neljällä lisärangaistuksella
+OPTION_B: Kyseisen hevosen ratsastaja ei saa jatkaa kyseisessä kilpailussa.
+OPTION_C: Urheilijalle 1 000 Sveitsin frangin sakko
+OPTION_D: Urheilija sijoittuu viimeiseksi, mutta säilyttää oikeuden osallistua myöhempään kilpailuun.
+CORRECT: B
+EXPLANATION: Kilpailusääntöjen artiklassa 263.1 todetaan, että ellei kilpailusäännöissä toisin määrätä, eliminointi tarkoittaa, että urheilija kyseisen hevosen kanssa ei saa jatkaa kyseisessä kilpailussa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

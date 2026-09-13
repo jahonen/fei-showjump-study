@@ -1,0 +1,17 @@
+ID: fi-tsp-0035
+PARENT_ID: fi-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Mitä nopeusvaatimuksia sovelletaan voima- ja taitokilpailuissa?
+OPTION_A: Vähintään 325 m minuutissa
+OPTION_B: Vähintään 350 m minuutissa
+OPTION_C: Ei vaadittua vähimmäisnopeutta
+OPTION_D: enintään 400 m minuutissa
+CORRECT: C
+EXPLANATION: JR:n artiklassa 258.1.6 todetaan, että voima- ja taitokilpailuissa ei ole vähimmäisnopeusvaatimusta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

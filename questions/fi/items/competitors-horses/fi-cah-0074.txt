@@ -1,0 +1,17 @@
+ID: fi-cah-0074
+PARENT_ID: fi-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Kuinka monella hevosella kukin urheilija saa ratsastaa CSI- tai CSIO-kilpailussa Grand Prix'ssä tai, jos Grand Prix'tä ei ole, kilpailussa, jossa on suurin palkintoraha?
+OPTION_A: Yksi
+OPTION_B: Kaksi
+OPTION_C: Kolme
+OPTION_D: Ei rajaa
+CORRECT: A
+EXPLANATION: JR:n Artikla 333 määrää, että CSI- ja CSIO-kilpailuissa jokainen urheilija saa ratsastaa vain yhdellä hevosella Grand Prix -kilpailussa tai, jos Grand Prix -kilpailua ei ole, kilpailussa, jossa on korkein palkintoraha. Derbyssä urheilijat voivat ratsastaa useammalla kuin yhdellä hevosella.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

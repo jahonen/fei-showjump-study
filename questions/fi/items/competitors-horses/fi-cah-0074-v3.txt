@@ -1,0 +1,17 @@
+ID: fi-cah-0074-v3
+PARENT_ID: fi-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Juniorisääntöjen artikla 203.2.2 sallii urheilijan ratsastaa kahdella hevosella CSI1*-, CSI2*- tai CSI3*-tapahtumien Grand Prix -kilpailussa vain, jos:
+OPTION_A: Urheilija on sijoittunut sadan parhaan joukkoon
+OPTION_B: Ilmoitettujen aloituskokoonpanon osallistujien määrä on enintään 50 % suunnitellusta aloituskokoonpanon osallistujamäärästä ja aikataulu sen sallii.
+OPTION_C: Järjestäjä ilmoittaa sen kilpailun aikana
+OPTION_D: Se on Kansakuntien Cup
+CORRECT: B
+EXPLANATION: Juniorisääntöjen Artikla 333 sallii kaksi hevosta urheilijaa kohden Grand Prix'ssä vain, jos ilmoitettujen lähtöhenkilöiden määrä on enintään 50 % suunnitellusta lähtöhenkilömäärästä ja aikataulussa on mainittu tämä mahdollisuus.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

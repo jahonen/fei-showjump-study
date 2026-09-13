@@ -1,0 +1,17 @@
+ID: fi-fdc-0019-v1
+PARENT_ID: fi-fdc-0019
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 244.1 mukaan vesihypyn virhe sisältyy virheluetteloon, joka:
+OPTION_A: Johtaa aina eliminointiin
+OPTION_B: Sakkoja, ellei toisin mainita
+OPTION_C: Ei huomioida taulukossa C
+OPTION_D: Hae vain ensimmäiselle kierrokselle
+CORRECT: B
+EXPLANATION: Yhteisten sääntöjen Artikla 348 sisältää vesihypyn virheen rangaistuksia aiheuttavien virheiden joukossa, ellei yhteisissä säännöissä toisin määrätä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -23,7 +23,7 @@ export default function Leaderboard() {
     return () => { cancelled = true; };
   }, [lang]);
 
-  const languages: Language[] = ['en']; // extend when el/fi banks exist
+  const languages: Language[] = ['en', 'el', 'fi'];
 
   return (
     <main className="leaderboard" role="main">

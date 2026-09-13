@@ -1,0 +1,17 @@
+ID: fi-fdc-0026-v2
+PARENT_ID: fi-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Hevonen kaatuu maaliviivan ylityksen jälkeen. Yhteisösääntöjen artiklan 248.2 mukaan tämä yleensä:
+OPTION_A: Silti aiheuttaa eliminoinnin
+OPTION_B: Ei aiheuta eliminointia
+OPTION_C: Antaa 4 rangaistusta
+OPTION_D: Tuloksena on varoitus
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 määrää, että kaatuminen maaliviivan ylityksen jälkeen ei aiheuta hylkäämistä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

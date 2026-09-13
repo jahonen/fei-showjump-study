@@ -1,0 +1,17 @@
+ID: fi-awr-0002-v2
+PARENT_ID: fi-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Jos kilpailussa on 10 estettä, radan pituus ei saa ylittää:
+OPTION_A: 500 metriä
+OPTION_B: 550 metriä
+OPTION_C: 600 metriä
+OPTION_D: 650 metriä
+CORRECT: C
+EXPLANATION: JR:n Artikla 329 rajoittaa radan pituuden esteiden lukumäärään kerrottuna 60:llä; 10 × 60 = 600 m.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

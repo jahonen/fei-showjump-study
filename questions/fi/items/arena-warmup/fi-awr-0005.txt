@@ -1,0 +1,17 @@
+ID: fi-awr-0005
+PARENT_ID: fi-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: multi-select
+STEM: Mitkä väittämät 45 sekunnin lähtölaskennasta ovat oikein?
+OPTION_A: Se aktivoidaan kellolla ja näytetään tulostaululla tai muulla näytöllä.
+OPTION_B: Se asettaa ajan, jonka jälkeen urheilijan on aloitettava kierros ylittämällä lähtöviiva oikeaan suuntaan.
+OPTION_C: Tottelemattomuudesta merkin ja lähtöviivan ylityksen välillä rangaistaan aina.
+OPTION_D: Kaatuminen radalle astumisen jälkeen, mutta ennen lähtöviivan ylittämistä, estää urheilijaa lähtemästä.
+CORRECT: A,B,D
+EXPLANATION: JR:n artiklassa 241.6.1.2 määrätään, että kello aktivoi 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteessa tulostaululla tai muulla näytöllä kilpailualueen vieressä. Lähtölaskenta asettaa ajan, jonka jälkeen urheilijan on aloitettava kierros ylittämällä lähtöviiva oikeaan suuntaan. Tottelemattomuudesta ennen lähtöviivaa ei rangaista, kun taas kaatuminen sisääntulosta tähän ylitykseen asti estää urheilija/hevosyhdistelmää lähdöstä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

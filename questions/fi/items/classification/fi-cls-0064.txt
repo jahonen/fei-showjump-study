@@ -1,0 +1,17 @@
+ID: fi-cls-0064
+PARENT_ID: fi-cls-0064
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Miten yksittäisen urheilijan sijoitus kilpailussa määräytyy?
+OPTION_A: Urheilijan kansalaisuuden mukaan
+OPTION_B: Kilpailun pisteytyksen, aikataulun ja mahdollisten ratasuunnitelman muutosten perusteella
+OPTION_C: Arvonnassa määräytyvän järjestyksessä
+OPTION_D: Suurimman voitetun palkintorahasumman mukaan
+CORRECT: B
+EXPLANATION: JR:n artiklassa 267.1 todetaan, että yksittäisen urheilijan sijoitus määräytyy kilpailun pisteytyksen, aikataulussa olevien ohjeiden ja ratasuunnitelmassa mainittujen muutosten perusteella.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

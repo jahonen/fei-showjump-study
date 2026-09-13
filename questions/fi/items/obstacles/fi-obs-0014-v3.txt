@@ -1,0 +1,17 @@
+ID: fi-obs-0014-v3
+PARENT_ID: fi-obs-0014
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä on JR:n artiklan 236.2 mukaisesti vesihypyn päälle asetetun pystysuoran ylimmän tangon kupin syvyys?
+OPTION_A: 15 mm
+OPTION_B: 18 mm
+OPTION_C: 20 mm
+OPTION_D: 22 mm
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 määrittää pystysuoran ylätolpan turvakuppien syvyydeksi 18 mm.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

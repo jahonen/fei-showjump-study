@@ -1,0 +1,17 @@
+ID: fi-cty-0089-v1
+PARENT_ID: fi-cty-0089
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Mikä on JR:n artiklan 226.3.1 mukaan esteiden vähimmäis-/enimmäiskorkeus 4 tähden Nations Cupissa ulkoilmakilpailussa?
+OPTION_A: 1,35/1,50 m
+OPTION_B: 1,40/1,55 m
+OPTION_C: 1,45/1,60 m
+OPTION_D: 1,20/1,45 m
+CORRECT: B
+EXPLANATION: JR:n Artikla 354 taulukossa 4* NC:n ulkotilojen min-/max-korkeudeksi on ilmoitettu 1,40/1,55 m.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

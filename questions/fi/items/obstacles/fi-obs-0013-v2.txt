@@ -1,0 +1,17 @@
+ID: fi-obs-0013-v2
+PARENT_ID: fi-obs-0013
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä seuraavista EI ole JR:n artiklan 236.1.3 mukainen virhe vesihypyssä?
+OPTION_A: Hevonen koskettaa vettä takajalallaan
+OPTION_B: Vuohisnivel jättää jäljen rimaan
+OPTION_C: Kenkä jättää jäljen listaan
+OPTION_D: Jalka koskettaa vettä
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 toteaa nimenomaisesti, että vuohisnivelen tai saapaan jälki ei ole virhe.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

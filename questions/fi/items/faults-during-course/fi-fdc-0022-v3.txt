@@ -1,0 +1,17 @@
+ID: fi-fdc-0022-v3
+PARENT_ID: fi-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 246.2.2 mukaan hevonen, joka pysähtyy esteen kohdalle ja hyppää välittömästi paikaltaan liikkumatta taaksepäin, on:
+OPTION_A: Aina rangaistavana kieltäytymisenä
+OPTION_B: Ei kieltäytyminen
+OPTION_C: Rangaistettu tyrmäyksenä
+OPTION_D: Tuomariston jättämä huomiotta
+CORRECT: B
+EXPLANATION: Yhteisen ohjesäännön 246.2.2 artiklassa määrätään nimenomaisesti, että tämä tilanne ei ole hylkääminen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

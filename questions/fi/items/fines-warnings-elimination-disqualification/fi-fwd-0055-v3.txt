@@ -1,0 +1,17 @@
+ID: fi-fwd-0055-v3
+PARENT_ID: fi-fwd-0055
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Kenen kanssa tuomariston on JR:n artiklan 259.3 mukaan neuvoteltava ennen kuin se sallii verta sisältävän hevosen jatkaa kilpailua?
+OPTION_A: Joukkueenjohtaja
+OPTION_B: Ratasuunnittelija
+OPTION_C: Eläinlääkintäedustaja
+OPTION_D: Urheilija
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 edellyttää, että tuomariston neuvottelee eläinlääkäriasiantuntijan kanssa ennen kuin se katsoo hevosen kelvolliseksi jatkamaan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

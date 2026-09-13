@@ -1,0 +1,17 @@
+ID: fi-pte-0039-v3
+PARENT_ID: fi-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Selvyyden vuoksi, JR:n artikla 217.1.5 vahvistaa, että tottelemattomuus yhdellä esteellä ja tottelemattomuus toisella esteellä samalla kierroksella:
+OPTION_A: Käsitellään erillisinä ensimmäisinä tottelemattomuuden teoina
+OPTION_B: Molemmat lasketaan mukaan kierroksen kokonaistulokseen.
+OPTION_C: Peruuttaa toisensa
+OPTION_D: Ei huomioida taulukossa A
+CORRECT: B
+EXPLANATION: JR:n Artikla 342 sanoo nimenomaisesti, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajalta, eivät vain samalla esteellä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-pte-0037-v3
+PARENT_ID: fi-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Taulukon C mukaan ensimmäinen tottelemattomuus ilman kaatamista johtaa:
+OPTION_A: 4 sekuntia lisätty
+OPTION_B: 6 sekuntia lisätty
+OPTION_C: Ei rangaistusta
+OPTION_D: Eliminaatio
+CORRECT: C
+EXPLANATION: Yhteisen säännön Artikla 342 toteaa, että ensimmäisestä tottelemattomuudesta taulukon C mukaisesti ei seuraa rangaistusta (ei mitään).
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

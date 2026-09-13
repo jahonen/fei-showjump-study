@@ -1,0 +1,17 @@
+ID: fi-jof-0060
+PARENT_ID: fi-jof-0060
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Uusintahypyssä yhdistelmäesteen elementtien välinen etäisyys voi:
+OPTION_A: Lisättävä, jotta hyppy olisi haastavampi
+OPTION_B: Pienennettävä tilan säästämiseksi
+OPTION_C: Älä koskaan muuta
+OPTION_D: Muutoksia saa tehdä vain, jos kaikki urheilijat ovat samaa mieltä
+CORRECT: C
+EXPLANATION: Yhdistelmäesteen elementtien välistä etäisyyttä ei saa koskaan muuttaa uusinnan aikana. Yhteishyvän Artikla 344 määrää, että yhdistelmäesteen elementtien välistä etäisyyttä ei saa koskaan muuttaa uusinnan aikana.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

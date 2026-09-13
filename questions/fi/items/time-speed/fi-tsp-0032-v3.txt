@@ -1,0 +1,17 @@
+ID: fi-tsp-0032-v3
+PARENT_ID: fi-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Kuka voi käynnistää ja pysäyttää kellon JR:n artiklan 255.3 mukaan?
+OPTION_A: Ajanottajan
+OPTION_B: Ratasuunnittelija
+OPTION_C: Kuka tahansa tuomariston jäsen
+OPTION_D: Vain kellosta vastaava tuomari
+CORRECT: D
+EXPLANATION: Tuomarisääntöjen artiklassa 255.3 todetaan, että vain kellosta vastaava tuomari saa käynnistää ja pysäyttää kellon; ajanottajaa ei voida asettaa vastuulliseksi tästä toiminnosta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

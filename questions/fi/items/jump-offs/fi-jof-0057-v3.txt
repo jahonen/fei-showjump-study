@@ -1,0 +1,17 @@
+ID: fi-jof-0057-v3
+PARENT_ID: fi-jof-0057
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Mikä seuraavista EI ole yksi JR:n artiklan 218.1.3 mukaisista olosuhteista uusinnan pitämiselle?
+OPTION_A: Tasapeli alkukierrosten jälkeen
+OPTION_B: Jakosijoilla mestaruuskilpailuissa/peleissä
+OPTION_C: Useampi kuin yksi yhdistelmä ilman rangaistuksia alkuerissä
+OPTION_D: Tasapeli pelkästään peliajalla ilman rangaistuspotkukilpailua
+CORRECT: D
+EXPLANATION: JR:n Artikla 344 listaa tasapisteet rangaistuspisteissä (ensimmäinen sija tai palkintokoroke mestaruuskilpailuissa/peleissä) ja useat nolla rangaistuspistettä sisältävät kierrokset perusteiksi uusinnalle, ei mielivaltaisia tasapisteitä pelkästään ajassa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

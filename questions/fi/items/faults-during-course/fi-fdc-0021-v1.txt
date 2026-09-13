@@ -1,0 +1,17 @@
+ID: fi-fdc-0021-v1
+PARENT_ID: fi-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Yhteisen pelisäännön artiklan 246.1.4 mukaan säännöllinen ympyrä tai ympyräryhmä on tottelemattomuutta, ellei:
+OPTION_A: Se tapahtuu lämmittelyalueella
+OPTION_B: Se kiertää jopa 45 sekuntia sen jälkeen, kun se on kieltäytynyt asettumasta paikalleen tai on rynninyt ulos.
+OPTION_C: Urheilija kiertää viimeisen hypätyn esteen
+OPTION_D: Se tehdään taloudenhoitajan pyynnöstä
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 toteaa, että enintään 45 sekunnin kiertäminen esteen ylityksen tai esteen hyppäämisasentoon asettumisen kieltäytymisen jälkeen ei ole tottelemattomuutta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

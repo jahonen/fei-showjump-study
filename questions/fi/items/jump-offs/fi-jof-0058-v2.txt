@@ -1,0 +1,17 @@
+ID: fi-jof-0058-v2
+PARENT_ID: fi-jof-0058
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Pitääkö JR:n artiklan 218.1.7 mukaan käyttää samaa hevosta sekä uusinnassa että alkuerässä/alkuerissä?
+OPTION_A: Ei, mitä tahansa ilmoitettua hevosta voidaan käyttää
+OPTION_B: Kyllä, urheilijoiden on aloitettava sama hevonen.
+OPTION_C: Vain jos aikataulussa niin sanotaan
+OPTION_D: Vain mestaruuskilpailuissa
+CORRECT: B
+EXPLANATION: Juniorisääntöjen artiklassa 218.1.7 määrätään, että urheilijoiden on lähtöruudussa käytettävä samaa hevosta kuin alkuerässä/alkuerissä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

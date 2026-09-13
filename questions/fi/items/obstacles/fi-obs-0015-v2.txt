@@ -1,0 +1,17 @@
+ID: fi-obs-0015-v2
+PARENT_ID: fi-obs-0015
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Missä tilanteessa esteiden välinen etäisyys yhdistelmässä voi olla alle seitsemän metriä?
+OPTION_A: Nopeus- ja kätevyyskilpailuissa tuomaroidaan taulukon C mukaisesti
+OPTION_B: Missä tahansa sisätiloissa järjestettävässä kilpailussa
+OPTION_C: Kun tuomariston hyväksyntä
+OPTION_D: Puissance-kilpailuissa
+CORRECT: A
+EXPLANATION: Juniorisääntöjen Artikla 301 tarjoaa poikkeuksen taulukon C mukaisesti tuomaroiduille nopeus- ja kätevyyskilpailuille sekä pysyville kiinteille esteille, jotka vaativat kaksi tai useampia peräkkäisiä suorituksia.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

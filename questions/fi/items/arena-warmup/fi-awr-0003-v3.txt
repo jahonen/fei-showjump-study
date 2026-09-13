@@ -1,0 +1,17 @@
+ID: fi-awr-0003-v3
+PARENT_ID: fi-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Mitä merkintöjä lähtö- ja maaliviivoissa tulee olla JR:n artiklan 241.2.5 mukaan?
+OPTION_A: Yksi keltainen lippu vasemmalla
+OPTION_B: Punainen lippu oikealla ja valkoinen lippu vasemmalla sekä S- ja F-merkit
+OPTION_C: Sininen lippu kummallakin puolella
+OPTION_D: Vain numeroituja kartioita
+CORRECT: B
+EXPLANATION: JR:n Artikla 329 vaatii kokonaan punaisen lipun oikealle ja kokonaan valkoisen lipun vasemmalle sekä S- (lähtö) ja F- (maali) -merkit.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

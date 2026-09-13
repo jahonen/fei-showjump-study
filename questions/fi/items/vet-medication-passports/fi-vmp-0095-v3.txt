@@ -1,0 +1,17 @@
+ID: fi-vmp-0095-v3
+PARENT_ID: fi-vmp-0095
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Henkilöllisyyden salaamisen kielto hevostarkastuksessa pyrkii varmistamaan:
+OPTION_A: Oikea tunnistus
+OPTION_B: Yhtenäinen väri
+OPTION_C: Sponsorin näkyvyys
+OPTION_D: Lämpötilan säätö
+CORRECT: A
+EXPLANATION: JR:n Artikla 321 on osa passin/henkilöllisyyden tarkastusta sen varmistamiseksi, että esitetty hevonen vastaa virallista identiteettiään.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

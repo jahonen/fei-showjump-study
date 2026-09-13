@@ -1,0 +1,17 @@
+ID: fi-obs-0017-v3
+PARENT_ID: fi-obs-0017
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä erottaa suljetun yhdistelmän JR:n artiklan 238.1 mukaan?
+OPTION_A: Siinä on ainakin kolme elementtiä
+OPTION_B: Sen sivut voi ylittää vain hyppäämällä
+OPTION_C: Se on merkitty punaisilla ja valkoisilla lipuilla jokaisella elementillä
+OPTION_D: Urheilija voi palata radalle jätettyään viimeisen elementin liput.
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 määrittelee suljetun yhdistelmän yhdistelmäksi, jonka sivut voidaan ylittää vain hyppäämällä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

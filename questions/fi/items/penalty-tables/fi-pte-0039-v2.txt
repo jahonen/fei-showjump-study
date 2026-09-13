@@ -1,0 +1,17 @@
+ID: fi-pte-0039-v2
+PARENT_ID: fi-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Yhteisen ohjesäännön artikla 217.1.5 selventää, että tottelemattomuuden rangaistukset kasautuvat:
+OPTION_A: Estettä kohden
+OPTION_B: Kierrosta kohden
+OPTION_C: Kilpailua kohden
+OPTION_D: Vain uusintahyppyissä
+CORRECT: B
+EXPLANATION: JR:n Artikla 342 toteaa, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

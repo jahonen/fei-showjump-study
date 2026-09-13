@@ -1,0 +1,17 @@
+ID: fi-jof-0058
+PARENT_ID: fi-jof-0058
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Normaalioloissa uusinta on pidettävä samojen sääntöjen ja taulukon mukaisesti kuin alkuerä(t). Mikä poikkeus on sallittu?
+OPTION_A: Pöytä A -kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaan, jos ohjelmassa niin määrätään.
+OPTION_B: Nopeus voi kaksinkertaistua
+OPTION_C: Esteet voidaan tehdä eri materiaaleista
+OPTION_D: Urheilija voi vaihtaa hevosta
+CORRECT: A
+EXPLANATION: Yhteisösääntöjen artiklassa 218.1.6 todetaan, että periaatteessa uusintahyppy on suoritettava samojen sääntöjen ja taulukon mukaisesti kuin alkuerä(t), mutta taulukon A mukaisen kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaisesti, jos ohjelmassa niin määrätään.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

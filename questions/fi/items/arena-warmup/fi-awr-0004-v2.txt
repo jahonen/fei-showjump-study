@@ -1,0 +1,17 @@
+ID: fi-awr-0004-v2
+PARENT_ID: fi-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Miksi yhdistelmän jokaiseen osaan lisätään erottavia kirjaimia?
+OPTION_A: Osoittaakseen elementtien järjestyksen tuomaristolle ja urheilijoille
+OPTION_B: Esteiden määrän lisäämiseksi
+OPTION_C: Näyttää, mitkä elementit ovat valinnaisia
+OPTION_D: Vain suljettujen yhdistelmien merkitsemiseen
+CORRECT: A
+EXPLANATION: Yhteisösääntöjen Artikla 329 selittää, että yksittäinen numero voidaan toistaa jokaisessa elementissä erottavin kirjaimin tuomaristoa ja urheilijoita varten.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

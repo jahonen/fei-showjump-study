@@ -1,0 +1,17 @@
+ID: fi-fdc-0023-v3
+PARENT_ID: fi-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Minkä väristen lippujen on oltava urheilijan oikealla puolella esteen ohittaessa oikein?
+OPTION_A: Valkoinen
+OPTION_B: Punainen
+OPTION_C: Sininen
+OPTION_D: Keltainen
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 edellyttää urheilijan ohittavan lippujen välistä, joissa punainen lippu on oikealla ja valkoinen lippu vasemmalla. Esteen hyppääminen kahden samanvärisen lipun välistä rangaistaan heittona Artikla 348 mukaisesti.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

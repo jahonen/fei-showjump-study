@@ -1,0 +1,17 @@
+ID: fi-obs-0016-v3
+PARENT_ID: fi-obs-0016
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Kuuden tahdin kilpailussa kieltäytymisen jälkeen urheilijan on:
+OPTION_A: Aloita rata uudelleen esteeltä, jossa virhe tapahtui
+OPTION_B: Hyppää kaikki kuusi estettä uudelleen
+OPTION_C: Ohita tuo este ja jatka
+OPTION_D: Poistu areenalta
+CORRECT: A
+EXPLANATION: JR:n Artikla 301 edellyttää, että urheilijan kuuden puomin kilpailussa kieltäytymisen tai loppukirin jälkeen jatkaa rataa esteeltä, jossa virhe tapahtui.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

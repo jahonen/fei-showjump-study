@@ -1,0 +1,17 @@
+ID: fi-pte-0036-v1
+PARENT_ID: fi-pte-0036
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Kuinka monta rangaistusta taulukon A mukaan määrätään sallitun ajan ylittämisestä?
+OPTION_A: Yksi rangaistus jokaisesta täydestä sekunnista
+OPTION_B: Yksi rangaistus jokaisesta aloitetusta sekunnista
+OPTION_C: Neljä rangaistusta sekunnissa
+OPTION_D: Eliminaatio
+CORRECT: B
+EXPLANATION: JR:n Artikla 342 toteaa, että sallitun ajan ylittämisestä seuraa yksi rangaistus jokaista aloitettua sekuntia kohden.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-cah-0075
+PARENT_ID: fi-cah-0075
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: multi-select
+STEM: Missä seuraavista lajeista urheilijat eivät saa kilpailla ennen vuotta, jona he täyttävät 18 vuotta?
+OPTION_A: Olympialaiset
+OPTION_B: Grand Prix CSI3* - CSI5* -kilpailuissa
+OPTION_C: CSI1*-kilpailu, jonka estekorkeus on enintään 1,20 m
+OPTION_D: Longinesin Kansainliiton™ kilpailu
+CORRECT: A,B,D
+EXPLANATION: Juniorisääntöjen artiklassa 205.1 luetellaan olympialaiset, mannertenväliset/alueelliset kilpailut, CSI3*-5*- ja CSIO1*-5*-luokkien Grand Prix, Nations Cup/Longines League of Nations™, FEI Jumping World Cup™, Power and Skill -kilpailut, Derby ja suurimmat palkinnot kielletyiksi urheilijoille ennen 18 vuoden ikää. CSI1*-kilpailuja, joissa on 1,20 m esteet, ei ole lueteltu.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

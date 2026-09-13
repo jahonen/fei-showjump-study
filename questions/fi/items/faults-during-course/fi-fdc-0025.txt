@@ -1,0 +1,17 @@
+ID: fi-fdc-0025
+PARENT_ID: fi-fdc-0025
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: multi-select
+STEM: Mitä tekoja käsitellään kurssilta poikkeamina JR:n artiklan 247.1 nojalla?
+OPTION_A: Pakollisen kääntöpaikan poisjättäminen
+OPTION_B: Esteen hyppääminen väärässä järjestyksessä
+OPTION_C: Esteen hyppääminen väärään suuntaan
+OPTION_D: Ympyröinti kerran kieltäytymisen jälkeen palata asemaan
+CORRECT: A,B,C
+EXPLANATION: Yhteisten sääntöjen Artikla 348 käsittelee poikkeamia, kuten pakollisen käännöspaikan väliin jättämistä, esteen hyppäämistä väärässä järjestyksessä ja hyppäämistä väärään suuntaan. Kiertoliikkeeseen kieltäytymisen jälkeen sovelletaan artiklaa 246.1.4.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

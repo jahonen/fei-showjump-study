@@ -1,0 +1,17 @@
+ID: fi-cty-0084-v1
+PARENT_ID: fi-cty-0084
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Ketkä urheilijat palaavat Grand Prix -kilpailussa toiselle kierrokselle JR:n artiklan 221.2.2 mukaisesti, vaikka heidän lukumääränsä ylittäisi aikataulussa mainitun prosenttiosuuden?
+OPTION_A: 25 % parhaista
+OPTION_B: Kaikki urheilijat ilman rangaistuksia ensimmäisellä kierroksella
+OPTION_C: Vain jaetut ensimmäiset
+OPTION_D: Nopein 50%
+CORRECT: B
+EXPLANATION: JR:n artiklassa 221.2.2 määrätään, että kaikissa Grand Prix -kilpailuissa kaikki rangaistuksettomat urheilijat palaavat toiselle kierrokselle, vaikka tämä lukumäärä olisi suurempi kuin aikataulussa vahvistettu prosenttiosuus.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

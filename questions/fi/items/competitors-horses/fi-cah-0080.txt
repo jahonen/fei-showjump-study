@@ -1,0 +1,17 @@
+ID: fi-cah-0080
+PARENT_ID: fi-cah-0080
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Mitä samanvärisiä kaulusvärisiä takkeja ei saa rekisteröidä minkään kansallisen liiton viralliseksi takiksi?
+OPTION_A: Musta, punainen, tummansininen ja vihreä
+OPTION_B: Valkoinen, keltainen, pinkki ja oranssi
+OPTION_C: Harmaa, ruskea, violetti ja sininen
+OPTION_D: Kaikki tummat värit
+CORRECT: A
+EXPLANATION: Liittosääntöjen artiklassa 207.2.4.2 määrätään, että mustia, punaisia, tummansinisiä ja vihreitä takkeja, joissa on samanvärinen kaulus, ei voida rekisteröidä minkään kansallisen liiton viralliseksi takiksi.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

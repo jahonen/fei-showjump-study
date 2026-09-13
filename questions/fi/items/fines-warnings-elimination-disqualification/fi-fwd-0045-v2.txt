@@ -1,0 +1,17 @@
+ID: fi-fwd-0045-v2
+PARENT_ID: fi-fwd-0045
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JR:n artiklan 263.4.4 ristiviittaukset: Mikä artikla määrittelee vastarinnan?
+OPTION_A: Artikla 246.4.1
+OPTION_B: Artikla 246.4.2
+OPTION_C: Artikla 246.4.3
+OPTION_D: Artikla 246.5
+CORRECT: C
+EXPLANATION: Yhteistyösääntöjen Artikla 346 viittaa artiklaan 246.4.3, jonka mukaan 45 sekunnin yhtäjaksoinen vastus johtaa hylkäämiseen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

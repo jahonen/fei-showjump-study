@@ -1,0 +1,17 @@
+ID: fi-fwd-0048-v2
+PARENT_ID: fi-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mikä artikla vaatii urheilijaa kiinnittämään suojakypäränsä leukahihnan välittömästi uudelleen, jos se irtoaa kierroksen aikana?
+OPTION_A: Artikla 207.1.1
+OPTION_B: Artikla 207.1.2
+OPTION_C: Artikla 207.1.3
+OPTION_D: Artikla 263.4.29
+CORRECT: B
+EXPLANATION: JR:n Artikla 346 edellyttää urheilijan kiinnittävän leukahihnan välittömästi uudelleen, ja Artikla 346 määrää eliminoinnin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-obs-0010-v3
+PARENT_ID: fi-obs-0010
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä toimitsija voi päättää ylittää suunnitellun estekorkeuden enintään 3 cm:llä yli 1,45 m kilpailussa?
+OPTION_A: Tuomariston puheenjohtaja
+OPTION_B: Ratasuunnittelija
+OPTION_C: Tekninen edustaja
+OPTION_D: Joukkueenjohtaja
+CORRECT: B
+EXPLANATION: JR:n artiklassa 233.2.2 määrätään, että radan suunnittelijan harkinnan mukaan korkeus voi ylittää suunnitellun korkeuden enintään 3 cm.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

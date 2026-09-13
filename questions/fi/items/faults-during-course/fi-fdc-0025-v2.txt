@@ -1,0 +1,17 @@
+ID: fi-fdc-0025-v2
+PARENT_ID: fi-fdc-0025
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: JR:n artiklan 247.3 mukaan korjaamaton poikkeama radalta, kuten pakollisen käännöspisteen laiminlyönti, johtaa:
+OPTION_A: 4 rangaistusta
+OPTION_B: Eliminaatio
+OPTION_C: Varoitus
+OPTION_D: Ei rangaistusta
+CORRECT: B
+EXPLANATION: JR:n artiklassa 247.3 todetaan, että korjaamaton poikkeama radalta johtaa eliminointiin. Pakollisen käännöspisteen tekemättä jättäminen on myös listattu pakolliseksi eliminoinniksi artiklassa 263.4.8.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

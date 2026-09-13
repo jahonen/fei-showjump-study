@@ -1,0 +1,17 @@
+ID: fi-obs-0017-v1
+PARENT_ID: fi-obs-0017
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mitä seuraa siitä, että suljettua yhdistelmää ei lähdetä oikeaan suuntaan tai se siirtyy muualle?
+OPTION_A: 4 rangaistusta
+OPTION_B: 6 rangaistusta
+OPTION_C: Eliminaatio
+OPTION_D: Varoitus
+CORRECT: C
+EXPLANATION: JR:n Artikla 301 määrää, että suljetun yhdistelmän jättäminen pois oikeasta suunnasta tai suljetun yhdistelmän siirtäminen pois johtaa eliminointiin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

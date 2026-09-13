@@ -1,0 +1,17 @@
+ID: fi-cls-0066-v1
+PARENT_ID: fi-cls-0066
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Urheilijan kilpailusääntöjen artiklan 218.3.1 mukaan sallittu vetäytyminen toiselta kierrokselta asettaa urheilijan:
+OPTION_A: Ensimmäinen
+OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
+OPTION_C: Ensimmäisen kierroksen ajan mukaan
+OPTION_D: Ei luokiteltu
+CORRECT: B
+EXPLANATION: JR:n Artikla 341 koskee uusintoja, toisia kierroksia ja voittaneita kierroksia, ja luopuneet/pudotetut/luvan saaneet urheilijat sijoittuvat tasan viimeisiksi maaliin tulleiden jälkeen.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-tsp-0031-v3
+PARENT_ID: fi-tsp-0031
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Missä kilpailussa enimmäisaikaraja on yhteisen kilpailusäännön artiklan 253 mukaan kaksinkertainen sallittuun aikaan verrattuna?
+OPTION_A: Kilpailu, jossa on määritelty sallittu aika
+OPTION_B: Jokainen kilpailu tuomitaan taulukon C mukaisesti
+OPTION_C: Kilpailu, jossa on alle kahdeksan estettä
+OPTION_D: Jokainen sisätiloissa järjestettävä kilpailu
+CORRECT: A
+EXPLANATION: Kilpailusääntöjen artiklassa 253 määrätään, että enimmäisaika on kaksinkertainen sallittuun aikaan nähden kilpailussa, jossa on määritelty sallittu aika.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

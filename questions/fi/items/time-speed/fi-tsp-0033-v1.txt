@@ -1,0 +1,17 @@
+ID: fi-tsp-0033-v1
+PARENT_ID: fi-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Este kaadetaan tottelemattomuuden seurauksena ja este rakennetaan uudelleen. Mitä aikakorjausta sovelletaan JR:n artiklan 256 nojalla?
+OPTION_A: Ei aikakorjausta
+OPTION_B: Kierroksen suorittamiseen kuluvaan aikaan lisätään kuusi sekuntia
+OPTION_C: Aika nollataan
+OPTION_D: Esteen uudelleenrakentamiseen kuluva aika lisätään
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 määrää, että määritellyn tottelemattomuuden ja alaslyönnin jälkeen urheilijan kierroksen suorittamiseen käyttämään aikaan lisätään kuusi sekuntia aikakorjausta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

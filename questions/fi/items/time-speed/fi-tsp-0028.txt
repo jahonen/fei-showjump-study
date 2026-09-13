@@ -1,0 +1,17 @@
+ID: fi-tsp-0028
+PARENT_ID: fi-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Milloin urheilija/hevosyhdistelmästä seuraa aikarangaistus JR:n artiklan 250.1 nojalla?
+OPTION_A: Kun yhdistelmä päättyy ennen sallittua aikaa
+OPTION_B: Kun yhdistelmä ylittää kierrokselle sallitun ajan
+OPTION_C: Vain silloin, kun yhdistelmä ylittää enimmäisaikarajan
+OPTION_D: Aina kun kelloa soitetaan kierroksen aikana
+CORRECT: B
+EXPLANATION: JR:n Artikla 352 toteaa, että urheilija/hevonen -yhdistelmälle määrätään aikarangaistus, jos se ylittää kierrokselle sallitun ajan.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-pte-0038-v1
+PARENT_ID: fi-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Taulukon C mukaan, jos radan pituus on 500 m, mikä on enimmäisaikaraja?
+OPTION_A: Yksi minuutti
+OPTION_B: Kaksi minuuttia
+OPTION_C: Kolme minuuttia
+OPTION_D: Neljä minuuttia
+CORRECT: B
+EXPLANATION: JR:n artiklassa 217.2.3.2 todetaan, että jos radan pituus on alle 600 m, taulukon C mukainen enimmäisaikaraja on kaksi minuuttia.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

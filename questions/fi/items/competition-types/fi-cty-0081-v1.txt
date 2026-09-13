@@ -1,0 +1,17 @@
+ID: fi-cty-0081-v1
+PARENT_ID: fi-cty-0081
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Pöydän A kilpailussa, jossa ei kilpailla aikaa vastaan, voidaan juniorisääntöjen artiklan 220.1.1.2 nojalla järjestää uusintaottelu ensimmäisestä sijasta:
+OPTION_A: Aina
+OPTION_B: Vain jos aikataulussa on mainittu
+OPTION_C: Ei koskaan
+OPTION_D: Automaattisesti, jos tasan kaksi urheilijaa on tasapisteissä
+CORRECT: B
+EXPLANATION: Yhteisösääntöjen Artikla 354 määrää, että uusintahyppy ilman aikaa voidaan järjestää, jos ensimmäiselle sijalle tulee yhtä monta rangaistuspistettä, osana aikataulussa määriteltyjä formaattivaihtoehtoja.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

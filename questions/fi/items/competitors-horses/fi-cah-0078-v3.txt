@@ -1,0 +1,17 @@
+ID: fi-cah-0078-v3
+PARENT_ID: fi-cah-0078
+DOMAIN: competitors-horses
+ARTICLE: 333
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 18
+TYPE: single-select
+STEM: Senioriurheilijat voivat riisua suojakypäränsä palkintoja vastaanottaessaan, kansallislaulun aikana ja muissa seremoniallisissa tilanteissa JR:n artiklan 207.1.2 mukaisesti. Tämä on:
+OPTION_A: Kielletty
+OPTION_B: Poikkeus yleisestä säännöstä
+OPTION_C: Pakollinen
+OPTION_D: Sallittu vain ulkona
+CORRECT: B
+EXPLANATION: Yhteisen sääntöjen artiklassa 207.1.2 mainitaan nimenomaisesti poikkeus, jonka mukaan senioriurheilijat voivat poistaa suojapäähineen seremonioiden aikana.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

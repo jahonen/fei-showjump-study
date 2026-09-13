@@ -1,0 +1,17 @@
+ID: fi-vmp-0096-v2
+PARENT_ID: fi-vmp-0096
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Kuinka monta hevosta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta otetaan normaalisti näytteisiin joukkuesääntöjen artiklan 275.1.4.2 mukaisesti esteratsastuksen finaalikilpailuissa?
+OPTION_A: Kaikki joukkueen hevoset
+OPTION_B: Kaksi
+OPTION_C: Yksi
+OPTION_D: Ei mitään
+CORRECT: C
+EXPLANATION: JR:n Artikla 321(b) mukaan näyte otetaan normaalisti yhdestä hevosesta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

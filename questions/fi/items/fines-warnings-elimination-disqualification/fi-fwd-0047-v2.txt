@@ -1,0 +1,17 @@
+ID: fi-fwd-0047-v2
+PARENT_ID: fi-fwd-0047
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mihin JR:n artiklassa 263.4.22 viitataan halssien ja varusteiden sääntöihin?
+OPTION_A: Artikla 206
+OPTION_B: Artikla 207
+OPTION_C: Art 208
+OPTION_D: Artikla 209
+CORRECT: A
+EXPLANATION: Yhteisen ohjesäännön Artikla 346 sisältää hylkäämisen halssien ja varusteiden sääntöjen noudattamatta jättämisestä viitaten yhteisen ohjesäännön artiklaan 206 ja liitteeseen VIII.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-jof-0061
+PARENT_ID: fi-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Kuinka monta lisäestettä hyppyradan alkuun saa lisätä?
+OPTION_A: Yksi
+OPTION_B: Kaksi
+OPTION_C: Kolme
+OPTION_D: Ei mitään
+CORRECT: B
+EXPLANATION: JR:n Artikla 344 määrää, että hyppyradalle saa lisätä enintään kaksi ylimääräistä estettä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

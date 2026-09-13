@@ -1,0 +1,17 @@
+ID: fi-cty-0085-v2
+PARENT_ID: fi-cty-0085
+DOMAIN: competition-types
+ARTICLE: 354
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 30
+TYPE: single-select
+STEM: Kuinka monta estettä normaalissa kahdessa vaiheessa järjestettävässä kilpailussa saa olla toinen vaihe JR:n artiklan 222.1.2 mukaisesti?
+OPTION_A: Kahdesta neljään
+OPTION_B: Neljästä kuuteen
+OPTION_C: Kuusi vai kahdeksan
+OPTION_D: Seitsemästä yhdeksään
+CORRECT: B
+EXPLANATION: Yhteisen kilpailusäännön artiklassa 222.1.2 todetaan, että toinen vaihe tapahtuu neljästä kuuteen esteen yli.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

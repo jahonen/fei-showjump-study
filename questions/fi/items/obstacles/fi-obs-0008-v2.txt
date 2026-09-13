@@ -1,0 +1,17 @@
+ID: fi-obs-0008-v2
+PARENT_ID: fi-obs-0008
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Mikä on estetangon tukikupin suurin sallittu syvyys JR:n artiklan 232.3 mukaan?
+OPTION_A: 18 mm
+OPTION_B: 19 mm
+OPTION_C: 20 mm
+OPTION_D: 22 mm
+CORRECT: C
+EXPLANATION: JR:n Artikla 301 rajoittaa tukikupin syvyyden 20 mm:iin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

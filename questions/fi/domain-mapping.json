@@ -1,0 +1,57 @@
+{
+  "arena-warmup": {
+    "article": "329",
+    "sourcePage": 16,
+    "title": "Verryttelyalue ja verryttelyesteet"
+  },
+  "obstacles": {
+    "article": "301",
+    "sourcePage": 5,
+    "title": "Esteet, yleistä"
+  },
+  "faults-during-course": {
+    "article": "348",
+    "sourcePage": 27,
+    "title": "Esteen pudottaminen"
+  },
+  "time-speed": {
+    "article": "352",
+    "sourcePage": 29,
+    "title": "Aika"
+  },
+  "penalty-tables": {
+    "article": "342",
+    "sourcePage": 20,
+    "title": "Arvostelu A (virhepisteiden perusteella)"
+  },
+  "fines-warnings-elimination-disqualification": {
+    "article": "346",
+    "sourcePage": 23,
+    "title": "Hylkääminen, lähtöoikeuden epääminen, sakot"
+  },
+  "jump-offs": {
+    "article": "344",
+    "sourcePage": 22,
+    "title": "Uusinta"
+  },
+  "classification": {
+    "article": "341",
+    "sourcePage": 19,
+    "title": "Arvostelumenetelmät"
+  },
+  "competitors-horses": {
+    "article": "333",
+    "sourcePage": 18,
+    "title": "Osallistumisoikeus"
+  },
+  "competition-types": {
+    "article": "354",
+    "sourcePage": 30,
+    "title": "Erikoisluokat"
+  },
+  "vet-medication-passports": {
+    "article": "321",
+    "sourcePage": 11,
+    "title": "Lääkintä- ja eläinlääkintähuolto"
+  }
+}

@@ -1,0 +1,17 @@
+ID: fi-vmp-0097
+PARENT_ID: fi-vmp-0097
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Minkä määräysten mukaisesti hevosten lääkitysvalvonta on suoritettava JR:n artiklan 275.2 mukaan?
+OPTION_A: Vain hyppysäännöt
+OPTION_B: Yleiset säännöt, hevosten antidoping- ja valvottujen lääkkeiden käyttösäännöt (GR), hevosten antidoping- ja valvottujen lääkkeiden käyttösäännöt (Equine Anti-Doping and Controlled lääkitys Regulations) sekä muut sovellettavat FEI:n säännöt tai määräykset.
+OPTION_C: Vain eläinlääkintämääräykset
+OPTION_D: Vain hevosten antidopingsäännöt
+CORRECT: B
+EXPLANATION: Yhteisten ohjeiden artiklassa 275.2 todetaan, että hevosten lääkityksen valvonta on suoritettava yleisten ja virallisten ohjeiden, hevosten antidoping- ja lääkityksen valvontaa koskevien määräysten sekä muiden sovellettavien FEI:n sääntöjen tai määräysten mukaisesti.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

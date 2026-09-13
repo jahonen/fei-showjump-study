@@ -1,0 +1,17 @@
+ID: fi-jof-0063-v2
+PARENT_ID: fi-jof-0063
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Jos Longines Ranking -kilpailun aikataulussa ei mainita uusintahyppyjen lähtöjärjestystä, mitä sovelletaan JR:n artiklan 218.1.9 nojalla?
+OPTION_A: Käänteinen aikajärjestys
+OPTION_B: Sama kuin edellisellä kierroksella
+OPTION_C: Arvottiin sinä päivänä
+OPTION_D: Nopein menee viimeisenä
+CORRECT: B
+EXPLANATION: JR:n artiklassa 218.1.9 todetaan, että jos aikataulussa ei ole toisin määritelty, lähtöjärjestys on sama kuin edellisellä kierroksella.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

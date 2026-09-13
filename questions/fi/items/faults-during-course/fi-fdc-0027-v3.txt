@@ -1,0 +1,17 @@
+ID: fi-fdc-0027-v3
+PARENT_ID: fi-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Mikä artikla määrittelee luvattoman avun miksi tahansa kolmannen osapuolen fyysiseksi puuttumiseksi kierroksen aikana tarkoituksenaan auttaa urheilijaa tai hänen hevostaan?
+OPTION_A: Artikla 248
+OPTION_B: Artikla 249.1
+OPTION_C: 250.1 artikla
+OPTION_D: Artikla 263.4
+CORRECT: B
+EXPLANATION: Yhteistyösääntöjen Artikla 348 määrittelee luvattoman avun miksi tahansa kolmannen osapuolen fyysiseksi väliintuloksi lähtöviivan oikeaan suuntaan ylittämisen ja maaliviivan ylittämisen välillä viimeisen esteen hyppäämisen jälkeen, riippumatta siitä, onko avustus pyydetty vai ei, tarkoituksena auttaa urheilijaa tai hänen hevostaan. Artikla 348 sisältää poikkeuksia.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

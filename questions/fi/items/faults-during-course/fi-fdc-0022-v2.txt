@@ -1,0 +1,17 @@
+ID: fi-fdc-0022-v2
+PARENT_ID: fi-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Hevonen pysähtyy esteen kohdalla, ottaa yhden askeleen taaksepäin ja hyppää sitten. Yhteisösääntöjen artiklan 246.2.2 mukaan tämä on:
+OPTION_A: Ei kieltäytyminen
+OPTION_B: Kieltäytyminen
+OPTION_C: Loppuunmyyty
+OPTION_D: Syksy
+CORRECT: B
+EXPLANATION: JR:n Artikla 348 toteaa, että jos hevonen astuu taaksepäin, vaikka vain yhden askeleen, pysähdys lasketaan kieltelyksi.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

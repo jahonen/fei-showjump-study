@@ -1,0 +1,17 @@
+ID: fi-obs-0014
+PARENT_ID: fi-obs-0014
+DOMAIN: obstacles
+ARTICLE: 301
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 5
+TYPE: single-select
+STEM: Jos vesihyppypaikka ei täytä liitteen IV vaatimuksia, mitä veden päälle on asetettava?
+OPTION_A: Leviävä este
+OPTION_B: Enintään 1,50 m korkea pystysuora este
+OPTION_C: Kolminkertainen palkki
+OPTION_D: Ei esteitä; vesi poistuu
+CORRECT: B
+EXPLANATION: JR:n Artikla 301 edellyttää, että veden ylle asetetaan enintään 1,50 m korkea pystysuora este, jos vesihyppytorni ei täytä liitteen IV vaatimuksia.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

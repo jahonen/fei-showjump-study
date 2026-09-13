@@ -1,0 +1,17 @@
+ID: fi-jof-0063-v3
+PARENT_ID: fi-jof-0063
+DOMAIN: jump-offs
+ARTICLE: 344
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 22
+TYPE: single-select
+STEM: Missä artikkelissa käsitellään hyppyjen oletuslähtöjärjestystä?
+OPTION_A: Artikla 218.1.7
+OPTION_B: Artikla 218.1.8
+OPTION_C: Artikla 218.1.9
+OPTION_D: Artikla 218.2.1
+CORRECT: B
+EXPLANATION: JR:n artiklassa 218.1.8 määrätään, että lähtöjärjestyksen uusinnassa on pysyttävä samana kuin lähtöjärjestys edellisellä kierroksella, ellei toisin ole määrätty.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-vmp-0094
+PARENT_ID: fi-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Jokainen hevonen on esitettävä tarkastukseen. Mistä suitsista/suitsista ja mitkä varusteet on poistettava?
+OPTION_A: Suitset; loimet voivat jäädä
+OPTION_B: Suitsi tai tuplasuitset; loimet, siteet jne. on poistettava
+OPTION_C: Vain kuolain; ei muita rajoituksia
+OPTION_D: Tuplasuitset; saappaiden on pysyttävä
+CORRECT: B
+EXPLANATION: JR:n artiklassa 275.1.3.3 määrätään, että jokainen hevonen on esitettävä joko suitsilla tai tuplasuitsilla, ja kaikki muut valjaat tai varusteet (loimet, siteet jne.) on poistettava. Poikkeuksia ei sallita.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

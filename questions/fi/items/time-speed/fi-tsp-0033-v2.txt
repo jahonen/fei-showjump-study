@@ -1,0 +1,17 @@
+ID: fi-tsp-0033-v2
+PARENT_ID: fi-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 352
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Milloin kello käynnistetään uudelleen JR:n artiklan 256 mukaan sen jälkeen, kun este on rakennettu uudelleen määritellyn tottelemattomuuden ja kaatamisen jälkeen?
+OPTION_A: Kun kello soitetaan
+OPTION_B: Kun urheilija saavuttaa esteen
+OPTION_C: Kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtui
+OPTION_D: Kun hevonen laskeutuu esteen ylityksen jälkeen
+CORRECT: C
+EXPLANATION: JR:n artiklassa 256 määrätään, että kello käynnistetään uudelleen, kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtui; jos hylkääminen tapahtui sarjan toisessa tai sitä seuraavassa osassa, kello käynnistetään uudelleen, kun hevonen nousee maasta esteen ensimmäisessä osassa.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

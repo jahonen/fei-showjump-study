@@ -1,0 +1,17 @@
+ID: fi-pte-0040
+PARENT_ID: fi-pte-0040
+DOMAIN: penalty-tables
+ARTICLE: 342
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Mitä tietoja A-taulukon kilpailun virallisten tulosten on sisällettävä?
+OPTION_A: Vain rangaistukset yhteensä
+OPTION_B: Rangaistusten kokonaismäärä ja vain sijoitukset
+OPTION_C: Kokonaisrangaistukset ja erikseen aikarangaistukset ja muut rangaistukset
+OPTION_D: Vain kierroksen aika
+CORRECT: C
+EXPLANATION: JR:n Artikla 342 mukaan virallisissa tuloksissa on ilmoitettava rangaistuspisteiden kokonaismäärä ja erikseen eriteltävä aikarangaistukset ja muut kierroksen aikana kertyneet rangaistukset.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

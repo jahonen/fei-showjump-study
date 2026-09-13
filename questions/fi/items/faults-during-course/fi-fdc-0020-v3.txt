@@ -1,0 +1,17 @@
+ID: fi-fdc-0020-v3
+PARENT_ID: fi-fdc-0020
+DOMAIN: faults-during-course
+ARTICLE: 348
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Mikä näistä RANGAISTETAAN tyrmäyksenä JR:n artiklan 245.1 nojalla?
+OPTION_A: Esteen täytteen kaataminen
+OPTION_B: Suljetun yhdistelmän syrjäyttäminen
+OPTION_C: Lipun kaataminen hypätessään
+OPTION_D: Koko esteen tai sen yläosan kaataminen
+CORRECT: D
+EXPLANATION: JR:n artiklassa 245.1.1 todetaan, että esteen kaatuminen tapahtuu, kun urheilija/hevosyhdistelmän virheen vuoksi este tai sen saman pystysuoran tason yläosa kaatuu. Artikla 348 tapauksissa ei rangaista kaatumisesta, mukaan lukien esteen täytteen kaataminen (245.5.4), suljetun yhdistelmän siirtäminen pois paikaltaan (mikä johtaa hylkäämiseen Artikla 348 mukaisesti) ja lipun kaataminen hypyn aikana (245.5.2).
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

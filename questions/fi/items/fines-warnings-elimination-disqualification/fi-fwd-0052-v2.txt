@@ -1,0 +1,17 @@
+ID: fi-fwd-0052-v2
+PARENT_ID: fi-fwd-0052
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Mikä esteratsastussääntöjen artikla käsittelee hevosten kaltoinkohtelua?
+OPTION_A: Artikla 263
+OPTION_B: Artikla 264
+OPTION_C: Artikla 265
+OPTION_D: Artikla 266
+CORRECT: C
+EXPLANATION: JR:n Artikla 346 on otsikoitu "Hevosten kaltoinkohtelu", ja siinä esitetään kielletty käytös.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

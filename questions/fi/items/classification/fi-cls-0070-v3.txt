@@ -1,0 +1,17 @@
+ID: fi-cls-0070-v3
+PARENT_ID: fi-cls-0070
+DOMAIN: classification
+ARTICLE: 341
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 19
+TYPE: single-select
+STEM: Mistä seuraavista FEI:n esteratsastuksen kunniamerkkejä myönnetään juniorisääntöjen artiklan 268.1 mukaisesti?
+OPTION_A: Minkä tahansa CSI1*-kilpailun voittaminen
+OPTION_B: Määrättyjen mestaruuskilpailujen ensimmäisen kierroksen suorittaminen ilman keskeytystä tai putoamista
+OPTION_C: FEI:n virkamiehenä toimiminen
+OPTION_D: Grand Prix -kilpailussa kilpailevan hevosen omistaminen
+CORRECT: B
+EXPLANATION: JR:n artiklassa 268.1 määrätään, että FEI:n esteratsastuksen kunniamerkit myönnetään urheilijoille, jotka suorittavat tietyn kilpailun (olympialaiset, maailmanmestaruuskilpailut jne.) ensimmäisen kierroksen luopumatta tai putoamatta, edellyttäen, että kulta-/hopea-/pronssikynnykset täyttyvät.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

@@ -1,0 +1,17 @@
+ID: fi-fwd-0052-v1
+PARENT_ID: fi-fwd-0052
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 346
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JR:n artiklan 265.1.1 mukaan hevosen koputtaminen on:
+OPTION_A: Sallittu
+OPTION_B: Kielletty väärinkäytöksenä
+OPTION_C: Sallittu vain lämmittelyssä
+OPTION_D: Pisteytysmenetelmä
+CORRECT: B
+EXPLANATION: JR:n Artikla 346 listaa räpäyttämisen kiellettyjen tekojen joukkoon, jotka voivat olla hevosen kaltoinkohtelua.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

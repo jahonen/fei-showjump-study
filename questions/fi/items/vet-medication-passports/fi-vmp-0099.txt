@@ -1,0 +1,17 @@
+ID: fi-vmp-0099
+PARENT_ID: fi-vmp-0099
+DOMAIN: vet-medication-passports
+ARTICLE: 321
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 11
+TYPE: single-select
+STEM: Mikä esteratsastussääntöjen artikla koskee eläinlääkintäkomissiota ja eläinlääkintävaltuutettua?
+OPTION_A: Artikla 208
+OPTION_B: Artikla 209
+OPTION_C: Artikla 210
+OPTION_D: Artikla 211
+CORRECT: C
+EXPLANATION: Yhteisen rekisterin Artikla 321 otsikko on "Eläinlääkintäkomissio ja eläinlääkintäedustaja".
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

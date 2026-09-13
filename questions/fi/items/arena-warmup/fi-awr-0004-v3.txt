@@ -1,0 +1,17 @@
+ID: fi-awr-0004-v3
+PARENT_ID: fi-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Mikä väittämä on totta JR:n artiklan 241.3.3 mukaan?
+OPTION_A: Yhdistelyillä on erilliset peräkkäiset numerot
+OPTION_B: Yhdistelyissä on yksi numero ja elementit on merkitty kirjaimilla
+OPTION_C: Vain yhdistelmän viimeinen elementti numeroidaan
+OPTION_D: Kirjaimia ei sallita kurssisuunnitelmassa
+CORRECT: B
+EXPLANATION: Yhteiskilpailun estesääntöjen artiklassa 241.3.3 todetaan, että yhdistelmäesteillä on yksi numero, johon on lisätty erottavat kirjaimet, kuten 8A, 8B, 8C, jokaiseen elementtiin.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no

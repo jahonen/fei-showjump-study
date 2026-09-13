@@ -1,0 +1,17 @@
+ID: fi-awr-0002
+PARENT_ID: fi-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 329
+EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Mikä on radan suurin sallittu kokonaispituus suhteessa esteiden määrään?
+OPTION_A: 40 metriä estettä kohden
+OPTION_B: 50 metriä estettä kohden
+OPTION_C: 60 metriä estettä kohden
+OPTION_D: 70 metriä estettä kohden
+CORRECT: C
+EXPLANATION: JR:n Artikla 329 määrää, että radan kokonaispituus metreinä ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60:llä.
+STATUS: draft
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: no
