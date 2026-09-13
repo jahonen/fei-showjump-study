@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { getVerifiedItems } from '@/services/firestore';
 import ExitButton from '@/components/ExitButton/ExitButton';
-import { formatDomainLabel } from '@/utils/questionSelection';
+import { formatDomainLabel, formatLanguageLabel } from '@/utils/questionSelection';
 import type { Language, ParentItem } from '@/types';
 import './FreeStudySetup.scss';
 
