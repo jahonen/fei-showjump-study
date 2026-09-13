@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '@/hooks/useAuth';
-import { ensureUserProfile, getActiveFlags, getPersonalBest } from '@/services/firestore';
+import { ensureUserProfile, getActiveFlags, getPersonalBest, updatePreferredLanguage } from '@/services/firestore';
 import { formatLanguageLabel } from '@/utils/questionSelection';
 import type { Language, UserProfile } from '@/types';
 import './Dashboard.scss';
@@ -39,10 +39,11 @@ export default function Dashboard() {
     return () => { cancelled = true; };
   }, [user]);
 
-  const changeLanguage = (lang: Language) => {
+  const changeLanguage = async (lang: Language) => {
     setSelectedLang(lang);
-    if (profile) {
+    if (profile && user) {
       setProfile({ ...profile, preferredLanguage: lang });
+      await updatePreferredLanguage(user.uid, lang);
     }
   };
 
