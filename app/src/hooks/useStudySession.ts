@@ -1,4 +1,4 @@
-import { useCallback, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import type { ActiveQuestion, DomainBreakdown } from '@/types';
 
 interface SessionState {
@@ -25,6 +25,27 @@ export function useStudySession(initialQuestions: ActiveQuestion[]): UseStudySes
     answers: new Map(),
     results: new Map(),
   });
+
+  // Sync questions when they finish loading from Firestore. A ref is used to
+  // detect real reference changes while tolerating parents that pass a new
+  // array literal on every render.
+  const syncedInitialRef = useRef(initialQuestions);
+  useEffect(() => {
+    if (syncedInitialRef.current === initialQuestions) return;
+    syncedInitialRef.current = initialQuestions;
+
+    setState((prev) => {
+      const alreadyLoaded =
+        initialQuestions.length === prev.questions.length && prev.questions.length > 0;
+      if (alreadyLoaded) return prev;
+      return {
+        questions: initialQuestions,
+        currentIndex: 0,
+        answers: new Map(),
+        results: new Map(),
+      };
+    });
+  }, [initialQuestions]);
 
   const answerQuestion = useCallback((variantId: string, selected: string[]) => {
     const question = state.questions.find((q) => q.variant.id === variantId);

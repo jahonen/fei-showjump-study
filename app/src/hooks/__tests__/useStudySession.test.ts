@@ -76,4 +76,5 @@ describe('useStudySession', () => {
     expect(summary.correct).toBe(1);
     expect(summary.breakdown['arena-warmup']).toEqual({ correct: 1, total: 2 });
   });
+
 });
