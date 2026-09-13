@@ -7,6 +7,7 @@ dist/
 service-account.json
 app/node_modules/
 app/dist/
+.firebase/
 functions/lib/
 functions/node_modules/
 functions/questions/
