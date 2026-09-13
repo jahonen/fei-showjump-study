@@ -24,6 +24,18 @@
 
 **Side effects:** Throws if any required environment variable is missing.
 
+## Cloud Functions (functions/src/index.ts)
+
+**Purpose:** Deployable 2nd-gen Cloud Functions for ingestion and integrity checks, pinned to `europe-west1`.
+
+**Functions:**
+- `ingestQuestionBank`: admin `onCall` trigger that ingests the plaintext repo into Firestore.
+- `integrityCheck`: scheduled nightly check for malformed verified items.
+
+**Side effects:** Writes to Firestore via Admin SDK.
+
+**Start/end/error logging:** logs document counts and integrity issues.
+
 ## ingest-question-bank.mjs
 
 **Purpose:** Ingests the plaintext question bank into Firestore.

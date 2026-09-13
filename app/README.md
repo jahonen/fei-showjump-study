@@ -21,8 +21,9 @@ Mobile-first web app for studying the FEI Jumping Rules. Built with React, Vite,
 
 1. Create a Firebase project.
 2. Enable Google Sign-In in Authentication.
-3. Create a Firestore database and deploy the rules in `rules/firestore.rules`.
+3. Create a Firestore database in a European region (e.g. `eur3`) and deploy the rules in `rules/firestore.rules`.
 4. Generate a service account key for ingestion and set `GOOGLE_APPLICATION_CREDENTIALS`.
+5. Deploy Cloud Functions to `europe-west1` if you add server-side functions.
 
 ## Deployment
 

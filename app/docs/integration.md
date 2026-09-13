@@ -10,6 +10,14 @@ The app uses Firebase for authentication, database, and static hosting.
 | Database | Firestore | User profiles, attempts, flags, leaderboard, question bank |
 | Hosting | Firebase Hosting | Static SPA deployment |
 
+## Region configuration
+
+All backend resources are configured for Europe:
+
+- Firestore default database: `eur3` (multi-region Europe) — verify with `firebase firestore:databases:list --project=showjump-study --json`
+- Cloud Functions (if added): deploy to `europe-west1` via `firebase.json` or per-function `region` option
+- Hosting uses the Firebase global CDN edge network
+
 ## Environment variables
 
 Client variables (Vite) are prefixed with `VITE_`. Server/ingestion variables are not.
