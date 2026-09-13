@@ -1,0 +1,17 @@
+ID: en-fwd-0048-v3
+PARENT_ID: en-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.29
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: JRs Art 263.4.29 is an Elimination rule specifically concerning:
+OPTION_A: Whip use
+OPTION_B: Electronic devices
+OPTION_C: Protective Headgear chin strap
+OPTION_D: Boots and bandages
+CORRECT: C
+EXPLANATION: JRs Art 263.4.29 addresses jumping with the chin strap of Protective Headgear incorrectly fastened or not fastened.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-vmp-0096
+PARENT_ID: en-vmp-0096
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.4.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: multi-select
+STEM: At Olympic/Continental Games, FEI Jumping World Cup™ Finals, Longines League of Nations™ Finals, and World/Senior Continental Championships, which Horses are normally sampled for EADCM testing?
+OPTION_A: The first three placed Horses in all Final Competitions for Individuals
+OPTION_B: One Horse from each of the first three placed teams in Final Jumping Competitions for teams
+OPTION_C: Every Horse in every Competition
+OPTION_D: Only Horses that refuse inspection
+CORRECT: A,B
+EXPLANATION: JRs Art 275.1.4.2 states that sufficient Horses must normally be sampled to ensure that (a) in all Final Competitions for Individuals, the first three placed Horses are sampled, and (b) in Final Jumping Competitions for teams, one Horse from among all the Horses in each of the first three placed teams is sampled.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

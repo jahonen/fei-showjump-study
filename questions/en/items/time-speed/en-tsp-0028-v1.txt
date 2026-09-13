@@ -1,0 +1,17 @@
+ID: en-tsp-0028-v1
+PARENT_ID: en-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 250.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: Under JRs Art 250.1, exceeding the time allowed results in:
+OPTION_A: Elimination
+OPTION_B: Time Penalties
+OPTION_C: A warning
+OPTION_D: No consequence
+CORRECT: B
+EXPLANATION: JRs Art 250.1 provides that exceeding the time allowed incurs time Penalties. Exceeding the maximum time limit, however, may result in Elimination under Art 253/263.4.13.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

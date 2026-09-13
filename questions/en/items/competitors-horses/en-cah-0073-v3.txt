@@ -1,0 +1,17 @@
+ID: en-cah-0073-v3
+PARENT_ID: en-cah-0073
+DOMAIN: competitors-horses
+ARTICLE: 203.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: At a CSIAm Event, how many Horses per Athlete may the OC allow?
+OPTION_A: Only one
+OPTION_B: Maximum four
+OPTION_C: More than one Horse in all Competitions
+OPTION_D: No limit
+CORRECT: C
+EXPLANATION: JRs Art 203.2.4 states that JRs Art 203.2 does not apply to CSIAm Events, at which the OC may allow Athletes to ride more than one Horse in all Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

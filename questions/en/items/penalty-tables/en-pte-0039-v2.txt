@@ -1,0 +1,17 @@
+ID: en-pte-0039-v2
+PARENT_ID: en-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 217.1.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: JRs Art 217.1.5 clarifies that Penalties for Disobediences accumulate:
+OPTION_A: Per obstacle
+OPTION_B: Per round
+OPTION_C: Per Competition
+OPTION_D: Only in jump-offs
+CORRECT: B
+EXPLANATION: JRs Art 217.1.5 states that Penalties for Disobediences accumulate throughout the entire round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

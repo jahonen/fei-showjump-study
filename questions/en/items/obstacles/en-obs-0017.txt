@@ -1,0 +1,17 @@
+ID: en-obs-0017
+PARENT_ID: en-obs-0017
+DOMAIN: obstacles
+ARTICLE: 238.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: What is a closed Combination?
+OPTION_A: A Combination with flags only at the first and last elements
+OPTION_B: A Combination whose surrounding sides can only be surmounted by jumping
+OPTION_C: A Combination whose elements are so close together that they form one effort
+OPTION_D: A Combination that may not exceed two elements
+CORRECT: B
+EXPLANATION: JRs Art 238.1 defines a completely closed Combination as one whose surrounding sides can only be surmounted by jumping; examples include an in-and-out, sheep pen, square, or hexagonal obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

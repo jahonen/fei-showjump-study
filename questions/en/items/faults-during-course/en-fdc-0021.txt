@@ -1,0 +1,17 @@
+ID: en-fdc-0021
+PARENT_ID: en-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 246.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: multi-select
+STEM: Which of the following are considered Disobediences under JRs Art 246.1?
+OPTION_A: A Refusal
+OPTION_B: A Run-out
+OPTION_C: Circling once for 30 seconds to regain position after a Refusal
+OPTION_D: A Resistance
+CORRECT: A,B,D
+EXPLANATION: JRs Art 246.1 lists Refusal, Run-out, Resistance, and circling as Disobediences. However, circling for up to 45 seconds after a Run-out or Refusal to get into position is not a Disobedience.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

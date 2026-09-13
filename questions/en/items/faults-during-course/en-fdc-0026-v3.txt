@@ -1,0 +1,17 @@
+ID: en-fdc-0026-v3
+PARENT_ID: en-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Which article governs whether a Fall after the finish line incurs Elimination?
+OPTION_A: Art 248.1
+OPTION_B: Art 248.2
+OPTION_C: Art 263.4.26
+OPTION_D: Art 246.4
+CORRECT: B
+EXPLANATION: JRs Art 248.2.2.3 expressly states that a Fall after crossing the finish line does not incur Elimination, while Art 248.1 governs Falls during the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

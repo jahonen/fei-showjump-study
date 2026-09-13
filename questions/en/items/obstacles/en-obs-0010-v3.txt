@@ -1,0 +1,17 @@
+ID: en-obs-0010-v3
+PARENT_ID: en-obs-0010
+DOMAIN: obstacles
+ARTICLE: 233.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Which official may decide to exceed the scheduled obstacle height by up to 3 cm for a 1.45 m+ Competition?
+OPTION_A: The President of the Ground Jury
+OPTION_B: The Course Designer
+OPTION_C: The Technical Delegate
+OPTION_D: The Chef d'Equipe
+CORRECT: B
+EXPLANATION: JRs Art 233.2.2 states that the height may, at the discretion of the Course Designer, exceed the scheduled height by a maximum of 3 cm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

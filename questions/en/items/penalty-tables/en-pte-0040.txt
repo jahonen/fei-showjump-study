@@ -1,0 +1,17 @@
+ID: en-pte-0040
+PARENT_ID: en-pte-0040
+DOMAIN: penalty-tables
+ARTICLE: 217.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: What information must the official results of a Table A Competition provide?
+OPTION_A: Only the total Penalties
+OPTION_B: The total Penalties and the placing only
+OPTION_C: The total Penalties and separately the time Penalties and any other Penalties
+OPTION_D: Only the time of the round
+CORRECT: C
+EXPLANATION: JRs Art 217.1.2 requires the official results to provide the total number of Penalties and also separately specify the time Penalties and any other Penalties incurred during the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

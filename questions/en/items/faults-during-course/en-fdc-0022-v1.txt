@@ -1,0 +1,17 @@
+ID: en-fdc-0022-v1
+PARENT_ID: en-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.2.2, when does a stop in front of an obstacle become a Refusal?
+OPTION_A: If the Horse steps back, even a single pace
+OPTION_B: If the Horse lowers its head
+OPTION_C: If the stop lasts more than 10 seconds
+OPTION_D: If the Athlete uses the whip
+CORRECT: A
+EXPLANATION: JRs Art 246.2.2 provides that if the stop is prolonged or the Horse steps back, either voluntarily or not, even a single pace, it counts as a Refusal.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

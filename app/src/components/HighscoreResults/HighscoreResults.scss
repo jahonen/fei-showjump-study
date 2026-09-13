@@ -1,0 +1,82 @@
+@use '../../styles/variables' as *;
+
+.highscore-results {
+  flex: 1;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.result-summary {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  text-align: center;
+  margin-bottom: $spacing-lg;
+}
+
+.final-score {
+  font-size: $font-size-xl;
+  font-weight: 700;
+  color: $color-primary;
+  margin: 0 0 $spacing-sm;
+}
+
+.reason {
+  color: $color-text-muted;
+}
+
+.leaderboard-submit {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  margin-bottom: $spacing-lg;
+
+  label {
+    display: block;
+    margin-bottom: $spacing-sm;
+    font-weight: 500;
+  }
+
+  input {
+    width: 100%;
+    padding: $spacing-sm $spacing-md;
+    font-size: $font-size-base;
+    border: 1px solid $color-border;
+    border-radius: $radius;
+    margin-bottom: $spacing-md;
+    min-height: 44px;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+.success {
+  background-color: $color-surface;
+  border: 1px solid $color-success;
+  color: $color-success;
+  border-radius: $radius;
+  padding: $spacing-md;
+  margin-bottom: $spacing-lg;
+}
+
+.result-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-md;
+
+  button {
+    width: 100%;
+  }
+
+  .secondary {
+    background-color: $color-surface;
+    color: $color-text;
+    border: 1px solid $color-border;
+  }
+}

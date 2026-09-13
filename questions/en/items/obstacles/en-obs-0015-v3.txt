@@ -1,0 +1,17 @@
+ID: en-obs-0015-v3
+PARENT_ID: en-obs-0015
+DOMAIN: obstacles
+ARTICLE: 237.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: A double combination is built with 6.5 m between its two elements. Under JRs Art 237.1, this is:
+OPTION_A: Permitted
+OPTION_B: Too short
+OPTION_C: Too long
+OPTION_D: Allowed only indoors
+CORRECT: B
+EXPLANATION: JRs Art 237.1 requires a minimum distance of seven metres between obstacles in a Combination, so 6.5 m is too short.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

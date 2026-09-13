@@ -1,0 +1,17 @@
+ID: en-vmp-0095
+PARENT_ID: en-vmp-0095
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.1.3.4, how must a Horse not be presented at inspection?
+OPTION_A: With its mane braided
+OPTION_B: With its identity concealed by paint or dye
+OPTION_C: With white markings visible
+OPTION_D: With the Athlete mounted
+CORRECT: B
+EXPLANATION: JRs Art 275.1.3.4 states that no Horse may be presented with its identity concealed in any manner by the application of paint or dye.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

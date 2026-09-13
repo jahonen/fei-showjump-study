@@ -1,0 +1,17 @@
+ID: en-jof-0057-v3
+PARENT_ID: en-jof-0057
+DOMAIN: jump-offs
+ARTICLE: 218.1.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Which of the following is NOT one of the circumstances in JRs Art 218.1.3 for holding a jump-off?
+OPTION_A: Tie for first place after preliminary rounds
+OPTION_B: Tie for podium places at Championships/Games
+OPTION_C: More than one combination with zero Penalties in preliminary rounds
+OPTION_D: Any tie on time alone without reference to Penalties
+CORRECT: D
+EXPLANATION: JRs Art 218.1.3 lists ties on Penalties (first place or podium at Championships/Games) and multiple zero-Penalty rounds as grounds for a jump-off, not arbitrary ties on time alone.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

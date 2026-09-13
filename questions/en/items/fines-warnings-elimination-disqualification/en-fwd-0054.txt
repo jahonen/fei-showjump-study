@@ -1,0 +1,17 @@
+ID: en-fwd-0054
+PARENT_ID: en-fwd-0054
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 262.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 52
+TYPE: single-select
+STEM: Who may impose fines for breaches of the Jumping Rules?
+OPTION_A: Only the FEI Secretary General
+OPTION_B: Only the President of the Ground Jury
+OPTION_C: The Ground Jury, the Chief Steward, and the Technical Delegate, depending on the offence
+OPTION_D: The Athlete's National Federation
+CORRECT: B
+EXPLANATION: JRs Art 262.1 provides that the President of the Ground Jury may impose fines in accordance with the GRs in the listed circumstances.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

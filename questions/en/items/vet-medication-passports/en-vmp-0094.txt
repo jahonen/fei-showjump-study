@@ -1,0 +1,17 @@
+ID: en-vmp-0094
+PARENT_ID: en-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Each Horse must be presented for Horse inspection in which bridle(s), and what equipment must be removed?
+OPTION_A: Any bridle; rugs may remain
+OPTION_B: A snaffle or double bridle; rugs, bandages, etc. must be removed
+OPTION_C: Only a snaffle; no other restrictions
+OPTION_D: A double bridle; boots must remain
+CORRECT: B
+EXPLANATION: JRs Art 275.1.3.3 states that each Horse must be presented in either a snaffle or double bridle, and any other harness or equipment (rugs, bandages, etc.) must be removed. No exception is allowed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

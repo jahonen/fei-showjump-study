@@ -1,0 +1,17 @@
+ID: en-jof-0060-v2
+PARENT_ID: en-jof-0060
+DOMAIN: jump-offs
+ARTICLE: 218.2.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Under JRs Art 218.2.5, what may be altered compared to the original course in a jump-off?
+OPTION_A: The distance between Combination elements
+OPTION_B: The order of the obstacles
+OPTION_C: The type of obstacles (e.g., vertical to oxer)
+OPTION_D: The number of attempts allowed
+CORRECT: B
+EXPLANATION: JRs Art 218.2.5 permits the order of the obstacles for a jump-off to be altered compared to the original course.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

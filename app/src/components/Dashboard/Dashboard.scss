@@ -1,0 +1,97 @@
+@use '../../styles/variables' as *;
+
+.dashboard {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: $spacing-md;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: $spacing-lg;
+
+  h1 {
+    font-size: $font-size-xl;
+    color: $color-primary;
+    margin: 0;
+  }
+}
+
+.logout-button {
+  background-color: transparent;
+  color: $color-text;
+  border: 1px solid $color-border;
+}
+
+.language-bar {
+  display: flex;
+  gap: $spacing-sm;
+  margin-bottom: $spacing-lg;
+
+  button {
+    flex: 1;
+    background-color: $color-surface;
+    color: $color-text;
+    border: 1px solid $color-border;
+
+    &.active {
+      background-color: $color-primary;
+      color: #fff;
+      border-color: $color-primary;
+    }
+  }
+}
+
+.mode-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $spacing-md;
+  margin-bottom: $spacing-lg;
+}
+
+.mode-card {
+  position: relative;
+  text-align: left;
+  background-color: $color-surface;
+  color: $color-text;
+  border: 1px solid $color-border;
+  padding: $spacing-lg;
+
+  h2 {
+    color: $color-primary;
+    font-size: $font-size-lg;
+    margin: 0 0 $spacing-sm;
+  }
+
+  p {
+    margin: 0;
+    color: $color-text-muted;
+  }
+}
+
+.mode-badge {
+  position: absolute;
+  top: $spacing-md;
+  right: $spacing-md;
+  background-color: $color-accent;
+  color: $color-text;
+  border-radius: 999px;
+  padding: $spacing-xs $spacing-sm;
+  font-size: 0.875rem;
+  font-weight: 600;
+  min-width: 1.5rem;
+  text-align: center;
+}
+
+.settings-link {
+  margin-top: auto;
+  background-color: transparent;
+  color: $color-primary;
+  text-decoration: underline;
+}

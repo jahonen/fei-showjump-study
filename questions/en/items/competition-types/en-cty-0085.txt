@@ -1,0 +1,17 @@
+ID: en-cty-0085
+PARENT_ID: en-cty-0085
+DOMAIN: competition-types
+ARTICLE: 222.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: In a Normal Competition in Two Phases, how many obstacles may the first phase contain?
+OPTION_A: Four to six
+OPTION_B: Seven to nine
+OPTION_C: Ten to twelve
+OPTION_D: No maximum
+CORRECT: B
+EXPLANATION: JRs Art 222.1.2 states that the first phase of a Normal Competition in Two Phases is a course of seven to nine obstacles with or without Combinations.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

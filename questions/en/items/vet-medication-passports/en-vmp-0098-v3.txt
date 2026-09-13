@@ -1,0 +1,17 @@
+ID: en-vmp-0098-v3
+PARENT_ID: en-vmp-0098
+DOMAIN: vet-medication-passports
+ARTICLE: 275.3.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.3.2, repeated failure to display the Horse's identification number clearly may result in:
+OPTION_A: A warning only
+OPTION_B: A fine
+OPTION_C: Elimination
+OPTION_D: Disqualification
+CORRECT: B
+EXPLANATION: JRs Art 275.3.2 provides that a first offence incurs a warning, and repeated offences incur a fine imposed on the Athlete by the Ground Jury.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

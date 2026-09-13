@@ -1,0 +1,17 @@
+ID: en-awr-0004-v1
+PARENT_ID: en-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 241.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: A triple combination might be labelled on the course plan as:
+OPTION_A: 7, 8, 9
+OPTION_B: 8A, 8B, 8C
+OPTION_C: 8, 8a, 8b
+OPTION_D: III
+CORRECT: B
+EXPLANATION: JRs Art 241.3.3 gives the example 8A, 8B, 8C for the elements of a Combination that bears a single number.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cls-0065
+PARENT_ID: en-cls-0065
+DOMAIN: classification
+ARTICLE: 267.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: What is required of prize winners regarding the prize-giving ceremony?
+OPTION_A: They must sell the prizes back to the OC
+OPTION_B: They must take part in the prize-giving ceremony, usually with the placed Horses
+OPTION_C: Only the leading rider must attend
+OPTION_D: Attendance is optional if the prize money exceeds CHF 1,000
+CORRECT: B
+EXPLANATION: JRs Art 267.2 states that prize winners must take part in the prize-giving ceremony and should do so with the placed Horses, though the Ground Jury may make exceptions for safety reasons.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

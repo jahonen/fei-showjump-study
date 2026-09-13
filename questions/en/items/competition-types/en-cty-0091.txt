@@ -1,0 +1,17 @@
+ID: en-cty-0091
+PARENT_ID: en-cty-0091
+DOMAIN: competition-types
+ARTICLE: 230.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: In a Six Bar Competition, how many vertical obstacles are placed in a straight line with approximately 11 m between each obstacle?
+OPTION_A: Four
+OPTION_B: Five
+OPTION_C: Six
+OPTION_D: Eight
+CORRECT: C
+EXPLANATION: JRs Art 230.3.1 states that in a Six Bar Competition, six vertical obstacles are placed in a straight line with approximately 11 m between each obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

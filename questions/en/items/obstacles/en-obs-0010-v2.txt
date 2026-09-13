@@ -1,0 +1,17 @@
+ID: en-obs-0010-v2
+PARENT_ID: en-obs-0010
+DOMAIN: obstacles
+ARTICLE: 233.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: The discretion to exceed the scheduled height by up to 3 cm under JRs Art 233.2.2 applies only when the scheduled maximum is at least:
+OPTION_A: 1.30 m
+OPTION_B: 1.40 m
+OPTION_C: 1.45 m
+OPTION_D: 1.60 m
+CORRECT: C
+EXPLANATION: JRs Art 233.2.2 applies the 3 cm tolerance only to Competitions for which the Schedule indicates a maximum height of 1.45 m or more.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

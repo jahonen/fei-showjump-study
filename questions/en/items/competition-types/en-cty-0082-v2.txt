@@ -1,0 +1,17 @@
+ID: en-cty-0082-v2
+PARENT_ID: en-cty-0082
+DOMAIN: competition-types
+ARTICLE: 220.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: In a Table A Against the Clock Competition, Athletes tied on Penalties for first place may have a jump-off. Under JRs Art 220.2.1.2, this jump-off is judged under:
+OPTION_A: Table C
+OPTION_B: Table A
+OPTION_C: No Table (time only)
+OPTION_D: The Chef d'Equipe decides
+CORRECT: B
+EXPLANATION: JRs Art 220.2.1.2 provides for a jump-off Against the Clock judged under Table A when first place is tied on Penalties.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

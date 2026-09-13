@@ -1,0 +1,17 @@
+ID: en-jof-0061-v1
+PARENT_ID: en-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 218.2.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Under JRs Art 218.2.7, the two additional obstacles added to a jump-off may be:
+OPTION_A: Only verticals
+OPTION_B: Two spreads, two verticals, or one of each
+OPTION_C: Only water jumps
+OPTION_D: Only combinations
+CORRECT: B
+EXPLANATION: JRs Art 218.2.7.1 states that the two additional obstacles may consist of two spread or two vertical obstacles or one spread and one vertical.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

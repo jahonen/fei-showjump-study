@@ -1,0 +1,17 @@
+ID: en-jof-0061-v2
+PARENT_ID: en-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 218.2.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: If a vertical from the previous round is jumped in the opposite direction in the jump-off, how is it counted under JRs Art 218.2.7.1?
+OPTION_A: As no obstacle
+OPTION_B: As one of the two additional obstacles allowed
+OPTION_C: As a Combination
+OPTION_D: It is not permitted
+CORRECT: B
+EXPLANATION: JRs Art 218.2.7.1 states that if an obstacle included in the previous round(s) is jumped from the opposite direction in the jump-off, it is considered as one of the two additional obstacles allowed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

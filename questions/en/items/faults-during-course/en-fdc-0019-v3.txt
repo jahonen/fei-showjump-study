@@ -1,0 +1,17 @@
+ID: en-fdc-0019-v3
+PARENT_ID: en-fdc-0019
+DOMAIN: faults-during-course
+ARTICLE: 244.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: JRs Art 244.1 applies unless:
+OPTION_A: The Ground Jury decides otherwise
+OPTION_B: The Schedule says otherwise
+OPTION_C: Specified otherwise in the JRs
+OPTION_D: The Athlete is a Junior
+CORRECT: C
+EXPLANATION: JRs Art 244.1 begins with the phrase 'Unless specified otherwise in the JRs, Penalties are incurred for the following Faults during a round...'
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

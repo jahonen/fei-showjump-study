@@ -1,0 +1,17 @@
+ID: en-fdc-0027
+PARENT_ID: en-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 249.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: What generally constitutes unauthorised assistance during a round?
+OPTION_A: A Ground Jury member signalling to stop
+OPTION_B: Any physical intervention by a third party during a round with the object of helping the Athlete or their Horse
+OPTION_C: The Athlete's coach shouting instructions from outside the arena
+OPTION_D: Any assistance authorised by the Ground Jury
+CORRECT: B
+EXPLANATION: JRs Art 249.1 defines unauthorised assistance as any physical intervention by a third party between crossing the starting line and the finishing line after jumping the last obstacle, whether solicited or not, with the object of helping the Athlete or their Horse. Unauthorised assistance during a round results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cah-0079
+PARENT_ID: en-cah-0079
+DOMAIN: competitors-horses
+ARTICLE: 207.2.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: When competing, what colour must an Athlete's tie or choker be?
+OPTION_A: Black
+OPTION_B: White
+OPTION_C: National colours
+OPTION_D: Any colour matching the jacket
+CORRECT: B
+EXPLANATION: JRs Art 207.2.3.1 requires a white tie or choker to be worn when competing and during prize-giving ceremonies.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

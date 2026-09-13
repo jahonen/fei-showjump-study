@@ -1,0 +1,17 @@
+ID: en-cty-0085-v2
+PARENT_ID: en-cty-0085
+DOMAIN: competition-types
+ARTICLE: 222.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: In a Normal Competition in Two Phases, how many obstacles may the second phase contain under JRs Art 222.1.2?
+OPTION_A: Two to four
+OPTION_B: Four to six
+OPTION_C: Six to eight
+OPTION_D: Seven to nine
+CORRECT: B
+EXPLANATION: JRs Art 222.1.2 states that the second phase takes place over four to six obstacles.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0032-v2
+PARENT_ID: en-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 246.6.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: During interrupted time, Disobediences are normally:
+OPTION_A: Penalised as normal Refusals
+OPTION_B: Not penalised, except for the second Refusal following a Refusal with a knock-down
+OPTION_C: Always Eliminated
+OPTION_D: Ignored entirely
+CORRECT: B
+EXPLANATION: JRs Art 246.6.2 states that Disobediences are not penalised during interrupted time, except for the second Refusal following a Refusal with a knock-down.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

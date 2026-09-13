@@ -1,0 +1,17 @@
+ID: en-cty-0083-v2
+PARENT_ID: en-cty-0083
+DOMAIN: competition-types
+ARTICLE: 221.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: A Competition over Two Rounds may have two courses that are identical or different in which respects under JRs Art 221.1?
+OPTION_A: Only in the number of obstacles
+OPTION_B: Track, number of obstacles, or dimensions of obstacles
+OPTION_C: Only in the speed
+OPTION_D: They must be identical
+CORRECT: B
+EXPLANATION: JRs Art 221.1 provides that the two courses may be identical or different in track, number of obstacles, or dimensions of obstacles, but the speed must be the same.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

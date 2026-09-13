@@ -1,0 +1,17 @@
+ID: en-cls-0065-v3
+PARENT_ID: en-cls-0065
+DOMAIN: classification
+ARTICLE: 267.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: JRs Art 267.2 recommends that prize winners attend the prize-giving ceremony with:
+OPTION_A: Their coach
+OPTION_B: The placed Horses
+OPTION_C: Their National Federation delegate
+OPTION_D: A representative of the sponsor
+CORRECT: B
+EXPLANATION: JRs Art 267.2 states that prize winners should take part in the prize-giving ceremony with the placed Horses.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

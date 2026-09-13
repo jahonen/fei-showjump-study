@@ -1,0 +1,17 @@
+ID: en-fdc-0026-v2
+PARENT_ID: en-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: A Horse falls after crossing the finishing line. Under JRs Art 248.2, this generally:
+OPTION_A: Still incurs Elimination
+OPTION_B: Does not incur Elimination
+OPTION_C: Incurs 4 penalties
+OPTION_D: Results in a warning
+CORRECT: B
+EXPLANATION: JRs Art 248.2.2.3 provides that a Fall after crossing the finish line does not incur Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

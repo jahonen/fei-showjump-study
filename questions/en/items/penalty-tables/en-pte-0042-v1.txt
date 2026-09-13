@@ -1,0 +1,17 @@
+ID: en-pte-0042-v1
+PARENT_ID: en-pte-0042
+DOMAIN: penalty-tables
+ARTICLE: 220.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: In a Table A Not Against the Clock Competition, ties on Penalties are normally resolved by:
+OPTION_A: Time taken in the round
+OPTION_B: A jump-off only
+OPTION_C: Coin toss
+OPTION_D: Sharing prizes
+CORRECT: D
+EXPLANATION: JRs Art 220.1.1 provides format options for Competitions Not Against the Clock judged under Table A, including the option that Athletes with equality of Penalties for any place share the prizes and there is no jump-off; where a jump-off is provided for, Athletes not in the jump-off still share prizes for any place other than first.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

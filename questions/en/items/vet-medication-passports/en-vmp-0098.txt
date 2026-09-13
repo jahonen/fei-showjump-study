@@ -1,0 +1,17 @@
+ID: en-vmp-0098
+PARENT_ID: en-vmp-0098
+DOMAIN: vet-medication-passports
+ARTICLE: 275.3.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: When must a Horse wear its identification number assigned by the OC?
+OPTION_A: Only during Competitions
+OPTION_B: Whenever it leaves the stables from arrival throughout the Event
+OPTION_C: Only during prize-giving ceremonies
+OPTION_D: Only at Horse inspections
+CORRECT: B
+EXPLANATION: JRs Art 275.3.2 states that Athletes must ensure that the Horse always wears the same number whenever it leaves the stables, from arrival throughout the Event.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

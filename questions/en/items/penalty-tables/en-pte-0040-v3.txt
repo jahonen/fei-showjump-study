@@ -1,0 +1,17 @@
+ID: en-pte-0040-v3
+PARENT_ID: en-pte-0040
+DOMAIN: penalty-tables
+ARTICLE: 217.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Adding the Penalties for Faults under Table A gives:
+OPTION_A: The time allowed
+OPTION_B: The score obtained by the Athlete/Horse Combination for their round
+OPTION_C: The prize money
+OPTION_D: The number of jump-off qualifiers
+CORRECT: B
+EXPLANATION: JRs Art 217.1.2 states that adding the Penalties for Faults gives the score obtained by the Athlete/Horse Combination for their round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0028-v2
+PARENT_ID: en-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 217.2.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: In which Competition type is there no time allowed but there is a maximum time limit?
+OPTION_A: Table A Against the Clock
+OPTION_B: Table A Not Against the Clock
+OPTION_C: Table C
+OPTION_D: Puissance
+CORRECT: C
+EXPLANATION: JRs Art 217.2.3 states that Competitions under Table C do not have a time allowed, but they do have a maximum time limit.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

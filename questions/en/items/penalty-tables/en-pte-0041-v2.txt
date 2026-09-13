@@ -1,0 +1,17 @@
+ID: en-pte-0041-v2
+PARENT_ID: en-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 217.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under JRs Art 217.3, the training-round rule applies to Competitions Against the Clock under which tables?
+OPTION_A: Table A only
+OPTION_B: Table C only
+OPTION_C: Table A or C
+OPTION_D: Neither
+CORRECT: C
+EXPLANATION: JRs Art 217.3 applies to training rounds in Competitions Against the Clock under Table A or C.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

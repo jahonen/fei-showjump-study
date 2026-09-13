@@ -1,0 +1,17 @@
+ID: en-vmp-0093-v1
+PARENT_ID: en-vmp-0093
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.1.3.1, who may arrange the specific time for their Horses to be inspected?
+OPTION_A: The Ground Jury
+OPTION_B: Chefs d'Equipe and/or Persons Responsible
+OPTION_C: The Technical Delegate
+OPTION_D: The OC President
+CORRECT: B
+EXPLANATION: JRs Art 275.1.3.1 states that Chefs d'Equipe and/or Persons Responsible should arrange a specific time for their Horses to be inspected within the time specified in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

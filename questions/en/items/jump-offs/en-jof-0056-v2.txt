@@ -1,0 +1,17 @@
+ID: en-jof-0056-v2
+PARENT_ID: en-jof-0056
+DOMAIN: jump-offs
+ARTICLE: 218.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Which document must indicate whether a jump-off will be held?
+OPTION_A: The FEI Calendar
+OPTION_B: The Schedule
+OPTION_C: The prize-giving programme
+OPTION_D: The Warm-Up Arena rules
+CORRECT: B
+EXPLANATION: JRs Art 218.1.2 requires the Schedule to specify if a Competition will have a jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

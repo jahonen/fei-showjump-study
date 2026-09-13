@@ -1,0 +1,17 @@
+ID: en-fdc-0022-v2
+PARENT_ID: en-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: A Horse stops at an obstacle, takes one step back, and then jumps. According to JRs Art 246.2.2, this is:
+OPTION_A: Not a Refusal
+OPTION_B: A Refusal
+OPTION_C: A Run-out
+OPTION_D: A Fall
+CORRECT: B
+EXPLANATION: JRs Art 246.2.2 states that if the Horse steps back, even a single pace, the stop counts as a Refusal.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

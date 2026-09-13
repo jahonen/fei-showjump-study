@@ -1,0 +1,17 @@
+ID: en-pte-0041-v3
+PARENT_ID: en-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 217.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: At what point must an Athlete inform the OC of a training round under JRs Art 217.3?
+OPTION_A: On arrival at the venue
+OPTION_B: At the time of submission of declarations
+OPTION_C: Before entering the arena
+OPTION_D: After the first round
+CORRECT: B
+EXPLANATION: JRs Art 217.3 requires Athletes to inform the OC at the time of submission of declarations.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

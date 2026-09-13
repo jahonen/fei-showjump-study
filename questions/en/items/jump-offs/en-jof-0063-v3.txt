@@ -1,0 +1,17 @@
+ID: en-jof-0063-v3
+PARENT_ID: en-jof-0063
+DOMAIN: jump-offs
+ARTICLE: 218.1.8
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: The default starting order in a jump-off is addressed in which article?
+OPTION_A: Art 218.1.7
+OPTION_B: Art 218.1.8
+OPTION_C: Art 218.1.9
+OPTION_D: Art 218.2.1
+CORRECT: B
+EXPLANATION: JRs Art 218.1.8 states that the starting order in the jump-off must remain the same as the starting order for the round preceding the jump-off unless specified otherwise.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

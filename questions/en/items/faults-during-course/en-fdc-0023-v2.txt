@@ -1,0 +1,17 @@
+ID: en-fdc-0023-v2
+PARENT_ID: en-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 246.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: A Horse passes the extended line of an obstacle to be jumped without jumping it. Under JRs Art 246.3, this is:
+OPTION_A: A Refusal
+OPTION_B: A Run-out
+OPTION_C: A Fall
+OPTION_D: No Fault
+CORRECT: B
+EXPLANATION: JRs Art 246.3.2 provides that it is a Run-out if a Horse or any part of a Horse goes past the extended line of an obstacle to be jumped.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

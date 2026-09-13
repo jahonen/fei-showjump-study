@@ -1,0 +1,17 @@
+ID: en-tsp-0034-v2
+PARENT_ID: en-tsp-0034
+DOMAIN: time-speed
+ARTICLE: 258.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: For outdoor 5* Nations Cup Competitions, what is the required speed under JRs Art 258.1.2?
+OPTION_A: 350 m/min
+OPTION_B: 375 m/min
+OPTION_C: 400 m/min
+OPTION_D: 425 m/min
+CORRECT: C
+EXPLANATION: JRs Art 258.1.2 states that CSIO 5* Nations Cup/Longines League of Nations™ Competitions outdoors have a speed of 400 m per minute.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

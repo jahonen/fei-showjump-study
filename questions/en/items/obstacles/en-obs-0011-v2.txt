@@ -1,0 +1,17 @@
+ID: en-obs-0011-v2
+PARENT_ID: en-obs-0011
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: What is the maximum spread permitted for a Water Jump including the take-off element?
+OPTION_A: 2.00 m
+OPTION_B: 3.00 m
+OPTION_C: 3.80 m
+OPTION_D: 4.00 m
+CORRECT: D
+EXPLANATION: JRs Art 233.1 provides that the Water Jump may not exceed 4.00 m in spread including the take-off element.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

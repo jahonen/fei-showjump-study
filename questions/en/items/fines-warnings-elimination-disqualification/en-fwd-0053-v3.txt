@@ -1,0 +1,17 @@
+ID: en-fwd-0053-v3
+PARENT_ID: en-fwd-0053
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 266
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 56
+TYPE: single-select
+STEM: Under JRs Art 266, where are the detailed requirements for boot and bandage control found?
+OPTION_A: Only in JRs Art 266 itself
+OPTION_B: In the VRs and the Boot and Bandage Control Protocol
+OPTION_C: In GRs Art 142
+OPTION_D: In JRs Annex VIII
+CORRECT: B
+EXPLANATION: JRs Art 266 mandates boot and bandage control for certain Competitions and states that further detail is found in the VRs and the Boot and Bandage Control Protocol available on the Stewards Hub on the FEI website.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

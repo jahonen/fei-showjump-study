@@ -1,0 +1,17 @@
+ID: en-fwd-0047-v1
+PARENT_ID: en-fwd-0047
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.22
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: An Athlete competes with a prohibited bit. Under JRs Art 263.4.22, the consequence is:
+OPTION_A: Warning
+OPTION_B: Fine
+OPTION_C: Elimination
+OPTION_D: Disqualification
+CORRECT: C
+EXPLANATION: JRs Art 263.4.22 provides that non-compliance with the rules relating to tack and equipment results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

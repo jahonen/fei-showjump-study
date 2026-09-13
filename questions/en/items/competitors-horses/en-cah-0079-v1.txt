@@ -1,0 +1,17 @@
+ID: en-cah-0079-v1
+PARENT_ID: en-cah-0079
+DOMAIN: competitors-horses
+ARTICLE: 207.2.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: Under JRs Art 207.2.3.1, competition jackets may be any colour but must have buttons that face:
+OPTION_A: Inwards
+OPTION_B: Outward
+OPTION_C: Any direction
+OPTION_D: Only on the cuffs
+CORRECT: B
+EXPLANATION: JRs Art 207.2.3.1 states that competition jackets may be any colour and must have outward facing buttons.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

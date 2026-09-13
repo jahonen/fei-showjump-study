@@ -1,0 +1,17 @@
+ID: en-cah-0080-v2
+PARENT_ID: en-cah-0080
+DOMAIN: competitors-horses
+ARTICLE: 207.2.4.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: In which Competitions must Athletes wear the official clothing of their NF under JRs Art 207.2.4.1?
+OPTION_A: All CSI1* Competitions
+OPTION_B: Nations Cup/Longines League of Nations™ at CSIOs; all stages of Continental and World Championships; and, subject to National Olympic Committee approval, Competitions at Olympic and Regional Games
+OPTION_C: Only the Olympic Games
+OPTION_D: Only prize-giving ceremonies
+CORRECT: B
+EXPLANATION: JRs Art 207.2.4.1 requires official NF clothing in the Nations Cup/Longines League of Nations™ Competition at CSIOs and in all stages of Competition at Continental and World Championships, as well as, subject to the approval of the relevant National Olympic Committee, during Competitions at Olympic and Regional Games.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

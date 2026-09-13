@@ -1,0 +1,17 @@
+ID: en-awr-0007-v3
+PARENT_ID: en-awr-0007
+DOMAIN: arena-warmup
+ARTICLE: 242.4.12
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 44
+TYPE: single-select
+STEM: During the warm-up for a Competition, an Athlete sets up a gymnastic exercise. What rule has been breached?
+OPTION_A: Art 242.4.2
+OPTION_B: Art 242.4.7
+OPTION_C: Art 242.4.10
+OPTION_D: Art 242.4.12
+CORRECT: D
+EXPLANATION: JRs Art 242.4.12 explicitly forbids gymnastic/training exercises during the warm-up for a Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fwd-0049-v1
+PARENT_ID: en-fwd-0049
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.30
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Which electronic device use in the Competition Arena during a Competition results in Elimination under JRs Art 263.4.30?
+OPTION_A: A mobile phone
+OPTION_B: A stopwatch
+OPTION_C: A heart-rate monitor not connected to the Athlete
+OPTION_D: A camera mounted on the Horse
+CORRECT: A
+EXPLANATION: JRs Art 263.4.30 expressly refers to mobile phone devices, other electronic communication devices, and earphones.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

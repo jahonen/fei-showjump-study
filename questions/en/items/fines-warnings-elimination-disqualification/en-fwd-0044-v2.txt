@@ -1,0 +1,17 @@
+ID: en-fwd-0044-v2
+PARENT_ID: en-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.25
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: An Athlete has a first Refusal and then a second Run-out in the same round. Under JRs Art 263.4.25, the consequence is:
+OPTION_A: No Penalty
+OPTION_B: 4 penalties
+OPTION_C: Elimination
+OPTION_D: Warning
+CORRECT: C
+EXPLANATION: JRs Art 263.4.25 provides that a second Disobedience during the course of a round results in Elimination; Refusal and Run-out are both Disobediences.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

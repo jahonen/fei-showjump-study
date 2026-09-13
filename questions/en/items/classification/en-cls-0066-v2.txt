@@ -1,0 +1,17 @@
+ID: en-cls-0066-v2
+PARENT_ID: en-cls-0066
+DOMAIN: classification
+ARTICLE: 218.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: A team withdraws from the second round of a Nations Cup. How is it placed under JRs Art 218.3.1?
+OPTION_A: Equal last in the second round
+OPTION_B: According to its score in the first round
+OPTION_C: Not entitled to prize money but placed by first-round score
+OPTION_D: Disqualified
+CORRECT: C
+EXPLANATION: JRs Art 218.3.1 states that for teams withdrawing from the second round of a Nations Cup, they are not entitled to prize money and are placed according to their score in the first round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

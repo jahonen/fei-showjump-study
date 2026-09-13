@@ -1,0 +1,40 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      match /attempts/{attemptId} {
+        allow read, create: if request.auth != null && request.auth.uid == uid;
+        allow update, delete: if false;
+      }
+
+      match /itemFlags/{parentId} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+
+      match /reviewHistory/{parentId}/events/{eventId} {
+        allow read, create: if request.auth != null && request.auth.uid == uid;
+        allow update, delete: if false;
+      }
+    }
+
+    match /leaderboard/{lang}/entries/{uid} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null
+                    && request.auth.uid == uid
+                    && (resource == null || request.resource.data.score > resource.data.score);
+    }
+
+    match /questionBank/{lang}/items/{parentId} {
+      allow read: if request.auth != null && resource.data.status == "verified";
+      allow write: if false;
+
+      match /variants/{variantId} {
+        allow read: if request.auth != null;
+        allow write: if false;
+      }
+    }
+  }
+}

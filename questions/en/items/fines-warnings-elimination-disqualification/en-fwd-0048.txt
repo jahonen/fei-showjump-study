@@ -1,0 +1,17 @@
+ID: en-fwd-0048
+PARENT_ID: en-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.29
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: An Athlete jumps an obstacle with the chin strap of their Protective Headgear unfastened. What is the consequence?
+OPTION_A: No Penalty if the obstacle was jumped clear
+OPTION_B: Elimination, unless it was unsafe to stop immediately to refasten it
+OPTION_C: A fine of CHF 500
+OPTION_D: A warning
+CORRECT: B
+EXPLANATION: JRs Art 263.4.29 states that jumping or attempting to jump an obstacle with the chin strap of Protective Headgear incorrectly fastened or not fastened results in Elimination unless the circumstances rendered it unsafe for the Athlete to stop immediately in order to refasten the strap.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

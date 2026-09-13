@@ -1,0 +1,17 @@
+ID: en-awr-0002-v2
+PARENT_ID: en-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 241.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: If a Competition has 10 obstacles, the course length must not exceed:
+OPTION_A: 500 m
+OPTION_B: 550 m
+OPTION_C: 600 m
+OPTION_D: 650 m
+CORRECT: C
+EXPLANATION: JRs Art 241.2.4 limits the course length to the number of obstacles multiplied by 60; 10 × 60 = 600 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

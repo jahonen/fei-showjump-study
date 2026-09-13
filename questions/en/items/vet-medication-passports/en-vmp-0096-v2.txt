@@ -1,0 +1,17 @@
+ID: en-vmp-0096-v2
+PARENT_ID: en-vmp-0096
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.4.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: In team Final Jumping Competitions, how many Horses from each of the first three placed teams are normally sampled under JRs Art 275.1.4.2?
+OPTION_A: All team Horses
+OPTION_B: Two
+OPTION_C: One
+OPTION_D: None
+CORRECT: C
+EXPLANATION: JRs Art 275.1.4.2(b) states that one Horse from among all the Horses in each of the first three placed teams is normally sampled.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

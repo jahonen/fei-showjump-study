@@ -1,0 +1,17 @@
+ID: en-cls-0065-v2
+PARENT_ID: en-cls-0065
+DOMAIN: classification
+ARTICLE: 267.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: If a prize winner fails to take part in the prize-giving ceremony without plausible excuse, the Ground Jury may:
+OPTION_A: Fine the Athlete
+OPTION_B: Allow the OC to withhold the Athlete's prize(s)
+OPTION_C: Disqualify the Athlete
+OPTION_D: Award the prize to the next placed Athlete
+CORRECT: B
+EXPLANATION: JRs Art 267.2 provides that if a prize winner fails without plausible excuse to take part in the prize-giving ceremony, the Ground Jury may allow the OC to withhold the Athlete's prize(s).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-awr-0003-v3
+PARENT_ID: en-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: What marking must the starting and finishing lines have under JRs Art 241.2.5?
+OPTION_A: A single yellow flag on the left
+OPTION_B: A red flag on the right and a white flag on the left, plus S and F markers
+OPTION_C: A blue flag on each side
+OPTION_D: Numbered cones only
+CORRECT: B
+EXPLANATION: JRs Art 241.2.5 requires an entirely red flag on the right and an entirely white flag on the left, plus S (= Start) and F (= Finish) markers.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cty-0088
+PARENT_ID: en-cty-0088
+DOMAIN: competition-types
+ARTICLE: 226.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: What is the minimum number of National Federations required for a Competition to be recognised as a Nations Cup?
+OPTION_A: Two
+OPTION_B: Three
+OPTION_C: Four
+OPTION_D: Five
+CORRECT: B
+EXPLANATION: JRs Art 226.1.2 states that at least three NFs must take part in this Competition for it to be recognised as a Nations Cup.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

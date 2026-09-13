@@ -1,0 +1,17 @@
+ID: en-cah-0078
+PARENT_ID: en-cah-0078
+DOMAIN: competitors-horses
+ARTICLE: 207.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: When is it mandatory to wear properly fastened Protective Headgear?
+OPTION_A: Only when jumping obstacles
+OPTION_B: At all times when mounted on a Horse
+OPTION_C: Only during prize-giving ceremonies
+OPTION_D: Only in the Competition Arena
+CORRECT: B
+EXPLANATION: JRs Art 207.1.1 states that it is mandatory for all persons to wear properly fastened Protective Headgear at all times when mounted on a Horse.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

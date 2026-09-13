@@ -1,0 +1,17 @@
+ID: en-vmp-0094-v3
+PARENT_ID: en-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: JRs Art 275.1.3.3 states that no exception to the bridle and equipment rule can be allowed. Is this statement correct?
+OPTION_A: No, exceptions are at the Ground Jury's discretion
+OPTION_B: Yes, no exception is allowed
+OPTION_C: Only for ponies
+OPTION_D: Only in bad weather
+CORRECT: B
+EXPLANATION: JRs Art 275.1.3.3 explicitly states 'No exception to this can be allowed.'
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

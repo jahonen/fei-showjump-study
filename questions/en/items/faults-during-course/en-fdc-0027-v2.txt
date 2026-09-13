@@ -1,0 +1,17 @@
+ID: en-fdc-0027-v2
+PARENT_ID: en-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 249.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: Under JRs Art 249.1, the normal consequence of unauthorised assistance during a round is:
+OPTION_A: 4 penalties
+OPTION_B: Elimination
+OPTION_C: A fine
+OPTION_D: Warning
+CORRECT: B
+EXPLANATION: JRs Art 249.1 states that unauthorised assistance during a round will result in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

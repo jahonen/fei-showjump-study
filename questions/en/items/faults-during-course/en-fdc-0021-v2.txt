@@ -1,0 +1,17 @@
+ID: en-fdc-0021-v2
+PARENT_ID: en-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 246.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Which of these is NOT listed as a Disobedience in JRs Art 246.1?
+OPTION_A: A Refusal
+OPTION_B: A Run-out
+OPTION_C: A Fall
+OPTION_D: A Resistance
+CORRECT: C
+EXPLANATION: JRs Art 246.1 lists Refusal, Run-out, Resistance, and circling as Disobediences. A Fall is addressed separately in JRs Art 248 and is not a Disobedience.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

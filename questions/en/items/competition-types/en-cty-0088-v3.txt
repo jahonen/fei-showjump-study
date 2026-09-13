@@ -1,0 +1,17 @@
+ID: en-cty-0088-v3
+PARENT_ID: en-cty-0088
+DOMAIN: competition-types
+ARTICLE: 226.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: According to JRs Art 226.1.4, in a Nations Cup there must be:
+OPTION_A: Individual placing
+OPTION_B: No individual placing
+OPTION_C: A separate individual Competition
+OPTION_D: Team and individual placing
+CORRECT: B
+EXPLANATION: JRs Art 226.1.4 provides that to preserve its special character, there must be no individual placing in a Nations Cup.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

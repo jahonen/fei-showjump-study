@@ -1,0 +1,17 @@
+ID: en-fdc-0021-v3
+PARENT_ID: en-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 246.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.3.1, a Run-out occurs when the Horse:
+OPTION_A: Stops in front of an obstacle and steps back
+OPTION_B: Escapes the Athlete's control and avoids an obstacle it must jump
+OPTION_C: Rears at the start line
+OPTION_D: Jumps an obstacle between two red flags
+CORRECT: B
+EXPLANATION: JRs Art 246.3.1 defines a Run-out as the Horse escaping the control of its Athlete and avoiding an obstacle that it must jump or a compulsory turning point that it must pass.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-jof-0058-v2
+PARENT_ID: en-jof-0058
+DOMAIN: jump-offs
+ARTICLE: 218.1.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under JRs Art 218.1.7, must the same Horse be used in the jump-off as in the preliminary round(s)?
+OPTION_A: No, any entered Horse may be used
+OPTION_B: Yes, Athletes must start the same Horse
+OPTION_C: Only if the Schedule says so
+OPTION_D: Only at Championships
+CORRECT: B
+EXPLANATION: JRs Art 218.1.7 states that Athletes must start the same Horse in the jump-off as in the preliminary round(s).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

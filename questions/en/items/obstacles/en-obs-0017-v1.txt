@@ -1,0 +1,17 @@
+ID: en-obs-0017-v1
+PARENT_ID: en-obs-0017
+DOMAIN: obstacles
+ARTICLE: 263.4.24
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 54
+TYPE: single-select
+STEM: What is the consequence of not leaving a closed Combination in the right direction or displacing it?
+OPTION_A: 4 penalties
+OPTION_B: 6 penalties
+OPTION_C: Elimination
+OPTION_D: Warning
+CORRECT: C
+EXPLANATION: JRs Art 263.4.24 provides that not leaving a closed Combination in the right direction or displacing a closed Combination results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

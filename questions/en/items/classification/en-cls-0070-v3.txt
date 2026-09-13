@@ -1,0 +1,17 @@
+ID: en-cls-0070-v3
+PARENT_ID: en-cls-0070
+DOMAIN: classification
+ARTICLE: 268.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 268.1, for which of the following are FEI Badges of Honour for Jumping awarded?
+OPTION_A: Winning any CSI1* Competition
+OPTION_B: Completing the first round of specified Championship Competitions without retiring or being Eliminated
+OPTION_C: Serving as an FEI Official
+OPTION_D: Owning a Horse that competes in a Grand Prix
+CORRECT: B
+EXPLANATION: JRs Art 268.1 states that FEI Badges of Honour for Jumping will be awarded to Athletes who complete the first round of specified Competitions (Olympic Games, World Championships, etc.) without retiring or being Eliminated, subject to Gold/Silver/Bronze thresholds.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-vmp-0093-v3
+PARENT_ID: en-vmp-0093
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.1.3.1, if Horses cannot be present at the first Horse inspection due to exceptional, unforeseen circumstances, who may allow another Horse inspection at a later time?
+OPTION_A: The Chef d'Equipe
+OPTION_B: The OC
+OPTION_C: The Ground Jury in consultation with the Veterinary Delegate
+OPTION_D: The Technical Delegate alone
+CORRECT: C
+EXPLANATION: JRs Art 275.1.3.1 provides that the Ground Jury, in consultation with the Veterinary Delegate, may at its discretion allow another Horse inspection at a later time for Horses that could not be present due to exceptional, unforeseen circumstances.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0017-v3
+PARENT_ID: en-obs-0017
+DOMAIN: obstacles
+ARTICLE: 238.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: According to JRs Art 238.1, what distinguishes a closed Combination?
+OPTION_A: It has at least three elements
+OPTION_B: Its sides can only be surmounted by jumping
+OPTION_C: It is flagged with red and white flags on every element
+OPTION_D: The Athlete may re-enter after leaving the flags of the last element
+CORRECT: B
+EXPLANATION: JRs Art 238.1 defines a closed Combination as a Combination whose sides can only be surmounted by jumping.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

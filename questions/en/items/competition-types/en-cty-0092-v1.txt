@@ -1,0 +1,17 @@
+ID: en-cty-0092-v1
+PARENT_ID: en-cty-0092
+DOMAIN: competition-types
+ARTICLE: 229.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: The Joker may only be used in which type of Competition?
+OPTION_A: Derby
+OPTION_B: Accumulator Competition
+OPTION_C: Power and Skill
+OPTION_D: Nations Cup
+CORRECT: B
+EXPLANATION: JRs Art 240.3 restricts the Joker to Accumulator Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

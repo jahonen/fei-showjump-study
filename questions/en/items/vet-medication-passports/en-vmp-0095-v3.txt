@@ -1,0 +1,17 @@
+ID: en-vmp-0095-v3
+PARENT_ID: en-vmp-0095
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: The prohibition against concealing identity at Horse inspection aims to ensure:
+OPTION_A: Correct identification
+OPTION_B: Uniform colour
+OPTION_C: Sponsor visibility
+OPTION_D: Temperature regulation
+CORRECT: A
+EXPLANATION: JRs Art 275.1.3.4 is part of passport/identity control to ensure the Horse presented matches its official identity.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

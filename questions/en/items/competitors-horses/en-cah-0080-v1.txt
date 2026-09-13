@@ -1,0 +1,17 @@
+ID: en-cah-0080-v1
+PARENT_ID: en-cah-0080
+DOMAIN: competitors-horses
+ARTICLE: 207.2.4.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: Under JRs Art 207.2.4.3, if team member jackets are not the same colour, what fine will the Ground Jury impose on each non-complying Athlete?
+OPTION_A: CHF 500
+OPTION_B: CHF 1,000
+OPTION_C: CHF 2,000
+OPTION_D: No fine
+CORRECT: B
+EXPLANATION: JRs Art 207.2.4.3 provides that Athletes not complying with the team jacket colour rule will be fined CHF 1,000 by the Ground Jury.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cah-0080-v3
+PARENT_ID: en-cah-0080
+DOMAIN: competitors-horses
+ARTICLE: 207.2.4.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: Disputes about NF official jacket colours are referred to whom under JRs Art 207.2.4.4?
+OPTION_A: The FEI President
+OPTION_B: The FEI Secretary General
+OPTION_C: The Ground Jury
+OPTION_D: The Chef d'Equipe
+CORRECT: B
+EXPLANATION: JRs Art 207.2.4.4 states that disputes about colours will be referred to the FEI Secretary General whose decision is final.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

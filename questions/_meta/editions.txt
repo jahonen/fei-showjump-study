@@ -1,0 +1,4 @@
+LANGUAGE  EDITION_NAME                                EFFECTIVE_DATE    SOURCE_FILENAME                                            DATE_ADDED
+en        FEI Jumping Rules 28th edition              1 January 2026    FEI-Jumping-Rules-28th-edition-effective-1-January-2026.pdf  2026-09-13
+# el      TBD (awaiting official HEF Greek rulebook PDF)
+# fi      TBD (awaiting official SRL KS III Esteratsastus PDF)

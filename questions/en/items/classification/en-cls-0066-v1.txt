@@ -1,0 +1,17 @@
+ID: en-cls-0066-v1
+PARENT_ID: en-cls-0066
+DOMAIN: classification
+ARTICLE: 218.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Under JRs Art 218.3.1, a permitted withdrawal from a second round places the Athlete:
+OPTION_A: First
+OPTION_B: Equal last after those who completed
+OPTION_C: According to first-round time
+OPTION_D: Not classified
+CORRECT: B
+EXPLANATION: JRs Art 218.3.1 applies to jump-offs, second rounds, and winning rounds, placing retiring/Eliminated/permitted withdrawing Athletes equal last after those who completed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

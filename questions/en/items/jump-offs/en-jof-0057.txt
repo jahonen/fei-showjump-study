@@ -1,0 +1,17 @@
+ID: en-jof-0057
+PARENT_ID: en-jof-0057
+DOMAIN: jump-offs
+ARTICLE: 218.1.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: multi-select
+STEM: Under JRs Art 218.1.3, when may a jump-off be held?
+OPTION_A: When more than one Athlete/Horse Combination has not incurred any Penalties in the preliminary round(s)
+OPTION_B: When Athlete/Horse Combinations are tied in first place after preliminary round(s)
+OPTION_C: When Athlete/Horse Combinations are tied for podium places at a Championship or Games
+OPTION_D: Whenever the Schedule mentions the word jump-off
+CORRECT: A,B,C
+EXPLANATION: JRs Art 218.1.3 provides three circumstances in which jump-offs may be held, including no-Penalty combinations, ties for first, and podium ties at Championships/Games.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

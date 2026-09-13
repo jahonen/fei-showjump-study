@@ -1,0 +1,17 @@
+ID: en-cah-0072
+PARENT_ID: en-cah-0072
+DOMAIN: competitors-horses
+ARTICLE: 202.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 12
+TYPE: multi-select
+STEM: What are the minimum ages for Horses in the following Events: Olympic Games, Continental Championships for Seniors, and CSI3* to 5*?
+OPTION_A: Olympic Games: nine years
+OPTION_B: Continental Championships for Seniors: eight years
+OPTION_C: CSI3* to 5*: seven years
+OPTION_D: CSI1* to 2*: six years
+CORRECT: A,B,C
+EXPLANATION: JRs Art 202.2 lists Olympic Games/World Championship/FEI Jumping World Cup Final at nine years, Continental Games/Continental Championships for Seniors/Regional Games at eight years, and CSI3* to 5*, CSIO3* to 5*, FEI Jumping World Cup Events (excluding Final), and Continental Championships for Young Riders/Juniors at seven years.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

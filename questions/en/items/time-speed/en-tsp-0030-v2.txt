@@ -1,0 +1,17 @@
+ID: en-tsp-0030-v2
+PARENT_ID: en-tsp-0030
+DOMAIN: time-speed
+ARTICLE: 252
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: For a 400 m course run at 400 m/minute, what is the time allowed?
+OPTION_A: 60 seconds
+OPTION_B: 80 seconds
+OPTION_C: 90 seconds
+OPTION_D: 100 seconds
+CORRECT: A
+EXPLANATION: Time allowed = course length / speed. 400 m / 400 m/min = 1 min = 60 seconds.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

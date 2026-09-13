@@ -1,0 +1,17 @@
+ID: en-fwd-0055
+PARENT_ID: en-fwd-0055
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 259.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 52
+TYPE: single-select
+STEM: In all cases of blood on the Horse under JRs Art 259, the Horse may continue only if:
+OPTION_A: The Athlete wipes the blood away
+OPTION_B: The Ground Jury, in consultation with the Veterinary Delegate, deems the Horse fit to compete
+OPTION_C: The Chef d'Equipe gives permission
+OPTION_D: The blood is from the nose
+CORRECT: B
+EXPLANATION: JRs Art 259.3 states that in all cases of blood on the Horse under Art 259, the Horse may only continue or participate in subsequent Competitions if the Ground Jury, in consultation with the Veterinary Delegate, has deemed the Horse fit to compete.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-pte-0038-v3
+PARENT_ID: en-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 217.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under Table C, exceeding the maximum time limit results in:
+OPTION_A: 4 penalties
+OPTION_B: 6 penalties
+OPTION_C: Elimination
+OPTION_D: Time Penalties only
+CORRECT: C
+EXPLANATION: JRs Art 217.2.4 states that exceeding the maximum time limit under Table C results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

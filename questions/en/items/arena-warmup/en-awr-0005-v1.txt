@@ -1,0 +1,17 @@
+ID: en-awr-0005-v1
+PARENT_ID: en-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 241.6.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 43
+TYPE: multi-select
+STEM: What does JRs Art 241.6.1.2 say about incidents before the Athlete crosses the starting line?
+OPTION_A: Any Refusal before the start counts as the first Disobedience
+OPTION_B: A Fall of Athlete and/or Horse after entering the arena prevents starting
+OPTION_C: The 45-second countdown may not be interrupted
+OPTION_D: Disobediences before crossing the start line are not penalised
+CORRECT: B,D
+EXPLANATION: JRs Art 241.6.1.2 provides that Disobediences occurring between the signal to start and crossing the start line are not penalised, but a Fall after entering the arena up to crossing the start line prevents the Athlete from starting.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

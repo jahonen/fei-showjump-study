@@ -1,0 +1,17 @@
+ID: en-cls-0064-v2
+PARENT_ID: en-cls-0064
+DOMAIN: classification
+ARTICLE: 267.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: An amendment to the scoring method is posted on the course plan. Under JRs Art 267.1, this amendment:
+OPTION_A: Is invalid
+OPTION_B: May affect the placing
+OPTION_C: Applies only to the next Competition
+OPTION_D: Must be approved by the Athletes
+CORRECT: B
+EXPLANATION: JRs Art 267.1 includes any amendments specified on the course plan as part of the basis for determining placing.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

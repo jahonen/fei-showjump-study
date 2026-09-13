@@ -1,0 +1,17 @@
+ID: en-tsp-0035-v1
+PARENT_ID: en-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 258.1.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: Which Competition type has no minimum speed requirement under JRs Art 258.1.6?
+OPTION_A: Table A Against the Clock
+OPTION_B: Nations Cup
+OPTION_C: Power and Skill
+OPTION_D: Young Horse
+CORRECT: C
+EXPLANATION: JRs Art 258.1.6 specifically provides that no minimum speed is required for Power and Skill Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

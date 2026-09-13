@@ -1,0 +1,17 @@
+ID: en-jof-0062-v2
+PARENT_ID: en-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 218.3.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: An Athlete withdraws from a jump-off without the permission of the Ground Jury. Under JRs Art 218.3.2, where are they placed?
+OPTION_A: Equal first
+OPTION_B: After those who withdrew with permission, retired, or were Eliminated
+OPTION_C: Not placed
+OPTION_D: Equal last but before those who retired
+CORRECT: B
+EXPLANATION: JRs Art 218.3.2 states that an Athlete who withdraws without permission is placed after Athletes having withdrawn with permission, retired, or been Eliminated in the jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

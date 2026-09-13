@@ -1,0 +1,17 @@
+ID: en-cty-0090-v2
+PARENT_ID: en-cty-0090
+DOMAIN: competition-types
+ARTICLE: 230.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: Which obstacle types are NOT permitted in a Puissance under JRs Art 230.2.1?
+OPTION_A: Verticals and walls
+OPTION_B: Combination obstacles, Water Jumps, ditches, and natural obstacles
+OPTION_C: Spread obstacles
+OPTION_D: Single poles
+CORRECT: B
+EXPLANATION: JRs Art 230.2.1 prohibits Combination obstacles, Water Jumps, ditches, and natural obstacles in Puissance Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

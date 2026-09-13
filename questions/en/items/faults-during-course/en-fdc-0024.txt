@@ -1,0 +1,17 @@
+ID: en-fdc-0024
+PARENT_ID: en-fdc-0024
+DOMAIN: faults-during-course
+ARTICLE: 246.4.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: If a Horse shows Resistance for 45 consecutive seconds during a round, what is the consequence?
+OPTION_A: 4 penalties are added
+OPTION_B: The Athlete receives a warning
+OPTION_C: Elimination
+OPTION_D: The clock is stopped but the round continues
+CORRECT: C
+EXPLANATION: JRs Art 246.4.3 provides that if there is Resistance from the Horse for 45 consecutive seconds, the Athlete/Horse Combination will be Eliminated.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

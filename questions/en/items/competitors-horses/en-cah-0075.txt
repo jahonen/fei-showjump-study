@@ -1,0 +1,17 @@
+ID: en-cah-0075
+PARENT_ID: en-cah-0075
+DOMAIN: competitors-horses
+ARTICLE: 205.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: multi-select
+STEM: Before the year in which they reach their 18th birthday, Athletes may not compete in which of the following?
+OPTION_A: Olympic Games
+OPTION_B: A Grand Prix at a CSI3* to CSI5*
+OPTION_C: A CSI1* Competition with obstacles up to 1.20 m
+OPTION_D: A Longines League of Nations™ Competition
+CORRECT: A,B,D
+EXPLANATION: JRs Art 205.1 lists Olympic Games, Continental/Regional Games, Grand Prix at CSI3*-5* and CSIO1*-5*, Nations Cup/Longines League of Nations™, FEI Jumping World Cup™, Power and Skill, Derby, and highest prize money Competitions as prohibited for Athletes before the year they turn 18. CSI1* Competitions with 1.20 m obstacles are not listed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

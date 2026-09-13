@@ -1,0 +1,17 @@
+ID: en-tsp-0029
+PARENT_ID: en-tsp-0029
+DOMAIN: time-speed
+ARTICLE: 251.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: When does the time of the round start?
+OPTION_A: When the bell is rung
+OPTION_B: When the Athlete enters the Competition Arena
+OPTION_C: When the Athlete/Horse Combination crosses the starting line in the correct direction for the first time after the bell, or when the 45-second countdown expires, whichever occurs first
+OPTION_D: When the Athlete passes the first obstacle
+CORRECT: C
+EXPLANATION: JRs Art 251.1.1 states that the time starts when the Athlete/Horse Combination crosses the starting line in the correct direction for the first time after the bell has been rung, or when the 45-second countdown expires, whichever occurs first.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,89 @@
+@use '../../styles/variables' as *;
+
+.review-queue {
+  flex: 1;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.empty-queue {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  text-align: center;
+  color: $color-text-muted;
+}
+
+.queue-count {
+  font-weight: 600;
+  margin-bottom: $spacing-md;
+}
+
+.queue-nudge {
+  background-color: $color-surface;
+  border: 1px solid $color-accent;
+  border-radius: $radius;
+  padding: $spacing-md;
+  margin-bottom: $spacing-md;
+}
+
+.inline-link {
+  background: none;
+  border: none;
+  color: $color-primary;
+  text-decoration: underline;
+  padding: 0;
+  min-height: auto;
+  min-width: auto;
+}
+
+.review-all-bar {
+  margin-bottom: $spacing-lg;
+
+  button {
+    width: 100%;
+  }
+}
+
+.domain-groups {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-md;
+  margin-bottom: $spacing-lg;
+}
+
+.domain-group {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-md;
+
+  h2 {
+    font-size: $font-size-base;
+    margin: 0 0 $spacing-sm;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  button {
+    width: 100%;
+    background-color: $color-background;
+    color: $color-text;
+    border: 1px solid $color-border;
+  }
+}
+
+.domain-count {
+  color: $color-text-muted;
+  font-weight: 400;
+}
+
+.back-button {
+  width: 100%;
+  background-color: $color-surface;
+  color: $color-text;
+  border: 1px solid $color-border;
+}

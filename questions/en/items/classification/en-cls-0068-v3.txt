@@ -1,0 +1,17 @@
+ID: en-cls-0068-v3
+PARENT_ID: en-cls-0068
+DOMAIN: classification
+ARTICLE: 267.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: An Athlete wins a qualifying round but chooses not to start the final. Their prize from the qualifier:
+OPTION_A: Is returned
+OPTION_B: Is retained
+OPTION_C: Is donated
+OPTION_D: Is void
+CORRECT: B
+EXPLANATION: JRs Art 267.7 says prize winners retain prizes won in qualifying Competitions even if they decline the final.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cty-0081-v1
+PARENT_ID: en-cty-0081
+DOMAIN: competition-types
+ARTICLE: 220.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: In a Table A Not Against the Clock Competition, under JRs Art 220.1.1.2, a jump-off for first place may be held:
+OPTION_A: Always
+OPTION_B: Only if specified in the Schedule
+OPTION_C: Never
+OPTION_D: Automatically if exactly two Athletes are tied
+CORRECT: B
+EXPLANATION: JRs Art 220.1.1.2 provides that a jump-off Not Against the Clock may be held in the event of equality of Penalties for first place, as part of the format options specified in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0015
+PARENT_ID: en-obs-0015
+DOMAIN: obstacles
+ARTICLE: 237.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: What is the permitted distance range between obstacles in a Combination?
+OPTION_A: 5 to 10 metres
+OPTION_B: 6 to 11 metres
+OPTION_C: 7 to 12 metres
+OPTION_D: 8 to 13 metres
+CORRECT: C
+EXPLANATION: JRs Art 237.1 states that Combinations are groups of two or more obstacles with distances of a minimum of seven metres and a maximum of 12 metres between obstacles.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

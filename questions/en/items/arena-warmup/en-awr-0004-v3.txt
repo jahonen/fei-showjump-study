@@ -1,0 +1,17 @@
+ID: en-awr-0004-v3
+PARENT_ID: en-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 241.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: Under JRs Art 241.3.3, which statement is true?
+OPTION_A: Combinations have separate consecutive numbers
+OPTION_B: Combinations have one number and elements are lettered
+OPTION_C: Only the last element of a Combination is numbered
+OPTION_D: Letters are not permitted on the course plan
+CORRECT: B
+EXPLANATION: JRs Art 241.3.3 states that Combination obstacles bear a single number, with distinguishing letters such as 8A, 8B, 8C added at each element.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-jof-0062-v3
+PARENT_ID: en-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 218.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: In a team Nations Cup Competition, a team that withdraws from the second round is placed according to:
+OPTION_A: Equal last in the second round
+OPTION_B: Their score in the first round
+OPTION_C: A coin toss
+OPTION_D: Their preliminary placing
+CORRECT: B
+EXPLANATION: JRs Art 218.3.1 states that for teams withdrawing from the second round of a Nations Cup, they are placed according to their score in the first round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

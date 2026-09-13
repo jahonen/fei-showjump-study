@@ -1,0 +1,17 @@
+ID: en-fwd-0051-v3
+PARENT_ID: en-fwd-0051
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 54
+TYPE: single-select
+STEM: Which of the following is NOT a mandatory Disqualification under JRs Art 264.2?
+OPTION_A: Marks of excessive spur/whip use
+OPTION_B: Jumping unauthorised obstacles on the Event venue
+OPTION_C: Failing to wear a jacket in warm weather
+OPTION_D: Moving a Horse to unofficial stables without authorisation
+CORRECT: C
+EXPLANATION: JRs Art 264.2 lists mandatory Disqualifications including excessive spur/whip marks, jumping unauthorised obstacles, and moving a Horse to unofficial stables. A dress-code exception for warm weather is possible under Art 207.2.3.4.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

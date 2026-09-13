@@ -1,0 +1,17 @@
+ID: en-tsp-0033-v3
+PARENT_ID: en-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 256
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: Under JRs Art 256, what happens after an obstacle affected by the specified Disobedience has been rebuilt?
+OPTION_A: The Athlete is automatically Eliminated
+OPTION_B: The bell is rung to indicate that the course is ready and the Athlete may continue
+OPTION_C: The time allowed is recalculated
+OPTION_D: The round restarts from the starting line
+CORRECT: B
+EXPLANATION: JRs Art 256 states that when the obstacle has been rebuilt, the bell is rung to indicate that the course is ready and that the Athlete may continue the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

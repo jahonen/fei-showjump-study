@@ -1,0 +1,17 @@
+ID: en-cty-0084
+PARENT_ID: en-cty-0084
+DOMAIN: competition-types
+ARTICLE: 221.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: In a Two-Round Competition, the Schedule must specify which Athletes continue to the second round. What is the minimum percentage of Athletes that may be selected?
+OPTION_A: 10%
+OPTION_B: 15%
+OPTION_C: 25%
+OPTION_D: 50%
+CORRECT: C
+EXPLANATION: JRs Art 221.2.2 states that the second round may be limited to a number of Athletes, in any case at least 25%, as specified in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

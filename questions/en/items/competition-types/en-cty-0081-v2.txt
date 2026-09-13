@@ -1,0 +1,17 @@
+ID: en-cty-0081-v2
+PARENT_ID: en-cty-0081
+DOMAIN: competition-types
+ARTICLE: 220.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Under JRs Art 220.1.1.3, a Table A Not Against the Clock Competition may have a jump-off Against the Clock if the Schedule so provides. Other Athletes are placed according to:
+OPTION_A: Their time in the jump-off
+OPTION_B: Their Penalties in the first round
+OPTION_C: Their draw position
+OPTION_D: Their prize money
+CORRECT: B
+EXPLANATION: JRs Art 220.1.1.3 states that other Athletes are placed according to their Penalties in the first round, and equality of Penalties for any place other than first leads to shared prizes.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

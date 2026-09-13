@@ -1,0 +1,17 @@
+ID: en-fwd-0052
+PARENT_ID: en-fwd-0052
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 265.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 55
+TYPE: multi-select
+STEM: Which acts may constitute abuse of a Horse under JRs Art 265.1?
+OPTION_A: Excessive use of the whip
+OPTION_B: Use of a whip as a normal riding aid
+OPTION_C: Rapping the Horse
+OPTION_D: Touching the Horse gently with the spur to maintain straightness
+CORRECT: A,C
+EXPLANATION: JRs Art 265.1.1 prohibits rapping, and Art 265.1.2 prohibits any excessive use of the whip. Use of a whip as a normal riding aid and normal use of spurs are not considered abuse.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-pte-0036
+PARENT_ID: en-pte-0036
+DOMAIN: penalty-tables
+ARTICLE: 217.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: multi-select
+STEM: Under Table A, which Faults incur 4 Penalties on the first occurrence?
+OPTION_A: First Disobedience
+OPTION_B: Obstacle knocked down
+OPTION_C: Fault at the Water Jump
+OPTION_D: Fall of Horse and/or Athlete
+CORRECT: A,B,C
+EXPLANATION: JRs Art 217.1.1 states that under Table A the First Disobedience, an obstacle knocked down, and a Fault at the Water Jump each incur 4 Penalties. A Fall results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

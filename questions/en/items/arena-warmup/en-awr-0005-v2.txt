@@ -1,0 +1,17 @@
+ID: en-awr-0005-v2
+PARENT_ID: en-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 241.6.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 43
+TYPE: multi-select
+STEM: Under JRs Art 241.6.1.2, which statements about the starting procedure are correct?
+OPTION_A: The 45-second countdown may be interrupted if unforeseen circumstances occur
+OPTION_B: A Fall after entering the arena but before crossing the start line prevents the Athlete from starting
+OPTION_C: Disobediences before crossing the start line are always penalised
+OPTION_D: The Ground Jury may cancel the starting procedure and restart the countdown
+CORRECT: A,B,D
+EXPLANATION: JRs Art 241.6.1.2 gives the Ground Jury the right to interrupt the countdown if unforeseen circumstances occur, provides that a Fall after entering the arena up to crossing the start line prevents starting, and allows the Ground Jury to cancel the starting procedure and restart the countdown. Disobediences before crossing the start line are not penalised.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

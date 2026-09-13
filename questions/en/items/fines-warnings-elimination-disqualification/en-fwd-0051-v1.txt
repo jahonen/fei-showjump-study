@@ -1,0 +1,17 @@
+ID: en-fwd-0051-v1
+PARENT_ID: en-fwd-0051
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 54
+TYPE: single-select
+STEM: Under JRs Art 264.2.1, marks indicating excessive use of spurs or whip result in:
+OPTION_A: Elimination
+OPTION_B: A fine
+OPTION_C: Disqualification
+OPTION_D: A warning
+CORRECT: C
+EXPLANATION: JRs Art 264.2.1 makes marks indicating excessive use of spurs or whip a mandatory Disqualification.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

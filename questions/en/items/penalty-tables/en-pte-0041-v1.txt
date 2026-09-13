@@ -1,0 +1,17 @@
+ID: en-pte-0041-v1
+PARENT_ID: en-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 217.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Athletes not complying with the training-round notification rule under JRs Art 217.3 may be:
+OPTION_A: Fined
+OPTION_B: Eliminated by the Ground Jury
+OPTION_C: Given a warning
+OPTION_D: Disqualified from the Event
+CORRECT: B
+EXPLANATION: JRs Art 217.3 states that Athletes not complying with the rule may be Eliminated by the Ground Jury (see JRs Art 263.5.4).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fwd-0045-v1
+PARENT_ID: en-fwd-0045
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Under JRs Art 263.4.4, Resistance for how many consecutive seconds during a round results in Elimination?
+OPTION_A: 30 seconds
+OPTION_B: 45 seconds
+OPTION_C: 60 seconds
+OPTION_D: 90 seconds
+CORRECT: B
+EXPLANATION: JRs Art 263.4.4 states that a Horse resisting for 45 consecutive seconds during the round results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

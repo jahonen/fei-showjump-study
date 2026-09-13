@@ -1,0 +1,17 @@
+ID: en-cty-0087
+PARENT_ID: en-cty-0087
+DOMAIN: competition-types
+ARTICLE: 225
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: Which article governs Speed and Handiness Competitions?
+OPTION_A: Art 220
+OPTION_B: Art 222
+OPTION_C: Art 224
+OPTION_D: Art 225
+CORRECT: D
+EXPLANATION: JRs Art 225 is titled 'Speed and Handiness Competition' and governs this Competition format.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

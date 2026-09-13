@@ -1,0 +1,17 @@
+ID: en-cls-0067-v3
+PARENT_ID: en-cls-0067
+DOMAIN: classification
+ARTICLE: 267.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: JRs Art 267.4 concerns which ceremonial requirement?
+OPTION_A: National anthem
+OPTION_B: Dress code for Athletes
+OPTION_C: Rugs on Horses during prize-giving
+OPTION_D: Trophy presentation order
+CORRECT: C
+EXPLANATION: JRs Art 267.4 regulates whether rugs may be worn by Horses during the prize-giving ceremony.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cah-0071
+PARENT_ID: en-cah-0071
+DOMAIN: competitors-horses
+ARTICLE: 202.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 12
+TYPE: single-select
+STEM: What is the official birth date for Horses from the northern hemisphere?
+OPTION_A: 1 January
+OPTION_B: 1 August
+OPTION_C: 1 March
+OPTION_D: 1 June
+CORRECT: A
+EXPLANATION: JRs Art 202.1.2 states that Horses from the northern hemisphere have an official birth date of 1 January.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

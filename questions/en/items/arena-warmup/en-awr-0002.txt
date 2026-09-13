@@ -1,0 +1,17 @@
+ID: en-awr-0002
+PARENT_ID: en-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 241.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: What is the maximum permitted total length of a course in relation to the number of obstacles?
+OPTION_A: 40 metres per obstacle
+OPTION_B: 50 metres per obstacle
+OPTION_C: 60 metres per obstacle
+OPTION_D: 70 metres per obstacle
+CORRECT: C
+EXPLANATION: JRs Art 241.2.4 states that the total length of the course in metres may never exceed the number of obstacles multiplied by 60.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0008-v1
+PARENT_ID: en-obs-0008
+DOMAIN: obstacles
+ARTICLE: 232.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: The minimum depth of a support cup used for an obstacle pole is:
+OPTION_A: 15 mm
+OPTION_B: 18 mm
+OPTION_C: 20 mm
+OPTION_D: 22 mm
+CORRECT: B
+EXPLANATION: JRs Art 232.3 requires the support cup to have a depth of at least 18 mm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

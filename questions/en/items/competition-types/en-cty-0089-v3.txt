@@ -1,0 +1,17 @@
+ID: en-cty-0089-v3
+PARENT_ID: en-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: For all star levels of Nations Cup listed in JRs Art 226.3.1, the number of obstacles is:
+OPTION_A: 10
+OPTION_B: 11
+OPTION_C: 12
+OPTION_D: Depends on star level
+CORRECT: C
+EXPLANATION: JRs Art 226.3.1 table shows 12 obstacles for 5*, 4*, 3*, 2*, and 1* Nations Cup Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

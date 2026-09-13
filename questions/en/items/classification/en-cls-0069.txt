@@ -1,0 +1,17 @@
+ID: en-cls-0069
+PARENT_ID: en-cls-0069
+DOMAIN: classification
+ARTICLE: 267.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 267.6, Athletes who are unable to complete the first round of a Competition receive what prize outcome?
+OPTION_A: They receive a consolation prize
+OPTION_B: They receive no prize, except in certain special Competitions
+OPTION_C: They receive half the prize money
+OPTION_D: They receive a prize if they completed at least half the course
+CORRECT: B
+EXPLANATION: JRs Art 267.6 states that Athletes who are unable to complete the first round of a Competition will not receive any prize, except in certain special Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-awr-0002-v1
+PARENT_ID: en-awr-0002
+DOMAIN: arena-warmup
+ARTICLE: 241.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: A course has 12 obstacles. What is the maximum total length permitted?
+OPTION_A: 600 m
+OPTION_B: 660 m
+OPTION_C: 720 m
+OPTION_D: 780 m
+CORRECT: C
+EXPLANATION: Under JRs Art 241.2.4 the maximum length is 12 obstacles × 60 m = 720 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

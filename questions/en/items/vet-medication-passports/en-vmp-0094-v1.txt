@@ -1,0 +1,17 @@
+ID: en-vmp-0094-v1
+PARENT_ID: en-vmp-0094
+DOMAIN: vet-medication-passports
+ARTICLE: 275.1.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.1.3.3, which items must be removed before a Horse is presented at the Horse inspection?
+OPTION_A: Only rugs
+OPTION_B: Rugs, bandages, and any other harness or equipment
+OPTION_C: Only bandages
+OPTION_D: Nothing; the Horse is presented as at the stables
+CORRECT: B
+EXPLANATION: JRs Art 275.1.3.3 requires rugs, bandages, and any other harness or equipment to be removed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-jof-0059
+PARENT_ID: en-jof-0059
+DOMAIN: jump-offs
+ARTICLE: 218.2.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: What is the minimum number of obstacles permitted in a jump-off?
+OPTION_A: Four
+OPTION_B: Five
+OPTION_C: Six
+OPTION_D: Eight
+CORRECT: C
+EXPLANATION: JRs Art 218.2.3 states that the number of obstacles in a jump-off may be reduced to a minimum of six, with Combinations counting as one obstacle for these purposes.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

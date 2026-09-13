@@ -1,0 +1,17 @@
+ID: en-tsp-0033-v2
+PARENT_ID: en-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 256
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: Under JRs Art 256, when is the clock restarted after an obstacle has been rebuilt following the specified Disobedience with a knock-down?
+OPTION_A: When the bell is rung
+OPTION_B: When the Athlete reaches the obstacle
+OPTION_C: When the Horse leaves the ground at the obstacle where the Refusal occurred
+OPTION_D: When the Horse lands after jumping the obstacle
+CORRECT: C
+EXPLANATION: JRs Art 256 states that the clock is restarted when the Horse leaves the ground at the obstacle where the Refusal occurred; if it occurred at the second or a subsequent part of a Combination, the clock restarts when the Horse leaves the ground at the first element.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fdc-0025-v3
+PARENT_ID: en-fdc-0025
+DOMAIN: faults-during-course
+ARTICLE: 247.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Which of these is NOT a deviation from the course under JRs Art 247.1?
+OPTION_A: Omitting a compulsory turning point
+OPTION_B: Jumping an obstacle that does not form part of the course
+OPTION_C: Circling for 20 seconds after a Run-out
+OPTION_D: Not crossing the finishing line between the flags
+CORRECT: C
+EXPLANATION: Under JRs Art 247.1, omitting a compulsory turning point, jumping an obstacle that does not form part of the course, and not crossing the finishing line between the flags are all deviations from the course. Circling for up to 45 seconds after a Run-out to get into position is expressly not a Disobedience under Art 246.1.4, and therefore is not a deviation from the course.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

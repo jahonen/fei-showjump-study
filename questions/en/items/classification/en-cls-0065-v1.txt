@@ -1,0 +1,17 @@
+ID: en-cls-0065-v1
+PARENT_ID: en-cls-0065
+DOMAIN: classification
+ARTICLE: 267.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 267.2, the Ground Jury may make exceptions to the prize-giving attendance requirement for what reason?
+OPTION_A: Commercial reasons
+OPTION_B: Safety reasons
+OPTION_C: Athlete nationality
+OPTION_D: Prize money amount
+CORRECT: B
+EXPLANATION: JRs Art 267.2 allows the Ground Jury to make exceptions for safety reasons regarding the prize-giving ceremony.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

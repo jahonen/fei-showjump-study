@@ -1,0 +1,17 @@
+ID: en-cty-0089
+PARENT_ID: en-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: multi-select
+STEM: For a 5* Nations Cup Competition outdoors, which technical limits apply under JRs Art 226.3.1?
+OPTION_A: Number of obstacles: 12
+OPTION_B: Min./max. height: 1.45/1.60 m
+OPTION_C: Speed: 400 m/min
+OPTION_D: Max. spread: 2.00 m
+CORRECT: A,C,D
+EXPLANATION: JRs Art 226.3.1 table for 5* NC outdoors lists 12 obstacles, 1.45/1.60 m min/max height, 400 m/min speed, and 2.00 m max spread.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

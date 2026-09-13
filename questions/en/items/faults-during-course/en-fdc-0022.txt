@@ -1,0 +1,17 @@
+ID: en-fdc-0022
+PARENT_ID: en-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: A Horse stops in front of an obstacle without moving backwards and without knocking it down, then immediately jumps it from a standstill. Is this a Refusal?
+OPTION_A: Yes, any stop is a Refusal
+OPTION_B: No, it is not a Refusal if it jumps immediately from a standstill
+OPTION_C: Yes, but only in Table A
+OPTION_D: No, unless the Horse steps back
+CORRECT: B
+EXPLANATION: JRs Art 246.2.2 states that it is not a Refusal if a Horse stops in front of an obstacle without moving backwards and without knocking it down and then immediately jumps the obstacle from a standstill.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-pte-0038-v1
+PARENT_ID: en-pte-0038
+DOMAIN: penalty-tables
+ARTICLE: 217.2.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under Table C, if the course length is 500 m, what is the maximum time limit?
+OPTION_A: One minute
+OPTION_B: Two minutes
+OPTION_C: Three minutes
+OPTION_D: Four minutes
+CORRECT: B
+EXPLANATION: JRs Art 217.2.3.2 states that if the course length is less than 600 m, the maximum time limit under Table C is two minutes.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

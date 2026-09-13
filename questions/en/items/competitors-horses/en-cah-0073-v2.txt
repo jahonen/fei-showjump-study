@@ -1,0 +1,17 @@
+ID: en-cah-0073-v2
+PARENT_ID: en-cah-0073
+DOMAIN: competitors-horses
+ARTICLE: 203.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: Under JRs Art 203.1.1, the Schedule must specify the number of Horses per Athlete, but may not exceed:
+OPTION_A: Three
+OPTION_B: Four
+OPTION_C: Five
+OPTION_D: Six
+CORRECT: B
+EXPLANATION: JRs Art 203.1.1 sets the maximum number of Horses per Athlete at CSIs and CSIOs at four.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

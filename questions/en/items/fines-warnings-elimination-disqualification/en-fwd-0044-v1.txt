@@ -1,0 +1,17 @@
+ID: en-fwd-0044-v1
+PARENT_ID: en-fwd-0044
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.25
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Under JRs Art 263.4.25, which Disobedience count results in mandatory Elimination?
+OPTION_A: First
+OPTION_B: Second
+OPTION_C: Third
+OPTION_D: Fourth
+CORRECT: B
+EXPLANATION: JRs Art 263.4.25 states that a second Disobedience during the course of a round results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cls-0068
+PARENT_ID: en-cls-0068
+DOMAIN: classification
+ARTICLE: 267.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: What happens to prizes won in a qualifying Competition if an Athlete declines to take part in the final Competition for which they qualified?
+OPTION_A: They must return the prizes
+OPTION_B: They retain the prizes they have won
+OPTION_C: The prizes are forfeited to the OC
+OPTION_D: The prizes are given to the next qualifier
+CORRECT: B
+EXPLANATION: JRs Art 267.7 states that prize winners of qualifying Competitions retain the prizes they have won even if they decline to take part in the final Competition for which they have qualified.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

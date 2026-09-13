@@ -1,0 +1,17 @@
+ID: en-cty-0090-v3
+PARENT_ID: en-cty-0090
+DOMAIN: competition-types
+ARTICLE: 230.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: In a Puissance initial round, the first obstacle must be at least how high?
+OPTION_A: 1.30 m
+OPTION_B: 1.40 m
+OPTION_C: 1.50 m
+OPTION_D: 1.60 m
+CORRECT: B
+EXPLANATION: JRs Art 230.2.1 states that the first obstacle must be at least 1.40 m in height.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-vmp-0099-v3
+PARENT_ID: en-vmp-0099
+DOMAIN: vet-medication-passports
+ARTICLE: 210
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 20
+TYPE: single-select
+STEM: Which official's presence is required for horse inspections and welfare-related decisions at Jumping Events?
+OPTION_A: The Ground Jury alone
+OPTION_B: The Veterinary Commission or Veterinary Delegate
+OPTION_C: The Chef d'Equipe
+OPTION_D: The OC President
+CORRECT: B
+EXPLANATION: JRs Art 210 establishes the Veterinary Commission and Veterinary Delegate, whose role is central to horse welfare and inspections.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

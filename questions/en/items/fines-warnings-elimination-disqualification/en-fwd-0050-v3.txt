@@ -1,0 +1,17 @@
+ID: en-fwd-0050-v3
+PARENT_ID: en-fwd-0050
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 54
+TYPE: single-select
+STEM: Disqualification under JRs Art 264.1 can apply to:
+OPTION_A: The Athlete only
+OPTION_B: The Horse only
+OPTION_C: The Athlete and/or the Horse
+OPTION_D: The Chef d'Equipe only
+CORRECT: C
+EXPLANATION: JRs Art 264.1 states that Disqualification means the Athlete and/or Horse is/are disqualified from the Competition at issue or from the entire Event.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

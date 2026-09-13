@@ -1,0 +1,17 @@
+ID: en-fdc-0023-v3
+PARENT_ID: en-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 241.5.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 42
+TYPE: single-select
+STEM: Which colour flags must be on the Athlete's right when passing an obstacle correctly?
+OPTION_A: White
+OPTION_B: Red
+OPTION_C: Blue
+OPTION_D: Yellow
+CORRECT: B
+EXPLANATION: JRs Art 241.5.3 requires the Athlete to pass between the flags with the red flag on their right and the white flag on their left. Jumping an obstacle between two flags of the same colour is penalised as a Run-out under Art 246.3.3.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

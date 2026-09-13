@@ -1,0 +1,17 @@
+ID: en-cty-0090
+PARENT_ID: en-cty-0090
+DOMAIN: competition-types
+ARTICLE: 230.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: In a Puissance Competition, the initial round must comprise how many single obstacles?
+OPTION_A: Two to four
+OPTION_B: Four to six
+OPTION_C: Six to eight
+OPTION_D: Eight to ten
+CORRECT: B
+EXPLANATION: JRs Art 230.2.1 states that the initial round of a Puissance must comprise four to six single obstacles, of which at least one must be a vertical obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

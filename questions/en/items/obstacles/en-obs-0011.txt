@@ -1,0 +1,17 @@
+ID: en-obs-0011
+PARENT_ID: en-obs-0011
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: For a spread obstacle requiring only one effort, what is the maximum permitted spread?
+OPTION_A: 1.60 m
+OPTION_B: 1.80 m
+OPTION_C: 2.00 m
+OPTION_D: 2.20 m
+CORRECT: C
+EXPLANATION: JRs Art 233.1 states that spread obstacles must not exceed 2.00 m in spread except for triple bars, which may have a maximum spread of 2.20 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

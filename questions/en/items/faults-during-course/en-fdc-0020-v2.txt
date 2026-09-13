@@ -1,0 +1,17 @@
+ID: en-fdc-0020-v2
+PARENT_ID: en-fdc-0020
+DOMAIN: faults-during-course
+ARTICLE: 245.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: Under JRs Art 245.1, a knock-down is penalised when at least one end of the faultable part no longer rests on any part of its support. This rule applies:
+OPTION_A: Only during the time of the round
+OPTION_B: Between the start and finish lines, except as extended for the last obstacle
+OPTION_C: Only to vertical obstacles
+OPTION_D: Only if the Athlete admits the mistake
+CORRECT: B
+EXPLANATION: JRs Art 245.2 states that knock-downs occur between the starting and finishing lines, with an exception for the last obstacle if it falls after crossing the finish line but before leaving the arena or the bell for the next Athlete.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

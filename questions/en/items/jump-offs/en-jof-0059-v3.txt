@@ -1,0 +1,17 @@
+ID: en-jof-0059-v3
+PARENT_ID: en-jof-0059
+DOMAIN: jump-offs
+ARTICLE: 218.2.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Under JRs Art 218.2.3, a jump-off may be reduced to no fewer than:
+OPTION_A: 4 obstacles
+OPTION_B: 5 obstacles
+OPTION_C: 6 obstacles
+OPTION_D: 7 obstacles
+CORRECT: C
+EXPLANATION: JRs Art 218.2.3 allows the number of obstacles in a jump-off to be reduced to a minimum of six.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

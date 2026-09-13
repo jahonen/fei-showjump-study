@@ -1,0 +1,17 @@
+ID: en-cls-0070
+PARENT_ID: en-cls-0070
+DOMAIN: classification
+ARTICLE: 268.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 268.1, what are FEI Badges of Honour for Jumping awarded for?
+OPTION_A: Winning a single CSI5* Competition
+OPTION_B: Completing specified team and individual Championship first rounds without retiring or being Eliminated
+OPTION_C: Perfect attendance at Events
+OPTION_D: Service as an Official
+CORRECT: B
+EXPLANATION: JRs Art 268.1 states that FEI Badges of Honour for Jumping are awarded to Athletes who have completed the first round of a Nations Cup/Longines League of Nations™ Competition at a CSIO for Seniors, the team and/or individual Competition at the Olympic Games, and the World and Senior Continental team and/or individual Championships for Seniors, without retiring or being Eliminated.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

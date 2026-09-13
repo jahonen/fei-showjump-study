@@ -1,0 +1,17 @@
+ID: en-obs-0012-v3
+PARENT_ID: en-obs-0012
+DOMAIN: obstacles
+ARTICLE: 236.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: The front width of a Water Jump must be at least how much greater than its length?
+OPTION_A: 10%
+OPTION_B: 20%
+OPTION_C: 30%
+OPTION_D: 40%
+CORRECT: C
+EXPLANATION: JRs Art 236.1.1 states that the width of the front of the Water Jump must be at least 30% greater than the length.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

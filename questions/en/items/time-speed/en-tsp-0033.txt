@@ -1,0 +1,17 @@
+ID: en-tsp-0033
+PARENT_ID: en-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 256
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: Under JRs Art 256, when is a six-second time correction added to the Athlete's time?
+OPTION_A: Whenever an obstacle is knocked down
+OPTION_B: When a Disobedience displaces or knocks down an obstacle or a relevant flag as specified in the article
+OPTION_C: Whenever the Athlete requests the clock to be stopped
+OPTION_D: After every Disobedience
+CORRECT: B
+EXPLANATION: JRs Art 256 adds a six-second time correction when, as a result of a Disobedience, an Athlete displaces or knocks down an obstacle or a flag in the circumstances specified in the article.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

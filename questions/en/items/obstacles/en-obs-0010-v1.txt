@@ -1,0 +1,17 @@
+ID: en-obs-0010-v1
+PARENT_ID: en-obs-0010
+DOMAIN: obstacles
+ARTICLE: 233.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: A Competition Schedule lists a maximum obstacle height of 1.50 m. What is the tallest an obstacle may actually be built under JRs Art 233.2.2?
+OPTION_A: 1.50 m
+OPTION_B: 1.52 m
+OPTION_C: 1.53 m
+OPTION_D: 1.55 m
+CORRECT: C
+EXPLANATION: JRs Art 233.2.2 permits a maximum excess of 3 cm above the scheduled height when that height is 1.45 m or more; 1.50 m + 0.03 m = 1.53 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-pte-0037
+PARENT_ID: en-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 217.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: multi-select
+STEM: Under Table C, which statements about Penalties are correct?
+OPTION_A: An obstacle knocked down adds seconds to the Athlete's time
+OPTION_B: A first Disobedience with no knock-down adds no seconds
+OPTION_C: A first Disobedience with a knock-down adds 6 seconds
+OPTION_D: A Fall results in a 10-second addition
+CORRECT: A,B,C
+EXPLANATION: JRs Art 217.2.1 states that under Table C an obstacle knocked down or Water Jump Fault adds seconds, a first Disobedience adds none, and a first Disobedience with a knock-down and/or displacing an obstacle adds 6 seconds. A Fall results in Elimination, not a time addition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

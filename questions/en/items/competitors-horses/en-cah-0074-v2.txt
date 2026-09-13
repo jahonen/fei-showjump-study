@@ -1,0 +1,17 @@
+ID: en-cah-0074-v2
+PARENT_ID: en-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: If there is no Grand Prix, under JRs Art 203.2.1 the one-Horse-per-Athlete rule applies to which Competition?
+OPTION_A: The first Competition
+OPTION_B: The Competition with the highest prize money
+OPTION_C: The Nations Cup
+OPTION_D: The Accumulator
+CORRECT: B
+EXPLANATION: JRs Art 203.2.1 applies the one-Horse rule to the Grand Prix or, if there is no Grand Prix, the Competition with the highest prize money.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

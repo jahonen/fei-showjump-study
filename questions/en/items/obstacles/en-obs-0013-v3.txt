@@ -1,0 +1,17 @@
+ID: en-obs-0013-v3
+PARENT_ID: en-obs-0013
+DOMAIN: obstacles
+ARTICLE: 236.1.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: multi-select
+STEM: Which actions count as Faults at the Water Jump under JRs Art 236.1.3?
+OPTION_A: Touching the lath with the foot/shoe and leaving an impression
+OPTION_B: Touching the water with one or several feet
+OPTION_C: Displacing the brush
+OPTION_D: Knocking down a flag
+CORRECT: A,B
+EXPLANATION: JRs Art 236.1.3 lists only touching the lath and leaving an impression, or touching the water, as Faults. Displacing the brush (Art 236.1.4) and knocking down a flag are not Water Jump Faults in this context.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

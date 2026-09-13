@@ -1,0 +1,17 @@
+ID: en-cty-0084-v3
+PARENT_ID: en-cty-0084
+DOMAIN: competition-types
+ARTICLE: 221.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Which article requires the Schedule to specify which Athletes continue to the second round of a Two-Round Competition?
+OPTION_A: Art 220.2
+OPTION_B: Art 221.2
+OPTION_C: Art 222.1
+OPTION_D: Art 223.1
+CORRECT: B
+EXPLANATION: JRs Art 221.2 addresses which Athletes continue to the second round in a Competition over Two Rounds.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

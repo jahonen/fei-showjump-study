@@ -1,0 +1,17 @@
+ID: en-tsp-0030-v3
+PARENT_ID: en-tsp-0030
+DOMAIN: time-speed
+ARTICLE: 258.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: If the footing becomes bad, which parameter may the Ground Jury alter before the start of the first Athlete?
+OPTION_A: The speed provided for in the Schedule
+OPTION_B: The number of obstacles
+OPTION_C: The course length
+OPTION_D: The prize money
+CORRECT: A
+EXPLANATION: JRs Art 258.2 states that if the condition of the footing becomes bad, the Ground Jury may alter the speed provided for in the Schedule before the start of the first Athlete of the Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0009
+PARENT_ID: en-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: What is the maximum height of obstacles in normal outdoor Competitions?
+OPTION_A: 1.50 m
+OPTION_B: 1.60 m
+OPTION_C: 1.70 m
+OPTION_D: 1.80 m
+CORRECT: C
+EXPLANATION: JRs Art 233.1 states that under no circumstances may any obstacle exceed 1.70 m in height, except in Six Bar and Puissance Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

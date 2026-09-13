@@ -1,0 +1,17 @@
+ID: en-fdc-0023
+PARENT_ID: en-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 246.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: A Horse jumps an obstacle between two red flags. How is this penalised?
+OPTION_A: As a knock-down
+OPTION_B: As a Run-out, and the obstacle must be jumped again correctly
+OPTION_C: As a Refusal
+OPTION_D: No Penalty
+CORRECT: B
+EXPLANATION: JRs Art 246.3.3 states that jumping an obstacle between two red flags or between two white flags means the obstacle has not been jumped correctly; the Combination is penalised as for a Run-out and must jump the obstacle again correctly.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cls-0068-v1
+PARENT_ID: en-cls-0068
+DOMAIN: classification
+ARTICLE: 267.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 267.7, an Athlete who qualified for a final but declines to participate:
+OPTION_A: Loses all prizes from the qualifying Competition
+OPTION_B: Keeps prizes already won
+OPTION_C: Is fined
+OPTION_D: Is automatically Disqualified
+CORRECT: B
+EXPLANATION: JRs Art 267.7 expressly preserves prizes won in qualifying Competitions even if the Athlete declines to take part in the final.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

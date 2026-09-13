@@ -1,0 +1,17 @@
+ID: en-obs-0009-v3
+PARENT_ID: en-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Which obstacle type is exempt from the normal 1.70 m maximum height limit?
+OPTION_A: Derby obstacles
+OPTION_B: Six Bar and Puissance
+OPTION_C: Nations Cup obstacles
+OPTION_D: Accumulator obstacles
+CORRECT: B
+EXPLANATION: JRs Art 233.1 states that no obstacle may exceed 1.70 m except in Six Bar and Puissance Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

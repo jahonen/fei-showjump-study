@@ -1,0 +1,17 @@
+ID: en-awr-0004
+PARENT_ID: en-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 241.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: How are Combination obstacles numbered on the course plan?
+OPTION_A: Each element receives a separate consecutive number
+OPTION_B: They bear only a single number, with letters such as 8A, 8B, 8C at each element
+OPTION_C: Only the first element is numbered
+OPTION_D: They are numbered with Roman numerals
+CORRECT: B
+EXPLANATION: JRs Art 241.3.3 states that Combination obstacles bear only a single number, which may be repeated at each element with distinguishing letters.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

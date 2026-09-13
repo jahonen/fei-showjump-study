@@ -1,0 +1,17 @@
+ID: en-fdc-0023-v1
+PARENT_ID: en-fdc-0023
+DOMAIN: faults-during-course
+ARTICLE: 246.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.3.3, if a Horse jumps between two white flags, the correct response is to:
+OPTION_A: Continue to the next obstacle
+OPTION_B: Retrace and jump correctly
+OPTION_C: Stop for 45 seconds
+OPTION_D: Accept the obstacle as jumped
+CORRECT: B
+EXPLANATION: JRs Art 246.3.3 treats jumping between two white flags or two red flags as a Run-out and requires the obstacle to be jumped again correctly.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

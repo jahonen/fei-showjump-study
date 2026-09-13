@@ -1,0 +1,17 @@
+ID: en-obs-0018
+PARENT_ID: en-obs-0018
+DOMAIN: obstacles
+ARTICLE: 240.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: In which type of Competition may a Joker be used?
+OPTION_A: Any Grand Prix
+OPTION_B: Accumulator Competition only
+OPTION_C: Nations Cup Competition
+OPTION_D: Puissance Competition
+CORRECT: B
+EXPLANATION: JRs Art 240.3 states that the Joker is a difficult optional obstacle that may only be used in an Accumulator Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

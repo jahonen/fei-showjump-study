@@ -1,0 +1,17 @@
+ID: en-awr-0005
+PARENT_ID: en-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 241.6.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 43
+TYPE: multi-select
+STEM: Which statements about the 45-second countdown are correct?
+OPTION_A: It is activated by the bell and shown on the scoreboard or another display
+OPTION_B: It sets the time before the Athlete must commence the round by crossing the starting line in the correct direction
+OPTION_C: Disobediences between the signal and crossing the start line are always penalised
+OPTION_D: A Fall after entering the arena but before crossing the start line prevents the Athlete from starting
+CORRECT: A,B,D
+EXPLANATION: JRs Art 241.6.1.2 states that the bell activates the 45-second countdown, which is shown in the timing equipment on the scoreboard or another display beside the Competition Arena. The countdown sets the time before the Athlete must commence the round by crossing the starting line in the correct direction. Disobediences before that crossing are not penalised, while a Fall from entry until that crossing prevents the Athlete/Horse Combination from starting.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

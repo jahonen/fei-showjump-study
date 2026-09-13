@@ -1,0 +1,17 @@
+ID: en-cty-0089-v2
+PARENT_ID: en-cty-0089
+DOMAIN: competition-types
+ARTICLE: 226.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: What is the maximum spread for a triple bar in a 5* Nations Cup under JRs Art 226.3.1?
+OPTION_A: 2.00 m
+OPTION_B: 2.10 m
+OPTION_C: 2.20 m
+OPTION_D: 2.30 m
+CORRECT: C
+EXPLANATION: JRs Art 226.3.1 table lists the max spread of triple bar for 5* NC as 2.20 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

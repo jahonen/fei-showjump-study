@@ -1,0 +1,17 @@
+ID: en-cah-0073-v1
+PARENT_ID: en-cah-0073
+DOMAIN: competitors-horses
+ARTICLE: 203.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: If Events of different Categories are organised on the same weekend, how many Horses per Athlete are allowed per Category under JRs Art 203.1.1?
+OPTION_A: Two
+OPTION_B: Three
+OPTION_C: Four
+OPTION_D: Unlimited
+CORRECT: C
+EXPLANATION: JRs Art 203.1.1 states that where Events of different Categories are organised on the same weekend, the number of Horses per Athlete must be limited to four per Category.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

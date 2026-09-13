@@ -1,0 +1,17 @@
+ID: en-pte-0037-v1
+PARENT_ID: en-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 217.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Under Table C, how many seconds are added for an obstacle knocked down in an outdoor Competition?
+OPTION_A: 3 seconds
+OPTION_B: 4 seconds
+OPTION_C: 5 seconds
+OPTION_D: 6 seconds
+CORRECT: B
+EXPLANATION: JRs Art 217.2.1 states that an obstacle knocked down or Water Jump Fault adds 4 seconds in outdoor Competitions under Table C (3 seconds in the second phase of a two-phase Competition or any jump-off under Table C).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

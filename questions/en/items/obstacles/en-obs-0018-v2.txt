@@ -1,0 +1,17 @@
+ID: en-obs-0018-v2
+PARENT_ID: en-obs-0018
+DOMAIN: obstacles
+ARTICLE: 240.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: Which statement about the Joker is correct under JRs Art 240.3?
+OPTION_A: It is mandatory in all special Competitions
+OPTION_B: It must always be the first obstacle on course
+OPTION_C: It is optional and may only appear in an Accumulator Competition
+OPTION_D: It is a type of Water Jump
+CORRECT: C
+EXPLANATION: JRs Art 240.3 defines the Joker as a difficult optional obstacle permitted only in an Accumulator Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

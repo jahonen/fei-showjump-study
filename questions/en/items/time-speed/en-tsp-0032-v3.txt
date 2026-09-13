@@ -1,0 +1,17 @@
+ID: en-tsp-0032-v3
+PARENT_ID: en-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 255
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: Under JRs Art 255.3, who may start and stop the clock?
+OPTION_A: The timekeeper
+OPTION_B: The Course Designer
+OPTION_C: Any member of the Ground Jury
+OPTION_D: Only the Judge in charge of the bell
+CORRECT: D
+EXPLANATION: JRs Art 255.3 states that only the Judge in charge of the bell may start and stop the clock; the timekeeper may not be made responsible for this function.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-awr-0001
+PARENT_ID: en-awr-0001
+DOMAIN: arena-warmup
+ARTICLE: 241.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: While a Horse is in the Competition Arena during a Competition, what must be true of all entrances and exits?
+OPTION_A: They must remain open for grooms
+OPTION_B: They must be physically closed
+OPTION_C: They may be closed unless an Athlete is on course
+OPTION_D: They must be guarded by a Steward
+CORRECT: B
+EXPLANATION: JRs Art 241.1.1 states that while a Horse is in the Competition Arena during a Competition, all entrances and exits must be physically closed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

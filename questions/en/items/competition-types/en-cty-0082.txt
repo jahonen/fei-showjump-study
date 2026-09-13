@@ -1,0 +1,17 @@
+ID: en-cty-0082
+PARENT_ID: en-cty-0082
+DOMAIN: competition-types
+ARTICLE: 220.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: multi-select
+STEM: In a Table A Competition Against the Clock, which statements about ties and jump-offs are correct?
+OPTION_A: Ties on Penalties for any place may be resolved by time without a jump-off
+OPTION_B: Ties on Penalties for first place may be resolved by a jump-off Against the Clock judged under Table A
+OPTION_C: Ties for first place may be resolved by a jump-off Against the Clock judged under Table C if specified and there are no Longines Ranking points
+OPTION_D: Ties on Penalties and time for first place always lead to a further jump-off
+CORRECT: A,B,C
+EXPLANATION: JRs Art 220.2.1 lists the formats for Competitions Against the Clock judged under Table A: time breaks ties without jump-off (Art 220.2.1.1); jump-off under Table A (Art 220.2.1.2); and jump-off under Table C without Longines Ranking points if specified in the Schedule (Art 220.2.1.3). Art 220.2.1.4 says there may be a further jump-off if Penalties and time are tied for first, not that there always is one.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

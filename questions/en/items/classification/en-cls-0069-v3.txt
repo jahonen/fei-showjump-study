@@ -1,0 +1,17 @@
+ID: en-cls-0069-v3
+PARENT_ID: en-cls-0069
+DOMAIN: classification
+ARTICLE: 267.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: Under JRs Art 267.6, what does the exception for 'certain special Competitions' mean for Athletes unable to complete the first round?
+OPTION_A: They receive a full prize regardless.
+OPTION_B: They may still receive a prize despite not completing the first round.
+OPTION_C: They are automatically Eliminated.
+OPTION_D: They must restart the first round.
+CORRECT: B
+EXPLANATION: JRs Art 267.6 provides that Athletes unable to complete the first round will not receive any prize, except in certain special Competitions, meaning those special Competitions may allow a prize despite incomplete completion.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

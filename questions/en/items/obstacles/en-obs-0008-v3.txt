@@ -1,0 +1,17 @@
+ID: en-obs-0008-v3
+PARENT_ID: en-obs-0008
+DOMAIN: obstacles
+ARTICLE: 232.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Which statement about obstacle supports is correct under JRs Art 232.3?
+OPTION_A: Cups must be fixed so poles cannot roll
+OPTION_B: Cups must allow the pole to roll and must be 18-20 mm deep
+OPTION_C: Safety cups are exempt from depth limits
+OPTION_D: Cup depth is measured from the outside of the standard
+CORRECT: B
+EXPLANATION: JRs Art 232.3 requires the pole to be able to roll on its support and sets the cup depth at 18 mm minimum and 20 mm maximum.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

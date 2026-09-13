@@ -1,0 +1,17 @@
+ID: en-cah-0072-v3
+PARENT_ID: en-cah-0072
+DOMAIN: competitors-horses
+ARTICLE: 202.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 12
+TYPE: single-select
+STEM: For CSI1* to 2*, CSIJ/CSIOJ, CSICh/CSIOCh, CSIP/CSIOP, CSIV/CSIOV, and CSIAm/Continental Championships for Pony Riders/Children/Veterans, the minimum Horse age is generally:
+OPTION_A: Five years
+OPTION_B: Six years
+OPTION_C: Seven years
+OPTION_D: Eight years
+CORRECT: B
+EXPLANATION: JRs Art 202.2 lists the minimum age as six years for these Events, unless the height is 1.40 m or higher, in which case it is seven years.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

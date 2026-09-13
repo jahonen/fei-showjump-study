@@ -1,0 +1,17 @@
+ID: en-jof-0056
+PARENT_ID: en-jof-0056
+DOMAIN: jump-offs
+ARTICLE: 218.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Where must a Competition specify whether it will have a jump-off?
+OPTION_A: In the prize list
+OPTION_B: In the Schedule
+OPTION_C: On the course plan only
+OPTION_D: It is assumed unless stated otherwise
+CORRECT: B
+EXPLANATION: JRs Art 218.1.2 states that the Schedule must specify if a Competition will have a jump-off; if not specified, the Competition is deemed not to have a jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

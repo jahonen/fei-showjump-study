@@ -1,0 +1,17 @@
+ID: en-cty-0081-v3
+PARENT_ID: en-cty-0081
+DOMAIN: competition-types
+ARTICLE: 220.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: Which article governs Competitions Not Against the Clock judged under Table A?
+OPTION_A: Art 219
+OPTION_B: Art 220.1
+OPTION_C: Art 221.1
+OPTION_D: Art 222.1
+CORRECT: B
+EXPLANATION: JRs Art 220.1 addresses Competitions Not Against the Clock judged under Table A.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

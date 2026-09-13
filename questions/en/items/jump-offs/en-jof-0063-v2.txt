@@ -1,0 +1,17 @@
+ID: en-jof-0063-v2
+PARENT_ID: en-jof-0063
+DOMAIN: jump-offs
+ARTICLE: 218.1.9
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: If the Schedule is silent on jump-off starting order for a Longines Ranking Competition, what applies under JRs Art 218.1.9?
+OPTION_A: Reverse order of times
+OPTION_B: Same as the previous round
+OPTION_C: Drawn by lot on the day
+OPTION_D: Fastest goes last
+CORRECT: B
+EXPLANATION: JRs Art 218.1.9 states that if the Schedule does not specify, the starting order will be the same as in the previous round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

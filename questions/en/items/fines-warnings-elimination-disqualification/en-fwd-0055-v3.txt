@@ -1,0 +1,17 @@
+ID: en-fwd-0055-v3
+PARENT_ID: en-fwd-0055
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 259.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 52
+TYPE: single-select
+STEM: Under JRs Art 259.3, who must the Ground Jury consult before allowing a Horse with blood to continue?
+OPTION_A: The Chef d'Equipe
+OPTION_B: The Course Designer
+OPTION_C: The Veterinary Delegate
+OPTION_D: The Athlete
+CORRECT: C
+EXPLANATION: JRs Art 259.3 requires the Ground Jury to consult the Veterinary Delegate before deeming the Horse fit to continue.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

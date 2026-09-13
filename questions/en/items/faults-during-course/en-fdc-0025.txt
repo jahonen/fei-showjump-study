@@ -1,0 +1,17 @@
+ID: en-fdc-0025
+PARENT_ID: en-fdc-0025
+DOMAIN: faults-during-course
+ARTICLE: 247.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: multi-select
+STEM: Which acts are treated as deviations from the course under JRs Art 247.1?
+OPTION_A: Omitting a compulsory turning point
+OPTION_B: Jumping an obstacle out of order
+OPTION_C: Jumping an obstacle in the wrong direction
+OPTION_D: Circling once after a Refusal to regain position
+CORRECT: A,B,C
+EXPLANATION: JRs Art 247.1 addresses deviations including omitting a compulsory turning point, jumping an obstacle out of order, and jumping in the wrong direction. Circling after a Refusal is governed by Art 246.1.4.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

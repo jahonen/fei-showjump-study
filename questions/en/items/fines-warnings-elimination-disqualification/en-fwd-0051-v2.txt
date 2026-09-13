@@ -1,0 +1,17 @@
+ID: en-fwd-0051-v2
+PARENT_ID: en-fwd-0051
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 264.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 54
+TYPE: single-select
+STEM: JRs Art 264.2.1 cross-references which additional articles that may apply?
+OPTION_A: Arts 259.1 and 265.2
+OPTION_B: Arts 265 and 266
+OPTION_C: Arts 261 and 262
+OPTION_D: Arts 267 and 268
+CORRECT: A
+EXPLANATION: JRs Art 264.2.1 provides that marks indicating excessive use of spurs or of the whip shall be penalised, and notes that additional consequences may apply under JRs Arts 259.1 and 265.2.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

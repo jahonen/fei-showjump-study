@@ -1,0 +1,17 @@
+ID: en-fdc-0024-v2
+PARENT_ID: en-fdc-0024
+DOMAIN: faults-during-course
+ARTICLE: 246.4.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.4.3, the 45-second Resistance rule is measured:
+OPTION_A: From the start signal to the finish line
+OPTION_B: Consecutively during the round
+OPTION_C: Only at the first obstacle
+OPTION_D: Over the entire Competition
+CORRECT: B
+EXPLANATION: JRs Art 246.4.3 specifies '45 consecutive seconds' of Resistance during the round, not cumulative time.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

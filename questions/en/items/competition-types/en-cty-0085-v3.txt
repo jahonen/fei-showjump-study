@@ -1,0 +1,17 @@
+ID: en-cty-0085-v3
+PARENT_ID: en-cty-0085
+DOMAIN: competition-types
+ARTICLE: 222.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Which article governs Normal Competitions in Two Phases?
+OPTION_A: Art 220
+OPTION_B: Art 221
+OPTION_C: Art 222.1
+OPTION_D: Art 223
+CORRECT: C
+EXPLANATION: JRs Art 222.1 is titled 'Normal Competition in Two-Phases'.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

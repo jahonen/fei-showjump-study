@@ -1,0 +1,17 @@
+ID: en-cah-0074
+PARENT_ID: en-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: At a CSI or CSIO, how many Horses may each Athlete ride in the Grand Prix or, if there is no Grand Prix, in the Competition with the highest prize money?
+OPTION_A: One
+OPTION_B: Two
+OPTION_C: Three
+OPTION_D: No limit
+CORRECT: A
+EXPLANATION: JRs Art 203.2.1 states that at CSIs and CSIOs, each Athlete may ride only one Horse in the Grand Prix or, if there is no Grand Prix, in the Competition with the highest prize money, except that Athletes may ride more than one Horse in a Derby.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

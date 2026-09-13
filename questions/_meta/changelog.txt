@@ -1,0 +1,6 @@
+# Question bank changelog
+
+2026-09-13  Initial repo structure created; en/source PDF added; editions.txt and domains.txt created.
+2026-09-13  Drafted 99 parent items (396 files including 3 variants per parent) across all 11 en domains from FEI Jumping Rules 2026 28th edition. STATUS=draft, VERIFIED_AGAINST_SOURCE=no pending human calibration pass.
+2026-09-13  Completed independent agentic verification of the en bank against the active source PDF. 300/396 files verified; 96 files flagged STATUS=needs-revision with source-specific NOTE lines.
+2026-09-13  Completed agentic correction pass on all 96 flagged en items; all discrepancies resolved. Final state: 396/396 files STATUS=verified, VERIFIED_AGAINST_SOURCE=yes, 0 needs-revision, 0 draft.

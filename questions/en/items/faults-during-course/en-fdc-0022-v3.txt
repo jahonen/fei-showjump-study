@@ -1,0 +1,17 @@
+ID: en-fdc-0022-v3
+PARENT_ID: en-fdc-0022
+DOMAIN: faults-during-course
+ARTICLE: 246.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.2.2, a Horse that stops at an obstacle and immediately jumps from a standstill without moving backwards is:
+OPTION_A: Always penalised as a Refusal
+OPTION_B: Not a Refusal
+OPTION_C: Penalised as a knock-down
+OPTION_D: Ignored by the Ground Jury
+CORRECT: B
+EXPLANATION: JRs Art 246.2.2 expressly provides that this situation is not a Refusal.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

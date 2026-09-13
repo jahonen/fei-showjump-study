@@ -1,0 +1,65 @@
+@use '../../styles/variables' as *;
+
+.timed-results {
+  flex: 1;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.score-summary {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  text-align: center;
+  margin-bottom: $spacing-lg;
+}
+
+.big-score {
+  font-size: $font-size-xl;
+  font-weight: 700;
+  color: $color-primary;
+  margin: 0 0 $spacing-sm;
+}
+
+.domain-breakdown {
+  margin-bottom: $spacing-lg;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: $color-surface;
+    border: 1px solid $color-border;
+    border-radius: $radius;
+  }
+
+  th,
+  td {
+    padding: $spacing-sm $spacing-md;
+    text-align: left;
+    border-bottom: 1px solid $color-border;
+  }
+
+  th {
+    background-color: $color-background;
+    font-weight: 600;
+  }
+}
+
+.result-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-md;
+
+  button {
+    width: 100%;
+  }
+
+  .secondary {
+    background-color: $color-surface;
+    color: $color-text;
+    border: 1px solid $color-border;
+  }
+}

@@ -1,0 +1,17 @@
+ID: en-vmp-0097-v1
+PARENT_ID: en-vmp-0097
+DOMAIN: vet-medication-passports
+ARTICLE: 275.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Which set of regulations specifically addresses equine anti-doping and controlled medication?
+OPTION_A: The FEI Statutes
+OPTION_B: The FEI Equine Anti-Doping and Controlled Medication Regulations
+OPTION_C: The FEI General Regulations only
+OPTION_D: The Jumping Rules only
+CORRECT: B
+EXPLANATION: JRs Art 275.2 references the Equine Anti-Doping and Controlled Medication Regulations as part of the framework for medication control.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

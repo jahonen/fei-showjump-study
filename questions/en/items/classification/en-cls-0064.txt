@@ -1,0 +1,17 @@
+ID: en-cls-0064
+PARENT_ID: en-cls-0064
+DOMAIN: classification
+ARTICLE: 267.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 57
+TYPE: single-select
+STEM: How is the placing of an individual Athlete determined in a Competition?
+OPTION_A: By the Athlete's nationality
+OPTION_B: Based on the scoring for the Competition, the Schedule, and any amendments on the course plan
+OPTION_C: By the order in the draw
+OPTION_D: By the highest prize money won
+CORRECT: B
+EXPLANATION: JRs Art 267.1 states that the placing of an individual Athlete is determined based on the scoring for the Competition, the instructions included in the Schedule, and any amendments specified on the course plan.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

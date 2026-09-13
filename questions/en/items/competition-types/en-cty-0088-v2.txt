@@ -1,0 +1,17 @@
+ID: en-cty-0088-v2
+PARENT_ID: en-cty-0088
+DOMAIN: competition-types
+ARTICLE: 226.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: JRs Art 226.1.4 states that the Nations Cup is the only Competition in which:
+OPTION_A: Individual prize money is awarded
+OPTION_B: Official teams represent NFs
+OPTION_C: Foreign Judges officiate
+OPTION_D: Youth Athletes compete
+CORRECT: B
+EXPLANATION: JRs Art 226.1.4 states that the Nations Cup is the only Competition in which official teams represent NFs.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

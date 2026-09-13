@@ -1,0 +1,17 @@
+ID: en-pte-0039-v3
+PARENT_ID: en-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 217.1.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: For the avoidance of doubt, JRs Art 217.1.5 confirms that a Disobedience at one obstacle and a Disobedience at another obstacle in the same round:
+OPTION_A: Are treated as separate first Disobediences
+OPTION_B: Both count towards the round total
+OPTION_C: Cancel each other out
+OPTION_D: Are ignored in Table A
+CORRECT: B
+EXPLANATION: JRs Art 217.1.5 expressly says Disobedience Penalties accumulate throughout the entire round, not just at the same obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

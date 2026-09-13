@@ -1,0 +1,17 @@
+ID: en-cty-0083
+PARENT_ID: en-cty-0083
+DOMAIN: competition-types
+ARTICLE: 221.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: In a Competition over Two Rounds, must each Athlete use the same Horse in both rounds?
+OPTION_A: No, the Athlete may change Horses between rounds
+OPTION_B: Yes, each Athlete must participate with the same Horse in both rounds
+OPTION_C: Only if the Schedule says so
+OPTION_D: Only in Grand Prix Competitions
+CORRECT: B
+EXPLANATION: JRs Art 221.1 states that each Athlete must participate with the same Horse in both rounds of a Competition over Two Rounds.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cty-0081
+PARENT_ID: en-cty-0081
+DOMAIN: competition-types
+ARTICLE: 220.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 27
+TYPE: single-select
+STEM: In a Table A Competition Not Against the Clock, what happens if Athletes have equal Penalties for any place?
+OPTION_A: They always have a jump-off
+OPTION_B: They share the prizes and there is no jump-off, unless the Schedule provides a jump-off for first place
+OPTION_C: The faster round wins
+OPTION_D: They are placed equal first
+CORRECT: B
+EXPLANATION: JRs Art 220.1.1.1 states that in Table A Not Against the Clock, Athletes with equality of Penalties for any place share the prizes and there is no jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

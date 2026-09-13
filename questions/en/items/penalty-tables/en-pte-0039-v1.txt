@@ -1,0 +1,17 @@
+ID: en-pte-0039-v1
+PARENT_ID: en-pte-0039
+DOMAIN: penalty-tables
+ARTICLE: 217.1.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: An Athlete refuses obstacle 3 and later refuses obstacle 7 in the same round under Table A. How many Disobedience Penalties apply?
+OPTION_A: 4 penalties (first only)
+OPTION_B: 8 penalties (total)
+OPTION_C: Elimination
+OPTION_D: No Penalty for the second
+CORRECT: C
+EXPLANATION: Under Table A a first Disobedience incurs 4 Penalties and a second Disobedience in the same round results in Elimination (JRs Art 217.1.1).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

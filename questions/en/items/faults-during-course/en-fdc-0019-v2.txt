@@ -1,0 +1,17 @@
+ID: en-fdc-0019-v2
+PARENT_ID: en-fdc-0019
+DOMAIN: faults-during-course
+ARTICLE: 244.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: Which Fault listed in JRs Art 244.1 involves receiving help from outside the course?
+OPTION_A: Deviation from the course
+OPTION_B: Unauthorised assistance
+OPTION_C: A Fall
+OPTION_D: A Disobedience
+CORRECT: B
+EXPLANATION: JRs Art 244.1.6 lists unauthorised assistance as a Fault incurring Penalties.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

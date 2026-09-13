@@ -1,0 +1,17 @@
+ID: en-awr-0006-v3
+PARENT_ID: en-awr-0006
+DOMAIN: arena-warmup
+ARTICLE: 242.4.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 44
+TYPE: single-select
+STEM: Under JRs Art 242.4.3, by how much may Warm-Up obstacles exceed the actual maximum width of the Competition in progress when the maximum height is 1.30 m?
+OPTION_A: 5 cm
+OPTION_B: 10 cm
+OPTION_C: 15 cm
+OPTION_D: 20 cm
+CORRECT: B
+EXPLANATION: JRs Art 242.4.3 allows Warm-Up obstacles for Competitions of 1.40 m or less to exceed both the actual maximum height and width of the Competition obstacles by 10 cm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-awr-0007-v2
+PARENT_ID: en-awr-0007
+DOMAIN: arena-warmup
+ARTICLE: 242.4.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 44
+TYPE: single-select
+STEM: Which of these is permitted in the Warm-Up Arena under JRs Art 242.4?
+OPTION_A: Gymnastic/training exercises
+OPTION_B: Combinations for any Competition
+OPTION_C: A minimum of one vertical and one spread obstacle
+OPTION_D: Walking Horses over elevated poles in cups
+CORRECT: C
+EXPLANATION: While JRs Art 242.4.12 prohibits gymnastic/training exercises and Art 242.4.13 generally prohibits Combinations, Art 242.4.2 requires at least one vertical and one spread obstacle in the Warm-Up Arena.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

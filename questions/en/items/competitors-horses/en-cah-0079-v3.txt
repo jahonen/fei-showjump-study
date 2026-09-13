@@ -1,0 +1,17 @@
+ID: en-cah-0079-v3
+PARENT_ID: en-cah-0079
+DOMAIN: competitors-horses
+ARTICLE: 207.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Which article governs dress requirements when competing and during prize-giving ceremonies?
+OPTION_A: Art 207.1
+OPTION_B: Art 207.2
+OPTION_C: Art 207.3
+OPTION_D: Art 208
+CORRECT: B
+EXPLANATION: JRs Art 207.2 governs dress. Art 207.2.1 requires Athletes to dress in accordance with Art 207.2 and GRs Art 135 when inspecting the course, competing, and during prize-giving ceremonies.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

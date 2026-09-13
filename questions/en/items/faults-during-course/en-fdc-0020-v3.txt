@@ -1,0 +1,17 @@
+ID: en-fdc-0020-v3
+PARENT_ID: en-fdc-0020
+DOMAIN: faults-during-course
+ARTICLE: 245.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: Which of these IS penalised as a knock-down under JRs Art 245.1?
+OPTION_A: Knocking over the filling of an obstacle
+OPTION_B: Displacing a closed Combination
+OPTION_C: Knocking down a flag while in the act of jumping
+OPTION_D: Knocking down the whole or any upper part of an obstacle
+CORRECT: D
+EXPLANATION: JRs Art 245.1.1 states that a knock-down occurs when, through a mistake of the Athlete/Horse Combination, the whole or any upper part of the same vertical plane of an obstacle falls. The cases in Art 245.5 do not incur knock-down Penalties, including knocking over the filling of an obstacle (245.5.4), displacing a closed Combination (which results in Elimination under Art 263.4.24), and knocking down a flag while in the act of jumping (245.5.2).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fwd-0053-v1
+PARENT_ID: en-fwd-0053
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 266
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 56
+TYPE: single-select
+STEM: Under JRs Art 266, boot and bandage control is mandatory for all Horses taking part in:
+OPTION_A: Every Competition at the Event
+OPTION_B: Only Puissance and Six Bar Competitions
+OPTION_C: The Grand Prix, the highest prize money Competition, Nations Cup/Longines League of Nations™, and Puissance and Six Bar Competitions
+OPTION_D: Only the Grand Prix
+CORRECT: C
+EXPLANATION: JRs Art 266 provides that boot and bandage control is mandatory on all Horses taking part in the Grand Prix, the Competition with the highest prize money at each Event (if not the Grand Prix), Nations Cup/Longines League of Nations™, and Puissance and Six Bar Competitions, and recommended during other Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

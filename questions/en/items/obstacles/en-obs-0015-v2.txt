@@ -1,0 +1,17 @@
+ID: en-obs-0015-v2
+PARENT_ID: en-obs-0015
+DOMAIN: obstacles
+ARTICLE: 237.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: In which situation may the distance between obstacles in a Combination be less than seven metres?
+OPTION_A: In Speed and Handiness Competitions judged under Table C
+OPTION_B: In any indoor Competition
+OPTION_C: When approved by the Ground Jury
+OPTION_D: In Puissance Competitions
+CORRECT: A
+EXPLANATION: JRs Art 237.1 provides an exception for Speed and Handiness Competitions judged under Table C and for permanent fixed obstacles requiring two or more successive efforts.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

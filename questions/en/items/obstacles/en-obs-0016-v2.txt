@@ -1,0 +1,17 @@
+ID: en-obs-0016-v2
+PARENT_ID: en-obs-0016
+DOMAIN: obstacles
+ARTICLE: 237.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: Which type of Combination does NOT require re-jumping all elements after a Refusal or Run-out?
+OPTION_A: Open Combination
+OPTION_B: Closed Combination
+OPTION_C: Triple Combination
+OPTION_D: Double Combination
+CORRECT: B
+EXPLANATION: JRs Art 237.3 excepts closed or partially closed Combinations from the requirement to re-jump all elements after a Refusal or Run-out.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

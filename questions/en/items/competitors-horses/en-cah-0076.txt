@@ -1,0 +1,17 @@
+ID: en-cah-0076
+PARENT_ID: en-cah-0076
+DOMAIN: competitors-horses
+ARTICLE: 205.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: From the year in which they reach their 12th birthday, Athletes may compete in Competitions at CSI and CSIO 1* to 5* and CSIAm Category A and B Events, provided that the height of obstacles in the initial round does not exceed:
+OPTION_A: 1.20 m
+OPTION_B: 1.30 m
+OPTION_C: 1.40 m
+OPTION_D: 1.50 m
+CORRECT: B
+EXPLANATION: JRs Art 205.2.2 states that from the year they reach their 12th birthday, Athletes may compete in CSI/CSIO 1* to 5* and CSIAm A/B Events provided the initial-round obstacle height does not exceed 1.30 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

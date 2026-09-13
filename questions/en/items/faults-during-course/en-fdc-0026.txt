@@ -1,0 +1,17 @@
+ID: en-fdc-0026
+PARENT_ID: en-fdc-0026
+DOMAIN: faults-during-course
+ARTICLE: 248.2.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 48
+TYPE: single-select
+STEM: Under JRs Art 248.2.2.2, what is the consequence of a Fall of the Athlete and/or Horse during a round?
+OPTION_A: 4 penalties
+OPTION_B: 6 penalties
+OPTION_C: Elimination
+OPTION_D: A warning
+CORRECT: C
+EXPLANATION: JRs Art 248.2.2.2 states that a Fall in the Competition Arena during the round results in Elimination of the Athlete/Horse Combination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

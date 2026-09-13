@@ -1,0 +1,17 @@
+ID: en-obs-0010
+PARENT_ID: en-obs-0010
+DOMAIN: obstacles
+ARTICLE: 233.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: In a Competition scheduled with a maximum height of 1.45 m or more, by how much may the Course Designer exceed the scheduled height?
+OPTION_A: 1 cm
+OPTION_B: 2 cm
+OPTION_C: 3 cm
+OPTION_D: 5 cm
+CORRECT: C
+EXPLANATION: JRs Art 233.2.2 allows the height of obstacles in Competitions with a scheduled maximum of 1.45 m or more to exceed the scheduled height by a maximum of 3 cm at the Course Designer's discretion.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cah-0074-v3
+PARENT_ID: en-cah-0074
+DOMAIN: competitors-horses
+ARTICLE: 203.2.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 13
+TYPE: single-select
+STEM: JRs Art 203.2.2 allows an Athlete to ride two Horses in the Grand Prix at CSI1*, CSI2*, or CSI3* Events only if:
+OPTION_A: The Athlete is ranked in the top 100
+OPTION_B: The number of declared starters is no more than 50% of the scheduled number of starters and the Schedule permits it
+OPTION_C: The OC announces it during the Competition
+OPTION_D: It is a Nations Cup
+CORRECT: B
+EXPLANATION: JRs Art 203.2.2 permits two Horses per Athlete in the Grand Prix only if the number of declared starters is not more than 50% of the scheduled number of starters and the Schedule specifies this possibility.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cty-0088-v1
+PARENT_ID: en-cty-0088
+DOMAIN: competition-types
+ARTICLE: 226.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 31
+TYPE: single-select
+STEM: Under JRs Art 226.1.1, a Nations Cup may only be organised at which type of Event?
+OPTION_A: CSI
+OPTION_B: CSIO
+OPTION_C: Championship
+OPTION_D: Any FEI Event
+CORRECT: B
+EXPLANATION: JRs Art 226.1.1 states that a Nations Cup may only be organised at a CSIO.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

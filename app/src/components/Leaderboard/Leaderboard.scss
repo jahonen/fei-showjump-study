@@ -1,0 +1,90 @@
+@use '../../styles/variables' as *;
+
+.leaderboard {
+  flex: 1;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.language-bar {
+  display: flex;
+  gap: $spacing-sm;
+  margin-bottom: $spacing-lg;
+
+  button {
+    flex: 1;
+    background-color: $color-surface;
+    color: $color-text;
+    border: 1px solid $color-border;
+
+    &.active {
+      background-color: $color-primary;
+      color: #fff;
+      border-color: $color-primary;
+    }
+  }
+}
+
+.empty-board {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  text-align: center;
+  color: $color-text-muted;
+  margin-bottom: $spacing-lg;
+}
+
+.leaderboard-list {
+  list-style: none;
+  margin: 0 0 $spacing-lg;
+  padding: 0;
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  overflow: hidden;
+}
+
+.leaderboard-row {
+  display: grid;
+  grid-template-columns: 2rem 1fr 4rem auto;
+  gap: $spacing-sm;
+  align-items: center;
+  padding: $spacing-md;
+  border-bottom: 1px solid $color-border;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.rank {
+  font-weight: 700;
+  color: $color-primary;
+  text-align: center;
+}
+
+.name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.score {
+  text-align: right;
+  font-weight: 700;
+}
+
+.date {
+  color: $color-text-muted;
+  font-size: 0.875rem;
+}
+
+.back-button {
+  width: 100%;
+  background-color: $color-surface;
+  color: $color-text;
+  border: 1px solid $color-border;
+}

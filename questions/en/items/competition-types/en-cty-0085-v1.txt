@@ -1,0 +1,17 @@
+ID: en-cty-0085-v1
+PARENT_ID: en-cty-0085
+DOMAIN: competition-types
+ARTICLE: 222.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 29
+TYPE: single-select
+STEM: Under JRs Art 222.1.2, the second phase of a Normal Two-Phase Competition may include no more than:
+OPTION_A: One Combination
+OPTION_B: Two Combinations
+OPTION_C: Three Combinations
+OPTION_D: Combinations are prohibited
+CORRECT: A
+EXPLANATION: JRs Art 222.1.2 states that the second phase takes place over four to six obstacles, which may include no more than one Combination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

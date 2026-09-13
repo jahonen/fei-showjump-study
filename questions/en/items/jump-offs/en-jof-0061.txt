@@ -1,0 +1,17 @@
+ID: en-jof-0061
+PARENT_ID: en-jof-0061
+DOMAIN: jump-offs
+ARTICLE: 218.2.7
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: How many additional obstacles may be added to a jump-off course?
+OPTION_A: One
+OPTION_B: Two
+OPTION_C: Three
+OPTION_D: None
+CORRECT: B
+EXPLANATION: JRs Art 218.2.7 states that a maximum of two additional obstacles may be added to the jump-off course.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

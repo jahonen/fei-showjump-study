@@ -1,0 +1,17 @@
+ID: en-cty-0084-v1
+PARENT_ID: en-cty-0084
+DOMAIN: competition-types
+ARTICLE: 221.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Under JRs Art 221.2.2, in a Grand Prix Competition, which Athletes return to the second round even if their number exceeds the percentage in the Schedule?
+OPTION_A: The top 25%
+OPTION_B: All Athletes without Penalties in the first round
+OPTION_C: Only those tied for first
+OPTION_D: The fastest 50%
+CORRECT: B
+EXPLANATION: JRs Art 221.2.2 states that in all Grand Prix Competitions, all Athletes without Penalties will return to the second round even if this number is higher than the percentage established in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-jof-0060-v3
+PARENT_ID: en-jof-0060
+DOMAIN: jump-offs
+ARTICLE: 218.2.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: JRs Art 218.2.4 permits leaving out elements of a Combination in a jump-off, but which elements of a treble or quadruple may NOT be omitted?
+OPTION_A: The first element
+OPTION_B: The last element
+OPTION_C: The centre element(s)
+OPTION_D: Any outer element
+CORRECT: C
+EXPLANATION: JRs Art 218.2.4 states that if the Combination obstacle is a treble or a quadruple, the centre element(s) may not be omitted.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

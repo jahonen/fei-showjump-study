@@ -1,0 +1,89 @@
+@use '../../styles/variables' as *;
+
+.settings {
+  flex: 1;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing-md;
+}
+
+.settings-section {
+  background-color: $color-surface;
+  border: 1px solid $color-border;
+  border-radius: $radius;
+  padding: $spacing-md;
+  margin-bottom: $spacing-lg;
+
+  h2 {
+    font-size: $font-size-lg;
+    margin: 0 0 $spacing-md;
+    color: $color-primary;
+  }
+
+  p {
+    margin: 0 0 $spacing-sm;
+  }
+
+  input[type='text'] {
+    width: 100%;
+    padding: $spacing-sm $spacing-md;
+    font-size: $font-size-base;
+    border: 1px solid $color-border;
+    border-radius: $radius;
+    margin-bottom: $spacing-md;
+    min-height: 44px;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+.muted {
+  color: $color-text-muted;
+}
+
+.language-options {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-sm;
+}
+
+.language-option {
+  display: flex;
+  align-items: center;
+  gap: $spacing-sm;
+  min-height: 44px;
+  cursor: pointer;
+
+  input {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+}
+
+.save-confirm {
+  color: $color-success;
+  margin-top: $spacing-sm;
+}
+
+.settings-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-md;
+
+  button {
+    width: 100%;
+  }
+
+  .secondary {
+    background-color: $color-surface;
+    color: $color-text;
+    border: 1px solid $color-border;
+  }
+
+  .danger {
+    background-color: $color-error;
+  }
+}

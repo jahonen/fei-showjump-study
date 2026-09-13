@@ -1,0 +1,17 @@
+ID: en-tsp-0032-v1
+PARENT_ID: en-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 255
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: While the clock is stopped, what may the Athlete/Horse Combination do under JRs Art 255.1?
+OPTION_A: It must remain motionless
+OPTION_B: It may move around until the bell gives permission to resume the round
+OPTION_C: It may leave the Competition arena
+OPTION_D: It must immediately jump the next obstacle
+CORRECT: B
+EXPLANATION: JRs Art 255.1 states that while the clock is stopped, the Athlete/Horse Combination remains free to move around until the bell rings, giving permission to resume the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

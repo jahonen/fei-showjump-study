@@ -1,0 +1,17 @@
+ID: en-cah-0072-v1
+PARENT_ID: en-cah-0072
+DOMAIN: competitors-horses
+ARTICLE: 202.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 12
+TYPE: single-select
+STEM: Under JRs Art 202.2, a Horse must be at least how old to compete in the Olympic Games?
+OPTION_A: Seven years
+OPTION_B: Eight years
+OPTION_C: Nine years
+OPTION_D: Ten years
+CORRECT: C
+EXPLANATION: JRs Art 202.2 requires Horses to be at least nine years old for the Olympic Games, World Championship, and FEI Jumping World Cup Final.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

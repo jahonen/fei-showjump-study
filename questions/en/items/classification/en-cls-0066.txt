@@ -1,0 +1,17 @@
+ID: en-cls-0066
+PARENT_ID: en-cls-0066
+DOMAIN: classification
+ARTICLE: 218.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: An Athlete who retires from a jump-off is placed:
+OPTION_A: Equal first with all qualifiers
+OPTION_B: Equal last in the jump-off after all Athletes who completed the round
+OPTION_C: According to their preliminary round placing only
+OPTION_D: They receive no placing
+CORRECT: B
+EXPLANATION: JRs Art 218.3.1 states that an Athlete who retires, is Eliminated, or withdraws with permission from a jump-off is placed equal last in the jump-off after all Athletes who have completed the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

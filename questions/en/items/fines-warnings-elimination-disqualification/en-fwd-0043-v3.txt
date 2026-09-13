@@ -1,0 +1,17 @@
+ID: en-fwd-0043-v3
+PARENT_ID: en-fwd-0043
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: After Elimination, an Athlete may jump one single obstacle provided that:
+OPTION_A: The obstacle is part of the course of the current Competition and the Elimination was not due to a Fall
+OPTION_B: The Ground Jury gives permission verbally
+OPTION_C: It is the first obstacle only
+OPTION_D: The Athlete pays a fine
+CORRECT: A
+EXPLANATION: JRs Art 263.3 states that the Athlete may jump one single obstacle after being Eliminated, provided it is part of the current Competition's course and the Elimination was not due to a Fall.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0014
+PARENT_ID: en-obs-0014
+DOMAIN: obstacles
+ARTICLE: 236.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: If a Water Jump does not meet the requirements of Annex IV, what must be placed over the water?
+OPTION_A: A spread obstacle
+OPTION_B: A vertical obstacle of not more than 1.50 m
+OPTION_C: A triple bar
+OPTION_D: No obstacle; the water is removed
+CORRECT: B
+EXPLANATION: JRs Art 236.2 requires a vertical obstacle of not more than 1.50 m in height to be placed over the water if the Water Jump does not meet Annex IV requirements.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

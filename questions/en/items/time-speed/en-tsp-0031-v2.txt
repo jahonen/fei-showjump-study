@@ -1,0 +1,17 @@
+ID: en-tsp-0031-v2
+PARENT_ID: en-tsp-0031
+DOMAIN: time-speed
+ARTICLE: 217.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Under Table A, what is the penalty for exceeding the maximum time limit?
+OPTION_A: Four Penalties
+OPTION_B: Time Penalties only
+OPTION_C: Elimination
+OPTION_D: A warning
+CORRECT: C
+EXPLANATION: JRs Art 217.1.1 lists Elimination as the penalty under Table A for exceeding the maximum time limit.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

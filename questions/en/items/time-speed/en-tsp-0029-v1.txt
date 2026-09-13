@@ -1,0 +1,17 @@
+ID: en-tsp-0029-v1
+PARENT_ID: en-tsp-0029
+DOMAIN: time-speed
+ARTICLE: 251.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: Under JRs Art 251.1.1, the time of the round may start even before the Athlete crosses the starting line if:
+OPTION_A: The Athlete falls before the start
+OPTION_B: The 45-second countdown expires before crossing the starting line in the correct direction
+OPTION_C: The bell rings twice
+OPTION_D: The Ground Jury waves a flag
+CORRECT: B
+EXPLANATION: JRs Art 251.1.1 provides that the time starts either when the Athlete crosses the starting line after the bell, or when the 45-second countdown expires, whichever occurs first.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-obs-0012-v1
+PARENT_ID: en-obs-0012
+DOMAIN: obstacles
+ARTICLE: 236.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Under JRs Art 236.1.1, a Water Jump must have a take-off element with a minimum height of:
+OPTION_A: 30 cm
+OPTION_B: 40 cm
+OPTION_C: 50 cm
+OPTION_D: 60 cm
+CORRECT: B
+EXPLANATION: JRs Art 236.1.1 requires a take-off element (brush, small wall) with a minimum height of 40 cm and a maximum height of 50 cm.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

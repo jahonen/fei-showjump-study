@@ -1,0 +1,17 @@
+ID: en-fdc-0027-v1
+PARENT_ID: en-fdc-0027
+DOMAIN: faults-during-course
+ARTICLE: 249.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: Under JRs Art 249.2, assistance authorised by the Ground Jury under exceptional circumstances is:
+OPTION_A: Unauthorised assistance
+OPTION_B: Not considered unauthorised assistance
+OPTION_C: Always a Disqualification
+OPTION_D: Ignored
+CORRECT: B
+EXPLANATION: JRs Art 249.2 provides that, in certain exceptional cases, the Ground Jury may authorise the Athlete to enter the Competition Arena on foot or with the help of another person, without this being considered unauthorised assistance.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

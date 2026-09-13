@@ -1,0 +1,17 @@
+ID: en-awr-0003-v1
+PARENT_ID: en-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: Under JRs Art 241.2.5, the minimum distance between the starting line and the first obstacle is:
+OPTION_A: 3 m
+OPTION_B: 6 m
+OPTION_C: 10 m
+OPTION_D: 15 m
+CORRECT: B
+EXPLANATION: JRs Art 241.2.5 requires the starting and finishing lines to be at least 6 m and no more than 15 m from the first and last obstacles.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

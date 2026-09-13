@@ -1,0 +1,17 @@
+ID: en-cah-0078-v3
+PARENT_ID: en-cah-0078
+DOMAIN: competitors-horses
+ARTICLE: 207.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 16
+TYPE: single-select
+STEM: Senior Athletes may remove their Protective Headgear while accepting prizes, during the National anthem, and during other ceremonial protocol according to JRs Art 207.1.2. This is:
+OPTION_A: Prohibited
+OPTION_B: An exception to the general rule
+OPTION_C: Required
+OPTION_D: Allowed only outdoors
+CORRECT: B
+EXPLANATION: JRs Art 207.1.2 expressly notes an exception allowing Senior Athletes to remove Protective Headgear during ceremonies.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

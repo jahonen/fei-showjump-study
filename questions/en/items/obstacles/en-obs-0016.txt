@@ -1,0 +1,17 @@
+ID: en-obs-0016
+PARENT_ID: en-obs-0016
+DOMAIN: obstacles
+ARTICLE: 237.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: After a Refusal or Run-out at a Combination, what must the Athlete do under normal rules?
+OPTION_A: Re-jump only the element where the Fault occurred
+OPTION_B: Re-jump all elements of the Combination
+OPTION_C: Continue to the next obstacle
+OPTION_D: Circle once and resume at the next element
+CORRECT: B
+EXPLANATION: JRs Art 237.3 states that when there is a Refusal or Run-out, the Athlete/Horse Combination must re-jump all of the elements of the Combination unless it is a closed or partially closed Combination or a Six Bar.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fwd-0049
+PARENT_ID: en-fwd-0049
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.30
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: An Athlete uses a mobile phone device in the Competition Arena during a Competition. What is the consequence?
+OPTION_A: A warning
+OPTION_B: A fine of CHF 1,000
+OPTION_C: Elimination
+OPTION_D: No Penalty if the phone is in a pocket
+CORRECT: C
+EXPLANATION: JRs Art 263.4.30 states that an Athlete using a mobile phone device, other electronic communication device, or earphone(s) in the Competition Arena during a Competition results in Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

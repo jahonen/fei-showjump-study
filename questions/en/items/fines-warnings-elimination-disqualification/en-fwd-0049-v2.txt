@@ -1,0 +1,17 @@
+ID: en-fwd-0049-v2
+PARENT_ID: en-fwd-0049
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.30
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Use of a mobile phone while mounted in the Warm-Up Arena during a Competition under JRs Art 207.3.1 results in:
+OPTION_A: Elimination
+OPTION_B: A Warning
+OPTION_C: A fine
+OPTION_D: No consequence
+CORRECT: B
+EXPLANATION: JRs Art 207.3.1 states that mobile phone devices may never be used by an Athlete while mounted in the Warm-Up Arena during a Competition, and failure to comply incurs a Warning in accordance with Art 261.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

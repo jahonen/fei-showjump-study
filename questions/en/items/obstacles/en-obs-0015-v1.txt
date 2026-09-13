@@ -1,0 +1,17 @@
+ID: en-obs-0015-v1
+PARENT_ID: en-obs-0015
+DOMAIN: obstacles
+ARTICLE: 237.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: How is the distance between obstacles in a Combination measured under JRs Art 237.1?
+OPTION_A: From the centre of one obstacle to the centre of the next
+OPTION_B: From the base on the landing side to the base on the take-off side of the next obstacle
+OPTION_C: From the front of the first obstacle to the front of the second
+OPTION_D: From the highest point of each obstacle
+CORRECT: B
+EXPLANATION: JRs Art 237.1 states that the distance is measured from the base of the obstacle on the landing side to the base of the next obstacle on the take-off side.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

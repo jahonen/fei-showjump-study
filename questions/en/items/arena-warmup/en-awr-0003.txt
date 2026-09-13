@@ -1,0 +1,17 @@
+ID: en-awr-0003
+PARENT_ID: en-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: How far must the starting and finishing lines be from the first and last obstacles?
+OPTION_A: Between 3 and 10 metres
+OPTION_B: Between 6 and 15 metres
+OPTION_C: Between 8 and 20 metres
+OPTION_D: Between 10 and 25 metres
+CORRECT: B
+EXPLANATION: JRs Art 241.2.5 states that the starting and finishing lines may not be more than 15 metres or less than six metres from the first and last obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-jof-0056-v3
+PARENT_ID: en-jof-0056
+DOMAIN: jump-offs
+ARTICLE: 218.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: A Competition Schedule is silent about a jump-off. How should Athletes prepare?
+OPTION_A: Assume there will be a jump-off
+OPTION_B: Assume there will be no jump-off
+OPTION_C: Ask the Technical Delegate to add one
+OPTION_D: Check the prize money to decide
+CORRECT: B
+EXPLANATION: JRs Art 218.1.2 states that if the Schedule does not specify, the Competition is deemed not to have a jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

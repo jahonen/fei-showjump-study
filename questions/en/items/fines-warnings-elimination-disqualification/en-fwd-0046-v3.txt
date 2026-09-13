@@ -1,0 +1,17 @@
+ID: en-fwd-0046-v3
+PARENT_ID: en-fwd-0046
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.13
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: In Table C, exceeding the maximum time limit results in:
+OPTION_A: 4 Penalties
+OPTION_B: Time Penalties only
+OPTION_C: Elimination
+OPTION_D: A fine
+CORRECT: C
+EXPLANATION: JRs Art 217.2.4 provides that exceeding the maximum time limit under Table C results in Elimination, and Art 263.4.13 confirms this generally.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0029-v2
+PARENT_ID: en-tsp-0029
+DOMAIN: time-speed
+ARTICLE: 251.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: When does the time of the round stop under JRs Art 251.1.2?
+OPTION_A: When the Athlete clears the last obstacle
+OPTION_B: When the Athlete/Horse Combination crosses the finishing line in the correct direction after jumping the last obstacle
+OPTION_C: When the bell is rung
+OPTION_D: When the Athlete leaves the arena
+CORRECT: B
+EXPLANATION: JRs Art 251.1.2 states that the time stops when the Athlete/Horse Combination crosses the finishing line in the correct direction after having jumped the last obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

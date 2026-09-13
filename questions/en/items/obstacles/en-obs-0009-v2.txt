@@ -1,0 +1,17 @@
+ID: en-obs-0009-v2
+PARENT_ID: en-obs-0009
+DOMAIN: obstacles
+ARTICLE: 233.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 38
+TYPE: single-select
+STEM: Under JRs Art 233.1, what is the maximum spread for a triple bar obstacle?
+OPTION_A: 1.80 m
+OPTION_B: 2.00 m
+OPTION_C: 2.20 m
+OPTION_D: 2.40 m
+CORRECT: C
+EXPLANATION: JRs Art 233.1 permits triple bars to have a maximum spread of 2.20 m.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-fwd-0055-v1
+PARENT_ID: en-fwd-0055
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 259.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 52
+TYPE: single-select
+STEM: A Horse is bleeding from its tongue during a Competition. Under JRs Art 259.2, Officials may authorise rinsing or wiping and allow the Athlete/Horse Combination to continue if:
+OPTION_A: The Athlete provides a vet certificate
+OPTION_B: The Horse is deemed fit to compete under Art 259.3
+OPTION_C: The bleeding stops within 10 seconds
+OPTION_D: The Athlete apologises
+CORRECT: B
+EXPLANATION: JRs Art 259.2 allows rinsing/wiping in certain blood cases, but Art 259.3 requires the Horse to be deemed fit to compete by the Ground Jury in consultation with the Veterinary Delegate.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

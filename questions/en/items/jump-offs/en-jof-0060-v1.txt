@@ -1,0 +1,17 @@
+ID: en-jof-0060-v1
+PARENT_ID: en-jof-0060
+DOMAIN: jump-offs
+ARTICLE: 218.2.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Which aspect of a Combination obstacle may NOT be changed during a jump-off under JRs Art 218.2.6?
+OPTION_A: The height
+OPTION_B: The spread of individual elements
+OPTION_C: The distance between elements
+OPTION_D: The colour
+CORRECT: C
+EXPLANATION: JRs Art 218.2.6 specifically prohibits altering the distance between the elements of a Combination obstacle during a jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

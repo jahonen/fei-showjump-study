@@ -1,0 +1,17 @@
+ID: en-tsp-0035-v2
+PARENT_ID: en-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 230.1.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: Under JRs Art 230.1.4, time is never a deciding factor in which Competition type?
+OPTION_A: Table A Grand Prix
+OPTION_B: Power and Skill
+OPTION_C: Nations Cup
+OPTION_D: Table C Speed
+CORRECT: B
+EXPLANATION: JRs Art 230.1.4 states that time is never a deciding factor in Power and Skill Competitions; there is no time allowed and no time limit.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

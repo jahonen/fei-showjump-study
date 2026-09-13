@@ -1,0 +1,17 @@
+ID: en-obs-0017-v2
+PARENT_ID: en-obs-0017
+DOMAIN: obstacles
+ARTICLE: 238.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: A closed Combination is distinguished from a partially closed Combination by:
+OPTION_A: The number of elements
+OPTION_B: Whether the Combination is entirely surrounded by sides that can only be surmounted by jumping, or only one part is closed
+OPTION_C: The distance between elements
+OPTION_D: The presence of a Water Jump
+CORRECT: B
+EXPLANATION: JRs Art 238.1 defines a completely closed Combination as one whose surrounding sides can only be surmounted by jumping, while JRs Art 238.2 defines a partially closed Combination as having one closed part and one open part.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

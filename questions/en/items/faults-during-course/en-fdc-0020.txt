@@ -1,0 +1,17 @@
+ID: en-fdc-0020
+PARENT_ID: en-fdc-0020
+DOMAIN: faults-during-course
+ARTICLE: 245.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: A knock-down occurs when, through a mistake of the Athlete/Horse Combination, the whole or any upper part of the same vertical plane of an obstacle falls. What does this mean for a vertical obstacle made of two parts stacked in the same vertical plane?
+OPTION_A: Only the fall of the top part is penalised
+OPTION_B: Both parts must fall for a knock-down
+OPTION_C: The lower part falling is always penalised
+OPTION_D: Neither part falling counts as a knock-down
+CORRECT: A
+EXPLANATION: JRs Art 245.1.1 and the following paragraph state that when parts are placed one above the other in the same vertical plane, only the fall of the top part is penalised.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

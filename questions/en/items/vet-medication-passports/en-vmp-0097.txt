@@ -1,0 +1,17 @@
+ID: en-vmp-0097
+PARENT_ID: en-vmp-0097
+DOMAIN: vet-medication-passports
+ARTICLE: 275.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 61
+TYPE: single-select
+STEM: Under JRs Art 275.2, medication control of Horses must be conducted in accordance with which regulations?
+OPTION_A: Only the Jumping Rules
+OPTION_B: The GRs, VRs, Equine Anti-Doping and Controlled Medication Regulations, and any other applicable FEI Rules or Regulations
+OPTION_C: Only the Veterinary Regulations
+OPTION_D: Only the Equine Anti-Doping Regulations
+CORRECT: B
+EXPLANATION: JRs Art 275.2 states that medication control of Horses must be conducted in accordance with the GRs and the VRs, the Equine Anti-Doping and Controlled Medication Regulations, and any other applicable FEI Rules or Regulations.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

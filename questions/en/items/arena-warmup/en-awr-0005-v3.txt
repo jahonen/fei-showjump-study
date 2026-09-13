@@ -1,0 +1,17 @@
+ID: en-awr-0005-v3
+PARENT_ID: en-awr-0005
+DOMAIN: arena-warmup
+ARTICLE: 241.6.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 43
+TYPE: multi-select
+STEM: Which statements about the bell and starting procedure under JRs Art 241.6.1.2 are correct?
+OPTION_A: The bell activates a 45-second countdown shown in the timing equipment on the scoreboard or on another display beside the Competition Arena
+OPTION_B: The Athlete must cross the starting line in the correct direction within the countdown time
+OPTION_C: The countdown restarts automatically if interrupted
+OPTION_D: The Ground Jury may interrupt the countdown if unforeseen circumstances occur
+CORRECT: A,B,D
+EXPLANATION: JRs Art 241.6.1.2 states that the bell activates a 45-second countdown shown in the timing equipment on the scoreboard or on another display beside the Competition Arena. The countdown sets the time before the Athlete must commence the round by crossing the starting line in the correct direction. The Ground Jury may interrupt it if unforeseen circumstances occur; it does not restart automatically.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

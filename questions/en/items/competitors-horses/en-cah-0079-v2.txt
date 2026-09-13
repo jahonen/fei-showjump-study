@@ -1,0 +1,17 @@
+ID: en-cah-0079-v2
+PARENT_ID: en-cah-0079
+DOMAIN: competitors-horses
+ARTICLE: 207.2.3.4
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 17
+TYPE: single-select
+STEM: In very warm weather, the Ground Jury may allow Athletes to ride without a jacket under JRs Art 207.2.3.4. If a jacket is not worn, shirts must:
+OPTION_A: Be sleeveless
+OPTION_B: Have sleeves, either short or long
+OPTION_C: Be white only
+OPTION_D: Have a black collar
+CORRECT: B
+EXPLANATION: JRs Art 207.2.3.4 states that if a jacket is not worn due to weather conditions, shirts must have sleeves; either short or long sleeves are permitted.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

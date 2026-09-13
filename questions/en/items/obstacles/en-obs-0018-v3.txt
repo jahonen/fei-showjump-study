@@ -1,0 +1,17 @@
+ID: en-obs-0018-v3
+PARENT_ID: en-obs-0018
+DOMAIN: obstacles
+ARTICLE: 240.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 40
+TYPE: single-select
+STEM: Under JRs Art 240.3, how should Joker obstacles be designed?
+OPTION_A: As high as technically possible
+OPTION_B: With horsemanship and fairness in mind
+OPTION_C: Identical to all other obstacles
+OPTION_D: Without any flags
+CORRECT: B
+EXPLANATION: JRs Art 240.3 states that Joker obstacles must be designed with horsemanship and fairness in mind.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

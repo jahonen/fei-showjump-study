@@ -1,0 +1,17 @@
+ID: en-fwd-0047-v3
+PARENT_ID: en-fwd-0047
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.22
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Under JRs Art 263.4.22, failure to comply with tack and equipment rules during a round results in:
+OPTION_A: 4 penalties
+OPTION_B: Elimination
+OPTION_C: A warning
+OPTION_D: No consequence
+CORRECT: B
+EXPLANATION: JRs Art 263.4.22 makes non-compliance with tack and equipment rules a mandatory Elimination.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

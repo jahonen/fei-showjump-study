@@ -1,0 +1,17 @@
+ID: en-cah-0076-v1
+PARENT_ID: en-cah-0076
+DOMAIN: competitors-horses
+ARTICLE: 205.2.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: Under JRs Art 205.2.3, from the year they reach their 14th birthday Athletes may compete in all CSI1* Events and in CSI2* to CSI5*/CSIO1* to 5* Events with an initial-round height not exceeding:
+OPTION_A: 1.30 m
+OPTION_B: 1.35 m
+OPTION_C: 1.40 m
+OPTION_D: 1.45 m
+CORRECT: C
+EXPLANATION: JRs Art 205.2.3 sets the initial-round height limit at 1.40 m for Athletes from the year they reach their 14th birthday.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0028
+PARENT_ID: en-tsp-0028
+DOMAIN: time-speed
+ARTICLE: 250.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 49
+TYPE: single-select
+STEM: When does an Athlete/Horse Combination incur time Penalties under JRs Art 250.1?
+OPTION_A: When the combination finishes before the time allowed
+OPTION_B: When the combination exceeds the time allowed for a round
+OPTION_C: Only when the combination exceeds the maximum time limit
+OPTION_D: Whenever the bell is rung during the round
+CORRECT: B
+EXPLANATION: JRs Art 250.1 states that an Athlete/Horse Combination incurs time Penalties if it exceeds the time allowed for a round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0030
+PARENT_ID: en-tsp-0030
+DOMAIN: time-speed
+ARTICLE: 252
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: How is the time allowed for a round determined?
+OPTION_A: By the Course Designer alone
+OPTION_B: By multiplying the course length by the speed set out in JRs Art 258
+OPTION_C: In relation to the length of the course and the speeds set out under JRs Art 258
+OPTION_D: It is fixed at 80 seconds for all Competitions
+CORRECT: C
+EXPLANATION: JRs Art 252 states that the time allowed for a round is determined in relation to the length of the course and the speeds set out under JRs Art 258.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-tsp-0035-v3
+PARENT_ID: en-tsp-0035
+DOMAIN: time-speed
+ARTICLE: 258.1.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: The absence of a minimum speed requirement for Power and Skill Competitions is found in which article?
+OPTION_A: Art 230.1.4
+OPTION_B: Art 258.1.4
+OPTION_C: Art 258.1.6
+OPTION_D: Art 252
+CORRECT: C
+EXPLANATION: JRs Art 258.1.6 states that no minimum speed is required for Power and Skill Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cah-0075-v2
+PARENT_ID: en-cah-0075
+DOMAIN: competitors-horses
+ARTICLE: 205.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: Which statement is true under JRs Art 205.1?
+OPTION_A: Athletes under 18 may compete in a Longines League of Nations™ Competition
+OPTION_B: Athletes under 18 may compete in the Olympic Games
+OPTION_C: Athletes under 18 may not compete in Power and Skill Competitions
+OPTION_D: Athletes under 18 may compete in any Nations Cup
+CORRECT: C
+EXPLANATION: JRs Art 205.1 prohibits Athletes under 18 from Power and Skill Competitions, as well as Olympic Games and Longines League of Nations™ Competitions.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

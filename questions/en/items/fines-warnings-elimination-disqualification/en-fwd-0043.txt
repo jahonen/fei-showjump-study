@@ -1,0 +1,17 @@
+ID: en-fwd-0043
+PARENT_ID: en-fwd-0043
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: What is the general effect of Elimination in a Competition?
+OPTION_A: The Athlete may continue but with 4 additional Penalties
+OPTION_B: The Athlete with the Horse in question may not continue in the Competition at issue
+OPTION_C: The Athlete is fined CHF 1,000
+OPTION_D: The Athlete is placed last but retains eligibility for later Competitions
+CORRECT: B
+EXPLANATION: JRs Art 263.1 states that unless specified otherwise in the JRs, Elimination means that the Athlete with the Horse in question may not continue in the Competition at issue.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

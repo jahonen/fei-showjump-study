@@ -1,0 +1,17 @@
+ID: en-awr-0003-v2
+PARENT_ID: en-awr-0003
+DOMAIN: arena-warmup
+ARTICLE: 241.2.5
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: Which pair of distances is within the limits set by JRs Art 241.2.5 for the start/finish line placement?
+OPTION_A: 4 m and 16 m
+OPTION_B: 6 m and 15 m
+OPTION_C: 3 m and 14 m
+OPTION_D: 8 m and 18 m
+CORRECT: B
+EXPLANATION: JRs Art 241.2.5 allows a range of 6 m to 15 m from the first and last obstacles; 6 m and 15 m are exactly the permitted limits.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

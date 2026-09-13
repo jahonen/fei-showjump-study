@@ -1,0 +1,17 @@
+ID: en-tsp-0032
+PARENT_ID: en-tsp-0032
+DOMAIN: time-speed
+ARTICLE: 255
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 50
+TYPE: single-select
+STEM: Under JRs Art 255.2, when is the clock normally restarted after an interruption?
+OPTION_A: As soon as the bell rings
+OPTION_B: When the Athlete reaches the place on the course where the clock was stopped
+OPTION_C: When the Athlete jumps the next obstacle
+OPTION_D: When the Athlete crosses the finishing line
+CORRECT: B
+EXPLANATION: JRs Art 255.2 states that the clock is restarted when the Athlete reaches the place on the course where it was stopped, except in a Disobedience with a knock-down to which JRs Art 256 applies.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

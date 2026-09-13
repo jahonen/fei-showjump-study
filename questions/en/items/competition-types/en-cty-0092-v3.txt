@@ -1,0 +1,17 @@
+ID: en-cty-0092-v3
+PARENT_ID: en-cty-0092
+DOMAIN: competition-types
+ARTICLE: 229.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 36
+TYPE: single-select
+STEM: Jumping the Joker in an Accumulator Competition generally:
+OPTION_A: Reduces time Penalties
+OPTION_B: Adds more points than the standard obstacle
+OPTION_C: Eliminates the Athlete
+OPTION_D: Resets the score to zero
+CORRECT: B
+EXPLANATION: JRs Art 240.3 states that the Athlete/Horse Combination will accumulate more points if they choose to jump the Joker rather than the alternative standard obstacle.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

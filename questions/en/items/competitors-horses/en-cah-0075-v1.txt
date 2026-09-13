@@ -1,0 +1,17 @@
+ID: en-cah-0075-v1
+PARENT_ID: en-cah-0075
+DOMAIN: competitors-horses
+ARTICLE: 205.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: Under JRs Art 205.1, before the year they turn 18, Athletes may not compete in a Grand Prix at which Events?
+OPTION_A: CSI1* only
+OPTION_B: CSI3* to CSI5*
+OPTION_C: CSIAm only
+OPTION_D: All CSIs
+CORRECT: B
+EXPLANATION: JRs Art 205.1 prohibits Athletes under 18 from competing in a Grand Prix at a CSI3* to CSI5*.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

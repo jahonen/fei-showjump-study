@@ -1,0 +1,17 @@
+ID: en-tsp-0034
+PARENT_ID: en-tsp-0034
+DOMAIN: time-speed
+ARTICLE: 258.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: What is the general permitted speed range for Competitions?
+OPTION_A: 300-375 m per minute
+OPTION_B: 325-400 m per minute
+OPTION_C: 350-425 m per minute
+OPTION_D: 375-450 m per minute
+CORRECT: B
+EXPLANATION: JRs Art 258.1.1 states the general speed range is 325 m per minute minimum and 400 m per minute maximum.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

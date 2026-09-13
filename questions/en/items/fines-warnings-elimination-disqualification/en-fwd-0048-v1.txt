@@ -1,0 +1,17 @@
+ID: en-fwd-0048-v1
+PARENT_ID: en-fwd-0048
+DOMAIN: fines-warnings-elimination-disqualification
+ARTICLE: 263.4.29
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 53
+TYPE: single-select
+STEM: Under JRs Art 263.4.29, an Athlete is NOT Eliminated for an unfastened chin strap if:
+OPTION_A: They noticed it after the finish line
+OPTION_B: The circumstances rendered it unsafe to stop immediately to refasten the strap
+OPTION_C: They are a Junior
+OPTION_D: The Ground Jury did not see it
+CORRECT: B
+EXPLANATION: JRs Art 263.4.29 provides an exception to Elimination if the circumstances rendered it unsafe for the Athlete to stop immediately in order to refasten the strap.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

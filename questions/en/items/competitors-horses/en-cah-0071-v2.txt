@@ -1,0 +1,17 @@
+ID: en-cah-0071-v2
+PARENT_ID: en-cah-0071
+DOMAIN: competitors-horses
+ARTICLE: 202.1.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 12
+TYPE: single-select
+STEM: A Horse born in the southern hemisphere competing in the northern hemisphere should generally be permitted to compete in a Category for Horses:
+OPTION_A: One year older
+OPTION_B: One year younger
+OPTION_C: Two years older
+OPTION_D: Of the same age
+CORRECT: B
+EXPLANATION: JRs Art 202.1.3 provides that southern hemisphere Horses competing in the northern hemisphere should be permitted to compete in Competitions for Horses one year younger.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

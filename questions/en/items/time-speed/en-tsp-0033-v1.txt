@@ -1,0 +1,17 @@
+ID: en-tsp-0033-v1
+PARENT_ID: en-tsp-0033
+DOMAIN: time-speed
+ARTICLE: 256
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 51
+TYPE: single-select
+STEM: A knock-down occurs as a result of a Disobedience and the obstacle is rebuilt. Under JRs Art 256, what time correction is applied?
+OPTION_A: No time correction
+OPTION_B: Six seconds are added to the time taken to complete the round
+OPTION_C: The time is reset to zero
+OPTION_D: The time taken to rebuild the obstacle is added
+CORRECT: B
+EXPLANATION: JRs Art 256 states that after the specified Disobedience with a knock-down, a time correction of six seconds is added to the time taken by the Athlete to complete the round.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

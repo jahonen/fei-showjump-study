@@ -1,0 +1,17 @@
+ID: en-jof-0056-v1
+PARENT_ID: en-jof-0056
+DOMAIN: jump-offs
+ARTICLE: 218.1.2
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under JRs Art 218.1.2, if the Schedule does not specify whether a Competition has a jump-off, what is the default?
+OPTION_A: There is a jump-off
+OPTION_B: There is no jump-off
+OPTION_C: The OC decides on the day
+OPTION_D: The Ground Jury decides
+CORRECT: B
+EXPLANATION: JRs Art 218.1.2 provides that if the Schedule does not specify, the Competition will be deemed not to have a jump-off.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-cty-0083-v1
+PARENT_ID: en-cty-0083
+DOMAIN: competition-types
+ARTICLE: 221.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 28
+TYPE: single-select
+STEM: Under JRs Art 221.1, Athletes who are Eliminated or retire during the first round of a Two-Round Competition:
+OPTION_A: May start in the second round
+OPTION_B: May not take part in the second round and may not be placed
+OPTION_C: May take part in the second round with a different Horse
+OPTION_D: Are automatically placed last
+CORRECT: B
+EXPLANATION: JRs Art 221.1 states that Athletes who have been Eliminated or who have retired during the first round may not take part in the second round and may not be placed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

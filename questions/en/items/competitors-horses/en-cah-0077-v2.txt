@@ -1,0 +1,17 @@
+ID: en-cah-0077-v2
+PARENT_ID: en-cah-0077
+DOMAIN: competitors-horses
+ARTICLE: 205.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: Under JRs Art 205.3.1, the U25 Category runs from age 16 until the end of the year the Athlete turns:
+OPTION_A: 21
+OPTION_B: 23
+OPTION_C: 25
+OPTION_D: 30
+CORRECT: C
+EXPLANATION: JRs Art 205.3.1 states that Athletes may compete in the U25 Category from the year they turn 16 until the end of the year they turn 25.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

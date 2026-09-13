@@ -1,0 +1,17 @@
+ID: en-jof-0058
+PARENT_ID: en-jof-0058
+DOMAIN: jump-offs
+ARTICLE: 218.1.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Under normal circumstances, a jump-off must be held under the same rules and Table as the preliminary round(s). What exception is allowed?
+OPTION_A: A Table A Competition's jump-off may be judged under Table C if specified in the Schedule
+OPTION_B: The speed may be doubled
+OPTION_C: The obstacles may be made of different materials
+OPTION_D: The Athlete may change Horses
+CORRECT: A
+EXPLANATION: JRs Art 218.1.6 states that in principle a jump-off must take place under the same rules and Table as the preliminary round(s), but the jump-off of a Table A Competition may be judged under Table C if specified in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

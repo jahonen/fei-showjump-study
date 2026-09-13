@@ -1,0 +1,17 @@
+ID: en-cah-0076-v3
+PARENT_ID: en-cah-0076
+DOMAIN: competitors-horses
+ARTICLE: 205.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 15
+TYPE: single-select
+STEM: Under JRs Art 205.2.1, from what age may Athletes compete in Competitions for Seniors with NF permission?
+OPTION_A: 10
+OPTION_B: 12
+OPTION_C: 14
+OPTION_D: 16
+CORRECT: B
+EXPLANATION: JRs Art 205.2.1 states that Athletes may, with the express permission of their NF, compete in Competitions for Seniors from the year in which they reach their 12th birthday.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

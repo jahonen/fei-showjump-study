@@ -1,0 +1,17 @@
+ID: en-jof-0058-v3
+PARENT_ID: en-jof-0058
+DOMAIN: jump-offs
+ARTICLE: 218.1.6
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: Which article requires the jump-off of a Table A Competition to be held under the same rules and Table unless the Schedule says otherwise?
+OPTION_A: Art 218.1.5
+OPTION_B: Art 218.1.6
+OPTION_C: Art 218.1.7
+OPTION_D: Art 218.2.1
+CORRECT: B
+EXPLANATION: JRs Art 218.1.6 sets out the general principle and the Table A-to-Table C exception if specified in the Schedule.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

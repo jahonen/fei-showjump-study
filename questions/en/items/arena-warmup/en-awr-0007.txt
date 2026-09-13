@@ -1,0 +1,17 @@
+ID: en-awr-0007
+PARENT_ID: en-awr-0007
+DOMAIN: arena-warmup
+ARTICLE: 242.4.12
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 44
+TYPE: single-select
+STEM: Which activity is specifically not permitted during the warm-up for a Competition?
+OPTION_A: Walking over poles placed on the ground
+OPTION_B: Gymnastic/training exercises
+OPTION_C: Jumping a single vertical
+OPTION_D: Using guide poles
+CORRECT: B
+EXPLANATION: JRs Art 242.4.12 expressly states that gymnastic/training exercises are not permitted during the warm-up for a Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

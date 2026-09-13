@@ -1,0 +1,17 @@
+ID: en-jof-0062-v1
+PARENT_ID: en-jof-0062
+DOMAIN: jump-offs
+ARTICLE: 218.3.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 25
+TYPE: single-select
+STEM: Under JRs Art 218.3.1, an Athlete who is Eliminated in a jump-off is placed:
+OPTION_A: First
+OPTION_B: Equal last after those who completed
+OPTION_C: According to preliminary round time
+OPTION_D: Not placed
+CORRECT: B
+EXPLANATION: JRs Art 218.3.1 provides that Elimination, retirement, or permitted withdrawal places the Athlete equal last in the round after all who completed.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

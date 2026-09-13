@@ -1,0 +1,17 @@
+ID: en-obs-0016-v1
+PARENT_ID: en-obs-0016
+DOMAIN: obstacles
+ARTICLE: 237.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 39
+TYPE: single-select
+STEM: An Athlete has a Run-out at the second element of a normal open double combination. What must they do?
+OPTION_A: Jump only the second element again
+OPTION_B: Jump both elements again
+OPTION_C: Jump the second element and then continue
+OPTION_D: They are Eliminated
+CORRECT: B
+EXPLANATION: JRs Art 237.3 requires the Athlete to re-jump all elements of the Combination after a Refusal or Run-out.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

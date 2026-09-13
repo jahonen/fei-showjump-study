@@ -1,0 +1,17 @@
+ID: en-fdc-0021-v1
+PARENT_ID: en-fdc-0021
+DOMAIN: faults-during-course
+ARTICLE: 246.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 47
+TYPE: single-select
+STEM: Under JRs Art 246.1.4, a regular circle or group of circles is a Disobedience unless:
+OPTION_A: It occurs in the warm-up arena
+OPTION_B: It is circling for up to 45 seconds after a Run-out or Refusal to get into position
+OPTION_C: The Athlete circles the last obstacle jumped
+OPTION_D: It is done at the request of a Steward
+CORRECT: B
+EXPLANATION: JRs Art 246.1.4 states that circling for up to 45 seconds after a Run-out or Refusal to get into position to jump an obstacle is not a Disobedience.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

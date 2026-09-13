@@ -1,0 +1,17 @@
+ID: en-fdc-0020-v1
+PARENT_ID: en-fdc-0020
+DOMAIN: faults-during-course
+ARTICLE: 245.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: A spread obstacle has two top parts that are not in the same vertical plane. One top part falls during a round. How many Faults are counted?
+OPTION_A: One
+OPTION_B: Two
+OPTION_C: One per part that falls
+OPTION_D: None unless both fall
+CORRECT: A
+EXPLANATION: JRs Art 245.1 provides that when a spread obstacle requiring one effort comprises parts that are not positioned in the same vertical plane, the fall of one or several top parts only counts as one Fault, whatever the number and position of the parts that have fallen.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

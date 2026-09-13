@@ -1,0 +1,17 @@
+ID: en-awr-0001-v2
+PARENT_ID: en-awr-0001
+DOMAIN: arena-warmup
+ARTICLE: 241.1.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: What does JRs Art 241.1.1 require while a Horse is in the Competition Arena during a Competition?
+OPTION_A: Only the entrance used by the Horse must be closed
+OPTION_B: All entrances and exits must be physically closed
+OPTION_C: Entrances may remain open if a Steward is present
+OPTION_D: Exits must be marked but may remain open
+CORRECT: B
+EXPLANATION: JRs Art 241.1.1 requires the Competition Arena to be enclosed and all entrances and exits to be physically closed while a Horse is in the arena during a Competition.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

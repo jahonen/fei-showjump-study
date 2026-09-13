@@ -1,0 +1,17 @@
+ID: en-pte-0037-v3
+PARENT_ID: en-pte-0037
+DOMAIN: penalty-tables
+ARTICLE: 217.2.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 23
+TYPE: single-select
+STEM: Under Table C, a first Disobedience without a knock-down results in:
+OPTION_A: 4 seconds added
+OPTION_B: 6 seconds added
+OPTION_C: No Penalty
+OPTION_D: Elimination
+CORRECT: C
+EXPLANATION: JRs Art 217.2.1 states that the first Disobedience under Table C incurs no Penalty (None).
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-awr-0004-v2
+PARENT_ID: en-awr-0004
+DOMAIN: arena-warmup
+ARTICLE: 241.3.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 41
+TYPE: single-select
+STEM: Why are distinguishing letters added at each element of a Combination?
+OPTION_A: To indicate the order of elements for the Ground Jury and Athletes
+OPTION_B: To increase the obstacle count
+OPTION_C: To show which elements are optional
+OPTION_D: To mark closed Combinations only
+CORRECT: A
+EXPLANATION: JRs Art 241.3.3 explains that the single number may be repeated at each element with distinguishing letters for the benefit of the Ground Jury and Athletes.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

@@ -1,0 +1,17 @@
+ID: en-pte-0041
+PARENT_ID: en-pte-0041
+DOMAIN: penalty-tables
+ARTICLE: 217.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 24
+TYPE: single-select
+STEM: An Athlete wishes to do a training round in a Competition Against the Clock under Table A. What must they do?
+OPTION_A: Pay an extra fee
+OPTION_B: Inform the OC at the time of submission of declarations and start first
+OPTION_C: Obtain permission from the Ground Jury after the first round
+OPTION_D: Nothing; it is not allowed
+CORRECT: B
+EXPLANATION: JRs Art 217.3 states that Athletes wishing to do a training round in Competitions Against the Clock under Table A or C must inform the OC at the time of submission of declarations, and those wishing to do a training round will start first.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

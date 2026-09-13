@@ -1,0 +1,17 @@
+ID: en-fdc-0019-v1
+PARENT_ID: en-fdc-0019
+DOMAIN: faults-during-course
+ARTICLE: 244.1
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 46
+TYPE: single-select
+STEM: Under JRs Art 244.1, a Fault at the Water Jump is included in the list of Faults that:
+OPTION_A: Always result in Elimination
+OPTION_B: Incur Penalties unless specified otherwise
+OPTION_C: Are ignored in Table C
+OPTION_D: Apply only to the first round
+CORRECT: B
+EXPLANATION: JRs Art 244.1 includes a Fault at the Water Jump among the Faults that incur Penalties unless specified otherwise in the JRs.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes

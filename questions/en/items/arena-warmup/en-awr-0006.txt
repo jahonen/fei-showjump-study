@@ -1,0 +1,17 @@
+ID: en-awr-0006
+PARENT_ID: en-awr-0006
+DOMAIN: arena-warmup
+ARTICLE: 242.4.3
+EDITION_REF: FEI Jumping Rules, 28th edition, effective 1 January 2026
+SOURCE_PAGE: 44
+TYPE: single-select
+STEM: In a Competition where the maximum obstacle height is 1.40 m or less, what is the maximum permitted height of practice obstacles in the Warm-Up Arena?
+OPTION_A: 1.40 m
+OPTION_B: 1.50 m
+OPTION_C: 10 cm more than the Competition maximum, up to 1.50 m
+OPTION_D: 1.65 m
+CORRECT: C
+EXPLANATION: JRs Art 242.4.3 provides that for Competitions (except Pony Events) where the maximum obstacle height is 1.40 m or less, Warm-Up obstacles may not exceed 10 cm more than the actual maximum height and width of the Competition obstacles.
+STATUS: verified
+CREATED: 2026-09-13
+VERIFIED_AGAINST_SOURCE: yes
