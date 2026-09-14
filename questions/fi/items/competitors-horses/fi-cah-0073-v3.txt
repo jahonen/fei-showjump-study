@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Kuinka monta hevosta urheilijaa kohden kilpailun järjestäjä voi sallia CSIAm-tapahtumassa?
-OPTION_A: Vain yksi
-OPTION_B: Enintään neljä
-OPTION_C: Useampi kuin yksi hevonen kaikissa kilpailuissa
-OPTION_D: Ei rajaa
+STEM: Kuinka monella hevosella kilpailun järjestäjä voi sallia urheilijan ratsastaa CSIAm-kilpailussa?
+OPTION_A: Vain yhdellä
+OPTION_B: Enintään neljällä
+OPTION_C: Useammalla kuin yhdellä hevosella kaikissa kilpailuissa
+OPTION_D: Ei rajoitusta
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen artikla 333 toteaa, että Yhteisösääntöjen artikla 333 ei koske CSIAm-tapahtumia, joissa järjestäjä voi sallia urheilijoiden ratsastaa useammalla kuin yhdellä hevosella kaikissa kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artikla 333 ei koske CSIAm-kilpailuja, joissa järjestäjä voi sallia urheilijoiden ratsastaa useammalla kuin yhdellä hevosella kaikissa kilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Milloin kierroksen aika alkaa?
-OPTION_A: Kun kello soitetaan
-OPTION_B: Kun urheilija astuu kilpailualueelle
-OPTION_C: Kun urheilija/hevosyhdistelmä ylittää lähtöviivan oikeaan suuntaan ensimmäistä kertaa kellon soiton jälkeen tai kun 45 sekunnin lähtölaskenta päättyy, kumpi tahansa tapahtuu ensin
-OPTION_D: Kun urheilija ylittää ensimmäisen esteen
+STEM: Milloin ajanotto alkaa?
+OPTION_A: Kun äänimerkki annetaan
+OPTION_B: Kun urheilija saapuu kilpailualueelle
+OPTION_C: Kun ratsukko ylittää lähtölinjan oikeasta suunnasta ensimmäisen kerran lähtömerkin jälkeen tai kun 45 sekunnin valmiusaika päättyy, sen mukaan kumpi tapahtuu ensin
+OPTION_D: Kun ratsukko hyppää ensimmäisen esteen
 CORRECT: C
-EXPLANATION: JR:n artiklan 352 mukaan aika alkaa kulua, kun urheilija/hevonen-yhdistelmä ylittää lähtöviivan oikeaan suuntaan ensimmäistä kertaa kellon soiton jälkeen tai kun 45 sekunnin lähtölaskenta päättyy, riippuen siitä, kumpi tapahtuu ensin.
+EXPLANATION: Kilpailusääntöjen kohdan 352 mukaan ajanotto alkaa, kun ratsukko ylittää lähtölinjan oikeasta suunnasta ensimmäisen kerran lähtömerkin jälkeen tai kun 45 sekunnin valmiusaika päättyy, sen mukaan kumpi tapahtuu ensin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

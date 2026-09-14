@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Urheilija kieltäytyy esteestä 3 ja myöhemmin esteestä 7 samalla kierroksella taulukon A mukaisesti. Kuinka monta tottelemattomuusrangaistusta annetaan?
-OPTION_A: 4 rangaistusta (vain ensimmäinen)
-OPTION_B: 8 rangaistusta (yhteensä)
-OPTION_C: Eliminaatio
-OPTION_D: Ei rangaistusta toisesta erästä
+STEM: Ratsukko kieltäytyy arvostelun A mukaisessa kilpailussa esteellä 3 ja myöhemmin samalla suorituksella esteellä 7. Miten tottelemattomuudet tuomitaan?
+OPTION_A: 4 virhepistettä eli vain ensimmäisestä tottelemattomuudesta
+OPTION_B: Yhteensä 8 virhepistettä
+OPTION_C: Suoritus hylätään
+OPTION_D: Toisesta tottelemattomuudesta ei anneta virhepisteitä
 CORRECT: C
-EXPLANATION: Taulukon A mukaan ensimmäinen tottelemattomuus johtaa neljään rangaistukseen ja toinen tottelemattomuus samalla kierroksella johtaa eliminointiin (JR:n artikla 342).
+EXPLANATION: Arvostelussa A ensimmäisestä tottelemattomuudesta annetaan neljä virhepistettä, ja toinen tottelemattomuus samalla suorituksella johtaa hylkäämiseen (kilpailusääntöjen kohta 342).
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

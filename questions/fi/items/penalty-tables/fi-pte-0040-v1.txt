@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Yhteisten sääntöjen artiklan 217.1.2 mukaisesti virallisissa tuloksissa on erikseen eriteltävä:
+STEM: Mitä virallisissa tuloksissa on kilpailusääntöjen kohdan 217.1.2 mukaan eriteltävä erikseen?
 OPTION_A: Omistajien nimet
-OPTION_B: Aikarangaistukset ja muut rangaistukset
+OPTION_B: Aikavirhepisteet ja muut virhepisteet
 OPTION_C: Palkintorahat
-OPTION_D: Kunkin urheilijan kansalaisuus
+OPTION_D: Urheilijoiden kansalaisuus
 CORRECT: B
-EXPLANATION: JR:n artikla 342 edellyttää, että virallisissa tuloksissa on ilmoitettava kokonaisrangaistukset ja erikseen eriteltävä aikarangaistukset ja muut rangaistukset.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 edellytetään, että virallisissa tuloksissa ilmoitetaan virhepisteiden kokonaismäärä ja eritellään erikseen aikavirhepisteet ja muut virhepisteet.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

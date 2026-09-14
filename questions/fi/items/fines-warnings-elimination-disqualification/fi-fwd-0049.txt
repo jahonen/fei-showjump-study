@@ -8,10 +8,10 @@ TYPE: single-select
 STEM: Urheilija käyttää matkapuhelinta kilpailualueella kilpailun aikana. Mitä siitä seuraa?
 OPTION_A: Varoitus
 OPTION_B: 1 000 Sveitsin frangin sakko
-OPTION_C: Eliminaatio
-OPTION_D: Ei sakkoa, jos puhelin on taskussa
+OPTION_C: Suorituksen hylkääminen
+OPTION_D: Ei seurausta, jos puhelin on taskussa
 CORRECT: C
-EXPLANATION: JR:n artikla 346 toteaa, että urheilijan matkapuhelimen, muun elektronisen viestintälaitteen tai kuulokkeiden käyttö kilpailualueella kilpailun aikana johtaa kilpailusta poistamiseen.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 todetaan, että matkapuhelimen, muun elektronisen viestintälaitteen tai kuulokkeiden käyttö kilpailualueella kilpailun aikana johtaa hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

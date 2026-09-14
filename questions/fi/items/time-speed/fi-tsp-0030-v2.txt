@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Mikä on sallittu aika 400 metrin radalla juostessa nopeudella 400 m/min?
+STEM: Mikä on enimmäisaika, kun tien pituus on 400 m ja nopeus 400 m/min?
 OPTION_A: 60 sekuntia
 OPTION_B: 80 sekuntia
 OPTION_C: 90 sekuntia
 OPTION_D: 100 sekuntia
 CORRECT: A
-EXPLANATION: Sallittu aika = radan pituus / nopeus. 400 m / 400 m/min = 1 min = 60 sekuntia.
+EXPLANATION: Enimmäisaika saadaan jakamalla tien pituus nopeudella: 400 m / 400 m/min = 1 min eli 60 sekuntia.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

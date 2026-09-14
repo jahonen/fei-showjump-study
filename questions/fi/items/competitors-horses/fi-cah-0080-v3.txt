@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Kenelle NF:n virallisten takkien värejä koskevat kiistat ohjataan JR:n artiklan 207.2.4.4 nojalla?
-OPTION_A: FEI:n puheenjohtaja
-OPTION_B: FEI:n pääsihteeri
-OPTION_C: Tuomaristo
-OPTION_D: Joukkueenjohtaja
+STEM: Kenen ratkaistaviksi kansallisten liittojen virallisten takkien värejä koskevat kiistat annetaan artiklan 207.2.4.4 mukaan?
+OPTION_A: FEI:n puheenjohtajan
+OPTION_B: FEI:n pääsihteerin
+OPTION_C: Tuomariston
+OPTION_D: Joukkueenjohtajan
 CORRECT: B
-EXPLANATION: Yhteisten kilpailusääntöjen artiklassa 207.2.4.4 todetaan, että värejä koskevat kiistat annetaan FEI:n pääsihteerin käsiteltäväksi, jonka päätös on lopullinen.
+EXPLANATION: Kilpailusääntöjen artiklassa 207.2.4.4 todetaan, että värejä koskevat kiistat annetaan FEI:n pääsihteerin ratkaistaviksi ja että hänen päätöksensä on lopullinen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

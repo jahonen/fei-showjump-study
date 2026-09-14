@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Eteläisellä pallonpuoliskolla syntyneen hevosen, joka kilpailee pohjoisella pallonpuoliskolla, tulisi yleensä sallia kilpailla seuraavissa hevosluokissa:
-OPTION_A: Vuoden vanhempi
-OPTION_B: Yhden vuoden nuorempi
-OPTION_C: Kaksi vuotta vanhempi
-OPTION_D: Samanikäinen
+STEM: Eteläisellä pallonpuoliskolla syntynyt hevonen kilpailee pohjoisella pallonpuoliskolla. Minkä ikäluokan kilpailuissa sen annetaan yleensä kilpailla?
+OPTION_A: Vuotta vanhempien hevosten luokassa
+OPTION_B: Vuotta nuorempien hevosten luokassa
+OPTION_C: Kaksi vuotta vanhempien hevosten luokassa
+OPTION_D: Samanikäisten hevosten luokassa
 CORRECT: B
-EXPLANATION: Juniorisääntöjen artikla 333 määrää, että eteläisen pallonpuoliskon hevosten, jotka kilpailevat pohjoisella pallonpuoliskolla, tulisi sallia kilpailla vuotta nuorempien hevosten kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artiklan 333 mukaan eteläisellä pallonpuoliskolla syntyneiden hevosten, jotka kilpailevat pohjoisella pallonpuoliskolla, annetaan kilpailla vuotta nuorempien hevosten luokissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

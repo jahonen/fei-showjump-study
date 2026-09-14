@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Missä kilpailuissa urheilijat eivät saa kilpailla Grand Prix -kilpailuissa JR:n artiklan 205.1 nojalla ennen 18 vuoden ikää?
-OPTION_A: Vain CSI1*
-OPTION_B: CSI3* - CSI5*
-OPTION_C: Vain CSIAm
-OPTION_D: Kaikki CSI:t
+STEM: Minkä kilpailuluokkien Grand Prix -kilpailuihin alle 18-vuotiaat urheilijat eivät saa osallistua kilpailusääntöjen artiklan 205.1 mukaan?
+OPTION_A: Vain CSI1*-kilpailujen
+OPTION_B: CSI3*–CSI5*-kilpailujen
+OPTION_C: Vain CSIAm-kilpailujen
+OPTION_D: Kaikkien CSI-kilpailujen
 CORRECT: B
-EXPLANATION: Juniorisääntöjen artikla 333 kieltää alle 18-vuotiaita urheilijoita kilpailemasta CSI3* – CSI5* Grand Prix -kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artikla 333 kieltää alle 18-vuotiailta urheilijoilta osallistumisen CSI3*–CSI5*-kilpailujen Grand Prix -kilpailuihin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

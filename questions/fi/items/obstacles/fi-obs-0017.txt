@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on suljettu yhdistelmä?
-OPTION_A: Yhdistelmä, jossa on lippuja vain ensimmäisessä ja viimeisessä elementissä
-OPTION_B: Yhdistelmä, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä
-OPTION_C: Yhdistelmä, jonka elementit ovat niin lähellä toisiaan, että ne muodostavat yhden kokonaisuuden
-OPTION_D: Yhdistelmä, joka ei saa ylittää kahta elementtiä
+STEM: Millainen on umpinainen sarjaeste?
+OPTION_A: Sarjaeste, jossa on liput vain ensimmäisellä ja viimeisellä osaesteellä
+OPTION_B: Sarjaeste, jonka ympäröivät sivut voi ylittää vain hyppäämällä
+OPTION_C: Sarjaeste, jonka osaesteet ovat niin lähellä toisiaan, että ne muodostavat yhden kokonaisuuden
+OPTION_D: Sarjaeste, jossa saa olla enintään kaksi osaestettä
 CORRECT: B
-EXPLANATION: JR:n artikla 301 määrittelee täysin suljetun yhdistelmän sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä; esimerkkejä ovat sisään-ulos-este, lammaskarsina, neliön tai kuusikulmainen este.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 täysin umpinaiseksi sarjaesteeksi määritellään sarjaeste, jonka ympäröivät sivut voi ylittää vain hyppäämällä. Tällaisia ovat esimerkiksi in and out -este, karsina sekä neliön tai kuusikulmion muotoinen este.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

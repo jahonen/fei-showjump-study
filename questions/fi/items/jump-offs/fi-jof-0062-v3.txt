@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Joukkuekilpailussa Nations Cupissa toiselta kierrokselta putoava joukkue sijoittuu seuraavasti:
-OPTION_A: Tasapeli viimeinen toisella kierroksella
-OPTION_B: Heidän pistemääränsä ensimmäisellä kierroksella
-OPTION_C: Kolikonheitto
-OPTION_D: Heidän alustava sijoituksensa
+STEM: Miten Nations Cup -kilpailussa toiselta kierrokselta luopuva joukkue sijoittuu?
+OPTION_A: Tasan viimeiseksi toisella kierroksella
+OPTION_B: Ensimmäisellä kierroksella saamiensa virhepisteiden mukaan
+OPTION_C: Kolikonheiton perusteella
+OPTION_D: Alustavan sijoituksensa mukaan
 CORRECT: B
-EXPLANATION: JR:n artikla 344 toteaa, että joukkueet, jotka vetäytyvät Nations Cupin toiselta kierrokselta, sijoittuvat ensimmäisellä kierroksella saavuttamiensa pisteiden mukaan.
+EXPLANATION: Kilpailusääntöjen artiklan 344 mukaan joukkue, joka luopuu Nations Cup -kilpailun toiselta kierrokselta, sijoittuu ensimmäisellä kierroksella saamiensa virhepisteiden mukaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: JR:n artiklan 275.3.2 mukaan hevosen tunnistenumeron selkeästi esillepanematta jättäminen johtaa ensisijaisesti seuraamuksiin:
-OPTION_A: Eliminaatio
+STEM: Mitä kilpailusääntöjen kohdan 275.3.2 mukaan seuraa ensimmäisellä kerralla siitä, ettei hevosen tunnistenumero ole selvästi näkyvillä?
+OPTION_A: Suorituksen hylkääminen
 OPTION_B: Varoitus
 OPTION_C: Sakko
-OPTION_D: Hylkääminen
+OPTION_D: Kilpailusta sulkeminen
 CORRECT: B
-EXPLANATION: Tuomariston artiklan 321 mukaan tunnistenumeron näyttämättä jättäminen johtaa ensin varoitukseen ja toistuvissa rikkomuksissa tuomaristo määräämään sakkoon.
+EXPLANATION: Kilpailusääntöjen kohdan 321 mukaan tunnistenumeron esilläpidon laiminlyönnistä annetaan ensin varoitus, ja toistuvasta rikkomuksesta tuomaristo voi määrätä sakon.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

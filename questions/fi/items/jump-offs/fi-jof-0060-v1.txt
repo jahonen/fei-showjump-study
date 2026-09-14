@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Mitä yhdistelmäesteen osa-aluetta EI saa muuttaa uusinnan aikana juniorisääntöjen artiklan 218.2.6 mukaisesti?
-OPTION_A: Korkeus
-OPTION_B: Yksittäisten elementtien leveys
-OPTION_C: Elementtien välinen etäisyys
-OPTION_D: Väri
+STEM: Mitä sarjaesteen ominaisuutta EI saa muuttaa uusintaan kilpailusääntöjen artiklan 218.2.6 mukaan?
+OPTION_A: Korkeutta
+OPTION_B: Yksittäisten osaesteiden leveyttä
+OPTION_C: Osaesteiden välistä etäisyyttä
+OPTION_D: Väriä
 CORRECT: C
-EXPLANATION: Yhdistelmäesteen elementtien välisen etäisyyden muuttaminen uusinnan aikana on nimenomaisesti kielletty. Yhteisösääntöjen artikla 344 kieltää erityisesti yhdistelmäesteen elementtien välisen etäisyyden muuttamisen uusinnan aikana.
+EXPLANATION: Kilpailusääntöjen artikla 344 kieltää nimenomaisesti sarjaesteen osaesteiden välisen etäisyyden muuttamisen uusinnassa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

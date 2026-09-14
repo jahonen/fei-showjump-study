@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Siitä vuodesta lähtien, jona urheilija täyttää 12 vuotta, hän voi osallistua CSI- ja CSIO-kilpailuihin 1*–5* sekä CSIAm-luokkien A ja B kilpailuissa edellyttäen, että esteiden korkeus ensimmäisellä kierroksella ei ylitä:
+STEM: Siitä vuodesta alkaen, jona urheilija täyttää 12 vuotta, hän voi osallistua CSI- ja CSIO1*–5*-kilpailuihin sekä CSIAm-luokkien A ja B kilpailuihin edellyttäen, että esteiden korkeus ensimmäisellä kierroksella ei ylitä:
 OPTION_A: 1,20 metriä
 OPTION_B: 1,30 metriä
 OPTION_C: 1,40 metriä
 OPTION_D: 1,50 metriä
 CORRECT: B
-EXPLANATION: Juniorisääntöjen artiklassa 205.2.2 määrätään, että urheilijat voivat 12. syntymäpäivästään alkaen kilpailla CSI/CSIO 1*–5* ja CSIAm A/B -lajeissa edellyttäen, että ensimmäisen kierroksen estekorkeus ei ylitä 1,30 m.
+EXPLANATION: Kilpailusääntöjen artiklassa 205.2.2 määrätään, että urheilijat voivat siitä vuodesta alkaen, jona he täyttävät 12 vuotta, kilpailla CSI- ja CSIO1*–5*-kilpailuissa sekä CSIAm-luokkien A ja B kilpailuissa edellyttäen, että ensimmäisen kierroksen esteiden korkeus ei ylitä 1,30 metriä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

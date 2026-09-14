@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Hevonen kaatuu maaliviivan ylityksen jälkeen. Yhteisösääntöjen artiklan 248.2 mukaan tämä yleensä:
-OPTION_A: Silti aiheuttaa eliminoinnin
-OPTION_B: Ei aiheuta eliminointia
-OPTION_C: Antaa 4 rangaistusta
-OPTION_D: Tuloksena on varoitus
+STEM: Hevonen kaatuu maalilinjan ylittämisen jälkeen. Mitä tästä yleensä seuraa artiklan 248.2 mukaan?
+OPTION_A: Suoritus hylätään silti
+OPTION_B: Suoritusta ei hylätä
+OPTION_C: Ratsukolle tuomitaan 4 virhepistettä
+OPTION_D: Urheilija saa varoituksen
 CORRECT: B
-EXPLANATION: JR:n artikla 348 määrää, että kaatuminen maaliviivan ylityksen jälkeen ei aiheuta hylkäämistä.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 määrätään, että maalilinjan ylittämisen jälkeen tapahtunut kaatuminen ei johda suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

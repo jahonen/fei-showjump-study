@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: JR:n artiklan 202.1.4 mukaisesti pohjoisen pallonpuoliskon hevosen, joka kilpailee eteläisellä pallonpuoliskolla, tulisi yleensä kilpailla hevosluokassa:
-OPTION_A: Vuoden vanhempi
-OPTION_B: Yhden vuoden nuorempi
-OPTION_C: Kaksi vuotta nuorempi
-OPTION_D: Samanikäinen
+STEM: Pohjoisella pallonpuoliskolla syntynyt hevonen kilpailee eteläisellä pallonpuoliskolla. Minkä ikäluokan kilpailuissa se yleensä kilpailee kilpailusääntöjen artiklan 202.1.4 mukaan?
+OPTION_A: Vuotta vanhempien hevosten luokassa
+OPTION_B: Vuotta nuorempien hevosten luokassa
+OPTION_C: Kaksi vuotta nuorempien hevosten luokassa
+OPTION_D: Samanikäisten hevosten luokassa
 CORRECT: A
-EXPLANATION: JR:n artikla 333 toteaa, että pohjoisen pallonpuoliskon hevosten, jotka kilpailevat eteläisellä pallonpuoliskolla, tulisi sallia kilpailla vuoden ikäisten hevosten kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artiklan 333 mukaan pohjoisella pallonpuoliskolla syntyneiden hevosten, jotka kilpailevat eteläisellä pallonpuoliskolla, annetaan kilpailla vuotta vanhempien hevosten luokissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

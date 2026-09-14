@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Yhteisten kilpailusääntöjen artiklan 218.1.9 mukaisesti yksittäisen Longines Ranking -kilpailun uusinnan lähtöjärjestys voidaan määrittää:
-OPTION_A: Aakkosjärjestyksessä urheilijan sukunimen mukaan
-OPTION_B: Urheilijoiden aikojen käänteisessä järjestyksessä edellisellä kierroksella
-OPTION_C: Arvonnan perusteella
+STEM: Miten Longines Ranking -kilpailun uusinnan lähtöjärjestys voidaan kilpailusääntöjen artiklan 218.1.9 mukaan määrätä?
+OPTION_A: Aakkosjärjestykseen urheilijoiden sukunimen mukaan
+OPTION_B: Edellisen kierroksen aikojen käänteiseen järjestykseen
+OPTION_C: Arvonnalla
 OPTION_D: Kansalaisuuden mukaan
 CORRECT: B
-EXPLANATION: JR:n artikla 344 sallii yksittäisen Longines Ranking -kilpailun uusinnan lähtöjärjestyksen määräytymisen käänteisessä järjestyksessä urheilijoiden edellisen kierroksen aikoihin verrattuna, jos aikataulussa niin on määrätty.
+EXPLANATION: Kilpailusääntöjen artikla 344 sallii sen, että Longines Ranking -kilpailun uusinnan lähtöjärjestys määräytyy urheilijoiden edellisen kierroksen aikojen käänteisessä järjestyksessä, jos kilpailukutsussa on niin määrätty.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

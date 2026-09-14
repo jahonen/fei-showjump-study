@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: multi-select
-STEM: Mitkä taulukon A mukaiset virheet aiheuttavat 4 rangaistusta ensimmäisellä esiintymisellä?
+STEM: Mitkä virheet aiheuttavat arvostelussa A neljä virhepistettä ensimmäisellä kerralla?
 OPTION_A: Ensimmäinen tottelemattomuus
-OPTION_B: Este kaadettu
-OPTION_C: Vika vesihypyssä
-OPTION_D: Hevosen ja/tai urheilijan kaatuminen
+OPTION_B: Esteen pudottaminen
+OPTION_C: Rajaviivan (vedenpinnan) rikkominen vesiesteellä
+OPTION_D: Kumoon ratsastaminen ja/tai satulasta putoaminen
 CORRECT: A,B,C
-EXPLANATION: JR:n artikla 342 toteaa, että taulukon A mukaan ensimmäinen tottelemattomuus, esteen kaatuminen ja vesiesteessä tehty virhe tuottavat kukin neljä rangaistusta. Kaatuminen johtaa kilpailusta poistamiseen.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 todetaan, että arvostelussa A ensimmäisestä tottelemattomuudesta, esteen pudottamisesta ja vesiesteellä tehdystä virheestä annetaan kustakin neljä virhepistettä. Kumoon ratsastaminen ja/tai satulasta putoaminen johtaa suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

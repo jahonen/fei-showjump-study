@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Yhteisten sääntöjen artiklan 250.1 mukaan sallitun ajan ylittäminen johtaa:
-OPTION_A: Eliminaatio
-OPTION_B: Aikarangaistukset
-OPTION_C: Varoitus
-OPTION_D: Ei seurauksia
+STEM: Mihin enimmäisajan ylittäminen johtaa kilpailusääntöjen kohdan 250.1 mukaan?
+OPTION_A: Suorituksen hylkäämiseen
+OPTION_B: Aikavirhepisteisiin
+OPTION_C: Varoitukseen
+OPTION_D: Ei mihinkään seuraukseen
 CORRECT: B
-EXPLANATION: Yhteisten sääntöjen artikla 352 määrää, että sallitun ajan ylittämisestä seuraa aikarangaistus. Enimmäisaikarajan ylittäminen voi kuitenkin johtaa hylkäämiseen artikla 352/263.4.13 nojalla.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 määrätään, että enimmäisajan ylittämisestä annetaan aikavirhepisteitä. Aikarajan ylittäminen voi sen sijaan johtaa suorituksen hylkäämiseen (kilpailusääntöjen kohdat 352 ja 263.4.13).
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: JR:n artiklan 218.2.7 mukaan kaksi lisäestettä uusintaan voidaan lisätä:
-OPTION_A: Vain vertikaalit
-OPTION_B: Kaksi aukeamaa, kaksi pystysuoraa tai yksi kumpaakin
-OPTION_C: Vain vesi hyppää
-OPTION_D: Vain yhdistelmät
+STEM: Millaisia ovat ne kaksi lisäestettä, jotka kilpailusääntöjen artiklan 218.2.7 mukaan saa lisätä uusintaan?
+OPTION_A: Vain pystyesteitä
+OPTION_B: Kaksi pituusestettä, kaksi pystyestettä tai yksi kumpaakin
+OPTION_C: Vain vesihautoja
+OPTION_D: Vain sarjaesteitä
 CORRECT: B
-EXPLANATION: JR:n artiklassa 218.2.7.1 määrätään, että kaksi lisäestettä voivat koostua kahdesta leveälinjaisesta tai kahdesta pystysuorasta esteestä tai yhdestä leveälinjaisesta ja yhdestä pystysuorasta esteestä.
+EXPLANATION: Kilpailusääntöjen artiklassa 218.2.7.1 määrätään, että kaksi lisäestettä voivat olla joko kaksi pituusestettä, kaksi pystyestettä tai yksi pituuseste ja yksi pystyeste.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

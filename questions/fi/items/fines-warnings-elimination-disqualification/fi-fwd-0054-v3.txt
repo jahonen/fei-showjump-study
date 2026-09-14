@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Joukkueen jäsenen takki ei ole samanvärinen kuin muun joukkueen jäsenen. JR:n artiklan 207.2.4.3 mukaan sakko on:
+STEM: Joukkueen jäsenen takki ei ole samanvärinen kuin muiden joukkueen jäsenten takit. Minkä suuruinen sakko tästä määrätään artiklan 207.2.4.3 mukaan?
 OPTION_A: 500 Sveitsin frangia
 OPTION_B: 1 000 Sveitsin frangia
 OPTION_C: 2 000 Sveitsin frangia
 OPTION_D: Ei sakkoa
 CORRECT: B
-EXPLANATION: JR:n artiklassa 207.2.4.3 todetaan, että urheilijoille, jotka eivät noudata joukkueen takin värisääntöä, määrätään 1 000 Sveitsin frangin sakko tuomaristolta.
+EXPLANATION: Artiklassa 207.2.4.3 todetaan, että urheilijalle, joka ei noudata joukkueen takin väriä koskevaa sääntöä, tuomaristo määrää 1 000 Sveitsin frangin sakon.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

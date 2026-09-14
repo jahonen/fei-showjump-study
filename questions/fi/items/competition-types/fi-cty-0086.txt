@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Mitä tapahtuu urheilijoille, joille on langetettu rangaistuksia ensimmäisessä vaiheessa normaalissa kahdessa vaiheessa kilpailussa?
-OPTION_A: Ne jatkavat toiseen vaiheeseen, mutta rangaistukset jatkuvat eteenpäin
-OPTION_B: Ne pysäytetään ensimmäisen vaiheen viimeisen esteen jälkeen tai ensimmäisen maaliviivan ylityksen jälkeen, jos ensimmäisen vaiheen sallittu aika on ylitetty, eivätkä ne jatka toiseen vaiheeseen.
-OPTION_C: He jatkavat toiseen vaiheeseen, mutta eivät välttämättä voita
-OPTION_D: Heidät on eliminoitu
+STEM: Mitä tapahtuu urheilijoille, jotka ovat saaneet virhepisteitä tavallisen kahden vaiheen kilpailun ensimmäisessä vaiheessa?
+OPTION_A: He jatkavat toiseen vaiheeseen, mutta virhepisteet siirtyvät mukana
+OPTION_B: Heidät pysäytetään ensimmäisen vaiheen viimeisen esteen jälkeen tai ensimmäisen maalilinjan ylittämisen jälkeen, jos ensimmäisen vaiheen sallittu aika on ylitetty, eivätkä he jatka toiseen vaiheeseen
+OPTION_C: He jatkavat toiseen vaiheeseen, mutta eivät voi enää voittaa
+OPTION_D: Heidät hylätään
 CORRECT: B
-EXPLANATION: JR:n artikla 354 toteaa, että urheilijat, joilla on rangaistuksia ensimmäisessä vaiheessa, pysäytetään hypättyään ensimmäisen vaiheen viimeisen esteen tai, jos ensimmäisen vaiheen aika on ylitetty, ylitettyään ensimmäisen vaiheen maaliviivan; heidän on pysähdyttävä eivätkä he saa jatkaa toiseen vaiheeseen.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 todetaan, että urheilijat, jotka ovat saaneet virhepisteitä ensimmäisessä vaiheessa, pysäytetään sen jälkeen, kun he ovat hypänneet ensimmäisen vaiheen viimeisen esteen tai, jos ensimmäisen vaiheen aika on ylitetty, ylittäneet ensimmäisen vaiheen maalilinjan. Heidän on pysähdyttävä, eivätkä he saa jatkaa toiseen vaiheeseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

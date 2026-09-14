@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Mestaruuskilpailuissa voidaan järjestää uusintahyppy tasapelin ratkaisemiseksi missä sijoissa?
-OPTION_A: Vain ensimmäinen sija
-OPTION_B: Korokepaikat
-OPTION_C: Mikä tahansa palkintorahapaikka
-OPTION_D: Viimeinen sija
+STEM: Millä sijoilla mestaruuskilpailuissa voidaan järjestää uusinta tasatuloksen ratkaisemiseksi?
+OPTION_A: Vain ensimmäisellä sijalla
+OPTION_B: Palkintokorokesijoilla
+OPTION_C: Kaikilla palkintosijoilla
+OPTION_D: Viimeisellä sijalla
 CORRECT: B
-EXPLANATION: Juniorisääntöjen artikla 344 sallii uusinnan, kun urheilija/hevonen -yhdistelmät ovat tasapisteissä palkintosijoilla mestaruuskilpailuissa tai kisoissa.
+EXPLANATION: Kilpailusääntöjen artikla 344 sallii uusinnan, kun ratsukot ovat tasatuloksessa palkintokorokesijoilla mestaruuskilpailuissa tai arvokilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

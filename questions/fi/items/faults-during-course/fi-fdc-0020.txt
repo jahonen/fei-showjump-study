@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Esteen kaatuminen tapahtuu, kun ratsastaja/hevosyhdistelmän virheen vuoksi esteen sama pystysuora taso tai sen yläosa kaatuu. Mitä tämä tarkoittaa pystysuoralle esteelle, joka koostuu kahdesta samaan pystysuoraan tasoon pinotusta osasta?
-OPTION_A: Vain yläosan putoamisesta rangaistaan
-OPTION_B: Molempien osien on kaaduttava, jotta kaadetaan
-OPTION_C: Alaosan putoamisesta rangaistaan aina.
-OPTION_D: Kumpikaan osa putoaa, ei lasketa kaatumiseksi.
+STEM: Esteen pudottaminen tapahtuu, kun este tai sen samassa pystytasossa oleva ylin osa putoaa ratsukon virheen vuoksi. Mitä tämä tarkoittaa pystyesteessä, joka koostuu kahdesta samaan pystytasoon asetetusta osasta?
+OPTION_A: Virhe tuomitaan vain ylimmän osan putoamisesta
+OPTION_B: Virhe tuomitaan vain, jos molemmat osat putoavat
+OPTION_C: Alemman osan putoamisesta tuomitaan aina virhe
+OPTION_D: Kumpaakaan osan putoamista ei tuomita pudottamiseksi
 CORRECT: A
-EXPLANATION: Yhteisten sääntöjen artikla 348 ja sitä seuraava kappale toteavat, että kun osat asetetaan päällekkäin samassa pystytasossa, vain ylimmän osan putoamisesta rangaistaan.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, että kun esteen osat on asetettu päällekkäin samaan pystytasoon, virhe tuomitaan vain ylimmän osan putoamisesta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

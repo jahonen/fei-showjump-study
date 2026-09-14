@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on JR:n artiklan 233.1 mukainen suurin sallittu estekorkeus sisätiloissa?
+STEM: Mikä on esteiden suurin sallittu korkeus sisäkilpailuissa kilpailusääntöjen artiklan 233.1 mukaan?
 OPTION_A: 1,60 metriä
 OPTION_B: 1,65 metriä
 OPTION_C: 1,70 metriä
 OPTION_D: 1,75 metriä
 CORRECT: B
-EXPLANATION: JR:n artikla 301 määrää, että esteiden korkeus sisäkilpailuissa ei saa koskaan ylittää 1,65 m, lukuun ottamatta kuuden tahdin ja nauhoituskilpailuja.
+EXPLANATION: Kilpailusääntöjen artikla 301 määrää, ettei esteiden korkeus sisäkilpailuissa saa koskaan ylittää 1,65 metriä lukuun ottamatta kuuden esteen kilpailuja ja Puissance-kilpailuja.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

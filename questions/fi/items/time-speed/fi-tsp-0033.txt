@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Milloin urheilijan aikaan lisätään kuuden sekunnin aikakorjaus JR:n artiklan 256 mukaan?
-OPTION_A: Aina kun este kaadetaan
-OPTION_B: Kun tottelemattomuus siirtää tai kaataa esteen tai asiaankuuluvan lipun artikkelin mukaisesti
-OPTION_C: Aina kun urheilija pyytää kellon pysäyttämistä
+STEM: Milloin ratsukon suoritusaikaan lisätään kuuden sekunnin aikalisä kilpailusääntöjen kohdan 256 mukaan?
+OPTION_A: Aina kun este putoaa
+OPTION_B: Kun tottelemattomuus siirtää tai pudottaa esteen tai sen rajoittimen kohdassa määritellyissä olosuhteissa
+OPTION_C: Aina kun urheilija pyytää ajanoton pysäyttämistä
 OPTION_D: Jokaisen tottelemattomuuden jälkeen
 CORRECT: B
-EXPLANATION: JR:n artikla 352 lisää kuuden sekunnin aikakorjauksen, kun urheilija tottelemattomuuden seurauksena siirtää tai kaataa esteen tai lipun artiklassa määritellyissä olosuhteissa.
+EXPLANATION: Kilpailusääntöjen kohdan 352 mukaan suoritusaikaan lisätään kuuden sekunnin aikalisä, kun ratsukko tottelemattomuuden seurauksena siirtää tai pudottaa esteen tai sen rajoittimen kohdassa määritellyissä olosuhteissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

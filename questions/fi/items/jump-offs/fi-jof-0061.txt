@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Kuinka monta lisäestettä hyppyradan alkuun saa lisätä?
-OPTION_A: Yksi
+STEM: Kuinka monta lisäestettä uusintaradalle saa lisätä?
+OPTION_A: Yhden
 OPTION_B: Kaksi
 OPTION_C: Kolme
-OPTION_D: Ei mitään
+OPTION_D: Ei yhtään
 CORRECT: B
-EXPLANATION: JR:n artikla 344 määrää, että hyppyradalle saa lisätä enintään kaksi ylimääräistä estettä.
+EXPLANATION: Kilpailusääntöjen artikla 344 määrää, että uusintaradalle saa lisätä enintään kaksi lisäestettä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

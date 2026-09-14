@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Minkä näytön on oltava urheilijan selvästi näkyvissä JR:n artiklan 251.1.1 mukaisesti?
-OPTION_A: Palkintolista
-OPTION_B: 45 sekunnin lähtölaskenta
-OPTION_C: Tulostaulu aiemmilla tuloksilla
-OPTION_D: verryttely kenttän aikataulu
+STEM: Mikä näyttö on oltava selvästi urheilijan nähtävissä kilpailusääntöjen kohdan 251.1.1 mukaan?
+OPTION_A: Palkintoluettelo
+OPTION_B: 45 sekunnin valmiusajan näyttö
+OPTION_C: Aiemmat tulokset näyttävä tulostaulu
+OPTION_D: Verryttelyalueen kilpailukutsu
 CORRECT: B
-EXPLANATION: JR:n artiklan 352 mukaan 45 sekunnin lähtölaskentaa näyttävän taulun on oltava urheilijan selvästi näkyvissä.
+EXPLANATION: Kilpailusääntöjen kohdan 352 mukaan 45 sekunnin valmiusaikaa näyttävän taulun on oltava selvästi urheilijan nähtävissä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mitä merkintöjä lähtö- ja maaliviivoissa tulee olla JR:n artiklan 241.2.5 mukaan?
+STEM: Millaiset merkinnät lähtö- ja maalilinjassa on oltava kilpailusääntöjen artiklan 241.2.5 mukaan?
 OPTION_A: Yksi keltainen lippu vasemmalla
 OPTION_B: Punainen lippu oikealla ja valkoinen lippu vasemmalla sekä S- ja F-merkit
 OPTION_C: Sininen lippu kummallakin puolella
-OPTION_D: Vain numeroituja kartioita
+OPTION_D: Vain numeroidut kartiot
 CORRECT: B
-EXPLANATION: JR:n artikla 329 vaatii kokonaan punaisen lipun oikealle ja kokonaan valkoisen lipun vasemmalle sekä S- (lähtö) ja F- (maali) -merkit.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 vaaditaan kokonaan punainen lippu oikealle ja kokonaan valkoinen lippu vasemmalle sekä S-merkki (lähtö) ja F-merkki (maali).
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

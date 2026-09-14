@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Yhteisten sääntöjen artiklan 264.1 mukaan hylkääminen voi olla:
-OPTION_A: Muunnettu sakoksi
+STEM: Millainen kilpailusta sulkeminen voi artiklan 264.1 mukaan olla?
+OPTION_A: Sakoksi muunnettava
 OPTION_B: Takautuva
-OPTION_C: Urheilijan vetämä
-OPTION_D: Rajoitettu nykyiseen kierrokseen
+OPTION_C: Urheilijan peruutettavissa
+OPTION_D: Vain meneillään olevaa suoritusta koskeva
 CORRECT: B
-EXPLANATION: Yhteisen rekisterin artiklan 346 mukaan hylkääminen voi olla myös takautuvaa.
+EXPLANATION: Artiklan 346 mukaan kilpailusta sulkeminen voi olla myös takautuva.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

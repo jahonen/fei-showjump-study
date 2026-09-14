@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mikä matkapari on JR:n artiklan 241.2.5 lähtö- ja maaliviivan sijoitukselle asettamien rajojen sisällä?
+STEM: Mikä etäisyyspari on kilpailusääntöjen artiklassa 241.2.5 lähtö- ja maalilinjan sijainnille asetettujen rajojen mukainen?
 OPTION_A: 4 m ja 16 m
-OPTION_B: 6 metriä ja 15 metriä
+OPTION_B: 6 m ja 15 m
 OPTION_C: 3 m ja 14 m
-OPTION_D: 8 metriä ja 18 metriä
+OPTION_D: 8 m ja 18 m
 CORRECT: B
-EXPLANATION: JR:n artikla 329 sallii 6–15 metrin etäisyyden ensimmäisestä ja viimeisestä esteestä; 6 m ja 15 m ovat täsmälleen sallitut rajat.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 sallitaan 6–15 metrin etäisyys ensimmäisestä ja viimeisestä esteestä, joten 6 m ja 15 m ovat täsmälleen sallitut rajat.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

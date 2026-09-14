@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mistä syystä tuomaristo voi JR:n artiklan 267.2 nojalla tehdä poikkeuksia palkintojenjaon läsnäolovaatimuksesta?
-OPTION_A: Kaupalliset syyt
+STEM: Millä perusteella tuomaristo voi kilpailusääntöjen artiklan 267.2 nojalla myöntää poikkeuksia palkintojenjakoon osallistumisesta?
+OPTION_A: Kaupallisista syistä
 OPTION_B: Turvallisuussyistä
-OPTION_C: Urheilijan kansalaisuus
-OPTION_D: Palkintosumma
+OPTION_C: Urheilijan kansalaisuuden vuoksi
+OPTION_D: Palkintosumman suuruuden vuoksi
 CORRECT: B
-EXPLANATION: Tuomariston artikla 341 sallii tuomaristolle poikkeuksia turvallisuussyistä palkintojenjakotilaisuuteen.
+EXPLANATION: Kilpailusääntöjen artiklan 341 mukaan tuomaristo voi myöntää palkintojenjakotilaisuuteen osallistumisesta poikkeuksia turvallisuussyistä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

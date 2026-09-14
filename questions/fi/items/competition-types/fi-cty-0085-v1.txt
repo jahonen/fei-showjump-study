@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Yhteisten kilpailusääntöjen artiklan 222.1.2 mukaan normaalin kaksivaiheisen kilpailun toinen vaihe saa sisältää enintään:
-OPTION_A: Yksi yhdistelmä
-OPTION_B: Kaksi yhdistelmää
-OPTION_C: Kolme yhdistelmää
-OPTION_D: Yhdistelmät ovat kiellettyjä
+STEM: Kilpailusääntöjen artiklan 222.1.2 mukaan tavallisen kahden vaiheen kilpailun toinen vaihe saa sisältää enintään:
+OPTION_A: Yhden sarjaesteen
+OPTION_B: Kaksi sarjaestettä
+OPTION_C: Kolme sarjaestettä
+OPTION_D: Ei yhtään sarjaestettä, sillä ne ovat kiellettyjä
 CORRECT: A
-EXPLANATION: Yhteisösääntöjen artiklassa 222.1.2 määrätään, että toinen vaihe suoritetaan neljästä kuuteen esteen yli, joihin saa sisältyä enintään yksi sarja.
+EXPLANATION: Kilpailusääntöjen artiklassa 222.1.2 määrätään, että toinen vaihe ratsastetaan neljän–kuuden esteen radalla, johon saa sisältyä enintään yksi sarjaeste.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Kuinka monta yksittäistä estettä ensimmäisen kierroksen täytyy sisältää ponnistuskilpailussa?
+STEM: Kuinka monta yksittäistä estettä Puissance-kilpailun ensimmäisen kierroksen on sisällettävä?
 OPTION_A: Kahdesta neljään
 OPTION_B: Neljästä kuuteen
-OPTION_C: Kuusi vai kahdeksan
+OPTION_C: Kuudesta kahdeksaan
 OPTION_D: Kahdeksasta kymmeneen
 CORRECT: B
-EXPLANATION: JR:n artiklan 354 mukaan puissanssin ensimmäisen kierroksen on koostuttava neljästä kuuteen yksittäisestä esteestä, joista vähintään yhden on oltava pystysuora este.
+EXPLANATION: Kilpailusääntöjen artiklan 354 mukaan Puissance-kilpailun ensimmäisen kierroksen on koostuttava neljästä–kuudesta yksittäisestä esteestä, joista vähintään yhden on oltava pystyeste.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

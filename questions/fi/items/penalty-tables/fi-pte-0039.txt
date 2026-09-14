@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Miten tottelemattomuusrangaistukset kertyvät taulukon A mukaisesti?
-OPTION_A: Vain samalla esteellä
-OPTION_B: Koko kierroksen ajan
-OPTION_C: Vain kurssin ensimmäisellä puoliskolla
-OPTION_D: Vasta kaatumisen jälkeen
+STEM: Miten tottelemattomuudesta annettavat virhepisteet kertyvät arvostelussa A?
+OPTION_A: Vain samalta esteeltä
+OPTION_B: Koko suorituksen ajalta
+OPTION_C: Vain radan ensimmäiseltä puoliskolta
+OPTION_D: Vasta kumoon ratsastamisen tai satulasta putoamisen jälkeen
 CORRECT: B
-EXPLANATION: JR:n artikla 342 määrää, että tottelemattomuusrangaistukset eivät kerry vain samalla esteellä, vaan koko kierroksen ajalta.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 määrätään, että tottelemattomuudesta annettavat virhepisteet eivät kerry vain samalta esteeltä vaan koko suorituksen ajalta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

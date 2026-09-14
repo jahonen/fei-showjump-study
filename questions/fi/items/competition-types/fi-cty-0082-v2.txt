@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Taulukon A aikakilpailussa urheilijat, jotka ovat tasapisteissä ensimmäisestä sijasta, voivat suorittaa uusinnan. Nuorten sääntöjen artiklan 220.2.1.2 mukaisesti tämä uusinta tuomariston mukaan:
-OPTION_A: Taulukko C
-OPTION_B: Taulukko A
-OPTION_C: Ei pöytää (vain aika)
-OPTION_D: Joukkuepäällikkö päättää
+STEM: Aikaa vastaan ratsastettavassa arvostelu A:n kilpailussa ensimmäisestä sijasta tasapisteissä olevat urheilijat voivat ratsastaa uusinnan. Minkä arvostelun mukaan tämä uusinta arvostellaan kilpailusääntöjen artiklan 220.2.1.2 mukaan?
+OPTION_A: Arvostelu C:n mukaan
+OPTION_B: Arvostelu A:n mukaan
+OPTION_C: Ilman arvostelua, pelkän ajan perusteella
+OPTION_D: Joukkueenjohtajan päätöksen mukaan
 CORRECT: B
-EXPLANATION: JR:n artikla 354 määrää taulukon A mukaisen uusinnan aikaan, kun rangaistuspotkuissa on tasapisteet.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 määrätään, että virhepisteiden ollessa tasan uusinta ratsastetaan arvostelu A:n mukaan aikaa vastaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

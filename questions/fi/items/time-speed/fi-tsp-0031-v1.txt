@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Jos kierroksen sallittu aika on 72 sekuntia, mikä on enimmäisaikaraja?
+STEM: Mikä on aikaraja, jos suorituksen enimmäisaika on 72 sekuntia?
 OPTION_A: 108 sekuntia
 OPTION_B: 120 sekuntia
 OPTION_C: 144 sekuntia
 OPTION_D: 180 sekuntia
 CORRECT: C
-EXPLANATION: Yhteistyösääntöjen artikla 352 määrää, että enimmäisaika on kaksinkertainen sallittuun aikaan verrattuna. 72 sekuntia × 2 = 144 sekuntia.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 määrätään, että aikaraja on kaksinkertainen enimmäisaikaan verrattuna: 72 sekuntia × 2 = 144 sekuntia.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

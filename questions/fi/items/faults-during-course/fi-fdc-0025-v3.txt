@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Mikä näistä EI ole JR:n artiklan 247.1 mukainen poikkeama radalta?
-OPTION_A: Pakollisen kääntöpaikan poisjättäminen
-OPTION_B: Rataan kuulumattoman esteen hyppääminen
-OPTION_C: 20 sekunnin ympyrää loppukirin jälkeen
-OPTION_D: Ei ylitä maaliviivaa lippujen välistä
+STEM: Mikä seuraavista ei ole artiklan 247.1 mukaan väärä tie?
+OPTION_A: Pakollisen kääntöpaikan ohittamatta jättäminen
+OPTION_B: Luokkaan kuulumattoman esteen hyppääminen
+OPTION_C: 20 sekunnin voltti sivuun poikkeamisen jälkeen
+OPTION_D: Maalilinjan ylittämättä jättäminen lippujen välistä
 CORRECT: C
-EXPLANATION: JR:n artiklan 348 mukaan pakollisen käännöspaikan väliin jättäminen, radalle kuulumattoman esteen hyppääminen ja maaliviivan ylittämättä jättäminen lippujen välistä ovat kaikki poikkeamia radalta. Jopa 45 sekunnin mittainen ympyrän kiertäminen maaliviivalle asettumista varten ei ole artiklan 348 mukainen tottelemattomuus, eikä siten radalta poikkeaminen.
+EXPLANATION: Kilpailusääntöjen artiklan 348 mukaan pakollisen kääntöpaikan ohittamatta jättäminen, luokkaan kuulumattoman esteen hyppääminen ja maalilinjan ylittämättä jättäminen lippujen välistä ovat kaikki väärä tie. Enintään 45 sekunnin ajan tehty voltti uuden hyppy-yrityksen tekemiseksi ei sen sijaan ole artiklan 348 mukaan tottelemattomuutta eikä siten väärä tie.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

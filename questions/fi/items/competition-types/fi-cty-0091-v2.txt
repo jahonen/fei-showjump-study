@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: JR:n artiklan 230.3.2 mukaan kuuden tangon tankoja tukevien kuppien enimmäissyvyys on:
+STEM: Kilpailusääntöjen artiklan 230.3.2 mukaan Six Bar -kilpailussa puomeja kannattavien kuppien enimmäissyvyys on:
 OPTION_A: 15 mm
 OPTION_B: 18 mm
 OPTION_C: 20 mm
 OPTION_D: 22 mm
 CORRECT: C
-EXPLANATION: JR:n artikla 354 määrää, että Six Barin tankoja tukevien kuppien enimmäissyvyys on 20 mm.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 määrätään, että Six Bar -kilpailussa puomeja kannattavien kuppien enimmäissyvyys on 20 mm.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

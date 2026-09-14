@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mikä seuraavista EI ole pakollinen hylkääminen JR:n artiklan 264.2 nojalla?
-OPTION_A: Liiallisen kannusten/piiskan käytön merkit
-OPTION_B: Luvattomien esteiden hyppiminen tapahtumapaikalla
+STEM: Mikä seuraavista ei ole artiklan 264.2 mukaan pakollinen kilpailusta sulkemisen peruste?
+OPTION_A: Merkit kannusten tai raipan liiallisesta käytöstä
+OPTION_B: Luvattomien esteiden hyppääminen kilpailupaikalla
 OPTION_C: Takin käyttämättä jättäminen lämpimällä säällä
-OPTION_D: Hevosen siirtäminen epävirallisille talleille ilman lupaa
+OPTION_D: Hevosen siirtäminen epävirallisiin talleihin ilman lupaa
 CORRECT: C
-EXPLANATION: JR:n artikla 346 luettelee pakolliset hylkäykset, mukaan lukien liialliset kannuksen/piiskan jäljet, luvattomien esteiden hyppääminen ja hevosen siirtäminen epävirallisille talleille. Pukeutumiskoodista voidaan poiketa artikla 346 nojalla lämpimällä säällä.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 luetellaan pakollisina kilpailusta sulkemisen perusteina muun muassa merkit kannusten tai raipan liiallisesta käytöstä, luvattomien esteiden hyppääminen ja hevosen siirtäminen epävirallisiin talleihin. Pukeutumissäännöistä voidaan sen sijaan poiketa lämpimällä säällä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

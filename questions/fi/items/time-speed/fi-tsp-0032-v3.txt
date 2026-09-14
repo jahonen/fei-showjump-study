@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Kuka voi käynnistää ja pysäyttää kellon JR:n artiklan 255.3 mukaan?
-OPTION_A: Ajanottajan
-OPTION_B: Ratasuunnittelija
+STEM: Kuka saa käynnistää ja pysäyttää kellon kilpailusääntöjen kohdan 255.3 mukaan?
+OPTION_A: Ajanottaja
+OPTION_B: Ratamestari
 OPTION_C: Kuka tahansa tuomariston jäsen
-OPTION_D: Vain kellosta vastaava tuomari
+OPTION_D: Vain ajanotosta vastaava tuomari
 CORRECT: D
-EXPLANATION: Tuomarisääntöjen artiklassa 255.3 todetaan, että vain kellosta vastaava tuomari saa käynnistää ja pysäyttää kellon; ajanottajaa ei voida asettaa vastuulliseksi tästä toiminnosta.
+EXPLANATION: Kilpailusääntöjen kohdassa 255.3 todetaan, että vain ajanotosta vastaava tuomari saa käynnistää ja pysäyttää kellon; ajanottajalle ei voida antaa tätä tehtävää.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

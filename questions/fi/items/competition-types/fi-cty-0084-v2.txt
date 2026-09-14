@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Kahden kierroksen kilpailussa mihin kierrokseen kaikkien urheilijoiden on osallistuttava JR:n artiklan 221.2 mukaisesti?
-OPTION_A: Vain ensimmäinen kierros
-OPTION_B: Vasta toinen kierros
-OPTION_C: Ensimmäinen kierros
-OPTION_D: Aloitushyppy
+STEM: Mihin kierrokseen kaikkien urheilijoiden on kilpailusääntöjen artiklan 221.2 mukaan osallistuttava kahden kierroksen kilpailussa?
+OPTION_A: Vain ensimmäiseen kierrokseen
+OPTION_B: Vasta toiseen kierrokseen
+OPTION_C: Ensimmäiseen kierrokseen
+OPTION_D: Uusintaan
 CORRECT: C
-EXPLANATION: JR:n artiklassa 221.2 määrätään, että kaikkien urheilijoiden on osallistuttava ensimmäiseen kierrokseen.
+EXPLANATION: Kilpailusääntöjen artiklassa 221.2 määrätään, että kaikkien urheilijoiden on osallistuttava ensimmäiseen kierrokseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

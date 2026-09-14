@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: multi-select
-STEM: Mitä JR:n artikla 241.6.1.2 sanoo tilanteista ennen urheilijan lähtöviivan ylittämistä?
-OPTION_A: Mikä tahansa kieltäytyminen ennen lähtöä lasketaan ensimmäiseksi tottelemattomuudeksi
-OPTION_B: Urheilijan ja/tai hevosen kaatuminen radalle tulon jälkeen estää lähtötilanteen
+STEM: Mitä kilpailusääntöjen artiklassa 241.6.1.2 sanotaan tilanteista, jotka tapahtuvat ennen kuin urheilija ylittää lähtölinjan?
+OPTION_A: Jokainen kielto ennen lähtöä lasketaan ensimmäiseksi tottelemattomuudeksi
+OPTION_B: Urheilijan ja/tai hevosen kaatuminen kilpailualueelle tulon jälkeen estää lähdön
 OPTION_C: 45 sekunnin lähtölaskentaa ei saa keskeyttää
-OPTION_D: Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista
+OPTION_D: Tottelemattomuudesta ennen lähtölinjan ylittämistä ei rangaista
 CORRECT: B,D
-EXPLANATION: Lähtömerkin ja lähtöviivan ylityksen välisenä aikana tapahtuvista tottelemattomuudesta ei rangaisteta, mutta kaatuminen radalle tulon ja lähtöviivan ylityksen välillä estää urheilijaa lähtemästä.
+EXPLANATION: Lähtömerkin ja lähtölinjan ylityksen välisenä aikana tapahtuvasta tottelemattomuudesta ei rangaista, mutta kilpailualueelle tulon ja lähtölinjan ylityksen välillä tapahtuva kaatuminen estää urheilijan lähdön.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

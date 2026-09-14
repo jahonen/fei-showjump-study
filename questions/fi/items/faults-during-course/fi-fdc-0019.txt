@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: multi-select
-STEM: Mitkä seuraavista virheistä ovat sellaisia, joista normaalisti tuomitaan rangaistuksia kierroksen aikana JR:n artiklan 244.1 mukaisesti?
-OPTION_A: Esteen kaataminen
-OPTION_B: Hevosen ja/tai urheilijan kaatuminen
-OPTION_C: Ympyröinti jopa 45 sekuntia ulosajon tai kieltäytymisen jälkeen päästä paikalle
-OPTION_D: Sallitun ajan ylittäminen
+STEM: Mistä seuraavista virheistä tuomitaan artiklan 244.1 mukaan normaalisti virhepisteitä suorituksen aikana?
+OPTION_A: Esteen pudottamisesta
+OPTION_B: Hevosen ja/tai urheilijan kaatumisesta
+OPTION_C: Enintään 45 sekuntia kestävästä voltin tekemisestä sivuun poikkeamisen tai kieltäytymisen jälkeen
+OPTION_D: Enimmäisajan ylittämisestä
 CORRECT: A,B,D
-EXPLANATION: JR:n artiklassa 244.1 luetellaan esteen kaataminen, virhe vesihypyllä, tottelemattomuus, radalta poikkeaminen, kaatuminen, luvaton avustaminen ja sallitun ajan tai aikarajan ylittäminen rangaistuksia aiheuttavina virheinä. artiklan 348 mukaan enintään 45 sekunnin pitäminen ympyrässä ulosajosta tai kieltäytymisestä asettumasta paikalleen ei ole tottelemattomuus eikä siten artiklan 348 mukainen virhe.
+EXPLANATION: Kilpailusääntöjen artiklassa 244.1 luetellaan virhepisteisiin johtavina virheinä esteen pudottaminen, vesihautaan astuminen, tottelemattomuus, väärä tie, kaatuminen, luvaton apu sekä enimmäisajan tai aikarajan ylittäminen. Artiklan 348 mukaan enintään 45 sekuntia kestävä voltin tekeminen sivuun poikkeamisen tai kieltäytymisen jälkeen ei ole tottelemattomuutta eikä siten virhe.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

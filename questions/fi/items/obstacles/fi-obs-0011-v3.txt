@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Normaalilevyinen este rakennetaan 2,10 metrin levyiseksi. Onko tämä sallittua JR:n artiklan 233.1 nojalla?
-OPTION_A: Kyllä, koska kaikki enintään 2,20 metrin levennykset ovat sallittuja.
-OPTION_B: Ei, normaalisti leviävät esteet ovat rajoitettu 2,00 metriin
-OPTION_C: Kyllä, jos ratasuunnittelija hyväksyy
-OPTION_D: Ei, raja on 1,80 m
+STEM: Tavallinen pituuseste rakennetaan 2,10 metrin levyiseksi. Onko tämä kilpailusääntöjen artiklan 233.1 mukaan sallittua?
+OPTION_A: Kyllä, sillä kaikki enintään 2,20 metrin levyiset esteet ovat sallittuja
+OPTION_B: Ei, sillä tavallisen pituusesteen enimmäisleveys on 2,00 metriä
+OPTION_C: Kyllä, jos ratamestari hyväksyy sen
+OPTION_D: Ei, sillä raja on 1,80 metriä
 CORRECT: B
-EXPLANATION: JR:n artikla 301 rajoittaa esteiden leveyden 2,00 metriin, lukuun ottamatta kolmoispuomeja, jotka voivat ulottua 2,20 metriin.
+EXPLANATION: Kilpailusääntöjen artikla 301 rajoittaa esteiden leveyden 2,00 metriin lukuun ottamatta trippeleitä, joiden leveys saa olla enintään 2,20 metriä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

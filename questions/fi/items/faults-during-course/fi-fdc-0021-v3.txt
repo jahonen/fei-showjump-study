@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: JR:n artiklan 246.3.1 mukaan loppukiri tapahtuu, kun hevonen:
+STEM: Artiklan 246.3.1 mukaan sivuun poikkeaminen tapahtuu, kun hevonen:
 OPTION_A: Pysähtyy esteen eteen ja astuu taaksepäin
-OPTION_B: Karkaa urheilijan hallinnasta ja väistää esteen, joka sen on hypättävä
-OPTION_C: Takapenkit lähtöviivalla
-OPTION_D: Hyppää esteen yli kahden punaisen lipun välissä
+OPTION_B: Riistäytyy urheilijan hallinnasta ja sivuuttaa esteen, joka sen on hypättävä
+OPTION_C: Astuu taaksepäin lähtölinjalla
+OPTION_D: Hyppää esteen kahden punaisen lipun välistä
 CORRECT: B
-EXPLANATION: JR:n artikla 348 määrittelee loppukirin hevosen karkaamiseksi ratsastajan hallinnasta ja väistämiseksi esteen, joka sen on hypättävä, tai pakollisen käännöspisteen, joka sen on ohitettava.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 sivuun poikkeamiseksi määritellään se, että hevonen riistäytyy urheilijan hallinnasta ja sivuuttaa esteen, joka sen on hypättävä, tai pakollisen kääntöpaikan, jonka ohi sen on kuljettava.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

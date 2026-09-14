@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Keskeytetyn ajan aikana tottelemattomuudet ovat yleensä:
-OPTION_A: Rangaistetaan kuten tavallisista kieltäytymisistä
-OPTION_B: Ei rangaista, paitsi toisesta hylkäämisestä alaslyönnillä tehdyn hylkäämisen jälkeen
-OPTION_C: Aina eliminoitu
-OPTION_D: Täysin huomiotta jätetty
+STEM: Miten tottelemattomuudet yleensä tuomitaan, kun ajanotto on keskeytetty?
+OPTION_A: Niistä annetaan virhepisteitä kuten tavallisista kieltäytymisistä
+OPTION_B: Niistä ei anneta virhepisteitä, paitsi jos kyseessä on toinen tottelemattomuus sen jälkeen, kun este on pudonnut kieltäytymisen yhteydessä
+OPTION_C: Ne johtavat aina suorituksen hylkäämiseen
+OPTION_D: Ne jätetään kokonaan huomiotta
 CORRECT: B
-EXPLANATION: JR:n artikla 352 toteaa, että tottelemattomuudesta ei rangaista keskeytetyn peliajan aikana, lukuun ottamatta toista hylkäämistä hylkäämisen jälkeen, johon liittyi alasvienti.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 todetaan, että ajanoton ollessa keskeytettynä tottelemattomuudesta ei anneta virhepisteitä, lukuun ottamatta toista tottelemattomuutta sen jälkeen, kun este on pudonnut kieltäytymisen yhteydessä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

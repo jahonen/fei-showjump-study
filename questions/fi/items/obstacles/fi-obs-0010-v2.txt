@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Yhteisten sääntöjen artiklan 233.2.2 mukainen harkintavalta ylittää suunniteltu korkeus enintään 3 cm:llä koskee vain tilanteita, joissa suunniteltu enimmäiskorkeus on vähintään:
+STEM: Kilpailusääntöjen artiklan 233.2.2 mukainen oikeus ylittää suunniteltu korkeus enintään 3 cm:llä koskee vain luokkia, joiden suunniteltu enimmäiskorkeus on vähintään:
 OPTION_A: 1,30 metriä
 OPTION_B: 1,40 metriä
 OPTION_C: 1,45 metriä
 OPTION_D: 1,60 metriä
 CORRECT: C
-EXPLANATION: JR:n artikla 301 soveltaa 3 cm:n toleranssia vain kilpailuihin, joiden ohjelmassa on mainittu enimmäiskorkeus 1,45 m tai enemmän.
+EXPLANATION: Kilpailusääntöjen artiklan 301 mukaan 3 cm:n ylitys on sallittu vain kilpailuissa, joiden kilpailukutsussa ilmoitettu enimmäiskorkeus on vähintään 1,45 m.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -6,12 +6,12 @@ EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
 STEM: Mikä on yleinen sääntö hevosten loimien käytöstä palkintojenjakotilaisuudessa?
-OPTION_A: Matot ovat pakollisia
-OPTION_B: Loimia ei saa käyttää, lukuun ottamatta kilpailujen sponsorien lahjoittamia loimia.
-OPTION_C: Mattoja saa käyttää vain kylmällä säällä
-OPTION_D: Vain villamatot ovat sallittuja
+OPTION_A: Loimet ovat pakollisia
+OPTION_B: Loimia ei saa käyttää lukuun ottamatta kilpailun sponsorien lahjoittamia loimia
+OPTION_C: Loimia saa käyttää vain kylmällä säällä
+OPTION_D: Vain villaloimet ovat sallittuja
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen artiklassa 267.4 todetaan, että ellei tuomariston kanssa erityisissä olosuhteissa toisin sovita, hevoset eivät saa käyttää loimia palkintojenjakotilaisuudessa, lukuun ottamatta kilpailujen sponsorien lahjoittamia loimia.
+EXPLANATION: Kilpailusääntöjen artiklassa 267.4 todetaan, että ellei tuomariston kanssa erityisissä olosuhteissa toisin sovita, hevoset eivät saa käyttää palkintojenjakotilaisuudessa loimia lukuun ottamatta kilpailun sponsorien lahjoittamia loimia.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

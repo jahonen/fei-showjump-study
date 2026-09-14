@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Jos samana viikonloppuna järjestetään eri luokkien tapahtumia, kuinka monta hevosta sallitaan urheilijaa kohden luokkaa kohden JR:n artiklan 203.1.1 mukaisesti?
+STEM: Kuinka monta hevosta urheilija saa ilmoittaa luokkaa kohden kilpailusääntöjen artiklan 203.1.1 mukaan, jos samana viikonloppuna järjestetään eri luokkien kilpailuja?
 OPTION_A: Kaksi
 OPTION_B: Kolme
 OPTION_C: Neljä
-OPTION_D: Rajoittamaton
+OPTION_D: Ei rajoitusta
 CORRECT: C
-EXPLANATION: JR:n artiklassa 203.1.1 määrätään, että jos samana viikonloppuna järjestetään eri luokkien kilpailuja, hevosten määrä urheilijaa kohden saa olla enintään neljä luokkaa kohden.
+EXPLANATION: Kilpailusääntöjen artiklassa 203.1.1 määrätään, että jos samana viikonloppuna järjestetään eri luokkien kilpailuja, hevosia saa olla enintään neljä urheilijaa ja luokkaa kohden.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

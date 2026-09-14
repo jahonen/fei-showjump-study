@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Urheilija keskeyttää uusinnan ilman tuomariston lupaa. Minne hänet sijoitetaan tuomarisääntöjen artiklan 218.3.2 mukaisesti?
-OPTION_A: Tasa-arvoinen ensin
-OPTION_B: Sen jälkeen, kun ne, jotka vetäytyivät luvalla, eläkkeelle tai eliminoitiin
-OPTION_C: Ei sijoitettu
-OPTION_D: Tasa-arvoinen toiseksi viimeinen eläkkeelle jääneiden joukossa
+STEM: Urheilija keskeyttää uusinnan ilman tuomariston lupaa. Mihin hänet sijoitetaan kilpailusääntöjen artiklan 218.3.2 mukaan?
+OPTION_A: Tasan ensimmäiseksi
+OPTION_B: Niiden urheilijoiden jälkeen, jotka ovat luopuneet luvallisesti, keskeyttäneet tai tulleet hylätyiksi
+OPTION_C: Häntä ei sijoiteta lainkaan
+OPTION_D: Tasan toiseksi viimeiseksi keskeyttäneiden joukossa
 CORRECT: B
-EXPLANATION: JR:n artiklassa 218.3.2 todetaan, että urheilija, joka keskeyttää kilpailun ilman lupaa, sijoittuu luvallisesti keskeyttäneiden, luopuneiden tai uusintakilpailusta pudonneiden urheilijoiden jälkeen.
+EXPLANATION: Kilpailusääntöjen artiklassa 218.3.2 todetaan, että ilman lupaa keskeyttänyt urheilija sijoittuu niiden urheilijoiden jälkeen, jotka ovat luopuneet luvallisesti, keskeyttäneet tai tulleet hylätyiksi uusinnassa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

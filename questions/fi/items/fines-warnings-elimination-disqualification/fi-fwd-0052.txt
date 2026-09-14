@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: multi-select
-STEM: Mitkä teot voivat olla hevosen kaltoinkohtelua JR:n artiklan 265.1 nojalla?
-OPTION_A: Ruoskan liiallinen käyttö
-OPTION_B: Raipan käyttö normaalina ratsastusapuna
-OPTION_C: Hevosen koputtaminen
-OPTION_D: Kosketa hevosta kevyesti kannuksella suoruuden säilyttämiseksi
+STEM: Mitkä teot voivat olla artiklan 265.1 mukaan hevosen kaltoinkohtelua?
+OPTION_A: Raipan liiallinen käyttö
+OPTION_B: Raipan käyttö tavanomaisena ratsastusapuna
+OPTION_C: Hevosen barraaminen
+OPTION_D: Hevosen kepeä koskettaminen kannuksella suoruuden säilyttämiseksi
 CORRECT: A,C
-EXPLANATION: Ratsastussääntöjen artikla 346 kieltää koputtamisen ja artikla 346 kieltää raipan liiallisen käytön. Raipan käyttöä normaalina ratsastusapuna ja kannusten normaalia käyttöä ei pidetä kaltoinkohteluna.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 kielletään hevosen barraaminen ja raipan liiallinen käyttö. Raipan käyttöä tavanomaisena ratsastusapuna ja kannusten tavanomaista käyttöä ei sen sijaan pidetä kaltoinkohteluna.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Jos edellisen kierroksen pystysuora hypätään vastakkaiseen suuntaan uusinnassa, miten se lasketaan juniorisääntöjen artiklan 218.2.7.1 nojalla?
-OPTION_A: Ei mikään este
-OPTION_B: Yhtenä kahdesta sallitusta lisäesteestä
-OPTION_C: Yhdistelmänä
-OPTION_D: Se ei ole sallittua
+STEM: Jos edelliseen kierrokseen kuulunut pystyeste hypätään uusinnassa vastakkaisesta suunnasta, miten se otetaan huomioon kilpailusääntöjen artiklan 218.2.7.1 mukaan?
+OPTION_A: Sitä ei lasketa esteeksi
+OPTION_B: Se lasketaan yhdeksi kahdesta sallitusta lisäesteestä
+OPTION_C: Se lasketaan sarjaesteeksi
+OPTION_D: Sen hyppääminen ei ole sallittua
 CORRECT: B
-EXPLANATION: JR:n artikla 344 toteaa, että jos edelliseen/edellisempään kierrokseen/kierroksiin sisältynyt este hypätään vastakkaisesta suunnasta uusinnassa, se katsotaan yhdeksi kahdesta sallitusta lisäesteestä.
+EXPLANATION: Kilpailusääntöjen artiklan 344 mukaan este, joka on kuulunut edelliseen kierrokseen tai edellisiin kierroksiin ja joka hypätään uusinnassa vastakkaisesta suunnasta, lasketaan yhdeksi kahdesta sallitusta lisäesteestä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

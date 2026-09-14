@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Missä tilanteessa esteiden välinen etäisyys yhdistelmässä voi olla alle seitsemän metriä?
-OPTION_A: Nopeus- ja kätevyyskilpailuissa tuomaroidaan taulukon C mukaisesti
-OPTION_B: Missä tahansa sisätiloissa järjestettävässä kilpailussa
-OPTION_C: Kun tuomariston hyväksyntä
+STEM: Missä tilanteessa sarjaesteen osaesteiden välinen etäisyys saa olla alle seitsemän metriä?
+OPTION_A: Arvostelun C mukaan ratsastettavissa nopeus- ja taitokilpailuissa
+OPTION_B: Kaikissa sisäkilpailuissa
+OPTION_C: Kun tuomaristo hyväksyy sen
 OPTION_D: Puissance-kilpailuissa
 CORRECT: A
-EXPLANATION: Juniorisääntöjen artikla 301 tarjoaa poikkeuksen taulukon C mukaisesti tuomaroiduille nopeus- ja kätevyyskilpailuille sekä pysyville kiinteille esteille, jotka vaativat kaksi tai useampia peräkkäisiä suorituksia.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 tehdään poikkeus arvostelun C mukaan ratsastettaviin nopeus- ja taitokilpailuihin sekä pysyviin kiinteisiin esteisiin, jotka edellyttävät kahta tai useampaa peräkkäistä hyppyä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

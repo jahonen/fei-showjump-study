@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mikä seuraavista pitää paikkansa kaikkien sisään- ja uloskäyntien osalta hevosen ollessa kilpailualueella?
-OPTION_A: Niiden on pysyttävä avoimina tallimiehille
-OPTION_B: Niiden on oltava fyysisesti suljettuja
-OPTION_C: Ne voidaan sulkea, ellei urheilija ole radalla
-OPTION_D: Niitä on vartioitava stewardin toimesta
+STEM: Mikä seuraavista pätee kaikkiin sisään- ja uloskäynteihin hevosen ollessa kilpailualueella?
+OPTION_A: Niiden on pysyttävä auki tallimiehiä varten
+OPTION_B: Niiden on oltava fyysisesti suljettuina
+OPTION_C: Ne voidaan sulkea, jos urheilija ei ole radalla
+OPTION_D: Stewardin on valvottava niitä
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artikla 329 toteaa, että hevosen ollessa kilpailualueella kilpailun aikana kaikkien sisään- ja uloskäyntien on oltava fyysisesti suljettuja.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 todetaan, että hevosen ollessa kilpailun aikana kilpailualueella kaikkien sisään- ja uloskäyntien on oltava fyysisesti suljettuina.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

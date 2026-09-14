@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: multi-select
-STEM: Mitkä taulukon C rangaistuksia koskevat väittämät ovat oikein?
-OPTION_A: Esteen kaatuminen lisää urheilijan aikaan sekunteja
-OPTION_B: Ensimmäinen tottelemattomuus ilman kaatamista ei lisää sekunteja
-OPTION_C: Ensimmäinen tottelemattomuus, johon liittyy kaataminen, lisää 6 sekuntia
-OPTION_D: Pudotus johtaa 10 sekunnin yhteenlaskuun
+STEM: Mitkä arvostelun C virhepisteitä koskevat väittämät ovat oikein?
+OPTION_A: Esteen pudottamisesta lisätään sekunteja ratsukon suoritusaikaan
+OPTION_B: Ensimmäisestä tottelemattomuudesta, jonka yhteydessä este ei putoa, ei lisätä sekunteja
+OPTION_C: Tottelemattomuudesta, jonka yhteydessä este putoaa, lisätään 6 sekuntia
+OPTION_D: Satulasta putoamisesta lisätään 10 sekuntia
 CORRECT: A,B,C
-EXPLANATION: JR:n artikla 342 toteaa, että taulukon C mukaan esteen kaatuminen tai vesihypyn virhe lisää sekunteja, ensimmäinen tottelemattomuus ei lisää yhtään sekuntia ja ensimmäinen tottelemattomuus, johon liittyy esteen kaatuminen ja/tai esteen siirtäminen, lisää 6 sekuntia. Kaatuminen johtaa kilpailusta poistamiseen, ei ajan lisäykseen.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 todetaan, että arvostelussa C esteen pudottamisesta tai rajaviivan (vedenpinnan) rikkomisesta lisätään sekunteja, ensimmäisestä tottelemattomuudesta ei lisätä yhtään sekuntia ja tottelemattomuudesta, jonka yhteydessä este putoaa ja/tai siirtyy, lisätään 6 sekuntia. Kumoon ratsastaminen ja satulasta putoaminen johtavat suorituksen hylkäämiseen, eivät aikalisään.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Mitä JR:n artiklan 218.2.5 mukaan voidaan muuttaa alkuperäiseen rataan verrattuna uusinnassa?
-OPTION_A: Yhdistelmäelementtien välinen etäisyys
-OPTION_B: Esteiden järjestys
-OPTION_C: Esteiden tyyppi (esim. pystysuora okseriin nähden)
-OPTION_D: Sallittujen yritysten määrä
+STEM: Mitä uusinnassa saa kilpailusääntöjen artiklan 218.2.5 mukaan muuttaa perusrataan verrattuna?
+OPTION_A: Sarjaesteen osaesteiden välistä etäisyyttä
+OPTION_B: Esteiden järjestystä
+OPTION_C: Esteiden tyyppiä, esimerkiksi pystyestettä okseriksi
+OPTION_D: Sallittujen hyppy-yritysten määrää
 CORRECT: B
-EXPLANATION: JR:n artikla 344 sallii esteiden järjestyksen muuttamisen aloitushypyssä alkuperäiseen rataan verrattuna.
+EXPLANATION: Kilpailusääntöjen artikla 344 sallii esteiden järjestyksen muuttamisen uusinnassa perusrataan verrattuna.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Urheilija haluaa suorittaa harjoituskierroksen aikaa vastaan käytävässä kilpailussa taulukon A mukaisesti. Mitä hänen on tehtävä?
-OPTION_A: Maksa lisämaksu
-OPTION_B: Ilmoita järjestäjälle ilmoitusten jättämisen yhteydessä ja aloita ensimmäisenä.
-OPTION_C: Hanki tuomariston lupa ensimmäisen kierroksen jälkeen
-OPTION_D: Ei mitään; se ei ole sallittua
+STEM: Urheilija haluaa ratsastaa harjoituskierroksen arvostelun A mukaisessa kilpailussa, jossa aika ratkaisee. Mitä hänen on tehtävä?
+OPTION_A: Maksettava lisämaksu
+OPTION_B: Ilmoitettava asiasta järjestäjälle ilmoittautumisen yhteydessä ja lähdettävä ensimmäisenä
+OPTION_C: Pyydettävä tuomaristolta lupa ensimmäisen suorituksen jälkeen
+OPTION_D: Ei mitään, sillä harjoituskierros ei ole sallittu
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen artiklassa 217.3 määrätään, että urheilijoiden, jotka haluavat osallistua harjoituskierroksen aikaa vastaan taulukon A tai C mukaisissa kilpailuissa, on ilmoitettava siitä järjestäjälle ilmoituksen jättämisen yhteydessä, ja harjoituskierroksen haluavat lähtevät ensin.
+EXPLANATION: Kilpailusääntöjen kohdassa 217.3 määrätään, että urheilijan, joka haluaa ratsastaa harjoituskierroksen arvostelun A tai arvostelun C mukaisessa kilpailussa, jossa aika ratkaisee, on ilmoitettava siitä järjestäjälle ilmoittautumisen yhteydessä, ja harjoituskierrosta haluavat lähtevät ensimmäisinä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

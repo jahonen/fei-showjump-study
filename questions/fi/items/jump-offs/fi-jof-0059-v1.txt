@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Miten yhdistelmiä käsitellään JR:n artiklan 218.2.3 mukaan laskettaessa aloitusesteiden vähimmäismäärää?
-OPTION_A: Jokainen elementti lasketaan erikseen
-OPTION_B: Yhdistelmät lasketaan yhdeksi esteeksi
-OPTION_C: Niitä ei lasketa
-OPTION_D: Ne lasketaan kahdeksi esteeksi
+STEM: Miten sarjaesteet otetaan kilpailusääntöjen artiklan 218.2.3 mukaan huomioon, kun lasketaan uusinnan esteiden vähimmäismäärää?
+OPTION_A: Jokainen osaeste lasketaan erikseen
+OPTION_B: Sarjaeste lasketaan yhdeksi esteeksi
+OPTION_C: Sarjaesteitä ei lasketa lainkaan
+OPTION_D: Sarjaeste lasketaan kahdeksi esteeksi
 CORRECT: B
-EXPLANATION: Yhteiskilpailun säännöt artikla 344 nimenomaisesti todetaan, että yhdistelmät lasketaan yhdeksi esteeksi esteiden vähimmäismäärää laskettaessa.
+EXPLANATION: Kilpailusääntöjen artiklassa 344 todetaan nimenomaisesti, että sarjaeste lasketaan yhdeksi esteeksi, kun esteiden vähimmäismäärää lasketaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Mikä on JR:n artiklan 258.1.1 mukaan suurin sallittu nopeus normaalissa kilpailussa?
+STEM: Mikä on suurin sallittu nopeus tavallisessa kilpailussa kilpailusääntöjen kohdan 258.1.1 mukaan?
 OPTION_A: 350 m/min
 OPTION_B: 375 m/min
 OPTION_C: 400 m/min
 OPTION_D: 425 m/min
 CORRECT: C
-EXPLANATION: JR:n artikla 352 asettaa yleiseksi enimmäisnopeudeksi 400 metriä minuutissa.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 enimmäisnopeudeksi on asetettu 400 m/min.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

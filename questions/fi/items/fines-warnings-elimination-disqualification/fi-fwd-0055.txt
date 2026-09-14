@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Kaikissa hevosen verenvuodatustapauksissa JR:n artiklan 259 mukaisesti hevonen saa jatkaa kilpailua vain, jos:
+STEM: Millä ehdolla hevonen saa artiklan 259 mukaan jatkaa kilpailua kaikissa verenvuototapauksissa?
 OPTION_A: Urheilija pyyhkii veren pois
-OPTION_B: Tuomariston on eläinlääkäriasiantuntijan kanssa neuvoteltuaan katsottava, että hevonen on kilpailukelpoinen.
-OPTION_C: Joukkuepäällikkö antaa luvan
-OPTION_D: Veri tulee nenästä
+OPTION_B: Tuomaristo katsoo eläinlääkäriasiantuntijan kanssa neuvoteltuaan hevosen kilpailukelpoiseksi
+OPTION_C: Joukkueenjohtaja antaa siihen luvan
+OPTION_D: Veri tulee hevosen sieraimesta
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artiklassa 259.3 todetaan, että kaikissa hevosessa kohdassa 259 mainituissa verta esiintyvissä tapauksissa hevonen saa jatkaa kilpailua tai osallistua seuraaviin kilpailuihin vain, jos tuomaristo on eläinlääkäriasiantuntijan kanssa neuvoteltuaan todennut hevosen kilpailukelpoiseksi.
+EXPLANATION: Artiklassa 259.3 todetaan, että kaikissa artiklassa 259 mainituissa hevosen verenvuototapauksissa hevonen saa jatkaa kilpailua tai osallistua seuraaviin kilpailuihin vain, jos tuomaristo on eläinlääkäriasiantuntijan kanssa neuvoteltuaan todennut hevosen kilpailukelpoiseksi.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

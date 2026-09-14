@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mikä on hylkäämisen yleinen vaikutus esteratsastussääntöjen nojalla?
-OPTION_A: Urheilija ei saa jatkaa meneillään olevaa kierrosta
-OPTION_B: Urheilija ja/tai hevonen hylätään kyseisestä kilpailusta tai koko tapahtumasta.
+STEM: Mikä on kilpailusta sulkemisen yleinen vaikutus esteratsastussääntöjen mukaan?
+OPTION_A: Urheilija ei saa jatkaa meneillään olevaa suoritusta
+OPTION_B: Urheilija ja/tai hevonen suljetaan kyseisestä kilpailusta tai koko kilpailutapahtumasta
 OPTION_C: Urheilija saa vain virallisen varoituksen
-OPTION_D: Urheilija sijoittuu viimeiseksi nykyisessä kilpailussa, mutta voi kilpailla myöhemmin.
+OPTION_D: Urheilija sijoittuu viimeiseksi meneillään olevassa kilpailussa mutta voi kilpailla myöhemmin
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artiklassa 264.1 todetaan, että hylkääminen tarkoittaa, että urheilija ja/tai hevonen hylätään kyseisestä kilpailusta tai koko tapahtumasta, ja se voi olla myös takautuvaa.
+EXPLANATION: Artiklassa 264.1 todetaan, että kilpailusta sulkeminen tarkoittaa, että urheilija ja/tai hevonen suljetaan kyseisestä kilpailusta tai koko kilpailutapahtumasta, ja se voi olla myös takautuva.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

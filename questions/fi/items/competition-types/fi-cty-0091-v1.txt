@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: JR:n artiklan 230.3.1 mukaan esteiden lukumäärää kuuden puomin radalla voidaan vähentää minimiin:
+STEM: Mihin lukumäärään Six Bar -kilpailun esteiden määrää voidaan kilpailusääntöjen artiklan 230.3.1 mukaan enintään vähentää?
 OPTION_A: Kaksi
 OPTION_B: Kolme
 OPTION_C: Neljä
 OPTION_D: Viisi
 CORRECT: C
-EXPLANATION: Kilpailusääntöjen artiklassa 230.3.1 todetaan, että esteiden määrää voidaan tarvittaessa vähentää neljään, jos kilpailualueen koko sitä edellyttää.
+EXPLANATION: Kilpailusääntöjen artiklassa 230.3.1 todetaan, että esteiden lukumäärää voidaan vähentää neljään, jos kilpailualueen koko sitä edellyttää.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

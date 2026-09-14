@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Kaikilla JR:n artiklassa 226.3.1 luetelluilla Nations Cupin tähtitasoilla esteiden lukumäärä on:
+STEM: Kuinka monta estettä radalla on kaikilla kilpailusääntöjen artiklassa 226.3.1 luetelluilla Nations Cupin tähtitasoilla?
 OPTION_A: 10
 OPTION_B: 11
 OPTION_C: 12
-OPTION_D: Riippuu tähtitasosta
+OPTION_D: Lukumäärä riippuu tähtitasosta
 CORRECT: C
-EXPLANATION: Juniorisääntöjen artikla 354 taulukossa on 12 estettä 5*, 4*, 3*, 2* ja 1* Nations Cup -kilpailuihin.
+EXPLANATION: Kilpailusääntöjen artiklan 354 taulukossa esteiden lukumääräksi on merkitty 12 sekä 5*-, 4*-, 3*-, 2*- että 1*-tason Nations Cup -kilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on esteen vähimmäisleveys, jotta sitä voidaan kutsua vesiesteeksi?
+STEM: Kuinka leveä esteen on vähintään oltava, jotta sitä voidaan kutsua vesiesteeksi?
 OPTION_A: 1,80 metriä
 OPTION_B: 2,00 metriä
 OPTION_C: 2,20 metriä
-OPTION_D: Yli 2,00 m
+OPTION_D: Yli 2,00 metriä
 CORRECT: D
-EXPLANATION: JR:n artikla 301 määrää, että vesihypyn veden leveyden on oltava vähintään 2,00 m.
+EXPLANATION: Kilpailusääntöjen artikla 301 määrää, että vesihaudan veden leveyden on oltava vähintään 2,00 metriä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

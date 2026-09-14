@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Kuinka monta hevosta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta otetaan normaalisti näytteisiin joukkuesääntöjen artiklan 275.1.4.2 mukaisesti esteratsastuksen finaalikilpailuissa?
+STEM: Kuinka monta hevosta kustakin kolmesta parhaiten sijoittuneesta joukkueesta otetaan yleensä testattavaksi joukkuekilpailun finaalissa kilpailusääntöjen kohdan 275.1.4.2 mukaan?
 OPTION_A: Kaikki joukkueen hevoset
 OPTION_B: Kaksi
 OPTION_C: Yksi
-OPTION_D: Ei mitään
+OPTION_D: Ei yhtään
 CORRECT: C
-EXPLANATION: JR:n artikla 321(b) mukaan näyte otetaan normaalisti yhdestä hevosesta kustakin kolmesta ensimmäiseksi sijoittuneesta joukkueesta.
+EXPLANATION: Kilpailusääntöjen kohdan 321 b-alakohdan mukaan näyte otetaan yleensä yhdestä hevosesta kustakin kolmesta parhaiten sijoittuneesta joukkueesta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

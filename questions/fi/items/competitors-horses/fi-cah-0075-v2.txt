@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Mikä väittämä pitää paikkansa JR:n artiklan 205.1 nojalla?
-OPTION_A: Alle 18-vuotiaat urheilijat voivat kilpailla Longines League of Nations™ -kilpailussa
-OPTION_B: Alle 18-vuotiaat urheilijat voivat kilpailla olympialaisissa
+STEM: Mikä seuraavista väittämistä pitää paikkansa kilpailusääntöjen artiklan 205.1 mukaan?
+OPTION_A: Alle 18-vuotiaat urheilijat saavat kilpailla Longines League of Nations™ -kilpailussa
+OPTION_B: Alle 18-vuotiaat urheilijat saavat kilpailla olympialaisissa
 OPTION_C: Alle 18-vuotiaat urheilijat eivät saa kilpailla voima- ja taitokilpailuissa
-OPTION_D: Alle 18-vuotiaat urheilijat voivat kilpailla missä tahansa Nations Cupissa
+OPTION_D: Alle 18-vuotiaat urheilijat saavat kilpailla missä tahansa Nations Cup -kilpailussa
 CORRECT: C
-EXPLANATION: JR:n artikla 333 kieltää alle 18-vuotiailta urheilijoilta osallistumisen voima- ja taitokilpailuihin sekä olympialaisiin ja Longines League of Nations™ -kilpailuihin.
+EXPLANATION: Kilpailusääntöjen artikla 333 kieltää alle 18-vuotiailta urheilijoilta osallistumisen voima- ja taitokilpailuihin sekä olympialaisiin ja Longines League of Nations™ -kilpailuihin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

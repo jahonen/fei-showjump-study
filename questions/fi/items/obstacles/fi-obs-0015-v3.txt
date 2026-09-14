@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Kaksoisrakennelma rakennetaan siten, että sen kahden elementin välinen etäisyys on 6,5 m. Yhteisen käyttöohjeen artiklan 237.1 mukaan tämä on seuraavaa:
+STEM: Kaksoissarja rakennetaan siten, että sen osaesteiden välinen etäisyys on 6,5 metriä. Millainen etäisyys tämä on kilpailusääntöjen artiklan 237.1 mukaan?
 OPTION_A: Sallittu
 OPTION_B: Liian lyhyt
 OPTION_C: Liian pitkä
-OPTION_D: Sallittu vain sisätiloissa
+OPTION_D: Sallittu vain sisäkilpailuissa
 CORRECT: B
-EXPLANATION: Juniorisääntöjen artikla 301 vaatii yhdistelmässä esteiden välisen vähimmäisetäisyyden seitsemään metriin, joten 6,5 m on liian lyhyt.
+EXPLANATION: Kilpailusääntöjen artikla 301 edellyttää sarjaesteen osaesteiden väliltä vähintään seitsemän metrin etäisyyttä, joten 6,5 metriä on liian lyhyt.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

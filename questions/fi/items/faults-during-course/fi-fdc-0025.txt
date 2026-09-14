@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: multi-select
-STEM: Mitä tekoja käsitellään kurssilta poikkeamina JR:n artiklan 247.1 nojalla?
-OPTION_A: Pakollisen kääntöpaikan poisjättäminen
+STEM: Mitkä teot katsotaan artiklan 247.1 mukaan vääräksi tieksi?
+OPTION_A: Pakollisen kääntöpaikan ohittamatta jättäminen
 OPTION_B: Esteen hyppääminen väärässä järjestyksessä
-OPTION_C: Esteen hyppääminen väärään suuntaan
-OPTION_D: Ympyröinti kerran kieltäytymisen jälkeen palata asemaan
+OPTION_C: Esteen hyppääminen väärästä suunnasta
+OPTION_D: Yksi voltti kieltäytymisen jälkeen uuden hyppy-yrityksen tekemiseksi
 CORRECT: A,B,C
-EXPLANATION: Yhteisten sääntöjen artikla 348 käsittelee poikkeamia, kuten pakollisen käännöspaikan väliin jättämistä, esteen hyppäämistä väärässä järjestyksessä ja hyppäämistä väärään suuntaan. Kiertoliikkeeseen kieltäytymisen jälkeen sovelletaan artiklaa 246.1.4.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 vääräksi tieksi katsotaan muun muassa pakollisen kääntöpaikan ohittamatta jättäminen, esteen hyppääminen väärässä järjestyksessä ja esteen hyppääminen väärästä suunnasta. Kieltäytymisen jälkeen tehtyyn volttiin sovelletaan artiklaa 246.1.4.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

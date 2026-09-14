@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mitä palkintojenjakotilaisuudessa palkinnonsaajilta edellytetään?
+STEM: Mitä palkinnonsaajilta edellytetään palkintojenjakotilaisuudessa?
 OPTION_A: Heidän on myytävä palkinnot takaisin järjestäjälle
-OPTION_B: Heidän on osallistuttava palkintojenjakotilaisuuteen, yleensä sijoittuneiden hevosten kanssa.
-OPTION_C: Vain johtavan ajajan on osallistuttava
+OPTION_B: Heidän on osallistuttava palkintojenjakotilaisuuteen, yleensä sijoittuneiden hevosten kanssa
+OPTION_C: Vain johtavan urheilijan on osallistuttava
 OPTION_D: Osallistuminen on vapaaehtoista, jos palkintosumma ylittää 1 000 Sveitsin frangia
 CORRECT: B
-EXPLANATION: JR:n artiklassa 267.2 määrätään, että palkintojenjakotilaisuuteen on osallistuttava ja että se tulee tehdä sijoittuneiden hevosten kanssa, vaikka tuomaristo voi tehdä poikkeuksia turvallisuussyistä.
+EXPLANATION: Kilpailusääntöjen artiklassa 267.2 määrätään, että palkinnonsaajien on osallistuttava palkintojenjakotilaisuuteen ja että heidän tulee tehdä se sijoittuneiden hevosten kanssa. Tuomaristo voi kuitenkin myöntää poikkeuksia turvallisuussyistä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

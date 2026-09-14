@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Mitä tapahtuu JR:n artiklan 256 mukaan sen jälkeen, kun tottelemattomuuden kohteeksi joutunut este on rakennettu uudelleen?
-OPTION_A: Urheilija putoaa automaattisesti pois kilpailusta
-OPTION_B: Kello soitetaan merkiksi siitä, että rata on valmis ja urheilija voi jatkaa.
-OPTION_C: Sallittu aika lasketaan uudelleen
-OPTION_D: Kierros alkaa uudelleen lähtöviivalta
+STEM: Mitä tapahtuu kilpailusääntöjen kohdan 256 mukaan sen jälkeen, kun tottelemattomuuden yhteydessä pudonnut este on pystytetty uudelleen?
+OPTION_A: Ratsukon suoritus hylätään automaattisesti
+OPTION_B: Annetaan äänimerkki merkiksi siitä, että rata on valmis ja ratsukko voi jatkaa
+OPTION_C: Enimmäisaika lasketaan uudelleen
+OPTION_D: Suoritus aloitetaan uudelleen lähtölinjalta
 CORRECT: B
-EXPLANATION: JR:n artiklassa 256 määrätään, että kun este on rakennettu uudelleen, kelloa soitetaan merkiksi siitä, että rata on valmis ja urheilija voi jatkaa kierrosta.
+EXPLANATION: Kilpailusääntöjen kohdassa 256 määrätään, että kun este on pystytetty uudelleen, annetaan äänimerkki merkiksi siitä, että rata on valmis ja ratsukko voi jatkaa suoritustaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

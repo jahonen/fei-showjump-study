@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: JR:n artiklan 275.1.3.3 mukaan hevonen, joka esitetään tarkastuksessa hackamoressa suitsien tai kaksoissuitsien sijaan, on:
-OPTION_A: Sallittu
-OPTION_B: Ei vaatimusten mukainen
-OPTION_C: Sallittu eläinlääkärin valtuutetun hyväksynnällä
-OPTION_D: Sallittu vain nuorille hevosille
+STEM: Hevonen esitetään tarkastuksessa hackamorella nivel- tai kankisuitsien sijasta. Miten tätä on kilpailusääntöjen kohdan 275.1.3.3 mukaan arvioitava?
+OPTION_A: Se on sallittua
+OPTION_B: Se on sääntöjen vastaista
+OPTION_C: Se on sallittua eläinlääkäriedustajan luvalla
+OPTION_D: Se on sallittua vain nuorille hevosille
 CORRECT: B
-EXPLANATION: JR:n artikla 321 edellyttää esittämistä joko suitsilla tai tuplasuitsilla; hackamorea ei sallita.
+EXPLANATION: Kilpailusääntöjen kohta 321 edellyttää, että hevonen esitetään joko nivel- tai kankisuitsitettuna; hackamorea ei sallita.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

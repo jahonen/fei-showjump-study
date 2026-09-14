@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: JR:n artiklan 236.1.1 mukaan vesihypyssä on oltava ponnistuselementti, jonka vähimmäiskorkeus on:
+STEM: Kilpailusääntöjen artiklan 236.1.1 mukaan vesihaudassa on oltava ponnahduselementti, jonka vähimmäiskorkeus on:
 OPTION_A: 30 cm
 OPTION_B: 40 cm
 OPTION_C: 50 cm
 OPTION_D: 60 cm
 CORRECT: B
-EXPLANATION: JR:n artikla 301 edellyttää ponnistuselementtiä (harja, pieni seinä), jonka vähimmäiskorkeus on 40 cm ja enimmäiskorkeus 50 cm.
+EXPLANATION: Kilpailusääntöjen artikla 301 edellyttää ponnahduselementtiä, esimerkiksi risulaatikkoa tai pientä muuria, jonka korkeus on vähintään 40 cm ja enintään 50 cm.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Jos kilpailussa on 10 estettä, radan pituus ei saa ylittää:
+STEM: Jos radalla on 10 estettä, sen pituus saa olla enintään:
 OPTION_A: 500 metriä
 OPTION_B: 550 metriä
 OPTION_C: 600 metriä
 OPTION_D: 650 metriä
 CORRECT: C
-EXPLANATION: JR:n artikla 329 rajoittaa radan pituuden esteiden lukumäärään kerrottuna 60:llä; 10 × 60 = 600 m.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 radan pituus rajoitetaan esteiden lukumäärään kerrottuna 60:llä: 10 × 60 = 600 m.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

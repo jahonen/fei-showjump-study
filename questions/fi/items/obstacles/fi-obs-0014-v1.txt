@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: JR:n artiklan 236.2 mukaan avoveden ylle sijoitettavassa pystysuorassa on käytettävä vähintään kuinka pitkiä keppejä?
+STEM: Kuinka pitkiä puomeja vesihaudan ylle sijoitetussa pystyesteessä on kilpailusääntöjen artiklan 236.2 mukaan vähintään käytettävä?
 OPTION_A: 3,00 metriä
 OPTION_B: 3,20 metriä
 OPTION_C: 3,50 metriä
 OPTION_D: 4,00 metriä
 CORRECT: C
-EXPLANATION: JR:n artiklan 301 mukaan vesihypyn yläpuolella olevaan pystysuoraan sijoitettuun telineeseen saa käyttää vain vähintään 3,50 m pitkiä seipiä.
+EXPLANATION: Kilpailusääntöjen artiklan 301 mukaan vesihaudan ylle sijoitetussa pystyesteessä saa käyttää vain vähintään 3,50 metrin pituisia puomeja.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Minkä palkinnon saavat JR:n artiklan 267.6 mukaan urheilijat, jotka eivät pysty suorittamaan kilpailun ensimmäistä kierrosta?
+STEM: Minkä palkinnon saavat kilpailusääntöjen artiklan 267.6 mukaan urheilijat, jotka eivät pysty suorittamaan kilpailun ensimmäistä kierrosta loppuun?
 OPTION_A: He saavat lohdutuspalkinnon
-OPTION_B: He eivät saa palkintoja, paitsi tietyissä erikoiskilpailuissa.
+OPTION_B: He eivät saa palkintoja muutoin kuin tietyissä erikoiskilpailuissa
 OPTION_C: He saavat puolet palkintorahasta
-OPTION_D: He saavat palkinnon, jos he ovat suorittaneet vähintään puolet kurssista.
+OPTION_D: He saavat palkinnon, jos he ovat suorittaneet vähintään puolet radasta
 CORRECT: B
-EXPLANATION: JR:n artikla 341 toteaa, että urheilijat, jotka eivät pysty suorittamaan kilpailun ensimmäistä kierrosta, eivät saa palkintoja, paitsi tietyissä erikoiskilpailuissa.
+EXPLANATION: Kilpailusääntöjen artiklassa 341 todetaan, että urheilijat, jotka eivät pysty suorittamaan kilpailun ensimmäistä kierrosta loppuun, eivät saa palkintoja muutoin kuin tietyissä erikoiskilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

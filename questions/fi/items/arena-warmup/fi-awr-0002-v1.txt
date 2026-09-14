@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Radalla on 12 estettä. Mikä on sallittu enimmäispituus?
+STEM: Radalla on 12 estettä. Mikä on radan suurin sallittu pituus?
 OPTION_A: 600 metriä
 OPTION_B: 660 metriä
 OPTION_C: 720 metriä
 OPTION_D: 780 metriä
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen artiklan 329 mukaan esteen enimmäispituus on 12 estettä × 60 m = 720 m.
+EXPLANATION: Kilpailusääntöjen artiklan 329 mukaan radan enimmäispituus on 12 estettä × 60 m = 720 m.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Hevonen vastustaa 30 sekuntia ja jatkaa sitten eteenpäin. Yhteisösääntöjen artiklan 246.4.3 mukaan tämä on:
-OPTION_A: Eliminaatio
-OPTION_B: Rangaistettu kieltäytymisenä
-OPTION_C: Ohitettu
-OPTION_D: Varoitus
+STEM: Hevonen niskuroi 30 sekuntia ja jatkaa sen jälkeen eteenpäin. Mitä tästä seuraa artiklan 246.4.3 mukaan?
+OPTION_A: Suorituksen hylkääminen
+OPTION_B: Se tuomitaan kieltäytymiseksi
+OPTION_C: Virhettä ei tuomita
+OPTION_D: Urheilija saa varoituksen
 CORRECT: B
-EXPLANATION: JR:n artikla 348 toteaa, että alle 45 sekuntia kestävästä vastustamisesta rangaistaan kieltäytymisenä.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, että alle 45 sekuntia kestävä niskurointi tuomitaan kieltäytymiseksi.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

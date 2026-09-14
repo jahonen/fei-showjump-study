@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mitä seuraa varusteisiin liittyvien sääntöjen noudattamatta jättämisestä?
+STEM: Mitä varusteita koskevien sääntöjen noudattamatta jättämisestä seuraa?
 OPTION_A: Sakko
-OPTION_B: Eliminaatio
+OPTION_B: Suorituksen hylkääminen
 OPTION_C: Varoitus
-OPTION_D: Hylkääminen seuraavasta kilpailusta
+OPTION_D: Sulkeminen seuraavasta kilpailusta
 CORRECT: B
-EXPLANATION: JR:n artikla 346 listaa varusteisiin ja rautakauppaan liittyvien sääntöjen noudattamatta jättämisen pakolliseksi hylkäämiseksi.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 pukeutumista ja varusteita koskevien sääntöjen noudattamatta jättäminen luetellaan pakollisena hylkäämisperusteena.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

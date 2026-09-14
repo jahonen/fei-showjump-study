@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Jos palkinnon voittaja ei osallistu palkintojenjakotilaisuuteen ilman hyväksyttävää syytä, tuomaristo voi:
-OPTION_A: Urheilijan sakottaminen
-OPTION_B: Antaa järjestäjälle luvan pidättää urheilijan palkinnon/palkinnot
-OPTION_C: Hylätä urheilija
-OPTION_D: Myönnä palkinto seuraavaksi sijoittuneelle urheilijalle
+STEM: Mitä tuomaristo voi tehdä, jos palkinnon voittaja ei osallistu palkintojenjakotilaisuuteen ilman hyväksyttävää syytä?
+OPTION_A: Sakottaa urheilijaa
+OPTION_B: Antaa järjestäjälle luvan evätä urheilijan palkinnon tai palkinnot
+OPTION_C: Hylätä urheilijan suorituksen
+OPTION_D: Myöntää palkinnon seuraavaksi sijoittuneelle urheilijalle
 CORRECT: B
-EXPLANATION: Yhteiskilpailun sääntöjen artikla 341 määrää, että jos palkinnon voittaja ei osallistu palkintojenjakotilaisuuteen ilman uskottavaa syytä, tuomaristo voi antaa järjestäjälle luvan evätä urheilijan palkinnon/palkinnot.
+EXPLANATION: Kilpailusääntöjen artiklassa 341 määrätään, että jos palkinnon voittaja ei ilman hyväksyttävää syytä osallistu palkintojenjakotilaisuuteen, tuomaristo voi antaa järjestäjälle luvan evätä urheilijan palkinnon tai palkinnot.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

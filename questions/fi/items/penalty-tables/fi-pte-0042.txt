@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Taulukon A mukaan kilpailut voidaan nimetä seuraavasti?
-OPTION_A: Vain aikaa vastaan
-OPTION_B: Ei vain aikaa vastaan
-OPTION_C: Kelloa vastaan vai ei kelloa vastaan
-OPTION_D: Aina molemmat yhtä aikaa
+STEM: Miten arvostelun A mukaiset kilpailut voidaan määritellä?
+OPTION_A: Vain kilpailuiksi, joissa aika ratkaisee
+OPTION_B: Vain kilpailuiksi, joissa aika ei ratkaise
+OPTION_C: Kilpailuiksi, joissa aika ratkaisee, tai kilpailuiksi, joissa aika ei ratkaise
+OPTION_D: Aina molemmiksi yhtä aikaa
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen artiklassa 217.1.3 määrätään, että taulukon A mukaisesti tuomaroidut kilpailut voidaan nimetä aikaa vastaan tai aikaa vastaan käytäviksi kilpailuiksi.
+EXPLANATION: Kilpailusääntöjen kohdassa 217.1.3 määrätään, että arvostelun A mukaan tuomittavat kilpailut voidaan määritellä joko kilpailuiksi, joissa aika ratkaisee, tai kilpailuiksi, joissa aika ei ratkaise.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

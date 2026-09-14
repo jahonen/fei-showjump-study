@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Taulukon A mukaan toinen tottelemattomuus samalla kierroksella johtaa:
-OPTION_A: 4 rangaistusta
-OPTION_B: 6 rangaistusta
-OPTION_C: Eliminaatio
-OPTION_D: Sakko
+STEM: Mihin toinen tottelemattomuus samalla suorituksella johtaa arvostelussa A?
+OPTION_A: 4 virhepisteeseen
+OPTION_B: 6 virhepisteeseen
+OPTION_C: Suorituksen hylkäämiseen
+OPTION_D: Sakkoon
 CORRECT: C
-EXPLANATION: Yhteisten sääntöjen artiklassa 217.1.1 luetellaan "Toinen tottelemattomuus tai muu yhteisten sääntöjen artiklan 342 mukainen rikkomus" taulukon A mukaiseksi hylkäämiseksi.
+EXPLANATION: Kilpailusääntöjen kohdassa 217.1.1 toinen tottelemattomuus tai muu kilpailusääntöjen kohdassa 342 mainittu rikkomus johtaa arvostelussa A suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

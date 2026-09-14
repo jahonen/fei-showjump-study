@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mitä JR:n artikla 241.1.1 edellyttää hevosen ollessa kilpailualueella kilpailun aikana?
-OPTION_A: Vain hevosen käyttämä sisäänkäynti on suljettava.
-OPTION_B: Kaikkien sisään- ja uloskäyntien on oltava fyysisesti suljettuja
-OPTION_C: Sisäänkäynnit voivat pysyä auki, jos paikalla on siivooja
-OPTION_D: Uloskäynnit on merkittävä, mutta ne voivat pysyä auki
+STEM: Mitä kilpailusääntöjen artiklassa 241.1.1 edellytetään hevosen ollessa kilpailun aikana kilpailualueella?
+OPTION_A: Vain hevosen käyttämä sisäänkäynti on suljettava
+OPTION_B: Kaikkien sisään- ja uloskäyntien on oltava fyysisesti suljettuina
+OPTION_C: Sisäänkäynnit voivat olla auki, jos paikalla on stewardi
+OPTION_D: Uloskäynnit on merkittävä, mutta ne voivat olla auki
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artikla 329 edellyttää, että kilpailualue on aidattu ja kaikki sisään- ja uloskäynnit fyysisesti suljettu hevosen ollessa alueella kilpailun aikana.
+EXPLANATION: Kilpailusääntöjen artikla 329 edellyttää, että kilpailualue on aidattu ja että kaikki sisään- ja uloskäynnit ovat fyysisesti suljettuina hevosen ollessa alueella kilpailun aikana.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

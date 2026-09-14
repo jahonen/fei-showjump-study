@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: multi-select
-STEM: Mitkä JR:n artiklan 241.6.1.2 mukaiset väittämät kellosta ja lähtömenettelystä ovat oikein?
-OPTION_A: Kello aktivoi 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteessa tulostaululla tai muulla näytöllä kilpailuareenan vieressä.
-OPTION_B: Urheilijan on ylitettävä lähtöviiva oikeaan suuntaan lähtölaskennan aikana.
-OPTION_C: Ajastin käynnistyy automaattisesti uudelleen, jos se keskeytyy
-OPTION_D: Tuomariston jäsenet voivat keskeyttää lähtölaskennan odottamattomien olosuhteiden sattuessa.
+STEM: Mitkä kelloa ja lähtömenettelyä koskevat väittämät ovat oikein kilpailusääntöjen artiklan 241.6.1.2 mukaan?
+OPTION_A: Kello käynnistää 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteen tulostaulussa tai muussa kilpailualueen vieressä olevassa näytössä
+OPTION_B: Urheilijan on ylitettävä lähtölinja oikeaan suuntaan lähtölaskennan aikana
+OPTION_C: Lähtölaskenta käynnistyy automaattisesti uudelleen, jos se keskeytetään
+OPTION_D: Tuomaristo voi keskeyttää lähtölaskennan odottamattomissa olosuhteissa
 CORRECT: A,B,D
-EXPLANATION: Lähtöjärjestyksen artiklassa 241.6.1.2 määrätään, että kello aktivoi 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteessa tulostaululla tai muulla näytöllä kilpailualueen vieressä. Lähtölaskenta asettaa ajan, jonka kuluttua urheilijan on aloitettava kierros ylittämällä lähtöviiva oikeaan suuntaan. Tuomaristo voi keskeyttää sen odottamattomissa olosuhteissa; se ei käynnisty uudelleen automaattisesti.
+EXPLANATION: Kilpailusääntöjen artiklassa 241.6.1.2 määrätään, että kello käynnistää 45 sekunnin lähtölaskennan, joka näkyy ajanottolaitteen tulostaulussa tai muussa kilpailualueen vieressä olevassa näytössä. Lähtölaskenta määrää ajan, jonka kuluessa urheilijan on aloitettava suoritus ylittämällä lähtölinja oikeaan suuntaan. Tuomaristo voi keskeyttää lähtölaskennan odottamattomissa olosuhteissa, eikä se käynnisty uudelleen automaattisesti.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

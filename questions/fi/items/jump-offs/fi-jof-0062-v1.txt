@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: JR:n artiklan 218.3.1 mukaisesti urheilija, joka putoaa uusinnasta, sijoittuu:
-OPTION_A: Ensimmäinen
-OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
-OPTION_C: Alustavan kierroksen ajan mukaan
-OPTION_D: Ei sijoitettu
+STEM: Miten sijoittuu urheilija, jonka suoritus uusinnassa hylätään, kilpailusääntöjen artiklan 218.3.1 mukaan?
+OPTION_A: Ensimmäiseksi
+OPTION_B: Tasan viimeiseksi kaikkien uusinnan suorittaneiden jälkeen
+OPTION_C: Perusradalla saavuttamansa ajan mukaan
+OPTION_D: Häntä ei sijoiteta lainkaan
 CORRECT: B
-EXPLANATION: JR:n artikla 344 määrää, että eliminointi, keskeytys tai sallittu vetäytyminen asettaa urheilijan tasan viimeiseksi kierroksella kaikkien loppuun suorittaneiden jälkeen.
+EXPLANATION: Kilpailusääntöjen artikla 344 määrää, että hylkääminen, keskeyttäminen tai luvallinen luopuminen sijoittaa urheilijan kyseisellä kierroksella tasan viimeiseksi kaikkien kierroksen suorittaneiden jälkeen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

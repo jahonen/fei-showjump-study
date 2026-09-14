@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Erittäin lämpimällä säällä tuomaristo voi sallia urheilijoiden ratsastaa ilman takkia JR:n artiklan 207.2.3.4 nojalla. Jos takkia ei käytetä, paitojen on:
-OPTION_A: Ole hihaton
-OPTION_B: Hihat, joko lyhyet tai pitkät
-OPTION_C: Ole vain valkoinen
-OPTION_D: Musta kaulus
+STEM: Tuomaristo voi erittäin lämpimällä säällä sallia artiklan 207.2.3.4 mukaan, että urheilijat ratsastavat ilman takkia. Millaisia paitojen on tällöin oltava?
+OPTION_A: Hihattomia
+OPTION_B: Hihallisia, joko lyhyt- tai pitkähihaisia
+OPTION_C: Vain valkoisia
+OPTION_D: Mustakauluksisia
 CORRECT: B
-EXPLANATION: JR:n artikla 333 toteaa, että jos takkia ei käytetä sääolosuhteiden vuoksi, paidoissa on oltava hihat; joko lyhyt- tai pitkähihaiset ovat sallittuja.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 todetaan, että jos takkia ei sääolosuhteiden vuoksi käytetä, paidoissa on oltava hihat; sekä lyhyt- että pitkähihaiset paidat ovat sallittuja.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

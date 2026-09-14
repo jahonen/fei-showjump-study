@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Mikä JR:n artiklan 205.3.4 mukainen urheilijaluokka alkaa 45 vuoden iässä?
+STEM: Mikä artiklan 205.3.4 mukainen urheilijaluokka alkaa 45 vuoden iässä?
 OPTION_A: U25
-OPTION_B: Nuori ratsastaja
-OPTION_C: Veteraani
-OPTION_D: Amatööri
+OPTION_B: Nuoret ratsastajat
+OPTION_C: Veteraanit
+OPTION_D: Amatöörit
 CORRECT: C
-EXPLANATION: JR:n artikla 333 toteaa, että urheilijat voivat kilpailla veteraanien sarjassa sen vuoden alusta, jona he täyttävät 45 vuotta.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 todetaan, että urheilijat voivat kilpailla veteraanien sarjassa sen vuoden alusta, jona he täyttävät 45 vuotta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

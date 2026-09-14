@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: JR:n artiklan 226.1.4 mukaan Nations Cupissa on oltava:
-OPTION_A: Yksilöllinen sijoitus
-OPTION_B: Ei yksittäisiä sijoituksia
+STEM: Mitä sijoituksia Nations Cupissa on kilpailusääntöjen artiklan 226.1.4 mukaan?
+OPTION_A: Yksilösijoitukset
+OPTION_B: Ei yksilösijoituksia
 OPTION_C: Erillinen yksilökilpailu
-OPTION_D: Joukkue- ja yksilösijoitukset
+OPTION_D: Sekä joukkue- että yksilösijoitukset
 CORRECT: B
-EXPLANATION: JR:n artikla 354 määrää, että Nations Cupissa ei saa olla yksilösijoituksia sen erityisluonteen säilyttämiseksi.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 määrätään, ettei Nations Cupissa saa olla yksilösijoituksia, jotta kilpailun erityisluonne säilyy.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

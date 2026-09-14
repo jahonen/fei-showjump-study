@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Minkä estetyypin on oltava JR:n artiklan 230.2.1 mukaan Puissance-kilpailun ensimmäisellä kierroksella?
-OPTION_A: Vesihyppy
-OPTION_B: Pystysuora este
-OPTION_C: Kolminkertainen palkki
-OPTION_D: Yhdistelmä
+STEM: Minkä estetyypin on kilpailusääntöjen artiklan 230.2.1 mukaan oltava Puissance-kilpailun ensimmäisellä kierroksella?
+OPTION_A: Vesiesteen
+OPTION_B: Pystyesteen
+OPTION_C: Trippelin
+OPTION_D: Sarjaesteen
 CORRECT: B
-EXPLANATION: JR:n artikla 354 vaatii vähintään yhden pystysuoran esteen neljästä kuuteen yksittäisestä esteestä Puissance-alkukilpailussa.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 vaaditaan, että Puissance-kilpailun ensimmäisen kierroksen neljästä–kuudesta yksittäisestä esteestä vähintään yhden on oltava pystyeste.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

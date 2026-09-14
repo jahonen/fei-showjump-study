@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Mitä on urheilijan ja/tai hevosen kaatumisen seuraus kilpailun aikana JR:n artiklan 248.2.2.2 mukaan?
-OPTION_A: 4 rangaistusta
-OPTION_B: 6 rangaistusta
-OPTION_C: Eliminaatio
+STEM: Mitä seuraa artiklan 248.2.2.2 mukaan urheilijan ja/tai hevosen kaatumisesta kilpailusuorituksen aikana?
+OPTION_A: 4 virhepistettä
+OPTION_B: 6 virhepistettä
+OPTION_C: Suorituksen hylkääminen
 OPTION_D: Varoitus
 CORRECT: C
-EXPLANATION: JR:n artikla 348 toteaa, että kaatuminen kilpailualueella kierroksen aikana johtaa urheilija/hevonen -yhdistelmän sulkemiseen kilpailusta.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, että kaatuminen kilpailualueella suorituksen aikana johtaa ratsukon suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

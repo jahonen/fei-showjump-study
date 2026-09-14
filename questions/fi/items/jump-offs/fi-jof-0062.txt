@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Urheilija keskeyttää uusinnan tuomariston luvalla. Mihin urheilija sijoitetaan?
-OPTION_A: Tasa-arvoinen kaikkien muiden eläkeläisten kanssa
-OPTION_B: Tasapeli viimeinen uusinnassa kaikkien kierroksen päättäneiden urheilijoiden jälkeen
-OPTION_C: He säilyttävät alkusarjan sijoituksensa
-OPTION_D: Heidät poistetaan tapahtumasta
+STEM: Urheilija keskeyttää uusinnan tuomariston luvalla. Mihin hänet sijoitetaan?
+OPTION_A: Tasan samalle sijalle kaikkien muiden keskeyttäneiden kanssa
+OPTION_B: Tasan viimeiseksi uusinnassa kaikkien kierroksen suorittaneiden urheilijoiden jälkeen
+OPTION_C: Hän säilyttää perusradan sijoituksensa
+OPTION_D: Hänet suljetaan kilpailusta
 CORRECT: B
-EXPLANATION: JR:n artikla 344 toteaa, että urheilija, joka keskeyttää, putoaa tai vetäytyy luvalla uusinnasta, toisesta kierroksesta tai voittavasta kierroksesta, sijoittuu kyseisellä kierroksella tasan viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
+EXPLANATION: Kilpailusääntöjen artiklan 344 mukaan urheilija, joka keskeyttää, tulee hylätyksi tai luopuu luvallisesti uusinnasta, toiselta kierrokselta tai voittokierrokselta, sijoittuu kyseisellä kierroksella tasan viimeiseksi kaikkien kierroksen suorittaneiden urheilijoiden jälkeen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

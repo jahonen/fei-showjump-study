@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Urheilijasääntöjen artiklan 221.1 mukaisesti urheilijat, jotka putoavat tai keskeyttävät kilpailun ensimmäisen kierroksen aikana kahden kierroksen kilpailussa:
-OPTION_A: Voi aloittaa toisella kierroksella
-OPTION_B: Ei välttämättä osallistu toiselle kierrokselle eikä tule sijoittumaan
-OPTION_C: Voi osallistua toiselle kierrokselle eri hevosella
-OPTION_D: Sijoitetaan automaattisesti viimeiseksi
+STEM: Mitä kilpailusääntöjen artiklan 221.1 mukaan tapahtuu urheilijoille, jotka putoavat tai keskeyttävät kahden kierroksen kilpailun ensimmäisellä kierroksella?
+OPTION_A: He saavat osallistua toiselle kierrokselle
+OPTION_B: He eivät saa osallistua toiselle kierrokselle eivätkä he saa sijoitusta
+OPTION_C: He saavat osallistua toiselle kierrokselle toisella hevosella
+OPTION_D: Heidät sijoitetaan automaattisesti viimeiseksi
 CORRECT: B
-EXPLANATION: Urheilijasääntöjen artiklassa 221.1 todetaan, että urheilijat, jotka on pudotettu tai jotka ovat keskeyttäneet kilpailun ensimmäisellä kierroksella, eivät saa osallistua toiselle kierrokselle eivätkä he saa sijoittua.
+EXPLANATION: Kilpailusääntöjen artiklassa 221.1 todetaan, että urheilijat, jotka ovat pudonneet tai keskeyttäneet ensimmäisellä kierroksella, eivät saa osallistua toiselle kierrokselle eivätkä he saa sijoitusta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

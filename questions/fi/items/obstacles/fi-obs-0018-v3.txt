@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Miten Joker-esteet tulisi suunnitella JR:n artiklan 240.3 mukaan?
-OPTION_A: Niin korkealle kuin teknisesti mahdollista
-OPTION_B: Hevostaito ja reiluus mielessä
-OPTION_C: Identtinen kaikkien muiden esteiden kanssa
+STEM: Millä periaatteella jokeriesteet on suunniteltava kilpailusääntöjen artiklan 240.3 mukaan?
+OPTION_A: Niin korkeiksi kuin teknisesti on mahdollista
+OPTION_B: Hevosystävällisyyttä ja reiluutta noudattaen
+OPTION_C: Täysin muiden esteiden kaltaisiksi
 OPTION_D: Ilman lippuja
 CORRECT: B
-EXPLANATION: JR:n artikla 301 toteaa, että Joker-esteet on suunniteltava ratsastustaidot ja reilu kilpailutyyli mielessä pitäen.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 todetaan, että jokeriesteet on suunniteltava hevosystävällisyyttä ja reilun kilpailun periaatetta noudattaen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

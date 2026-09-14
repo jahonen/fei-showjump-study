@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Kaksikierroksen kilpailussa voi olla kaksi identtistä tai erilaista rataa JR:n artiklan 221.1 nojalla?
-OPTION_A: Vain esteiden lukumäärässä
-OPTION_B: Rata, esteiden lukumäärä tai esteiden mitat
-OPTION_C: Vain vauhdissa
-OPTION_D: Niiden täytyy olla identtisiä
+STEM: Minkä suhteen kahden kierroksen kilpailun radat voivat kilpailusääntöjen artiklan 221.1 nojalla poiketa toisistaan?
+OPTION_A: Vain esteiden lukumäärän suhteen
+OPTION_B: Radan, esteiden lukumäärän tai esteiden mittojen suhteen
+OPTION_C: Vain nopeuden suhteen
+OPTION_D: Ratojen on oltava täysin samanlaiset
 CORRECT: B
-EXPLANATION: JR:n artikla 354 määrää, että radat voivat olla identtiset tai erilaiset radan, esteiden lukumäärän tai esteiden mittojen suhteen, mutta nopeuden on oltava sama.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 määrätään, että radat voivat olla samanlaiset tai poiketa toisistaan radan, esteiden lukumäärän tai esteiden mittojen suhteen, mutta nopeuden on oltava sama.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

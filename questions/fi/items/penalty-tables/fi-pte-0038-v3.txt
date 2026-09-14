@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Taulukon C mukaan enimmäisaikarajan ylittäminen johtaa seuraavaan:
-OPTION_A: 4 rangaistusta
-OPTION_B: 6 rangaistusta
-OPTION_C: Eliminaatio
-OPTION_D: Vain aikarangaistukset
+STEM: Mihin aikarajan ylittäminen johtaa arvostelussa C?
+OPTION_A: 4 virhepisteeseen
+OPTION_B: 6 virhepisteeseen
+OPTION_C: Suorituksen hylkäämiseen
+OPTION_D: Pelkkiin aikavirhepisteisiin
 CORRECT: C
-EXPLANATION: Yhteisen sääntöjen artiklassa 217.2.4 todetaan, että taulukon C mukaisen enimmäisaikarajan ylittäminen johtaa hylkäämiseen.
+EXPLANATION: Kilpailusääntöjen kohdassa 217.2.4 todetaan, että arvostelussa C aikarajan ylittäminen johtaa suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

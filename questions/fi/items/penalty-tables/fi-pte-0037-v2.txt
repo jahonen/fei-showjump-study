@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: C-taulukon sisäkilpailussa este kaadetaan. Kuinka monta sekuntia lisätään?
+STEM: Arvostelua C käyttävässä hallikilpailussa este pudotetaan. Kuinka monta virhesekuntia lisätään?
 OPTION_A: 2 sekuntia
 OPTION_B: 3 sekuntia
 OPTION_C: 4 sekuntia
 OPTION_D: 6 sekuntia
 CORRECT: B
-EXPLANATION: JR:n artikla 342 määrää, että esteen kaatumisesta tai vesihypyn virheestä seuraa 3 sekuntia taulukon C mukaisissa sisäkilpailuissa.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 määrätään, että esteen pudottamisesta tai rajaviivan (vedenpinnan) rikkomisesta lisätään arvostelua C käyttävissä hallikilpailuissa 3 sekuntia.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

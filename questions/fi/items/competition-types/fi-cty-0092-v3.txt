@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Jokerin hyppääminen keräilykilpailussa yleisesti:
-OPTION_A: Lyhentää aikarangaistuksia
-OPTION_B: Lisää pisteitä kuin tavallinen este
-OPTION_C: Eliminoi urheilijan
-OPTION_D: Nollaa pisteet
+STEM: Mitä jokeriesteen hyppäämisestä yleensä seuraa pisteidenkeräilykilpailussa?
+OPTION_A: Se vähentää aikavirhepisteitä
+OPTION_B: Siitä saa enemmän pisteitä kuin tavallisesta esteestä
+OPTION_C: Se aiheuttaa urheilijan hylkäämisen
+OPTION_D: Se nollaa pisteet
 CORRECT: B
-EXPLANATION: JR:n artiklassa 240.3 todetaan, että urheilija/hevonen -yhdistelmä kerää enemmän pisteitä, jos se valitsee hyppääväksi jokerin vaihtoehtoisen vakioesteen sijaan.
+EXPLANATION: Kilpailusääntöjen artiklassa 240.3 todetaan, että ratsukko kerää enemmän pisteitä, jos se hyppää jokeriesteen vaihtoehtoisen tavallisen esteen sijasta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

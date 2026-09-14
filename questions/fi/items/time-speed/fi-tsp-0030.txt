@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Miten kierrokselle sallittu aika määräytyy?
-OPTION_A: Yksin radan suunnittelijan toimesta
-OPTION_B: Kertomalla radan pituus JR:n artiklassa 258 määritellyllä nopeudella
-OPTION_C: Radan pituuden ja JR:n artiklan 258 mukaisesti asetettujen nopeuksien suhteen
-OPTION_D: Se on kiinteä 80 sekuntia kaikissa kilpailuissa.
+STEM: Miten suorituksen enimmäisaika määräytyy?
+OPTION_A: Yksinomaan ratamestarin päätöksellä
+OPTION_B: Kertomalla tien pituus kilpailusääntöjen kohdassa 258 määritellyllä nopeudella
+OPTION_C: Tien pituuden ja kilpailusääntöjen kohdassa 258 määrättyjen nopeuksien perusteella
+OPTION_D: Se on kaikissa kilpailuissa kiinteästi 80 sekuntia
 CORRECT: C
-EXPLANATION: JR:n artiklassa 252 todetaan, että kierroksen sallittu aika määräytyy suhteessa radan pituuteen ja JR:n artiklassa 258 määriteltyihin nopeuksiin.
+EXPLANATION: Kilpailusääntöjen kohdassa 252 todetaan, että suorituksen enimmäisaika määräytyy tien pituuden ja kilpailusääntöjen kohdassa 258 määrättyjen nopeuksien perusteella.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

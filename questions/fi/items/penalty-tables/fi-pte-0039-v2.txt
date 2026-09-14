@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Yhteisen ohjesäännön artikla 217.1.5 selventää, että tottelemattomuuden rangaistukset kasautuvat:
-OPTION_A: Estettä kohden
-OPTION_B: Kierrosta kohden
-OPTION_C: Kilpailua kohden
-OPTION_D: Vain uusintahyppyissä
+STEM: Kilpailusääntöjen kohdassa 217.1.5 täsmennetään, että tottelemattomuudesta annettavat virhepisteet kertyvät
+OPTION_A: estekohtaisesti
+OPTION_B: koko suorituksen ajalta
+OPTION_C: koko kilpailun ajalta
+OPTION_D: vain uusinnoissa
 CORRECT: B
-EXPLANATION: JR:n artikla 342 toteaa, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajan.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 todetaan, että tottelemattomuudesta annettavat virhepisteet kertyvät koko suorituksen ajalta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

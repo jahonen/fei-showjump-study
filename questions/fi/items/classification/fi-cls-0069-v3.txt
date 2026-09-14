@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mitä JR:n artiklan 267.6 mukainen "tiettyjen erikoiskilpailujen" poikkeus tarkoittaa urheilijoille, jotka eivät pysty suorittamaan ensimmäistä kierrosta?
-OPTION_A: He saavat täyden palkinnon riippumatta siitä.
-OPTION_B: He voivat silti saada palkinnon, vaikka eivät olisikaan suorittaneet ensimmäistä kierrosta.
-OPTION_C: Ne eliminoidaan automaattisesti.
-OPTION_D: Heidän on aloitettava ensimmäinen kierros alusta.
+STEM: Mitä kilpailusääntöjen artiklan 267.6 mukainen tiettyjä erikoiskilpailuja koskeva poikkeus tarkoittaa urheilijoille, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun?
+OPTION_A: He saavat täyden palkinnon tilanteesta riippumatta
+OPTION_B: He voivat saada palkinnon, vaikka eivät olisi suorittaneet ensimmäistä kierrosta loppuun
+OPTION_C: Heidät hylätään automaattisesti
+OPTION_D: Heidän on aloitettava ensimmäinen kierros uudelleen
 CORRECT: B
-EXPLANATION: JR:n artikla 341 määrää, että urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoja, paitsi tietyissä erikoiskilpailuissa, mikä tarkoittaa, että näissä erikoiskilpailuissa palkinto voidaan myöntää, vaikka kierros olisi suoritettu kesken.
+EXPLANATION: Kilpailusääntöjen artiklassa 341 määrätään, että urheilijat, jotka eivät pysty suorittamaan ensimmäistä kierrosta loppuun, eivät saa palkintoja muutoin kuin tietyissä erikoiskilpailuissa. Tämä tarkoittaa, että näissä erikoiskilpailuissa palkinto voidaan myöntää, vaikka kierros jäisi kesken.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

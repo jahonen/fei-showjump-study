@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mistä FEI:n esteratsastuksen kunniamerkkejä myönnetään JR:n artiklan 268.1 mukaan?
-OPTION_A: Yhden CSI5*-kilpailun voittaminen
-OPTION_B: Suorittaa tiettyjen joukkue- ja yksilömestaruuskilpailujen ensimmäiset kierrokset ilman, että pelaaja lopettaa tai putoaa.
-OPTION_C: Täydellinen läsnäolo tapahtumissa
-OPTION_D: Virkamiespalvelu
+STEM: Mistä FEI:n esteratsastuksen kunniamerkit myönnetään kilpailusääntöjen artiklan 268.1 mukaan?
+OPTION_A: Yhden CSI5*-kilpailun voittamisesta
+OPTION_B: Tiettyjen joukkue- ja yksilömestaruuskilpailujen ensimmäisen kierroksen suorittamisesta keskeyttämättä tai putoamatta
+OPTION_C: Täydellisestä läsnäolosta kilpailuissa
+OPTION_D: Toimihenkilönä toimimisesta
 CORRECT: B
-EXPLANATION: JR:n artiklassa 268.1 määrätään, että FEI:n esteratsastuksen kunniamerkit myönnetään urheilijoille, jotka ovat suorittaneet ensimmäisen kierroksen Nations Cup/Longines League of Nations™ -kilpailussa seniorien CSIO-kilpailussa, olympialaisten joukkue- ja/tai yksilökilpailussa sekä seniorien maailman- ja seniorien mannertenvälisissä joukkue- ja/tai yksilömestaruuskilpailuissa luopumatta kilpailusta tai putoamatta kilpailusta.
+EXPLANATION: Kilpailusääntöjen artiklassa 268.1 määrätään, että FEI:n esteratsastuksen kunniamerkit myönnetään urheilijoille, jotka ovat suorittaneet ensimmäisen kierroksen keskeyttämättä tai putoamatta seniorien CSIO-kilpailun Nations Cupissa tai Longines League of Nations™ -kilpailussa, olympialaisten joukkue- ja/tai yksilökilpailussa sekä seniorien maailman- ja mannermestaruuskilpailujen joukkue- ja/tai yksilökilpailussa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

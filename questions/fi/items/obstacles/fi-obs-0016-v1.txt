@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Urheilijalla on ohitus normaalin avoimen tuplasarjan toisella elementillä. Mitä hänen on tehtävä?
-OPTION_A: Hyppää uudelleen vain toiseen elementtiin
-OPTION_B: Hyppää molempiin elementteihin uudelleen
-OPTION_C: Hyppää toisen elementin yli ja jatka sitten
-OPTION_D: Heidät on eliminoitu
+STEM: Ratsukko tekee ohituksen tavallisen avoimen kaksoissarjan toisella osaesteellä. Mitä sen on tehtävä?
+OPTION_A: Hypättävä uudelleen vain toinen osaeste
+OPTION_B: Hypättävä uudelleen molemmat osaesteet
+OPTION_C: Hypättävä toisen osaesteen yli ja jatkettava matkaa
+OPTION_D: Suoritus hylätään
 CORRECT: B
-EXPLANATION: JR:n artikla 301 edellyttää urheilijan hyppäävän uudelleen kaikki sarjan elementit hylkäämisen tai loppukirin jälkeen.
+EXPLANATION: Kilpailusääntöjen artikla 301 edellyttää, että ratsukko hyppää kiellon tai ohituksen jälkeen uudelleen kaikki sarjaesteen osaesteet.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

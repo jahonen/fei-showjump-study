@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: JR:n artiklan 263.4.22 mukaan takkien ja varusteiden sääntöjen noudattamatta jättäminen kierroksen aikana johtaa:
-OPTION_A: 4 rangaistusta
-OPTION_B: Eliminaatio
-OPTION_C: Varoitus
-OPTION_D: Ei seurauksia
+STEM: Mihin pukeutumista ja varusteita koskevien sääntöjen noudattamatta jättäminen suorituksen aikana johtaa artiklan 263.4.22 mukaan?
+OPTION_A: 4 virhepisteeseen
+OPTION_B: Hylkäämiseen
+OPTION_C: Varoitukseen
+OPTION_D: Ei mihinkään seuraukseen
 CORRECT: B
-EXPLANATION: JR:n artikla 346 tekee takkien ja varusteiden sääntöjen noudattamatta jättämisestä pakollisen hylkäämisen.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 pukeutumista ja varusteita koskevien sääntöjen noudattamatta jättäminen mainitaan pakollisena hylkäämisperusteena.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Kilpailusääntöjen artiklan 251.1.1 nojalla kierroksen aika voi alkaa jo ennen kuin urheilija ylittää lähtöviivan, jos:
-OPTION_A: Urheilija kaatuu ennen lähtöä
-OPTION_B: 45 sekunnin lähtölaskenta päättyy ennen lähtöviivan ylittämistä oikeaan suuntaan
-OPTION_C: Kello soi kahdesti
-OPTION_D: Tuomariston jäsenet heiluttavat lippua
+STEM: Milloin ajanotto voi kilpailusääntöjen kohdan 251.1.1 mukaan alkaa jo ennen kuin ratsukko ylittää lähtölinjan?
+OPTION_A: Kun urheilija putoaa satulasta ennen lähtöä
+OPTION_B: Kun 45 sekunnin valmiusaika päättyy ennen kuin ratsukko on ylittänyt lähtölinjan oikeasta suunnasta
+OPTION_C: Kun äänimerkki annetaan kahdesti
+OPTION_D: Kun tuomariston jäsenet heiluttavat lippua
 CORRECT: B
-EXPLANATION: JR:n artikla 352 määrää, että aika alkaa joko siitä, kun urheilija ylittää lähtöviivan kellon soiton jälkeen, tai siitä, kun 45 sekunnin lähtölaskenta päättyy, riippuen siitä, kumpi tapahtuu ensin.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 määrätään, että ajanotto alkaa, kun ratsukko ylittää lähtölinjan lähtömerkin jälkeen tai kun 45 sekunnin valmiusaika päättyy, sen mukaan kumpi tapahtuu ensin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

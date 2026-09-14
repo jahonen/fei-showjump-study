@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: JR:n artikla 218.2.4 sallii yhdistelmän elementtien jättämisen pois uusintahypyssä, mutta mitä kolmen tai neljän hypyn elementtejä EI saa jättää pois?
-OPTION_A: Ensimmäinen elementti
-OPTION_B: Viimeinen elementti
-OPTION_C: Keskimmäinen elementti(t)
-OPTION_D: Mikä tahansa ulkoinen elementti
+STEM: Kilpailusääntöjen artikla 218.2.4 sallii sarjaesteen osaesteiden poistamisen uusinnassa. Mitä osaestettä kolmois- tai nelisarjasta EI kuitenkaan saa poistaa?
+OPTION_A: Ensimmäistä osaestettä
+OPTION_B: Viimeistä osaestettä
+OPTION_C: Keskimmäistä osaestettä tai keskimmäisiä osaesteitä
+OPTION_D: Mitä tahansa reunimmaista osaestettä
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen artiklassa 218.2.4 määrätään, että jos yhdistetty este on kolmois- tai neloiseste, keskimmäistä elementtiä/keskielementtejä ei saa jättää pois.
+EXPLANATION: Kilpailusääntöjen artiklassa 218.2.4 määrätään, että kolmois- tai nelisarjasta ei saa poistaa keskimmäistä osaestettä eikä keskimmäisiä osaesteitä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

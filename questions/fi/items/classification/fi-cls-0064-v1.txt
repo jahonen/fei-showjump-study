@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mitkä asiakirjat määräävät urheilijan sijoituksen JR:n artiklan 267.1 mukaan?
+STEM: Mitkä asiakirjat määrittävät urheilijan sijoituksen kilpailusääntöjen artiklan 267.1 mukaan?
 OPTION_A: Vain FEI:n säännöt
-OPTION_B: Aikataulu ja mahdolliset kurssisuunnitelmassa mainitut muutokset
-OPTION_C: Virallinen kalenteri
-OPTION_D: Chef d'Equipen lausunto
+OPTION_B: Kilpailukutsu ja mahdolliset ratapiirroksessa mainitut muutokset
+OPTION_C: Virallinen kilpailukalenteri
+OPTION_D: Joukkueenjohtajan lausunto
 CORRECT: B
-EXPLANATION: JR:n artikla 341 perustuu sijoituksiin kilpailun pisteytykseen, aikataulun ohjeisiin ja ratasuunnitelmassa ilmoitettuihin muutoksiin.
+EXPLANATION: Kilpailusääntöjen artiklan 341 mukaan sijoitus perustuu kilpailun arvosteluun, kilpailukutsun ohjeisiin ja ratapiirroksessa ilmoitettuihin muutoksiin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Miten esteiden välinen etäisyys yhdistelmässä mitataan JR:n artiklan 237.1 mukaisesti?
-OPTION_A: Yhden esteen keskeltä seuraavan keskelle
-OPTION_B: Laskeutumispuolen jalustalta seuraavan esteen lähtöpuolen jalustalle
+STEM: Miten sarjaesteen osaesteiden välinen etäisyys mitataan kilpailusääntöjen artiklan 237.1 mukaan?
+OPTION_A: Esteen keskeltä seuraavan esteen keskelle
+OPTION_B: Edellisen esteen alastulopuolen tyveltä seuraavan esteen ponnahduspuolen tyvelle
 OPTION_C: Ensimmäisen esteen etureunasta toisen esteen etureunaan
-OPTION_D: Kunkin esteen korkeimmasta kohdasta
+OPTION_D: Kummankin esteen korkeimmasta kohdasta
 CORRECT: B
-EXPLANATION: JR:n artiklassa 237.1 todetaan, että etäisyys mitataan laskeutumispuolella olevan esteen tyvestä seuraavan ponnistuspuolella olevan esteen tyveen.
+EXPLANATION: Kilpailusääntöjen artiklassa 237.1 todetaan, että etäisyys mitataan edellisen esteen alastulopuolen tyveltä seuraavan esteen ponnahduspuolen tyvelle.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

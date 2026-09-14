@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mihin kilpailuihin osallistuvien hevosten JR-säännön artiklan 266 mukaan suojavarusteiden ja tukien tarkastus on pakollinen?
-OPTION_A: Vain Grand Prix
-OPTION_B: Grand Prix, palkintorahojen korkein kilpailu, Nations Cup/Longines League of Nations™ sekä Puissance- ja Six Bar -kilpailut
-OPTION_C: Jokainen kilpailu tapahtumassa
-OPTION_D: Vain Puissance- ja kuuden tahdin kilpailut
+STEM: Mihin kilpailuihin osallistuvien hevosten suojien ja siteiden tarkastus on artiklan 266 mukaan pakollinen?
+OPTION_A: Vain Grand Prix -kilpailuun
+OPTION_B: Grand Prix -kilpailuun, korkeimman palkintosumman kilpailuun, Nations Cup- ja Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin
+OPTION_C: Kilpailutapahtuman kaikkiin luokkiin
+OPTION_D: Vain Puissance- ja Six Bar -kilpailuihin
 CORRECT: B
-EXPLANATION: JR:n artikla 346 määrää, että suoja- ja tukisuojan käyttö on pakollista kaikille hevosille, jotka osallistuvat Grand Prix'hin, kunkin kilpailun korkeimman palkintorahamäärän kilpailuun (ellei Grand Prix'tä), Nations Cupiin/Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin, ja sitä suositellaan muissa kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 määrätään, että suojien ja siteiden tarkastus on pakollinen kaikille hevosille, jotka osallistuvat Grand Prix -kilpailuun, kilpailutapahtuman korkeimman palkintosumman kilpailuun (jos Grand Prix -kilpailua ei ole), Nations Cup- ja Longines League of Nations™ -kilpailuihin sekä Puissance- ja Six Bar -kilpailuihin; muissa kilpailuissa tarkastusta suositellaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

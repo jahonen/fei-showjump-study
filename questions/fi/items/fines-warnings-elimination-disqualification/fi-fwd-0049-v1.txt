@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Minkä elektronisen laitteen käyttö kilpailualueella kilpailun aikana johtaa kilpailusta poistamiseen JR:n artiklan 263.4.30 mukaisesti?
-OPTION_A: Matkapuhelin
-OPTION_B: Sekuntikello
-OPTION_C: Sykemittari, jota ei ole yhdistetty urheilijaan
-OPTION_D: Hevosen selkään kiinnitetty kamera
+STEM: Minkä elektronisen laitteen käyttö kilpailualueella kilpailun aikana johtaa hylkäämiseen artiklan 263.4.30 mukaan?
+OPTION_A: Matkapuhelimen
+OPTION_B: Sekuntikellon
+OPTION_C: Sykemittarin, jota ei ole yhdistetty urheilijaan
+OPTION_D: Hevosen selkään kiinnitetyn kameran
 CORRECT: A
-EXPLANATION: Yhteistyösopimuksen artikla 346 viittaa nimenomaisesti matkapuhelimiin, muihin elektronisiin viestintälaitteisiin ja kuulokkeisiin.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 mainitaan nimenomaisesti matkapuhelimet, muut elektroniset viestintälaitteet ja kuulokkeet.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

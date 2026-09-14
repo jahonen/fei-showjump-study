@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Missä vaiheessa urheilijan on ilmoitettava harjoituskierroksesta järjestäjälle JR:n artiklan 217.3 mukaisesti?
-OPTION_A: Saapuessa tapahtumapaikalle
-OPTION_B: Ilmoitusten jättämisen yhteydessä
-OPTION_C: Ennen areenalle astumista
-OPTION_D: Ensimmäisen kierroksen jälkeen
+STEM: Missä vaiheessa urheilijan on ilmoitettava harjoituskierroksesta järjestäjälle kilpailusääntöjen kohdan 217.3 mukaan?
+OPTION_A: Kilpailupaikalle saavuttaessa
+OPTION_B: Ilmoittautumisen yhteydessä
+OPTION_C: Ennen kilpailualueelle tuloa
+OPTION_D: Ensimmäisen suorituksen jälkeen
 CORRECT: B
-EXPLANATION: Yhteisten sääntöjen artikla 342 edellyttää urheilijoiden ilmoittavan järjestäjälle ilmoitusten jättämisen yhteydessä.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 edellytetään, että urheilija ilmoittaa asiasta järjestäjälle ilmoittautumisen yhteydessä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

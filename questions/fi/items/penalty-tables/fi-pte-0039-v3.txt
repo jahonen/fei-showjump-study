@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Selvyyden vuoksi, JR:n artikla 217.1.5 vahvistaa, että tottelemattomuus yhdellä esteellä ja tottelemattomuus toisella esteellä samalla kierroksella:
-OPTION_A: Käsitellään erillisinä ensimmäisinä tottelemattomuuden teoina
-OPTION_B: Molemmat lasketaan mukaan kierroksen kokonaistulokseen.
-OPTION_C: Peruuttaa toisensa
-OPTION_D: Ei huomioida taulukossa A
+STEM: Mitä kilpailusääntöjen kohdassa 217.1.5 vahvistetaan kahdesta tottelemattomuudesta, jotka tapahtuvat samalla suorituksella eri esteillä?
+OPTION_A: Kumpikin katsotaan erilliseksi ensimmäiseksi tottelemattomuudeksi
+OPTION_B: Kumpikin lasketaan mukaan koko suorituksen tulokseen
+OPTION_C: Ne kumoavat toisensa
+OPTION_D: Niitä ei oteta arvostelussa A huomioon
 CORRECT: B
-EXPLANATION: JR:n artikla 342 sanoo nimenomaisesti, että tottelemattomuusrangaistukset kertyvät koko kierroksen ajalta, eivät vain samalla esteellä.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 todetaan nimenomaisesti, että tottelemattomuudesta annettavat virhepisteet kertyvät koko suorituksen ajalta, eivät vain samalta esteeltä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

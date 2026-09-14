@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: JR:n artiklan 249.1 mukaan luvattoman avun normaali seuraus kierroksen aikana on:
-OPTION_A: 4 rangaistusta
-OPTION_B: Eliminaatio
+STEM: Mitä luvattomasta avusta yleensä seuraa suorituksen aikana artiklan 249.1 mukaan?
+OPTION_A: 4 virhepistettä
+OPTION_B: Suorituksen hylkääminen
 OPTION_C: Sakko
 OPTION_D: Varoitus
 CORRECT: B
-EXPLANATION: JR:n artikla 348 toteaa, että luvaton avustaminen kierroksen aikana johtaa hylkäämiseen.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, että luvattoman avun vastaanottaminen suorituksen aikana johtaa suorituksen hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Hevonen pysähtyy esteen eteen liikkumatta taaksepäin ja kaatamatta sitä, ja sitten heti hyppää sen eteen paikaltaan. Onko tämä hylkääminen?
+STEM: Hevonen pysähtyy esteen eteen astumatta taaksepäin ja pudottamatta estettä ja hyppää sitten välittömästi paikaltaan esteen yli. Onko tämä kieltäytyminen?
 OPTION_A: Kyllä, mikä tahansa pysähdys on kieltäytyminen
-OPTION_B: Ei, se ei ole Kieltäytyminen, jos se hyppää heti pysähdyksestä
-OPTION_C: Kyllä, mutta vain taulukossa A
+OPTION_B: Ei, kyse ei ole kieltäytymisestä, jos hevonen hyppää välittömästi paikaltaan
+OPTION_C: Kyllä, mutta vain arvostelussa A
 OPTION_D: Ei, ellei hevonen astu taaksepäin
 CORRECT: B
-EXPLANATION: JR:n artikla 348 toteaa, että hevosen pysähtyminen esteen eteen liikkumatta taaksepäin ja kaatamatta sitä ja sen jälkeen välittömästi hyppääminen esteen yli paikallaan pysymisestä ei ole hylkäämistä.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, ettei kieltäytymisenä pidetä sitä, että hevonen pysähtyy esteen eteen astumatta taaksepäin ja pudottamatta estettä ja hyppää välittömästi sen jälkeen paikaltaan esteen yli.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

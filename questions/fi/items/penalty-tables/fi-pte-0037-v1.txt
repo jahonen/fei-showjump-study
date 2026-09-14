@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Kuinka monta sekuntia lisätään taulukon C mukaan, jos este kaadetaan ulkokilpailussa?
+STEM: Kuinka monta virhesekuntia arvostelussa C lisätään suoritusaikaan, jos este pudotetaan ulkokilpailussa?
 OPTION_A: 3 sekuntia
 OPTION_B: 4 sekuntia
 OPTION_C: 5 sekuntia
 OPTION_D: 6 sekuntia
 CORRECT: B
-EXPLANATION: JR:n artiklassa 217.2.1 määrätään, että esteen kaatuminen tai vesihypyn virhe lisää 4 sekuntia taulukon C mukaisissa ulkokilpailuissa (3 sekuntia kaksivaiheisen kilpailun toisessa vaiheessa tai missä tahansa taulukon C mukaisessa uusinnassa).
+EXPLANATION: Kilpailusääntöjen kohdassa 217.2.1 määrätään, että esteen pudottamisesta tai rajaviivan (vedenpinnan) rikkomisesta lisätään arvostelussa C ulkokilpailuissa 4 sekuntia (kaksivaiheisen kilpailun toisessa vaiheessa ja arvostelua C käyttävässä uusinnassa 3 sekuntia).
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

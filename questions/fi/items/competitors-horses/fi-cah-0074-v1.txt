@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Missä kilpailussa urheilija saa ratsastaa useammalla kuin yhdellä hevosella yhden hevosen säännöstä huolimatta JR:n artiklan 203.2.1 mukaan?
-OPTION_A: Kansakuntien Cup
-OPTION_B: Grand Prix
-OPTION_C: Derby
-OPTION_D: Akkumulaattori
+STEM: Missä kilpailussa urheilija saa yhden hevosen säännöstä huolimatta ratsastaa useammalla kuin yhdellä hevosella kilpailusääntöjen artiklan 203.2.1 mukaan?
+OPTION_A: Nations Cup -kilpailussa
+OPTION_B: Grand Prix -kilpailussa
+OPTION_C: Derby-kilpailussa
+OPTION_D: Vaikeutuvassa kilpailussa
 CORRECT: C
-EXPLANATION: JR:n artikla 333 sallii Derby-kilpailuissa yhden hevosen säännön käytön Grand Prix'ssa/korkeimman palkintosumman kilpailussa.
+EXPLANATION: Kilpailusääntöjen artiklan 333 mukaan yhden hevosen sääntöä sovelletaan Grand Prix -kilpailuun tai suurimman palkintosumman kilpailuun, mutta Derby-kilpailussa urheilija saa ratsastaa useammalla kuin yhdellä hevosella.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

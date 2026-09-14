@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Yhteisen urheilijasäännön 205.1 artiklassa todetaan myös, että urheilijaa ei voida luokitella ammattilaiseksi ennen vuotta, jona hän täyttää:
-OPTION_A: 16. syntymäpäivä
-OPTION_B: 17. syntymäpäivä
-OPTION_C: 18. syntymäpäivä
-OPTION_D: 21. syntymäpäivä
+STEM: Artiklassa 205.1 todetaan myös, että urheilijaa ei voida luokitella ammattilaiseksi ennen sitä vuotta, jona hän täyttää:
+OPTION_A: 16 vuotta
+OPTION_B: 17 vuotta
+OPTION_C: 18 vuotta
+OPTION_D: 21 vuotta
 CORRECT: C
-EXPLANATION: Yhteisurheilusääntöjen artikla 333 toteaa, että urheilijaa ei voida luokitella ammattilaiseksi ennen kuin hän täyttää 18 vuotta.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 todetaan, että urheilijaa ei voida luokitella ammattilaiseksi ennen sitä vuotta, jona hän täyttää 18 vuotta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

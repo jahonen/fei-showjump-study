@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Yhteisen kilpailusäännön artiklan 275.3.2 mukaan hevosen tunnistenumeron toistuva laiminlyönti selkeästi esillä voi johtaa:
-OPTION_A: Vain varoitus
+STEM: Mitä kilpailusääntöjen kohdan 275.3.2 mukaan voi seurata siitä, ettei hevosen tunnistenumeroa toistuvasti pidetä selvästi näkyvillä?
+OPTION_A: Pelkkä varoitus
 OPTION_B: Sakko
-OPTION_C: Eliminaatio
-OPTION_D: Hylkääminen
+OPTION_C: Suorituksen hylkääminen
+OPTION_D: Kilpailusta sulkeminen
 CORRECT: B
-EXPLANATION: JR:n artikla 321 määrää, että ensimmäisestä rikkomuksesta annetaan varoitus ja toistuvista rikkomuksista tuomariston määräämä urheilijalle sakko.
+EXPLANATION: Kilpailusääntöjen kohdassa 321 määrätään, että ensimmäisestä rikkomuksesta annetaan varoitus ja että toistuvasta rikkomuksesta tuomaristo voi määrätä urheilijalle sakon.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

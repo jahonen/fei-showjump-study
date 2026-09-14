@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Jos pohjanoteeraus huononee, mitä parametria tuomaristo voi muuttaa ennen ensimmäisen urheilijan lähtöä?
-OPTION_A: Aikataulussa määrätty nopeus
-OPTION_B: Esteiden lukumäärä
-OPTION_C: Kurssin pituus
-OPTION_D: Palkintorahat
+STEM: Mitä tuomaristo voi muuttaa ennen ensimmäisen ratsukon lähtöä, jos kentän pohja on muuttunut huonoksi?
+OPTION_A: Kilpailukutsussa ilmoitettua nopeutta
+OPTION_B: Esteiden lukumäärää
+OPTION_C: Tien pituutta
+OPTION_D: Palkintorahoja
 CORRECT: A
-EXPLANATION: Tuomariston artiklassa 258.2 määrätään, että jos pohjan kunto huononee, tuomaristo voi muuttaa aikataulussa ilmoitettua nopeutta ennen kilpailun ensimmäisen urheilijan lähtöä.
+EXPLANATION: Kilpailusääntöjen kohdassa 258.2 määrätään, että jos kentän pohja on muuttunut huonoksi, tuomaristo voi muuttaa kilpailukutsussa ilmoitettua nopeutta ennen luokan ensimmäisen ratsukon lähtöä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

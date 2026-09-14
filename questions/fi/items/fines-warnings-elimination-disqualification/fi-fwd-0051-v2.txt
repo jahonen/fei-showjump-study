@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Yhteisen ohjeistuksen artiklan 264.2.1 ristiviittaukset, mitkä lisäartiklat saattavat soveltua?
-OPTION_A: 259.1 ja 265.2 artikla
-OPTION_B: 265 ja 266 artikla
-OPTION_C: 261 ja 262 artikla
-OPTION_D: 267 ja 268 artikla
+STEM: Mihin muihin artikloihin artiklassa 264.2.1 viitataan mahdollisina lisäseuraamuksina?
+OPTION_A: Artikloihin 259.1 ja 265.2
+OPTION_B: Artikloihin 265 ja 266
+OPTION_C: Artikloihin 261 ja 262
+OPTION_D: Artikloihin 267 ja 268
 CORRECT: A
-EXPLANATION: Yhteisen säännöt 264.2.1 artiklassa määrätään, että kannusten tai raipan liialliseen käyttöön viittaavista merkinnöistä rangaistaan, ja todetaan, että yhteisen säännöt 259.1 ja 265.2 artiklojen nojalla voi olla lisäseuraamuksia.
+EXPLANATION: Artiklassa 264.2.1 määrätään, että merkeistä kannusten tai raipan liiallisesta käytöstä rangaistaan, ja todetaan, että artiklojen 259.1 ja 265.2 nojalla voi seurata lisäseuraamuksia.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä erottaa suljetun yhdistelmän JR:n artiklan 238.1 mukaan?
-OPTION_A: Siinä on ainakin kolme elementtiä
+STEM: Mikä on umpinaisen sarjaesteen tunnusmerkki kilpailusääntöjen artiklan 238.1 mukaan?
+OPTION_A: Siinä on vähintään kolme osaestettä
 OPTION_B: Sen sivut voi ylittää vain hyppäämällä
-OPTION_C: Se on merkitty punaisilla ja valkoisilla lipuilla jokaisella elementillä
-OPTION_D: Urheilija voi palata radalle jätettyään viimeisen elementin liput.
+OPTION_C: Sen jokainen osaeste on merkitty punaisella ja valkoisella lipulla
+OPTION_D: Ratsukko voi palata radalle viimeisen osaesteen lippujen välistä
 CORRECT: B
-EXPLANATION: JR:n artikla 301 määrittelee suljetun yhdistelmän yhdistelmäksi, jonka sivut voidaan ylittää vain hyppäämällä.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 umpinaiseksi sarjaesteeksi määritellään sarjaeste, jonka sivut voi ylittää vain hyppäämällä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

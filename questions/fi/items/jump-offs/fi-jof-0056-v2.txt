@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Missä asiakirjassa on ilmoitettava, järjestetäänkö uusintahyppy?
-OPTION_A: FEI-kalenteri
-OPTION_B: Aikataulu
-OPTION_C: Palkintojenjako-ohjelma
-OPTION_D: Lämmittelyareenan säännöt
+STEM: Missä asiakirjassa on ilmoitettava, järjestetäänkö luokassa uusinta?
+OPTION_A: FEI:n kilpailukalenterissa
+OPTION_B: Kilpailukutsussa
+OPTION_C: Palkintojenjako-ohjelmassa
+OPTION_D: Verryttelyalueen säännöissä
 CORRECT: B
-EXPLANATION: JR:n artiklan 344 mukaan aikataulussa on määriteltävä, onko kilpailussa uusintahyppy.
+EXPLANATION: Kilpailusääntöjen artiklan 344 mukaan kilpailukutsussa on määriteltävä, järjestetäänkö luokassa uusinta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

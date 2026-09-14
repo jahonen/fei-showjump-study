@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: multi-select
-STEM: Mitkä ovat hevosten vähimmäisiät seuraavissa kilpailuissa: olympialaiset, seniorien mannertenmestaruuskilpailut ja CSI3*–5*?
+STEM: Mitkä seuraavista vastaavat hevosten vähimmäisikää olympialaisissa, seniorien mannermestaruuskilpailuissa ja CSI3*–5*-kilpailuissa?
 OPTION_A: Olympialaiset: yhdeksän vuotta
-OPTION_B: Seniorien mannertenmestaruuskilpailut: kahdeksan vuotta
-OPTION_C: CSI3* - 5*: seitsemän vuotta
-OPTION_D: CSI1* - 2*: kuusi vuotta
+OPTION_B: Seniorien mannermestaruuskilpailut: kahdeksan vuotta
+OPTION_C: CSI3*–5*: seitsemän vuotta
+OPTION_D: CSI1*–2*: kuusi vuotta
 CORRECT: A,B,C
-EXPLANATION: Junioriratsastajan artiklassa 202.2 luetellaan olympialaiset/maailmanmestaruuskilpailut/FEI:n esteratsastuksen maailmancupin finaalit yhdeksän vuoden kuluttua, mannertenväliset kisat/seniorien mannertenväliset mestaruuskilpailut/alueelliset kisat kahdeksan vuoden kuluttua ja CSI3*–5*, CSIO3*–5*, FEI:n esteratsastuksen maailmancupin kilpailut (pois lukien finaalit) sekä nuorten ratsastajien/juniorien mannertenväliset mestaruuskilpailut seitsemän vuoden kuluttua.
+EXPLANATION: Kilpailusääntöjen artiklassa 202.2 hevosen vähimmäisiäksi määrätään yhdeksän vuotta olympialaisissa, maailmanmestaruuskilpailuissa ja FEI:n esteratsastuksen maailmancupin finaalissa, kahdeksan vuotta mannerkilpailuissa, seniorien mannermestaruuskilpailuissa ja alueellisissa kilpailuissa sekä seitsemän vuotta CSI3*–5*- ja CSIO3*–5*-kilpailuissa, FEI:n esteratsastuksen maailmancupin osakilpailuissa (finaalia lukuun ottamatta) ja nuorten ratsastajien sekä juniorien mannermestaruuskilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

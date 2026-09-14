@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Yhteistyösääntöjen artiklan 245.1 mukaan kaatumisesta rangaistaan, kun vähintään yksi viallisen osan pää ei enää lepää minkään tuen päällä. Tätä sääntöä sovelletaan:
-OPTION_A: Vain kierroksen aikana
-OPTION_B: Lähtö- ja maaliviivojen välissä, paitsi viimeisen esteen kohdalla
-OPTION_C: Vain pystysuorille esteille
-OPTION_D: Vain jos urheilija myöntää virheen
+STEM: Artiklan 245.1 mukaan esteen pudottamisesta tuomitaan virhe, kun esteen osan ainakin toinen pää ei enää lepää tuen varassa. Milloin tätä sääntöä sovelletaan?
+OPTION_A: Vain suorituksen aikana
+OPTION_B: Lähtö- ja maalilinjan välillä, viimeistä estettä lukuun ottamatta
+OPTION_C: Vain pystyesteisiin
+OPTION_D: Vain, jos urheilija myöntää virheen
 CORRECT: B
-EXPLANATION: JR:n artiklassa 245.2 määrätään, että alasajot tapahtuvat lähtö- ja maaliviivan välillä, lukuun ottamatta viimeistä estettä, jos se kaatuu maaliviivan ylityksen jälkeen, mutta ennen radalta poistumista tai seuraavan urheilijan poistumista kellosta.
+EXPLANATION: Artiklassa 245.2 määrätään, että esteen pudottaminen tuomitaan virheeksi lähtö- ja maalilinjan välillä; viimeisen esteen osalta virhe tuomitaan myös silloin, kun este putoaa maalilinjan ylittämisen jälkeen mutta ennen kuin ratsukko on poistunut radalta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

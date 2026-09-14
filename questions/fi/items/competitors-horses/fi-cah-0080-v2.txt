@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Missä kilpailuissa urheilijoiden on käytettävä kansallisen liittonsa virallista vaatetusta JR:n artiklan 207.2.4.1 mukaisesti?
-OPTION_A: Kaikki CSI1*-kilpailut
-OPTION_B: Nations Cup/Longines League of Nations™ CSIO-kilpailuissa; kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa; ja kansallisen olympiakomitean hyväksynnällä olympia- ja alueellisten kisojen kilpailuissa
-OPTION_C: Vain olympialaiset
-OPTION_D: Vain palkintojenjakotilaisuudet
+STEM: Missä kilpailuissa urheilijoiden on käytettävä kansallisen liittonsa virallista kilpailuasua kilpailusääntöjen artiklan 207.2.4.1 mukaan?
+OPTION_A: Kaikissa CSI1*-kilpailuissa
+OPTION_B: CSIO-kilpailujen Nations Cup- ja Longines League of Nations™ -kilpailuissa, kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa sekä kansallisen olympiakomitean hyväksynnällä olympialaisissa ja alueellisissa kilpailuissa
+OPTION_C: Vain olympialaisissa
+OPTION_D: Vain palkintojenjaossa
 CORRECT: B
-EXPLANATION: JR:n artikla 333 edellyttää virallisten kansallisten liittojen (NF) pukeutumista CSIO-kilpailuissa Nations Cup/Longines League of Nations™ -kilpailuissa ja kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa, sekä, asianomaisen kansallisen olympiakomitean hyväksynnällä, olympia- ja alueellisten kisojen kilpailuissa.
+EXPLANATION: Kilpailusääntöjen artikla 333 edellyttää kansallisen liiton virallisen kilpailuasun käyttöä CSIO-kilpailujen Nations Cup- ja Longines League of Nations™ -kilpailuissa ja kaikissa manner- ja maailmanmestaruuskilpailujen vaiheissa sekä asianomaisen kansallisen olympiakomitean hyväksynnällä olympialaisissa ja alueellisissa kilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Jos joukkueen jäsenten takit eivät ole samanvärisiä, minkä sakon tuomaristo määrää jokaiselle sääntöjä rikkovalle urheilijalle JR:n artiklan 207.2.4.3 mukaan?
+STEM: Minkä suuruisen sakon tuomaristo määrää artiklan 207.2.4.3 mukaan jokaiselle sääntöä rikkovalle urheilijalle, jos joukkueen jäsenten takit eivät ole samanväriset?
 OPTION_A: 500 Sveitsin frangia
 OPTION_B: 1 000 Sveitsin frangia
 OPTION_C: 2 000 Sveitsin frangia
 OPTION_D: Ei sakkoa
 CORRECT: B
-EXPLANATION: JR:n artikla 333 määrää, että urheilijoille, jotka eivät noudata joukkueen takin värisääntöä, määrätään 1 000 Sveitsin frangin sakko tuomaristolta.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 määrätään, että urheilijalle, joka ei noudata joukkueen takin väriä koskevaa sääntöä, tuomaristo määrää 1 000 Sveitsin frangin sakon.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

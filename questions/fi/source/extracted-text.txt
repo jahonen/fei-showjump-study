@@ -1,0 +1,3421 @@
+=== PAGE 1 ===
+ 
+ 
+  
+ 
+ 
+KILPAILUSÄÄNNOT III 
+Esteratsastus 
+ 
+voimassa 1.2.2026 
+  
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+ 
+Esipuhe 
+ 
+Näitä sääntöjä noudatetaan SRL:n alaisissa kilpailuissa 1.1.2026 lukien.  
+ 
+ 
+Lisätietoja: 
+Esteratsastuskomitea  
+Sääntövaliokunta 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+=== PAGE 3 ===
+ 
+ 
+Sisällys 
+YLEISTÄ ......................................................................... 5 
+300. YLEISTÄ ESTERATSASTUS ............................................. 5 
+1. ESTEET ...................................................................... 5 
+301. ESTEET, YLEISTÄ ........................................................ 5 
+302. ESTEET ................................................................... 5 
+303. YKSITTÄISESTE .......................................................... 6 
+304. SARJAESTE ............................................................... 6 
+305. UMPINAINEN ESTE .................................................... 7 
+2. RATA ......................................................................... 7 
+306. RATA ...................................................................... 7 
+307. RATAPIIRROS ............................................................ 7 
+308. TIEN PITUUS ............................................................ 8 
+309. VARALLA ....... VIRHE. KIRJANMERKKIÄ EI OLE MÄÄRITETTY. 
+310. RADAN MUUTOS ....................................................... 8 
+311. ESTEIDEN MERKITSEMINEN ......................................... 8 
+312. LUOKAT .................................................................. 8 
+313–315. VARALLA ......................................................... 9 
+3. ÄÄNIMERKKI ............................................................. 9 
+316. ÄÄNIMERKKIEN KÄYTTÄMINEN ..................................... 9 
+317. LÄHTÖLUPA ........................................................... 10 
+4. KILPAILUJEN JÄRJESTELYJÄ KOSKEVAT MÄÄRÄYKSET
+ ................................................................................... 10 
+318. KILPAILUJÄRJESTELMÄ .............................................. 10 
+319. HENKILÖKUNTA JA VÄLINEET ...................................... 10 
+319.1. KILPAILUISSA TARVITTAVA HENKILÖKUNTA .................. 10 
+319.2. KILPAILUISSA ON OLTAVA SEURAAVAT VÄLINEET JA 
+LISÄALUEET: .................................................................. 11 
+320. KENTTÄHUOLTOON TARVITTAVA AIKA ........................... 11 
+321. LÄÄKINTÄ- JA ELÄINLÄÄKINTÄHUOLTO ......................... 11 
+322. PALKINNOT JA OSALLISTUMISMAKSUT ......................... 12 
+323. JÄLKI-ILMOITTAUTUMINEN ........................................ 12 
+324. LÄHTÖJÄRJESTYS ..................................................... 12 
+5. RATSASTAJIA KOSKEVAT ERITYISMÄÄRÄYKSET ........ 12 
+325. KILPAILUASU .......................................................... 12 
+326. SATULOINTI JA MUUT VARUSTEET ............................... 14 
+327. PAINOMÄÄRÄYKSET ................................................. 16 
+328. BARRAUS .............................................................. 16 
+329. VERRYTTELYALUE JA VERRYTTELYESTEET ....................... 16 
+330. RATAAN TUTUSTUMINEN .......................................... 17 
+331. ARVAAMATTOMAT TAPAUKSET ................................... 17 
+332. TERVEHTIMINEN ..................................................... 18 
+333. OSALLISTUMISOIKEUS .............................................. 18 
+6. VARALLA ................................................................. 19 
+334–340. VARALLA ....................................................... 19 
+7. ARVOSTELUMENETELMÄT ....................................... 19 
+341. ARVOSTELUMENETELMÄT ......................................... 19 
+342. ARVOSTELU A (VIRHEPISTEIDEN PERUSTEELLA) .............. 20 
+343. ARVOSTELU C (AJAN PERUSTEELLA) ............................ 21 
+344. UUSINTA ............................................................... 22 
+345. VARALLA ............................................................... 23 
+8. ARVOSTELEMINEN .................................................. 23 
+346. HYLKÄÄMINEN, LÄHTÖOIKEUDEN EPÄÄMINEN, SAKOT .... 23 
+9. VIRHEPISTETAULUKON SOVELTAMISOHJEET ........... 25 
+347. TOTTELEMATTOMUUS .............................................. 25 
+348. ESTEEN PUDOTTAMINEN ........................................... 27 
+349. KUMOON RATSASTUS, SATULASTA PUTOAMINEN ............ 28 
+350. LUVATON APU ........................................................ 28 
+351. LÄHTÖ JA MAALIIN TULO ........................................... 29 
+352. AIKA .................................................................... 29 
+353. AJANOTTO ............................................................. 29 
+10. ERIKOISLUOKAT .................................................... 30 
+354. -362. VARALLA ...................................................... 30 
+363. JOUKKUE-ESTERATSASTUS ......................................... 30 
+364. ZÜRICH-ESTERATSASTUS ........................................... 31 
+365. HASARDIESTERATSASTUS .......................................... 31 
+366. VAIKEUTUVA RATSASTUS .......................................... 31 
+367. KILPAILU KAHDESSA VAIHEESSA .................................. 31 
+368. PISTE-ESTERATSASTUS .............................................. 33 
+369. JOKERI .................................................................. 33 
+370. VARALLA ............................................................... 34 
+371. VOITTOKIERROS ...................................................... 34 
+372. TAITOARVOSTELU .................................................... 34 
+373. NUORTEN HEVOSTEN SUORITUSKYVYN ARVIOINTI: ......... 34 
+374. KAKSI KIERROSTA- KILPAILU……………………………………..41 
+375.–378. VARALLA ...................................................... 37 
+11. SM-KILPAILUT ....................................................... 38 
+379. YLEISTÄ ................................................................. 38 
+379.1. JÄRJESTELYT ........................................................ 38 
+379.2. OSALLISTUMISOIKEUS ........................................... 38 
+380. SENIOREIDEN ESTERATSASTUKSEN SM-SÄÄNNÖT .......... 39 
+381. NUORTEN RATSASTAJIEN ESTERATSASTUKSEN SM-SÄÄNNÖT
+ ................................................................................... 39 
+382. JUNIOREIDEN ESTERATSASTUKSEN SM-SÄÄNNÖT ........... 40 
+383. LAPSIRATSASTAJIEN ESTERATSASTUKSEN SM-SÄÄNNÖT ... 41 
+384. PONIRATSASTAJIEN ESTERATSASTUKSEN SM-SÄÄNNÖT  ... 41 
+385. VETERAANIRATSASTAJIEN ESTERATSASTUKSEN 
+MESTARUUSSÄÄNNÖT ...................................................... 42 
+386. SENIOREIDEN HALLIMESTARUUS ................................. 43 
+387. NUORTEN RATSASTAJIEN HALLIMESTARUUS................... 43 
+388. JUNIORIEN HALLIMESTARUUS..................................... 43 
+389. LAPSIRATSASTAJIEN HALLIMESTARUUS ......................... 43 
+390. PONIRATSASTAJIEN HALLIMESTARUUS .......................... 43 
+391. VETERAANIRATSASTAJIEN HALLIMESTARUUS .................. 43 
+392. JOUKKUE-ESTERATSASTUKSEN SM-SÄÄNNÖT ................ 43 
+12. TOIMIHENKILÖOIKEUDET ...................................... 44 
+393. ESTETUOMARIT ...................................................... 44 
+394. ESTESTEWARDI ....................................................... 45 
+395. STEWARDI ............................................................. 46 
+396. RATAMESTARIT ....................................................... 46 
+LIITTEET ...................................................................... 48 
+LIITE 1. SARJAESTEET ....................................................... 48 
+LIITE 2. SALLITUT KUOLAIMET PONIRATSUKOILLE ................... 49 
+=== PAGE 4 ===
+ 
+ 
+LIITE 3/A. ESTEITÄ KOSKEVAT MÄÄRÄYKSET .......................... 51 
+LIITE 3/B. PONILUOKAT ................................................... 52 
+LIITE 4/A. ENIMMÄISAJAN LASKEMINEN, 250 M ................... 53 
+LIITE 4/B. ENIMMÄISAJAN LASKEMINEN, 275 M ................... 53 
+LIITE 4/C. ENIMMÄISAJAN LASKEMINEN, 300 M ................... 53 
+LIITE 4/D. ENIMMÄISAJAN LASKEMINEN, 325 M .................. 54 
+LIITE 4/E. ENIMMÄISAJAN LASKEMINEN, 350 M ................... 54 
+LIITE 4/F. ENIMMÄISAJAN LASKEMINEN, 375 M ................... 55 
+LIITE 4/G. ENIMMÄISAJAN LASKEMINEN, 400 M .................. 55 
+LIITE 8. TAITOARVOSTELUPÖYTÄKIRJA ................................. 56 
+LIITE 10. HEVOSEN HYVINVOINTI ....................................... 58 
+LIITE 11. TARKISTUSLISTA ................................................. 59 
+LIITE 12. HEVOSTARKASTUS .............................................. 60 
+LIITE 13. KILPAILUTASOJEN KUVAUKSET ............................... 62 
+ 
+ 
+=== PAGE 5 ===
+ 
+ 
+5 
+ 
+YLEISTÄ 
+300. Yleistä esteratsastus 
+Esteratsastuksessa hevosen ja urheilijan yhteistyö punnitaan vaihtelevissa olosuhteissa radalla. Tarkoitus on 
+esittää hevosen taito ja tottelevaisuus. 
+Sääntöjen tarkoitus ei ole vakioida esteratsastusta, koska vaihtelevat radat ja kilpailut lisäävät niin 
+kilpailijoiden kuin katsojienkin kiinnostusta. Tämän takia sääntöihin on otettu erikoisluokkia (pykälät 354–
+373). 
+Myös muita kilpailuja tai luokkien muunnelmia voi daan järjestää edellyttäen, että niiden säännöt ovat 
+sopusoinnussa näiden sääntöjen ja Kilpailusääntöjen (KS) yleisen osan määräysten kanssa. Kilpailusäännöistä 
+poikkeavien luokkien säännöt on selvästi ilmoitettava kilpailukutsussa.  
+Luokkien tulee olla tasapuolisia kaikille kilpailijoille. Siksi on ollut pakko laatia yksiselitteisiä säännöksiä, joita 
+on ehdottomasti noudatettava, paitsi niissä tapauksissa, joissa SRL sallii paikallisten olosuhteiden vaatimia 
+poikkeuksia. 
+Näitä sääntöjä on noudatettava kaikilla kilpailutasoilla. Seurakilpailuissa voidaan sääntökohtia soveltaa 
+tarkoituksenmukaisemmiksi TPJ:n päätöksellä , mutta nämä poikkeukset on mainittava kilpailukutsussa. 
+Kilpailun turvallisuus- tai maksumääräyksiä ei kuitenkaan voida soveltaa. 
+ 
+1. ESTEET 
+301. Esteet, yleistä 
+Esteet on rakennettava siten, että ne ovat ulkomuodoltaan houkuttelevia, vaihtelevia ja ympäristöön 
+sopeutuvia. Esteiden ja niiden osien on oltava sellaisia, että ne voivat pudota (kaatua), muttei niin keveitä, 
+että ne putoavat pienimmästä kosketuksesta, eikä niin raskaita, että ne voivat aiheuttaa kumoon ratsastuksen. 
+Voiman, joka vaaditaan esteen ylimmän osan pudottamiseen, on oltava jokseenkin yhtä suuri kaikilla 
+luokkaan kuuluvilla esteillä. 
+Esteet eivät saa olla epämiellyttäviä eivätkä aiheuttaa yllätyksiä ratsukoille. 
+Esteet on rajoitettava sekä pituus- että leveyssuunnassa laatoin (valkoinen vasemmalla, punainen oikealla). 
+Laatat voidaan joko kiinnittää esteeseen tai ne voivat seistä vapaasti.  
+Vesihaudan takareunan hyppysuuntamerkit on kiinnitettävä joustaviin, katkeamattomiin ja 
+pirstoutumattomiin tankoihin; laatat eivät saa olla teräväkulmaisia tai -särmäisiä.  
+Esteet varustetaan johtein ja merkitään numeroin ja kirjaimin (oikealle puolelle)  
+Puomien suosituspituus on 3,0–3,5 m, halkaisija enintään 10 cm ja paino 10–13 kg. Osassa esteissä voi käyttää 
+lyhempiä puomeja. Alimpien kannattimien syvyys voi olla 2,5 cm. Ylimpien kannattimien maksimisyvyys on 
+20 mm, pituusesteiden taka/keskipuomin kannattimien maksimisyvyys 18 mm. Lankuille ja porteille tulee olla 
+omat suorat kannattimet. Lankkua ei saa käyttää pituusesteen takaosassa. 
+Muusta materiaalista kuin puusta valmistetut puomit on erikseen hyväksytettävä SRL:lla. 
+Esteen ylimmän kannattimen tulee olla kiinnitetty siten, ettei se pääse valumaan tai kääntymään. 
+302. Esteet 
+Esteen keskipisteen kohdalla, sen korkeimmalla olevasta ylitettäväksi tarkoitetusta osasta maahan mitattu 
+pystysuora etäisyys on esteen korkeus. Viettävällä rinteellä mitataan korkeus kohdasta, josta keskitason 
+hevosen otaksutaan ponnistavan. 
+Esteen pituus on sen putoavien osien välinen vaakasuora etäisyys mitattuna putoavien osien keskipisteestä, 
+ulkoreunasta ulkoreunaan. 
+=== PAGE 6 ===
+ 
+ 
+6 
+ 
+Esteen leveys  on sen putoavien osien välimatka mitattuna kohtisuoraan ratsastussuuntaan (esim. 
+kannatinpylväiden väli). 
+Este on pystyeste, jos sen kaikki osat on sijoitettu suoraan toistensa yläpuolelle tai päällekkäin, eikä sen 
+edessä ole ponnahdusrisua, ponnahduspuomia, maavallia, hautaa tms. 
+Este on pituuseste, jos siihen kuuluu ratsastus suuntaan peräkkäin sijoitettuja osia, eikä esteen korkeus 
+yleensä ole sen pituutta suurempi. Pituusesteen takapuom illa (okseri/trippeli) ja myös trippelin 
+keskipuomilla/-puomeilla on käytettävä SRL:n hyväksymiä turvakannattimia. Turvakannattimia on käytettävä 
+myös verryttelyalueella. 
+Vesihauta on vedellä täytetty hauta, jonka edessä, takana tai yläpuolella ei ole minkäänlaisia esteen  osia. 
+Vesihaudan eteen saa kuitenkin sijoittaa enintään 50 cm korkean ponnahdus elementin (risulaatikko, pieni 
+muuri, tms.). Tämä ei kuulu esteeseen, eikä sen kaataminen, pudottaminen tai siirtäminen aiheuta 
+virhepisteitä. 
+Vesihaudan vähimmäispituus on 2,5 m. Hauta on kaivettava maahan, jos sen pituus on enemmän kuin 3,2 m. 
+Vesihaudan rajaviiva on sekä ponnahdus - että alastulopuolella merkittävä valkoisella rimalla tai kumi -
+/muovinauhalla, jonka leveys on vähintään 5 cm. Jos käytetään ponnahduselementtiä, merkitään rimalla tai 
+nauhalla vain alastulopuoli. Rima tai nauha on si joitettava aivan vedenrajaan, mutta ei veteen. SM - ja GP-
+kilpailuissa käytetään vaihdettavaa muovinauhaa, johon jää jälki hevosen astuessa sen päälle .  Myös muun 
+väristä nauhaa/rimaa voidaan käyttää, jotta se erottuisi valkoista paremmin pohjan väristä. 
+Lapsiratsastajille avoimissa  luokissa vesihaudan enimmäispituus on 2,5 m, Poniluokissa vesihaudan 
+enimmäispituus on I kategorian poneille 3,3  m ja II kategorian poneille 2,5  m. Mikäli luokka on avoin  
+molemmille ponikategorioille, on vesihaudan enimmäispituus 2,5 m.  
+Luokissa, joissa on kaksi kierrosta, ei käytetä vesihautaa 2. kierroksella. Vesihauta + pystyeste on sallittu. 
+Vesihauta + pystyeste. Vesihaudan päällä voi olla pystyeste, joka sijoitetaan enintään 2 m etäisyydelle haudan 
+etureunasta. Esteen enimmäiskorkeus on 150 cm, turvakannattimia on käytettävä. Vain pystyeste liputetaan. 
+Puomin pudottaminen aiheuttaa 4 virhepistettä (vesieste). Puomin pitää olla vähintään 3,5 m pitkä. 
+Jos vedellä täytetyn haudan eteen, taakse tai yläpuolelle sijoitetaan este, kutsutaan estettä vesiesteeksi.  
+Vesiesteen enimmäispituus vesi mukaan laskettuna on enintään 2 m (pois lukien edellä mainittu vesihauta ja 
+pystyeste). 
+Kuiva hauta  on hauta, jossa ei ole vettä. Kuivan haudan reunoja ei merkitä, koska kuivaan hautaan 
+astumisesta ei aiheudu virhepisteitä. 
+303. Yksittäiseste 
+Yksittäisesteellä tarkoitetaan estettä, jonka ylittämiseen tarvitaan vain yksi hyppy. 
+304. Sarjaeste 
+Sarjaeste koostuu kahdesta tai useammasta yksittäisesteestä. Ratsukon on hypättävä erikseen jokainen 
+yksittäiseste. Näiden yksittäisesteiden välinen matka, maata myöten mitattu etäisyys, on vähintään 6,8 ja 
+enintään 12 m. Etäisyys mitataan edellisen esteen  korkeimman kohdan luotiviivasta jälkimmäisen esteen 
+etureunaan. Jos kentällä on pysyviä sarjaesteitä, voi tuomariston puheenjohtaja sallia niissä myös lyhemmän 
+etäisyyden. 
+Ns. "in and out" -este on sallittu erikoisluokissa, etäisyys n. 3,5–4 m (korkeus 80–100 cm). 
+Banketit, pulvermannhaudat, karsinat ja vastaavat ovat sarjaesteitä. Virheet lasketaan erikseen jokaiselta 
+sarjaesteeseen kuuluvalta yksittäisesteeltä. 
+Sarjan jokainen osa on hypättävä erikseen ja peräkkäin kiertämättä yhtään osaa. 
+Trippeliä saa käyttää vain sarjan A-osana. 
+Alle 80 cm:n luokissa ei rataan voi kuulua sarjaestettä. 
+=== PAGE 7 ===
+ 
+ 
+7 
+ 
+305. Umpinainen este 
+Sarjaeste on umpinainen, kun se on sivuiltaan siten suljettu (esim. karsina, valli, banketti tai hauta), että 
+ratsukon on tottelemattomuusvirheen jälkeen tehtävä uusi hyppy päästäkseen sieltä pois. 
+Tuomariston puheenjohtajan on ennen kilpailuja päätettävä, onko este umpinainen. Umpinainen este on 
+merkittävä ratapiirrokseen. 
+Jos ratsukko tottelemattomuusvirheen jälkeen hyppää ulos esteestä väärältä puolelta, sen suoritus hylätään 
+(väärä tie).  
+Tottelemattomuuden sattuessa jollakin osaesteellä ratsukon on jatkettava oikeaan suuntaan siltä kohdalta, 
+missä tottelemattomuus sattui. Jos ratsukko tällöin tahallisesti siirtää estettä, suoritus hylätään.  
+ 
+2. RATA 
+306. Rata 
+Rata on rajattava selvästi mieluiten vähintään 80  cm korkealla aidalla. Kun ratsukon suoritus on kesken, 
+sisään- ja ulosmenoportit on pidettävä suljettuina.  
+307. Ratapiirros 
+Ratapiirros (myös uusinnan) on asetettava näkyville mahdollisimman lähelle radan sisäänkäyntiä viimeistään 
+30 minuuttia ennen kunkin luokan alkamista.  Tarvittaessa luokan enimmäisajan voi merkitä tätä aikarajaa 
+myöhemmin heti, kun ratamestari on mitannut radan pituuden. Enimmäisaika on merkittävä ennen luokan 
+alkua. 
+Lähtölinjan tulee olla 6–15 metriä ennen ensimmäistä estettä ja maalilinjan 6–15 metriä viimeisen esteen 
+jälkeen.  
+Ratapiirroksessa on oltava: 
+1. Lähtö- ja maalilinjan sijainti. Mikäli muuta ei ilmoiteta, niiden ylittäminen suorituksen aikana ei aiheuta 
+virhepisteitä. 
+2. Esteiden sijainti, numero ja tyyppi (pystyeste 1 viiva, pituuseste 2 viivaa = okseri, 3 viivaa = trippeli, 
+vesihauta suorakaide jne.).  Sarjaesteet merkitään ratapiirrokseen varustettuna hyppysuuntaa osoittavalla 
+nuolella ja hyppyjärjestystä osoittavalla numerolla ja kirjaimella liitteen 1 mukaisesti. 
+3. Mahdolliset kääntömerkit, jotka merkitään kahdella lipulla siten, että punainen lippu sijoitetaan 
+ratsastettavan tien oikealle ja valkoinen vasemmalle puolelle. 
+4. Tien pituus 
+5. Noudatettava tie merkittynä joko yhtenäisellä viivalla (jolloin tätä tietä on noudatettava tarkasti) tai 
+sarjalla nuolia, jotka osoittavat missä suunnassa esteet on hypättävä (jolloin urheilija voi vapaasti valita 
+tiensä). Nuolilla merkitylle tielle voidaan määrätty osuus tehdä pakolliseksi merkitsemällä se yhtenäisellä 
+viivalla. 
+6. Luokan arvostelumenetelmä 
+7. Vähimmäisnopeus ja enimmäisaika 
+8. Mahdollisen uusinnan esteet, tien pituus ja enimmäisaika 
+9. Umpinaisiksi katsottavat sarjaesteet 
+10. Tuomarien tekemät rataa koskevat päätökset 
+=== PAGE 8 ===
+ 
+ 
+8 
+ 
+308. Tien pituus 
+Tien pituus mitataan lähtölinjalta maalilinjalle esteiden keskipisteiden kautta seuraten normaalia tietä, jota 
+voi sujuvasti laukata. Tien enimmäispituus metreinä on esteiden luku kerrottuna 60:llä.  
+309. Varalla 
+310. Radan muutos 
+1. Mikäli esteitä tai muita piirroksessa esitettyjä järjestelyjä on piirroksen näkyville asettamisen jälkeen 
+pakottavista syistä muutettava, on siitä ilmoitettava toimitsijoille, joukkueenjohtajille ja ratsastajille. 
+2. Kilpailuluokan aikana ei saa tehdä minkäänlaisia muutoksia esteisiin tai muihin järjestelyihin. Kun luokka 
+on alkanut, tuomaristo voi, ratamestarin kanssa neuvoteltuaan, poikkeuksellisesti päättää luokan 
+enimmäisajan muuttamisesta, jos on ilmeistä, että tien pituuden mittauksessa on tapahtunut karkea virhe. 
+Päätös on tehtävä viimeistään sen jälkeen, k un luokan kolme ensimmäistä ratsukkoa ovat tulleet maaliin 
+enimmäisaikaa pitemmässä ajassa, ilman että ne ovat ratsastaneet luonnottoman pitkää tietä, ilman  
+tottelemattomuusvirheitä tai satulasta putoamista ja nopeudella, joka vaikuttaa olevan vähintään luokan 
+vähimmäisnopeus. Kolmen ensimmäisen ratsukon tulosta ei tässä tapauksessa saa ilmoittaa ennen kuin 
+päätös enimmäisajan muuttamisesta on tehty. Enimmäis ajan muutos on ilmoitettava välittömästi 
+kuuluttamalla. 
+3. Mestaruusluokissa ja Grand Prix luokissa tuomariston pj:n on ennen luokan alkua varmistettava, että 
+ratamestari on mitannut tien pituuden oikein. Poikkeustapauksissa tuomaristo voi muuttaa luokan 
+enimmäisaikaa kohdan 2. mukaisesti. Jos kentän pohja on muuttunut huonoksi, v oi tuomaristo muuttaa 
+ratsastusnopeutta ennen luokan ensimmäisen ratsukon lähtöä. 
+4. Jos luokka tai ratsastus on keskeytettävä ylivoimaisen esteen, kuten rajuilman, huonojen 
+valaistusolosuhteiden tms. takia, on kilpailua jat kettava tai keskeyttäneen ratsukon suoritus uusittava 
+mahdollisimman samanlaisissa olosuhteissa kuin ennen keskeytystä. 
+311. Esteiden merkitseminen 
+Luokkaan kuuluvat esteet on merkittävä valkoisin ja punaisin laatoin (valkoinen vasemmalla, punainen 
+oikealla), joiden välistä este on ylitettävä. Pituusesteet (haudat tai sen tapaiset) rajoitetaan vastaavilla 
+merkeillä sivuiltaan sekä ponnahdus- että alastulopuolella. 
+Lähtö- ja maalilinja merkitään valkoisin (vasemmalla) ja punaisin (oikealla) laatoin, joiden välistä on 
+ratsastettava, tai pylväillä (ilman laattoja), joiden välistä saa ratsastaa vapaavalintainen suunnasta. 
+Minkään radalla olevan merkkilipun tai vastaavan kaatamisesta ei rangaista, paitsi silloin kun maalilippu tai 
+pakollinen kiertomerkki kaatuu tottelemattomuuden yhteydessä. Tällöin suoritus keskeytetään äänimerkillä 
+ja ratsukolle annetaan 6:n sekunnin aikalisä. 
+312. Luokat 
+Esteiden lukumäärä, korkeus ja pituus sekä ratsastusnopeus määräytyvät liitteen 3/a mukaisesti. 90 cm ja sitä 
+matalampien luokkien sallitut arvostelut seurakilpailu- ja harjoituskilpailuluokissa ovat: taitoarvostelu, A.0, 
+A.1 sekä kahden vaiheen arvostelut, jotka ratsastetaan edellä mainituin arvosteluin. Aluekilpailuluokissa, 
+joissa estekorkeus on 8 0…90 cm, voidaan arvostelumenetelmänä käyttää edellä mainittujen lisäksi myös 
+arvostelua 367.1 (A0/A2) tai 367.1 (A1/A2).  Tämä määräys koskee lisäksi poniratsukoille avoimia 70 cm:n 
+aluekilpailuluokkia.  
+Nuorten hevosten luokissa, jotka avoimia myös 4-vuotiaille hevosille, ei saa käyttää sellaista arvostelua, jossa 
+ratsukoiden sijoitus määräytyy ajan mukaan.  Sallittuja arvosteluja näissä luokissa ovat siis A.0, A,1 , 
+taitoarvostelu sekä kahden vaiheen arvostelut, jotka ratsastetaan edellä mainituin arvosteluin ja nuorten 
+hevosten suorituskykyarvostelu. 
+Hallikilpailuissa ja sääolosuhteiden vaatiessa voidaan enimmäiskorkeutta ja -pituutta vähentää 10  cm ja 
+nopeutta 50 m/min. 
+=== PAGE 9 ===
+ 
+ 
+9 
+ 
+Ensimmäinen este voi olla 10 cm matalampi kuin luokan vähimmäiskorkeus. 
+Trippeli voi olla 10–30 cm pitempiä kuin luokan sallittu enimmäispituus, kuitenkin enintään 210 cm. 
+Tasoitusluokassa käytetään vain yhtä tasoitusta. Tasoitusesteitä on 6. Niiden korkeus ja/tai pituus ei saa ylittää 
+luokan enimmäismittoja enempää kuin 10 cm, korkeintaan neljällä esteellä. Korotus ja/tai pidennys (uusinta 
+mukaan luettuna) ei saa muuttaa esteen muotoa ja ulkonäköä. Tasoitushevoset lähtevät viimeisinä. 
+Kansallisen kilpailuluokan uusinnassa esteitä saa korottaa yli luokan enimmäismittojen. Ne eivät kuitenkaan 
+saa ylittää 170 cm:n korkeutta tai 200 cm:n pituutta (trippeli 210 cm). 
+Poniratsukoille avoimessa kilpailuissa noudatetaan esteiden lukumäärässä, korkeudessa ja pituudessa sekä 
+ratsastusnopeudessa liitteen 3/b määräyksiä. 
+Mikäli poniratsukoille avoimeen luokkaan  osallistuu ryhmän II poneja, helpotetaan 4–6 estettä 
+tasoitusmenettelyn mukaisesti (lasketaan/lyhennetään n. 10 cm), jos kutsussa niin ilmoitetaan. Helpotettavat 
+esteet on ilmoitettava ratapiirroksessa. Tuomariston puheenjohtaja voi ratamestarin esityksestä helpottaa 
+useampiakin esteitä. Sarjavälit muutetaan. Ryhmän II ponit lähtevät luokassa ensin. 
+Kaikissa luokissa lyhennetään sarjavälit poniratsukoille. Sarjavälit on lyhennettävä kummallekin kategorialle 
+erikseen. Mikäli luokkaan osallistuu poneja, joiden säkäkorkeus on 130 cm tai alle, on sarjavälit lyhennettävä 
+myös tälle ns. III kategorialle  erikseen. Sarjavälit lyhennetään poneille urheilijan iästä riippumatta kaikissa 
+seura- ja aluekilpailuluokissa. Vain suomenhevosille avoimissa luokissa sarjavälit lyhennetään poneille aina. 
+Mikäli luokkaan osallistuu 80 ratsukkoa tai enemmän, on luokan viiden (5) ensimmäisen sijoittuneen ratsukon 
+palkinto kerrottava 1,5 kertaiseksi.  
+Samassa luokassa voidaan kilpailla  eri estekorkeuksilla, mikäli ne ovat kutsussa määritelty avoimiksi eri 
+ikäryhmille tai eri kategorian poneille/hevosille tai eri-ikäisille hevosille.  
+Nuorten hevosten, junioreiden ja poniratsastajien sarjakilpailujen osakilpailujen pisteistä ja finaaliin 
+oikeuttavista tuloksista voidaan kilpailla, vaikka luokkaan osallistuisi vähemmän kuin kolme (3) kyseiseen 
+sarjakilpailuun osallistuvaa kilpailevaa rat sukkoa. Tällöin luokassa ei kuitenkaan jaeta palkintoja eikä 
+rankingpisteitä. 
+313–315. varalla 
+ 
+3. ÄÄNIMERKKI 
+316. Äänimerkkien käyttäminen 
+Äänimerkkejä (torvi, pilli, kello, tms. merkkejä) käytetään ilmoitusten antamiseen radalla olevalle urheilijalle. 
+Äänimerkin antaminen voidaan korvata kuuluvalla suullisella ilmoituksella. 
+Sen lisäksi, mitä muualla KS:ssä on äänimerkeistä määrätty, niitä käytetään seuraaviin ilmoituksiin: 
+1. Lupa rataan tutustumiseen (yksi äänimerkki) 
+2. Rataan tutustuminen päättyy (yksi äänimerkki) 
+3. Lähtölupa, jonka jälkeen lähtölinja on ylitettävä 45 sekunnin kuluessa (yksi äänimerkki). Poikkeus: 317.2 
+4. Urheilijan pysäyttäminen erilaisissa tilanteissa ja odottamattomien tapahtumien sattuessa (yksi 
+äänimerkki). Kun hevonen on kieltäytynyt ja ratsukko pudottanut tai siirtänyt esteen ja pysähtynyt sen 
+eteen, tai kun ratsukko on ylittänyt pudotetun esteen, on heti annettava yksi äänimerkki. 
+5. Lupa keskeytyneen suorituksen jatkamiseen (yksi äänimerkki) 
+6. Lupa esteen uudelleen hyppäämiseen sen jälkeen, kun suoritus on keskeytynyt kieltäytymisen 
+yhteydessä, (yksi äänimerkki).  
+7. Suorituksen hylkääminen pidennetty toistettu = (kaksi äänimerkkiä). 
+=== PAGE 10 ===
+ 
+ 
+10 
+ 
+317. Lähtölupa 
+1. Tuomaristo antaa lähtöluvan silloin, kun urheilija on saapunut radalle. Ratsukon on ylitettävä lähtölinja 
+45 sekunnin kuluessa luvan antamisesta. 
+2. Ajanotto käynnistetään, kun 45 sekuntia lähtömerkin antamisesta on kulunut, ellei ratsukko ole sitä ennen 
+ylittänyt lähtölinjaa.  45:n sekunnin valmistautumisaika voidaan lyhentää esim. aikataulusyistä 30 
+sekuntiin TPJ:n päätöksellä. Mikäli valmistautumisaika on lyhennetty, saa radalla olla suorittavan ratsukon 
+lisäksi olla kaksi valmistautuvaa ratsukkoa. 
+3. Sähköistä ajanottolaitetta käytettäessä urheilijalle on näytettävä valmiusajan kuluminen näyttötaululta.  
+4. Tottelemattomuudesta yms. ei rangaista ennen lähtölinjan ylittämistä. 
+5. Mikäli ratsukko käyttää yli 45 sekuntia ensimmäisen esteen hyppäämiseen ajanoton käynnistyttyä, sen 
+suoritus hylätään 
+6. Lähtömerkin antamisen jälkeen tuomaristolla on oikeus ennalta arvaamattomissa tapauksissa keskeyttää 
+45 sekunnin valmiusaika. 
+ 
+4. KILPAILUJEN JÄRJESTELYJÄ KOSKEVAT MÄÄRÄYKSET 
+318. Kilpailujärjestelmä 
+Kilpailutasot on kuvattu liitteessä 13. Karsintatuloksien saaminen edellyttää, että kilpailun tulokset 
+julkaistaan KIPAssa.   
+Kansallisissa kilpailuissa on järjestettävä vähintään yksi (1) luokka, jonka arvostelu on AM5 tai AM5.2. 
+319. Henkilökunta ja välineet 
+319.1. Kilpailuissa tarvittava henkilökunta  
+(* merkityt pakollisia) 
+− tuomariston puheenjohtaja (TPJ) * Sama henkilö ei voi toimia sekä tuomariston puheenjohtajana että 
+ratamestarina samassa kilpailussa. Poikkeukset koskien seurakilpailuja, katso liite 10. 
+− tuomaristo. Tuomariston puheenjohtaja arvioi tarvittavien tuomareiden määrän, kansallisissa kilpailuissa 
+kuitenkin vähintään yksi TPJ:n lisäksi. Seura- ja aluekilpailuissa riittää TPJ, mikäli lähtöjen määrä ei ylitä 60 
+yhden kilpailupäivän aikana 
+− stewardi tai estestewardi  (alue- ja kansallisissa kilpailuissa pakollinen) Henkilö ei voi toimia samassa 
+kilpailuissa sekä urheilijana että stewardina.  
+− Henkilökohtaisen SM -kilpailun ja GP -sarjan päästewardin tulee omata estestewardi - ja A -
+puheenjohtajatuomarioikeudet tai olla FEI:n estestewar di tai SRL:n ko. tehtävään vahvistama kokenut 
+estestewardi. 
+− tekninen asiantuntija 
+− ylijohtaja (pakollinen jos useampia lajeja) 
+− kilpailunjohtaja* 
+− ratamestari * (alue- ja kansallisissa kilpailuissa pakollinen.  Seurakilpailuissa voidaan korvata käyttämällä 
+SRL:n vakioratoja tai B/A- ratamestarin ko kilpailuun suunnittelemia ratoja) 
+− turvallisuuspäällikkö (alue- ja kansallisissa kilpailuissa pakollinen) 
+− kuuluttaja * 
+− tiedottaja 
+− eläinlääkäri Katso 321. 
+− lääkäri Katso 321. 
+− kengitysseppä (kansallisissa kilpailuissa pakollinen) 
+=== PAGE 11 ===
+ 
+ 
+11 
+ 
+− tallipäällikkö 
+− sihteeristö 
+− ajanottajat 
+− verryttelyalueen estehenkilöstö  
+− verryttelyalueen valvoja * 
+− lähtö- ja tulomerkinantajat (tarvittaessa) 
+− lähdön järjestäjä(t) 
+− estehenkilöstö * 
+− pääsylippujen ja ohjelmien myyjät 
+− järjestyksenvalvojat 
+319.2. Kilpailuissa on oltava seuraavat välineet ja lisäalueet: 
+− riittävästi kalustoa ja korjaustarvikkeita 
+− lähtö- ja tulomerkinantajien liput/laatat 
+− vähintään yksi punainen lippu 
+− estenumerot 
+− sähköinen ajanottolaite ja riittävä määrä kelloja (sähköinen ajanotto pakollinen kansallisissa kilpailuissa) 
+− työvälineet esteiden korjaamiseen  
+− kilpailu- ja verryttelypohjan kunnossapitoon tarvittavat välineet, vähintään kuitenkin lana tai muu 
+tasoittava työkalu, jyrä tai muu pakkaava työkalu, äes tai muu pehmentävä työkalu sekä riittävä valmius 
+kenttien kasteluun 
+− merkkilipuilla varustetut verryttelyesteet verryttelyalueella 
+− verryttely- tai odotusalueelle asetetut ratapiirrokset ja ajan tasalla oleva lähtöjärjestys 
+− alue käsihevosia varten 
+− kaiutinlaitteet 
+− merkinantolaitteet 
+− liukkaan kelin varalta soraa tms. levitettäväksi ponnahdus- ja alastulopaikoille sekä jyrkkiin kaarteisiin 
+− katsomo (mahd. autokatsomo) 
+− paikoitusalue sekä hevosautojen purkaus- ja lastausalue 
+− sairasauto Katso 321. 
+− suojapeite loukkaantuneen hevosen peittämiseen 
+− kuljetusauto loukkaantuneen hevosen kuljettamiseen 
+− puhelin 
+320. Kenttähuoltoon tarvittava aika 
+Kilpailun aikataulua suunniteltaessa tulee varata riittävä aika myös kenttähuoltoon. 
+321. Lääkintä- ja eläinlääkintähuolto 
+1.1. Kansallisissa kilpailuissa pitää kilpailupaikalla olla lääkäri ja/tai ensivasteauto perusvarustuksella ja/tai 
+EA2-ryhmä, jolla on käytössään hätäensiapuun soveltuva ensivastekalusto.  Kilpailun ensiapuvalmius tulee 
+aina arvioida tapahtuman koon ja lainsäädännön vaatimuksien mukaisesti. 
+1.2. Aluekilpailuissa pitää kilpailupaikalla olla lääkäri ja/tai ambulanssi ja/tai ensiapuryhmä. 
+2.1. Kansallisissa kilpailuissa pitää paikalla olla eläinlääkäri ja loukkaantuneen hevosen kuljetukseen sopiva 
+perävaunu tai kuljetustraileri.  
+2.2. Aluekilpailuista pitää ilmoittaa etukäteen kaupungin- tai kunnaneläinlääkärille, jotta hän on tietoinen 
+alueellaan järjestettävistä eläintapahtumista ja voi varautua eläinlääkärin tarpeeseen. 
+=== PAGE 12 ===
+ 
+ 
+12 
+ 
+2.3. Lääkintähenkilökunnan/eläinlääkärin tulee olla paikalla verryttelyn alkaessa  (kts §329.1)  ja lähteä 
+aikaisintaan 15 min viimeisen luokan päättymisen jälkeen. 
+2.4. EA-ryhmän henkilöstöllä hyväksytään EA -koulutuksen lisäksi soveltuvan terveydenhuollon tai 
+pelastustoimen koulutukset.  
+2.5. Kilpailun eläinlääkäri ei voi toimia samassa kilpailuissa urheilijana. 
+322. Palkinnot ja osallistumismaksut 
+130 cm ja sitä alemmissa luokissa voidaan raha- tai esinepalkintojen sijasta jakaa sijoittuneille palkintoina vain 
+ruusukkeet, tällöin luokan yhteenlasketut ilmoittautumis- ja lähtömaksut eivät saa olla korkeampia kuin: 
+Luokka Seurakilpailu Aluekilpailu Kansallinen kilpailu 
+100 cm ja alle 15 € 20 € 25 € 
+110 cm 20 € 20 € 25 € 
+120 cm 20 € 25 € 30 € 
+Yli 120 cm 20 € 25 € 30 € 
+ 
+Mikäli luokassa jaetaan esine - tai rahapalkintoja, niiden arvon tulee olla vähintään yhtä suuri kuin luokan 
+osallistumismaksu. Luokassa voidaan käyttää myös kokonaispalkintosummaa, joka jaetaan sijoittuneille FEI:n 
+25%:n tai 33%:n palkintojakotaulukon mukaisesti. Tällöin luokassa sijoittuneiden kesken jaetaan koko 
+kokonaispalkintosumma ja rahapalkinto sijoittumisesta voi olla myö s pienempi kuin luokan 
+osallistumismaksu. Seurakilpailussa palkintojen yhteenlaskettu arvo ei saa ylittää 1000 €:a. Esinepalkinto ei 
+kuitenkaan saa olla tuote tai palvelu, joka on yleisesti saatavilla alempaan hintaan tai veloituksetta, sen 
+nimellisarvosta riippumatta. 
+Kilpailussa jaettavista esinepalkinnoista, niiden jakoperusteista ja arvosta, tulee pitää luetteloa. 
+323. Jälki-ilmoittautuminen 
+Kilpailuun voi jälki-ilmoittautua vain, jos järjestäjä kutsussa antaa tähän mahdollisuuden. Ilmoittautumisajan 
+kuluessa ilmoittautuneet urheilijat ja hevoset voidaan jälki -ilmoittaa kilpailun luokkiin järjestäjän 
+kilpailukutsussa ta i kilpailutiedotteessa ilmoittamissa aikarajoissa. Sama koskee myös luokkavaihdoksia.  
+Luokkavaihdoksista ei saa periä jälki -ilmoittautumismaksua. Luokkaan ilmoitetulle hevoselle saa vaihtaa 
+urheilijan ilman jälki-ilmoittautumismaksua. Sen sijaan kilpailuun/luokkaan ei voi vaihtaa urheilijalle hevosta 
+ilman jälki-ilmoittautumista. 
+324. Lähtöjärjestys 
+Urheilija, joka osallistuu luokkaan kahdella tai useammalla hevosella/ponilla, on mahdollisuuksien mukaan 
+sijoitettava lähtöluetteloon siten, että hänen lähtöjensä välissä on ainakin kahdeksan (8) ratsukkoa. Hänen 
+lähtöjensä välin tulee kuitenkin olla vähintään 10 minuuttia. Tämä koskee myös jälki -ilmoittautuneita 
+ratsukoita. 
+Mikäli luokassa lyhennetään sarjavälit poneille tai poniratsukoille, ne lähtevät tuomariston puheenjohtajan 
+tai kilpailukutsun määrittelemässä paikassa arvotussa järjestyksessä (esim. luokan alussa tai lopussa). 
+Lähtölista tulee julkaista verryttelyalueella vähintään 30min ennen luokan alkua. 
+ 
+5. RATSASTAJIA KOSKEVAT ERITYISMÄÄRÄYKSET 
+325. Kilpailuasu 
+Urheilijan kilpailuasuna on vartaloa myötäilevä ratsastustakki ja/tai turvaliivi, valkoiset tai vaaleat kellertävän 
+ruskeat ratsastushousut, ratsastussaappaat tai ratsastuskengät (jod phurit) ja niiden väriset sileät 
+pintanahkaiset säärystimet, kiinnitetty turvakypärä sekä kauluspaita ja valkoinen solmio tai plastron; taikka 
+muu kauluksellinen ratsastuspaita. Ratsastustakissa on oltava ulkonevat napit. Jos ratsastustakissa on kaulus, 
+=== PAGE 13 ===
+ 
+ 
+13 
+ 
+sen on oltava ns. käännetty kaulus. Ratsastustakit ilman kaulusta ovat sallittuja, jos paidan kaulus ja solmio 
+ovat näkyvissä, mikäli takki on suljettu. Mikäli ratsastetaan ilman takkia, paidassa pitää olla (lyhyet tai pitkät) 
+hihat. Paidan kaulusten sekä pitkähihaisen paidan hihansuiden tulee olla valkoiset. 
+Alue- ja kansallisissa kilpailuissa kilpailijoiden on käytettävä lajisääntöjen määrittämää asua 110 cm ja sitä 
+vaikeammissa luokissa. Tätä alemmissa luokissa  urheilijalla tulee olla siisti asu: kiinnitetty turvakypärä,  
+vaaleat, valkoiset tai vaaleat kellertävän ruskeat ratsastushousut, saappaat tai kengät ja sileänahkaiset 
+saappaanvarret, sekä ratsastustakki ja/tai turvaliivi tai siisti pusero.  
+ 
+Seurakilpailuissa urheilijalla tulee olla siisti asu, kiinnitetty turvakypärä ja korolliset kengät, joissa on varsi tai 
+sileänahkaiset saappaanvarret. 
+Sotilas-, poliisi- tms. henkilöiden ratsastusasu voi olla virka-asu, mutta kiinnitetty turvakypärä vaaditaan. 
+Turvajalustimien ja turvaliivin käyttöä suositellaan. 
+Urheilijan tulee olla kilpailuasussa myös rataan tutustuessaan ja palkintojenjaossa. Sääolosuhteiden niin 
+vaatiessa tuomaristo voi sallia säännöistä poikkeavan asun kilpailualueella. Urheilijalta, joka ei ole pukeutunut 
+sääntöjen edellyttämällä tavalla rataan tutustuessaan, voidaan evätä lähtölupa. Valmentajat saavat tutustua 
+rataan asiallisessa siistissä asussa. Asussa olevien mainosten suhteen valmentajia koskevat samat säännökset 
+kuin kilpailijoitakin. SRL:n nimeämät valmentajat saavat tutustua rataan SRL:n hyväksymissä mainosasuissa, 
+ei kuitenkaan kilpailuasussa. 
+Ratsastajien tulee aina käyttää kiinnitettyä kulloinkin voimassa olevan EU turvastandardin mukaista kypärää. 
+Mikäli urheilijan kypärä putoaa tai sen kiinnitys irtoaa suorituksen aikana, täytyy urheilijan kiinnittää se 
+uudelleen. Urheilijaa ei rangaista kypärän kiinnittämisestä, mutta hänen suoritusaikaansa ei keskeytetä. 
+Suoritus hylätään, mikäli urheilija hyppää tai yrittää hypätä esteen tai ylittää maalilinjan kypärä väärin 
+kiinnitettynä (paitsi jos kypärän kiinnitys irtoaa sarjaesteen välissä t ai kaksi askelta ennen estettä) tai mikäli 
+kypärää ei ole kiinnitetty lainkaan.  Senioriratsastajat voivat ottaa kypärän päästään palkintojenjaossa 
+palkintoa vastaanottaessaan , kansallislaulun tai muun seremonian osan ajaksi. Mikäli urheilija poistaa 
+kypärän päästään, hän tekee sen omalla vastuullaan.  
+Repiviä tai viiltäviä kannuksia ei saa käyttää. Kannusten kärjet eivät saa osoittaa ylöspäin.  Rissakannuksia, 
+joiden levyissä on lovi - tai hammastettu reuna, ei saa käyttää. Sen sijaan rissakannukset, joiden  pyörivien 
+levyjen reunat ovat sileät ja tasaiset, on sallittu. Urheilijalla saa olla jalassa vain yksi kannus per jalka. 
+Urheilijan on kiellettyä käyttää matkapuhelimia, muita elektronisia viestintälaitteita tai kuulokkeita 
+verryttelyalueella ratsastettaessa sekä kilpailusuorituksen aikana areenalla. 
+Yhden kuulokkeen, korvanapin tai vastaavan laitteen käyttö on sallittua kaikkialla muualla ratsastettaessa. 
+Käyttö on sallittua vain siten, että toinen korva on vapaana. Tämä sääntö koskee kaikkia henkilöitä, jotka 
+ovat hevosen selässä. 
+ 
+Tuomaristo voi hylätä suorituksen, jos urheilijalla on sääntöjen vastaiset varusteet. 
+325.1. Poniratsukkoja ja lapsiratsastajia koskevat erityismääräykset 
+Poniratsastajat voivat kilpailla ilman ratsastustakkia kaikissa kilpailuissa paitsi SM -kilpailuissa. 
+Ratsastuskenkien käyttö ilman säärystimiä on sallittu kaikissa poniluokissa.  
+Poni- ja lapsiratsastajan kannusten enimmäispituus on 4 cm, ja niiden kärkien tulee olla tylpät. Mittaus 
+suoritetaan saappaasta kannuksen kärkeen. Klipsikiinnitettävät kannukset ovat sallitut. 
+Mikäli poni- tai lapsiratsastaja käyttää kannuksia, niiden tulee olla tehty sileästä metallista. Kannusten kärkien 
+tulee osoittaa taaksepäin ja niiden tulee olla tylpät. Jos kannuksen kärki on kaareva, sen tulee osoittaa 
+alaspäin. Rissat eivät ole sallitut. Pyöreät ja pyörivät levykannukset ovat sallitut. Levyjen reunat eivät saa olla 
+terävät, ja niiden tulee olla vähintään 3 mm paksut.  Vasarakannukset ovat sallitut, mikäli ne täyttävät muut 
+yllä esitetyt määreet. Metalliset tai muoviset impulssikannukset, joissa on py öreä kova muovinen tai 
+=== PAGE 14 ===
+ 
+ 
+14 
+ 
+metallinen nuppi sekä valekannukset, joissa ei ole kärkeä, ovat sallittuja. Kannuksen hevosta koskevan osan 
+tulee olla sileä ja pyöristetty. 
+326. Satulointi ja muut varusteet 
+1. Satulan suhteen ei ole rajoituksia.  Satula on kuitenkin pakollinen.  Satulaa on käytettävä aina 
+kilpailualueella ratsastettaessa. 
+2. Silmälaput/silmähuput sekä silmät peittävät kärpässuojat  ovat kiellettyjä kilpailusuorituksen aikana.  
+Nahkaa, lampaankarvaa tai vastaavaa muuta materiaalia voidaan käyttää suitsien poskihihnoissa, mutta 
+tällöin maksimikorkeus hevosen poskesta mitattuna on 3 cm. Poniratsukoilla silmälappujen käyttö on aina 
+kielletty.   
+3. Ainoastaan vapaajuoksuiset martingaalit ovat sallittuja. Kiinteä martingaali o n lapsiratsastajilla sallittu 
+aina. 
+4. Ohjat on kiinnitettävä suoraan kuolaimiin, deltaohjaan tai suitsiin. Ohjia voi olla maksimissaan kaksi paria. 
+Mikäli käytetään kahta ohjasparia, vähintään toinen pari on kiinnitettävä suoraan kuolaimiin tai suitsiin. 
+Ohjassa saa käyttää vain yhtä martingaalin stopparia. Stoppari on asetettava martingaalin renkaan  ja 
+ohjan kiinnityskohdan välille, josta ohja on kiinni kuolaimessa, hackamoressa tai suitsissa. 
+5. Poniratsukoilla sallitaan ainoastaan liitteen 2 mukaiset kuolaimet ja turparemmit  sekä lapsiratsastajilla 
+liitteen 2 mukaiset turparemmit . Kaikkien poniluokkiin osallistuvien ponien satulointi on tarkastettava 
+ennen suoritusta. 
+6. Tuomaristo voi eläinlääkärin suosituksesta kieltää kuolaimen, mikäli se voi aiheuttaa vamman hevoselle.  
+7. Gramaanit ovat kiellettyjä kilpailuareenalla (kilpailusuorituksen aikana) ja kielen sitominen aina.  
+8. Jalustinten tai jalustinhihnojen on riiputtava suoraan satularungosta ja satulasiipien ulkopuolella. 
+Minkäänlaisia muita kiinnityksiä tai rajoittimia ei sallita. 
+9. Apujen käyttö 
+Raippa, kannukset, ohjat ja ääni ovat urheilijan apuja, joilla hevosta käsitellään ja koulutetaan.  
+- Urheilija ei saa purkaa kiivastumistaan raipan, äänen tai kannusten käytöllä. Myös ohjista repiminen 
+on kiellettyä. 
+- Urheilijalla voi olla ratsailla ollessaan vain yksi raippa.  
+- Puomityöskentelyssä ja hypätessä raipan maksimipituus 75 cm.  
+- Urheilija voi käyttää max. 120 cm pitkää raippaa ratsastaessaan valvotussa verryttelyssä.  
+- Poniratsastajien ja lapsiratsastajien raipan maksimipituus on aina 75 cm.  
+- Raippaa ei saa varustaa painolla tai vastaavalla, jonka tarkoitus on vahvistaa sen vaikutusta. 
+Minkäänlaista raipan korviketta ei saa käyttää.  
+- Raippaa koskevat määräykset ovat voimassa koko kilpailualueella. Määräyksen rikkomisesta 
+tuomaristo voi hylätä ratsukon suorituksen.  
+- Raippaa ei saa käyttää hylkäämisen jälkeen tai sen jälkeen, kun hevonen on hypännyt radan viimeisen 
+esteen. 
+- Raippaa ei saa koskaan käyttää hevosen yli. Esimerkiksi oikealle puolelle vasemmalla kädellä.  
+- Raippaa ei saa koskaan käyttää hevosen päähän. 
+- Raippaa tai kannuksia ei saa käyttää yli kolmea kertaa peräkkäin samassa tilanteessa.  
+- Raippaa tai kannuksia ei saa käyttää rangaistusmielessä. 
+- Tuomaristo voi antaa apujen väärinkäytöstä varoituksen (keltainen kortti) tai  sulkea urheilijan 
+kilpailusta. 
+10. Palkintojenjaossa ei saa käyttää mainosloimia lukuun ottamatta ko. luokassa jaettavia loimia. 
+11. Jokaisen hevosen varusteisiin kuuluu ”numeroalusta”, jolla hevoselle voidaan määrittää numero 001–999. 
+Numeroa käytetään kaikissa kilpailuissa . Hevosen numero kilpailussa on tulospalveluohjelman ko. 
+kilpailuun määrittämä numero. Numero on oltava hevosen varusteisiin kiinnitettynä näkyvälle paikalle 
+aina, kun se liikkuu tallin/kuljetusvälineen ulkopuolella.  
+12. Sallittujen varusteiden kokonaispainon enimmäismäärä hevosen kutakin etu- ja takajalkaa kohti (suojat, 
+buutsit, vuohisrenkaat jne.) on 500 g (kengät  tai kengän korvikkeet  pois lukien). Tämän säännön 
+rikkominen johtaa kilpailusta sulkemiseen (346).    
+=== PAGE 15 ===
+ 
+ 
+15 
+ 
+13.1 Kaikissa nuorten hevosten (4–8-vuotiaat) luokissa takajalkojen suojien maksimikorkeus sisäreunalta on 
+enintään 16 cm ja ulkoreunan vähimmäiskorkeus 5 cm. Mikäli suojassa vuohisen sisäpintaa suojaamassa 
+pitkä taipuisa läppä, ei sen pituutta oteta huomioon suojan maksimikorkeutta mitatessa. 
+- Suojan sisäpinnan tulee olla sileä  eli suojan sisäpinnalla ei saa olla mitään painetyynyjä. 
+Lampaankarvaa saa käyttää suojan alla. Suojan kiinnityksen tulee olla joustamatonta tarranauhaa. 
+Koukkuja ja muita remmejä ei saa käyttää. 
+- Pyöristetty, kiinteä suojan osa on sijoitettava vuohisnivelen sisäpinnalle. 
+- Vuohisrenkaita ja -suojia voidaan käyttää suojaamistarkoituksiin edellyttäen, että ne ovat oikein 
+asennettu.  
+Muita suojaavia osia ei saa käyttää yhdessä suojien kanssa . Itse kiinnittyvän liimapintelin tai muun 
+vastaavan kevyen sidoksen käyttö suojan alla on sallittua. Stewardilla on oikeus milloin tahansa vaatia 
+liimapinteliä / sidosmateriaalia poistettavaksi ja uudelleen kiinnitettäväksi hänen läsnä ollessa. 
+- Pinteleitä voi käyttää takajalkojen suojien sijasta. 
+13.2. Muissa kuin nuorten hevosten luokissa voi hevosella käyttää vain seuraavia takajalan suojia: 
+13.2.1 kohdan 13.1 mukaisia takajalan suojia tai 
+13.2.2 takajalan suojia, joissa on suojaava elementti vain jalan sisäpuolella tai takajalan suojia, joissa on 
+sisä- ja ulkopuolella suojaava elementti (ns. kuppisuojat/tekniikkasuojat) ovat sallittuja seuraavin 
+kriteerein:  
+- suojien maksimikorkeus on 20 cm. 
+- suojien pyöristetty suojaosa on asetettava vuohisnivelen ympärille tai jos suojaava elementti on vain 
+suojan yhdellä sivulla, tulee se asettaa vuohisnivelen sisäpinnalle. 
+- suojan sisäpinnan tulee olla sileä eli suojan sisäpinnalla ei saa olla mitään painetyynyjä. 
+Lampaankarvaa saa käyttää suojan alla. 
+- suojassa on enintään kaksi kiinnitintä. Vain seuraavat kiinnitystyypit ovat sallittuja: 
+• Velcro-tyyppinen kiristysnauha eli tarranauha.  
+Mikäli suojassa on kaksi tarranauhaa kiinnitykseen, on tarranauhan leveys oltava vähintään 2,5 
+cm/kiinnitin. Mikäli suojassa on vain yksi tarranauha kiinnitykseen, on tarranauhan leveys oltava 
+vähintään 5 cm.  
+Ns. Kuppisuojassa/tekniikkasuojassa tarranauhan on oltava joustava. 
+• Nappityyppiset kiinnittimet eli hihnat, joissa on reiät, jotka sopivat napin päälle. 
+Hihnojen oltava joustavat ja niiden minimileveys on 2,5 cm.  
+• Hakaskiinnitystyyppiset kiinnikkeet eli hihnat, joissa on hakanen, joka sopii hakasen 
+kiinnityssilmukkaan. Hihnojen oltava joustavat ja niiden minimileveys on 2,5 cm. 
+- Kiinnittimien on oltava yksisuuntaisia, eli kiinnitin on kiinnitettävä suoraan suojan toiselle puolelle 
+ja se ei saa kiertää koko suojaa. Mitään mekanismia, joka sallii kiinnittimen kahdensuuntaisen 
+kiinnittymisen, ei sallita. Lisäelementtejä ei voi lisätä suojaan itse. 
+Itse kiinnittyvän liimapintelin tai muun vastaavan kevyen sidoksen käyttö suojan alla on sallittua. 
+Stewardilla on oikeus milloin tahansa vaatia liimapinteliä / sidosmateriaalia poistettavaksi ja 
+uudelleen kiinnitettäväksi hänen läsnä ollessa. 
+- Vuohisrenkaita ja -suojia voidaan käyttää suojaamistarkoituksiin edellyttäen, että ne ovat oikein 
+asennettu.  
+Pinteleitä voi käyttää takajalkojen suojien sijasta. 
+14. Takajalkojen jalkasuojien sisäpintojen tulee olla sileät ja kaikkien suojien oikein kiinnitetyt.  
+15. Hevosten varustetarkastus tehdään SM-, Pohjola GP-, Pohjola Silver GP -, ja Breeders Prize -kilpailuissa. 
+Muissa kilpailuissa varustetarkastus voidaan tehdä TPJ:n päätöksellä.   
+16. Hevosen tulee olla turvallisesti hallittavissa sitä kilpailualueella käsiteltäessä. 
+17. Kinesioteippauksia ei saa käyttää hevosella kilpailualueella ratsastettaessa tai hevosta muuten 
+valmennettaessa. Tallialueella käyttö on sallittua. 
+18. Kylkisuojien käyttö on sallittu.  
+19. Muovisuojat, jotka peittävät hevosen silmät (ts. hevosen lasit tai aurinkolasit) ovat kiellettyjä muualla kuin 
+tallialueella. 
+20. Hevosen varusteita tulee käyttää oikein ja niillä ei saa olla kielteistä vaikutusta hevosen hyvinvointiin. 
+=== PAGE 16 ===
+ 
+ 
+16 
+ 
+327. Painomääräykset 
+Painomääräyksiä ei ole. 
+328. Barraus 
+1. Barrauksella tarkoitetaan valmennusmenetelmää (poiketen normaalista koulutuksesta tai 
+valmennuksesta), jonka tarkoituksena on pakottaa hevonen hyppäämään normaalia korkeammalta tai 
+normaalia huolellisemmin. 
+2. Ei ole mahdollista luetella kaikkia barraustapoja. Barrausta on mm. seuraava toiminta: 
+- Urheilija tai hänen avustajansa lyö hevosta jalkoihin tai pyrkii tahallisesti saamaan hevosen 
+satuttamaan itsensä liian korkeiksi tai pitkiksi rakennettuihin esteisiin. 
+- Aiheutetaan tahallisia esteen sekaan ratsastuksia tai muulla tavoin tehdään esteen hyppääminen 
+vaikeaksi tai mahdottomaksi. 
+3. Hevosen barraaminen on kiellettyä kaikkialla. 
+4. SRL:n hallitus voi barrauksen todettuaan päättää kurinpitotoimista KSI:n mukaan. 
+329. Verryttelyalue ja verryttelyesteet 
+1. Kilpailujen järjestäjän on huolehdittava siitä, että ratsastajien käytössä on riittävän suuri verryttelyalue. 
+Verryttelyalueella on oltava vähintään yksi pystyeste ja yksi pituuseste. Maapohjan on oltava hyvä. Kun 
+kilpailijoita on paljon ja verryttelyalueella on riittävästi tilaa, tulisi verryttelyesteitä olla enemmän. Esteet 
+on rakennettava normaaliin tapaan ja varustettava punaisin ja valkoisin merkkilipuin.  
+Verryttelyalueita voi olla enemmän kuin yksi.  
+Verryttelyalue on avattava kilpailijoille viimeistään 30 min ennen luokan alkua.  
+Kilpailuissa voidaan järjestää ns. aamuverryttely, joka tapahtuu järjestäjän antamana aikana. 
+Aamuverryttelyssä on aina paikalla stewardi. 
+2. Muun kuin järjestäjien käyttöön asettaman verryttelymateriaalin käyttö on kiellettyä (esim. omat puomit 
+tai kannattimet, huovat jne.), rangaistuksena on kilpailuista sulkeminen ja/tai sakko. Esteet on hypättävä 
+merkkilippujen osoittamaan suuntaan. Avustaja ei saa pitää kiinni mistään esteen osasta. 
+2.1 Maapuomi on asetettava suoraan esteen ensimmäisen osan alle tai korkeintaan metrin päähän esteen 
+eteen. Kun pystyesteen etupuolella on maapuomi, voidaan  myös esteen takana käyttää maapuomia 
+samalla etäisyydellä enintään 1.00 m etäisyyteen saakka . Pituusesteiden takana ei saa käyttää 
+maapuomia.  
+2.2 Esteen osana voidaan käyttää ristikkäisiä puomeja, mutta niiden on voitava pudota yksittäin. Ristikkäisten 
+puomien yläpäiden on oltava kannattimissa. Ristikkäisten puomien yläpuolella oleva puomi voidaan 
+sijoittaa myös ristikkäisten puomien taakse edellyttäen, että se sijoitetaan vähintään 20 cm korkeammalle 
+kuin ristikkäiset puomit risteyskohdasta mitattuna. 
+2.3 Ylimpien puomien kummankin pään on oltava kannattimissa. Puomin saa asettaa kannattimen 
+takareunalle. Alle 120 cm:n luokissa verryttelyesteiden enimmäiskorkeus ja -pituus ovat samat kuin radan 
+esteiden maksimimitat. 120  cm luokista alkaen e steiden korkeus ei saa ylittää hypättävän luokan 
+perusradan korkeutta enempää kuin 10 cm. 145 cm ja tätä korkeammissa luokissa enimmäiskorkeus 160 
+cm. Esteen pituus ei saa olla pitempi kuin hypättävän luokan esteiden enimmäispituus.  
+2.4 Poniluokissa verryttelyesteiden enimmäiskorkeus ja pituus ovat samat kuin hypättävän radan (ml 
+mahdollinen 2 -vaihe) esteiden (teoreettiset) maksimimitat. Poniratsukoiden esteet eivät kuitenkaan 
+koskaan saa olla korkeampia kuin 135 cm ja pidempiä kuin 145 cm  
+2.5 Järjestäjä voi asettaa kilpailijoiden käyttöön materiaalia, jolla jäljitellään esteitä tai vesihautaa (pressu, 
+muovi, tms.). 
+2.6 Jos estekorkeus on 130 cm tai yli, pitää esteen etuseinässä  olla vähintään kaksi puomia. Alempi puomi 
+sijoitetaan aina alle 130 cm. Alemman puomin toinen pää tulee olla kannattimessa. Puomin toinen pää 
+voi olla maassa. 
+=== PAGE 17 ===
+ 
+ 
+17 
+ 
+3. Puomit 
+3.1 Urheilijat voivat verrytellä hevosiaan käyttämällä maassa olevia verryttelypuomeja. 
+3.2 Tilan salliessa esteen edessä saa käyttää maapuomia, jonka tulee olla vähintään 2,5  m päässä 
+pystyesteestä. Tällöin esteen korkeus saa olla enintään 130 cm. Maapuomi on sallittu esteen takana 
+vähintään 2,5 m päässä esteestä, kun este hypätään ravissa tai 3,0 m, jos este hypätään laukassa. Mikäli 
+puomi(t) on sijoitettu yli 6  m päähän esteestä, voidaan niitä käyttää joko esteen edessä tai takana tai 
+molemmilla puolilla. Yli 6 m:n päähän esteestä sijoitettuja puomeja voi käyttää sekä pystyesteessä että 
+okserissa. Edellä mainittuja maapuomeja ei saa käyttää kilpailuluokan verryttelyssä. 
+4. Sarjaesteet ovat sallittuja, mikäli verryttelyalueella on riittävästi tilaa ja sarjavälien on oltava sopivat (6…12 
+m). Niiden lisäksi verryttelyalueella tulee olla  vähintään kaksi yksittäisestettä. Sarjaesteen käyttö 
+verryttelyssä on kuitenkin kiellettyä lähempänä kuin yksi (1) tunti ennen kilpailuluokkien alkua. 
+5. Verryttelyalueella tulee aina olla valvoja, jonka tulisi olla vähintään estetuomari, C -ratamestari tai 
+stewardi. 
+6. Esimerkkejä hyväksytyistä ja kielletyistä verryttelyesteistä osoitteessa: https://inside.fei.org/fei/your-
+role/officials/stewards-hub/jumping#education  
+     (-> For Jumping in exercise/schoolin areas related education) 
+7. Poni-, juniori -, lapsiratsastaja -, nuorten ratsastajien  ja U25  luokkiin osallistuvaa hevosta saa 
+kilpailualueella ratsastaa vain sillä kilpaileva urheilija. 
+330. Rataan tutustuminen 
+Urheilija (kilpailuasussa), joukkueenjohtaja, valmentaja ja hevosen omistaja (siistissä asussa) saavat ennen 
+kunkin luokan alkua tutustua rataan jalan, kun tuomaristo antaa siihen luvan. Lupa annetaan , kun rata on 
+rakennettu valmiiksi ja tuomaristo on sen tarkastanut , kilvellä ("rataan saa tutustua"), äänimerkillä ja/tai 
+kuuluttamalla. Tutustumisaika on vähintään viisi minuuttia. Urheilijan ei sallita mennä radalle jalkaisin ennen 
+uusintaa ilman tuomariston erikseen antamaa lupaa. Kun luokka on alkanut, luvaton radal le meno voi 
+aiheuttaa hylkäämisen. 
+Mikäli luokka suoritetaan kahtena kierroksena ja toisen kierroksen rata on erilainen kuin ensimmäisen, 
+urheilijat saavat tutustua rataan jalan kierrosten välillä. 
+Palkintojen jakoon osallistumista ei katsota luvattomaksi radalle tuloksi, vaikka tämä tapahtuisi eri hevosella 
+millä urheilija on sijoittunut. 
+Kilpailujen johdon määräämää tai sallimaa radalle tuloa lukuun ottamatta urheilijat eivät saa ratsastaa radalle 
+tai kokeilla esteitä. Rikkomusta seuraa osallistumisoikeuden epääminen kilpailujen kaikkiin luokkiin. Samalla 
+asianomainen menettää jo aikaisemmin mahdollisesti saamansa raha -, esine - ja kunniapalkinnot. 
+Ilmoittautumis- ja lähtömaksuja ei palauteta. 
+Kilpailujen varhaisempiin luokkiin osallistumist a ei pidetä luvattomana radalle  tulona, eikä esteiden 
+kokeilemisena. Hevonen, joka myöhemmin osallistuu johonkin esteratsastusluokkaan, ei saa kilpailujen 
+aikana osallistua sitä ennen kilpailujen ulkopuolella mihinkään luokkaan. 
+331. Arvaamattomat tapaukset  
+Suorituksen aikana voi sattua ennalta-arvaamattomia tapauksia (force majeure), jotka ilman urheilijan omaa 
+syytä vaikuttavat ratsukon tulokseen. Tuomaristo voi silloin antaa ratsukolle mahdollisuuden uusia koko 
+suorituksen tai suorituksen siitä paikasta alkaen, missä tapaus sattui. Alkuperäisessä ratsastuksessa ennen ko. 
+tapausta saadut virheet rasittavat ratsu kkoa, mutta niitä virheitä ei oteta huomioon, jotka ratsukko saa 
+mahdollisen uusintasuorituksen aikana samalla osuudella. Ratsastukseen käytetyllä aj alla ei ole muuten 
+merkitystä, mutta enimmäisajan ylityksestä rangaistaan luokan arvostelumenetelmän mukaan.  
+C-arvostelussa on koko suoritus uusittava, ja aika otetaan kokonaan uudestaan. 
+Ellei näin voida menetellä, urheilijalle on palautettava luokan ilmoittautumis- ja lähtömaksut. 
+=== PAGE 18 ===
+ 
+ 
+18 
+ 
+Jos urheilija pysähtyy vapaaehtoisesti ja osoittaa tuomarille, että hypättävä este on väärin rakennettu (esim. 
+puomi tai lippu puuttuu), on kello pysäytettävä ja este tarkistettava. Jos tällöin 
+a) este on oikein rakennettu, ratsukkoa rangaistaan tottelemattomuudesta ja suoritusaikaan lisätään 6 
+sekuntia. 
+b) este on väärin rakennettu, ratsukkoa ei rangaista. Kello käynnistetään siten, että ratsukolle ei aiheudu 
+aikamenetystä. 
+332. Tervehtiminen 
+Urheilijan on tervehdittävä tuomaristoa perus radalle tullessaan. Raipan kohottaminen tai pään nyökkäys 
+katsotaan tervehdykseksi. Kiinnitettyä turvakypärää ei tarvitse irrottaa. Tuomaristo voi evätä lähtöoikeuden, 
+jos urheilija ei tervehdi. Tuomaristo voi myös määrätä sakot (346.D). 
+333. Osallistumisoikeus 
+1. Seniori voi osallistua kaikkiin luokkiin, joita ei ole rajattu muille ryhmille. 
+2. Juniori tai nuori urheilija saa osallistua senioriluokkiin sen kalenterivuoden alusta, jolloin hän täyttää 18 
+vuotta, mutta hän ei voi tämän jälkeen osallistua samoissa kilpailuissa sekä juniorien, nuorten 
+urheilijoiden, että senioriluokkiin (senioriluokalla tarkoitetaan SM -luokkaa sekä luokkaa, joka 
+kilpailukutsussa on mainittu senioriluokaksi). Sama koskee juniorin osallistumista nuorten luokkaan. 
+3. U25 
+- Urheilija voi osallistua U25 -luokkiin sen kalenterivuoden alusta, jona hän täyttää 16 vuotta sen 
+kalenterivuoden loppuun, jona hän täyttää 25 vuotta. 
+4. Nuori ratsastaja 
+- Urheilija on nuori ratsastaja sen kalenterivuoden alusta, jona hän täyttää 16 vuotta sen 
+kalenterivuoden loppuun, jona hän täyttää 21 vuotta. 
+5. Juniori 
+- Urheilija on j unioriratsastaja sen kalenterivuoden alusta, jona hän täyttää 14 -vuotta, sen 
+kalenterivuoden loppuun, jona hän täyttää 18 vuotta. 
+- Junioriratsastajilla on oikeus osallistua kaikkiin junioreille avoimiin ja avoimiin luokkiin, mikäli 
+urheilijalla on niihin oikeuttavat tulokset. 
+6. Lapsiratsastajat  
+- Urheilija on l apsiratsastaja ratsastaessaan hevosella, sen kalenterivuoden loppuun asti,  jona hän 
+täyttää 14 vuotta. Hevosella tarkoitetaan ratsua,  joka ei ole kilpaillut poniluokissa kuluvana tai 
+edellisenä vuonna.  
+- Lapsiratsastajilla on oikeus osallistua kaikkiin lapsiratsastajille ja/tai junioreille a voimiin ja avoimiin 
+luokkiin, mikäli urheilijalla on niihin oikeuttavat tulokset. 
+7. Poniratsastaja 
+- Urheilija on ponilla ratsastaessaan poniratsastaja sen kalenterivuoden loppuun asti, jona hän täyttää 
+16 vuotta.  
+- Poniratsastajilla on oikeus osallistua kaikkiin poniratsukoille, ja junioreille avoimiin sekä avoimiin 
+luokkiin, mikäli hänellä on niihin oikeuttavat tulokset. 
+8. Veteraaniratsastaja 
+- Urheilija on veteraaniratsastaja sen kalenterivuoden alusta , jona hän täyttää 45 vuotta.  
+Veteraaniratsastaja ei ole osallistunut kuluvana vuonna mihinkään sellaiseen kilpailuluokkaan, jonka 
+enimmäiskorkeus on ollut yli 135 cm.  
+- Veteraaniratsastaja voi osallistua senioreille avoimiin luokkiin. 
+=== PAGE 19 ===
+ 
+ 
+19 
+ 
+9. Hevonen  
+- Hevonen saa osallistua kuhunkin luokkaan vain kerran, mutta urheilija voi osallistua luokkaan 
+useammalla kuin yhdellä hevosella, ellei säännöissä tai kutsussa ole rajoituksia.  
+- Sama hevonen/poni voi osallistua samaan luokkaan kahdella eri urheilijalla seura- ja 
+aluekilpailuluokissa tasolla 100 cm tai sitä helpommissa luokissa. Tällöin hevonen ei voi kuitenkaan 
+osallistua muihin luokkiin saman päivän aikana.  
+- Hevonen saa yhden päivän aikana osallistua enintään kahteen luokkaan. Sinä kalenterivuonna, jolloin 
+hevonen täyttää 4 vuotta, se saa osallistua yhteen enintään 100 cm tasoiseen luokkaan per päivä 
+ajalla 1.1.–31.7. 1.8. alkaen 4 -vuotias hevonen saa osallistua yhteen enintään 110  cm:n tasoiseen 
+luokaan. 
+10. Osallistumisoikeuden antavat tulokset 
+80 cm:ä korkeampiin luokkiin, urheilijalla tulee olla seura- tai aluekilpailuista 80 cm luokista kaksi enintään 4 
+virhepisteen tulosta  perusradalta/ensimmäisestä vaiheesta  tai vähintään 70 % tulos taito - tai 
+suorituskyvynarviontiluokasta. Tästä eteenpäin vaaditaan kaksi enintään 4 virhepisteen tulosta perusradalta 
+/ensimmäisestä vaiheesta tai vähintään 70 % tulos taito - tai suorituskyvynarvioinnissa enintään 10 cm 
+alemmalta tasolta seura-, alue - tai kansallisesta kilpailusta. Mikäli kilpailtava luokkakorkeus ei ole 
+tasakymmen cm, pyöristetään se alaspäin lähimpään kymmeneen senttiin  eli esim. 95  cm luokassa 
+osallistumisoikeuden vaadittavat tulokset on oltava vähintään 80  cm:n tasolta . Myös kenttäkilpailun 
+estekokeessa saavutetut tulokset kelpaavat. Tulokset tulee olla saavutettu kuluvan tai kahden tätä edeltävän 
+kalenterivuoden aikana. Mikäli urheilija on raskaana, voi hän anoa osallistumisoikeuden antavien tulosten 
+jäädyttämistä raskauden ajaksi.  
+Osallistumisoikeuden antavia tuloksia voi saada luokista, joissa on arvostelumenetelmänä A -arvostelu, 
+taitoarvostelu tai nuorten hevosten suorituskyvyn arviointi. Arvostelussa 367.4 osallistumisoikeuteen antava 
+tulos määräytyy molempien vaiheiden yhteenlasketun tuloksen perusteella . Osallistumisoikeuden antavan 
+tuloksen saaminen edellyttää, että kilpailun tulokset julkaistaan KIPAssa. Ulkomailla hankitut tulokset on 
+pyynnöstä todistettava. 
+Tulokset ovat urheilijakohtaisia. Suoritettuaan vaadittavat tulokset, urheilija saa osallistua 10 cm korkeampiin 
+luokkiin kaikilla hevosilla/poneilla kilpailusääntöjen ja kutsun mukaisesti.  
+- Urheilijat, joilla on kaksi enintään 4 virhepisteen tulosta perusradalta/ensimmäisestä vaiheesta tai 
+vähintään 70 % tulos taito - tai suorituskyvyn arviointiluokasta vähintään 130 cm tasolta viimeksi 
+kuluneen viiden kalenterivuoden aikana , voivat osallistua kilpailuihin ilman osallistumisoikeuden 
+antavaa tulosta.  
+- Urheilijat, jotka ovat suorittaneet 140 cm:n luokan virhepisteittä, tarvitsevat osallistumisoikeuden 
+antavat tulokset vain 120 cm:n luokista ylöspäin. 
+- Urheilijat, jotka ovat saavuttaneet vähintään kaksi virhepisteetöntä suoritusta 145 cm:n luokissa, 
+saavat elinikäisen osallistumisoikeuden kaikkiin luokkiin. 
+ 
+ 
+6. VARALLA 
+334–340. varalla 
+ 
+7. ARVOSTELUMENETELMÄT 
+341. Arvostelumenetelmät 
+Arvostelumenetelmät ovat: 
+=== PAGE 20 ===
+ 
+ 
+20 
+ 
+- Arvostelu A (= virhepisteiden perusteella) 
+- Arvostelu C (= ajan perusteella) 
+Arvostelumenetelmä ilmoitetaan kilpailukutsussa. 
+342. Arvostelu A (virhepisteiden perusteella) 
+Laskemalla yhteen virhepisteet esteiltä ja ylitetystä enimmäisaja sta saadaan ratsukon tulosvirhe pisteet. 
+Eräissä arvostelumenetelmissä ta sapisteissä olevat ratsukot asetetaan paremmuusjärjestykseen ajan 
+perusteella.  
+1. Arvostelumenetelmä A.0 
+Ratsukot, jotka ovat selvittäneet perusradan tai uusinnan virhepisteittä, ovat tasavertaisia ensimmäisellä 
+sijalla.  Vain virhepisteittä ratsastaneet palkitaan. Ajalla ei ole merkitystä, mutta ratsukon on suoriuduttava 
+radasta enimmäisajan puitteissa. Arvostelumenetelmä sallii korkeintaan yhden uusinnan. 
+- A.0.0 Ei uusintaa 
+- A.0.1 Yksi uusinta 
+2. Arvostelumenetelmä A.1 
+Ratsukot, jotka ovat saavuttaneet perusradalla tai uusinnassa saman virhepistemäärän, ovat tasavertaisia. 
+Arvostelumenetelmä sallii korkeintaan kaksi uusintaa (vain virhepisteet huomioidaan): 
+- A.1.0 Ei uusintaa 
+- A.1.1 Yksi uusinta 
+- A.1.2 Kaksi uusintaa 
+3. Arvostelumenetelmä A.2 
+Ratsukot, jotka ovat saavuttaneet perusradalla saman virhepistemäärän, sijoittuvat aikojen perusteella. 
+Arvostelumenetelmä sallii korkeintaan yhden uusinnan niiden ratsukoiden kesken, joilla on al in 
+virhepistemäärä ja sama aika. Uusinnassa ratkaisevat virhepisteet ja aika: 
+- A.2.0 Ei uusintaa 
+- A.2.1 Yksi uusinta 
+4. Arvostelumenetelmä AM  
+(arvostelumenetelmien A.1 ja A.2 yhdistelmä) 
+4.1. AM 3  
+Perusradalla pienimmän virhepistemäärän saavuttaneet ratsukot uusivat. Uusinnassa paremmuuden 
+ratkaisevat virhepisteet ja aika. Muut ratsukot sijoittuvat perusradan virhepisteiden perusteella. 
+4.2. AM 4  
+Perusradalla pienimmän virhepiste määrän saavuttaneet ratsukot uusivat.  Uusinnassa pienimmän 
+virhepistemäärän saavuttaneet ratsukot osallistuvat toiseen uusintaan. Toisessa uusinnassa paremmuuden 
+ratkaisevat virhepisteet ja aika. Muut ratsukot sijoittuvat ensimmäisen uusinnan/perusradan virhepisteiden 
+perusteella. 
+4.3. AM 5  
+Perusradalla pienimmän virhepistemäärän saavuttaneet ratsukot uusivat. Uusinnassa paremmuuden 
+ratkaisevat virhepisteet ja aika.  Muut ratsukot sijoittuvat perusradan virhepisteiden ja ajan perusteella. 
+4.4. AM5.2 (välitön uusinta) 
+Ratsukot, jotka ovat suorittaneet perusradan ilman virhepisteitä, hyppäävät välittömästi uusintaradan 
+perusratasuorituksen jälkeen.   
+=== PAGE 21 ===
+ 
+ 
+21 
+ 
+Ratsukko saa uuden lähtömerkin uusintasuoritusta varten. Lähtömerkin jälkeen ratsukolla on 45 sekuntia 
+aikaa ylittää lähtölinja. Uusintaan osallistuvat ratsukot eivät saa poistua radalta perusradan ja uusintaradan 
+välissä. 
+Mikäli kukaan ratsukoista ei ole suorittanut perusrataa virhepisteittä, ratsukot sijoittuvat perusradan 
+virhepisteiden ja ajan perusteella. 
+Arvostelua voidaan käyttää vain, mikäli siitä on maininta kutsussa. 
+Arvostelua ei tule käyttää Grand Prix luokissa eikä luokassa, jossa on jaossa kilpailun korkeimmat palkinnot. 
+4.5. AM 6  
+Perusradalla pienimmän virhepistemäärän saavuttaneet ratsukot uusivat. Uusinnassa pienimmän 
+virhepistemäärän saavuttaneet ratsukot osallistuvat toiseen uusintaan. Toisessa uusinnassa paremmuuden 
+ratkaisevat virhepisteet ja aika. Muut ratsukot sijoittuvat ensimmäisen uusinnan/perusradan virhepisteiden 
+ja ajan perusteella. 
+ 
+5. Virhepistetaulukko 
+Jokaisesta suorituksen aikana tehdystä virheestä annetaan virhepisteitä seuraavasti:  
+Virhepisteet esteillä (estevirheet): 
+- Ensimmäinen tottelemattomuus (347.): 4 vp. 
+- Esteen pudottaminen tai Rajaviivan (vedenpinnan) rikkominen (348.): 4 vp. 
+- Toinen tottelemattomuus (347.): hylätään. 
+- Kumoon ratsastus ja/tai satulasta putoaminen (349): hylätään 
+- Tottelemattomuus, jolloin esteen osa putoaa [347. 5.b]: 4 vp + aikalisä 6 sekuntia 
+Virhepisteet ajasta (aikavirheet): 
+- Ylitetty enimmäisaika perusradalla ja uusinnassa: 1 vp jokaisesta alkavasta sekunnista 
+- Kaksinkertainen enimmäisajan ylitys (346. B.11): hylätään 
+343. Arvostelu C (ajan perusteella) 
+Arvostelu C:ssä virheet aiheuttavat virhesekunteja, jotka lisätään urheilijalle otettuun suoritusaikaan. 
+1. Virheiden tuomitseminen arvostelussa C 
+- Esteen pudottaminen tai rajaviivan (vedenpinnan) rikkominen: 4 s (3 s kaksivaiheisessa kilpailussa (367) 
+sekä uusinnassa, jossa käytetään arvostelua C) ulkokilpailuissa, 3 s hallikilpailuissa 
+- Ensimmäinen tottelemattomuus: ei virhesekunteja 
+- Toinen tottelemattomuus: hylätään  
+- Kumoon ratsastus ja/tai satulasta putoaminen: hylätään 
+- Tottelemattomuus, jolloin esteen osa putoaa (339.B.b): aikalisä 6 sekuntia 
+- C-arvostelussa käytetään enimmäisajan sijasta aikarajaa, joka on 
+- 3 min, jos tien pituus on yli 600 m 
+- 2 min, jos tien pituus on alle 600 m 
+- Aikarajan ylittäminen: hylätään 
+2. Ratsukon tulosaika saadaan seuraavasti: 
+Suoritukseen kuluneeseen aikaan lisätään mahdollisest a tottelemattomuudesta aiheutunut aika (344, 
+339. B.b) ja esteen pudottamisesta tai rajaviivan rikkomisesta annettavat virhesekunnit.  
+3. Sijoituksen määrääminen: Lyhimmän tulosajan saavuttanut on voittaja, lähinnä lyhimmän toinen jne. 
+Tulosaikojen ollessa samat , voidaan suorittaa uusinta 1. sijasta, mikäli kutsussa niin mainitaan. Muut 
+saman tulosajan saavuttaneet ovat tasaveroiset. 
+Uusinnassa esteiden korkeutta ja/tai pituutta voidaan lisätä ja niiden lukumäärää voidaan vähentää. 
+=== PAGE 22 ===
+ 
+ 
+22 
+ 
+344. Uusinta 
+Uusinta, mikäli sitä tarvitaan, suoritetaan yleensä välittömästi ao. perusradan jälkeen.  Uusinnassa 
+noudatetaan seuraavia määräyksiä: 
+1. Lähtöjärjestystä ei saa muuttaa. 
+2. Yleensä esteiden lukumäärää vähennetään. Uusintaan kuuluu vähintään puolet perusradan esteiden 
+lukumäärästä, kuitenkin vähintään 6 estettä. Kaksi perusrataan kuulumatonta yksittäisestettä voidaan 
+lisätä uusintarataan tai muuttaa perusradalla hypätty pysty este pituusesteeksi tai päinvastoin. Tällöin 
+muutetut esteet luetaan uusiksi perusrataan kuulumattomiksi ja niitä koskee edellä mainittu 
+enimmäislukumäärä. Perusrataan kuulumattomien esteiden tulee olla tyypiltään joko pystyesteitä tai 
+oksereita, tai yksi laatuaan. 
+Ko. esteiden tulee olla sijoitettuna radalle jo ennen perusrataan tutustumista tai ne muokataan 
+perusradan esteistä ja ne on merkittävä selkeästi ratapiirrokseen. Vaihtoehtoisesti kahden uuden esteen 
+sijaan voidaan käyttää kahden pystyesteen kaksoissarjaa eri suunnasta hypättävänä kuin perusradalla. 
+Tällöin muita uusia esteitä ei sallita.  
+ Mikäli perusrataan on kuulunut sarjaeste tai sarjaesteitä, tulee uusinnassa olla vähintään yksi kaksoissarja. 
+Mikäli luokassa on useampia erillisiä kierroksia ennen uusintaa, ei edellisten kierrosten esteitä pidetä 
+ylimääräisinä uusina esteinä. Myös perusrataan/erillisten kierrosten esteiden materiaaleja voidaan 
+muuttaa uusintaan, mikäli TPJ muutoksen hyväksyy. Materiaalimuutokset pitää ilmoittaa ratapiirroksessa. 
+Esteitä, johon vaihdetaan/lisätään materiaalia ennen uusintaa, ei pidetä uusina esteinä. 
+Nopeuden pitää olla sama kuin perusradalla. Jos joudutaan suorittamaan useita uusintoja, esteiden 
+lukumäärää voidaan asteittain vähentää, ei kuitenkaan alle kuuden vaikeissa ja vaativissa luokissa.  
+3. Esteiden rakennetta ja ulkomuotoa ei saa muuttaa, pois lukien edellä mainittu esteiden tyyppimuutos . 
+Esteet on hypättävä samasta suunnasta kuin perusradalla. Sarjaesteistä voidaan poistaa yksi tai useampi 
+osa, ei kuitenkaan sarjan keskeltä. 
+4. Jos uusintaan osallistuvat ratsukot ovat suorittaneet edellisen kierroksen ilman estevirheitä , esteitä 
+voidaan korottaa ja/tai pidentää, mutta esteiden mitat eivät saa ylittää liitteessä 3 määriteltyjä luokan 
+esteiden enimmäiskorkeutta/ -pituutta. Kansallisissa kilpailu luokissa esteitä voidaan korottaa 
+maksimissaan 10 cm yli luokan enimmäiskorkeuden. 
+5. Tasoitusluokkien uusinnassakin korotetaan (pidennetään) tasoitushevosille yhtä monta estettä kuin 
+muille. 
+6. Ellei sääntöjen muissa kohdissa ole muuta mainittu, uusintoja saa olla enintään kaksi. 
+7. Urheilija, joka tuomariston luvalla luopuu uusinnasta, sijoittuu viimeiseksi uusintaan oikeutetuista. Mikäli 
+heitä on useampia, he jakavat keskenään ko. sijoituksen ja mahdolliset palkinnot.  
+Tuomaristo arpoo kohdan 7c perusteella uusinnasta luopuvan urheilijan sijoitukset. 
+Luvan poisjääntiin myöntää tuomaristo. 
+Päteviä syitä ovat: 
+a) Hevonen on loukkaantunut. 
+b) Urheilija on loukkaantunut. 
+c) Uusinnassa on vain yksi urheilija. 
+d) Muu tuomariston hyväksymä syy, esimerkiksi urheilijan tai hevosen kokemattomuus tai osallistuminen 
+päivän muuhun luokkaan. 
+Luvaton luopuminen uusinnasta voi aiheuttaa kilpailusta sulkemisen. Ratsukot, jotka eivät ole osallistuneet 
+uusintaan, vaikka ovat olleet siihen oikeutettuja, sekä uusinnassa keskeyttäneet ja hylätyt ratsukot ovat 
+tasaveroisia. 
+=== PAGE 23 ===
+ 
+ 
+23 
+ 
+8. Urheilija, joka uusinnassa keskeyttää tai ilman pätevää syytä tahallaan aiheuttaa hylkäämisensä, kun  
+hänellä on vielä mahdollisuus sijoittua, voidaan tuomita sakkoihin. 
+9. Arvostelu A:ssa käytetyt uusintamenetelmät ovat kohdassa 342. 
+345.Varalla  
+ 
+8. ARVOSTELEMINEN 
+346. Hylkääminen, lähtöoikeuden epääminen, sakot 
+Mikäli kilpailusäännöissä tai tietyn kilpailu n kutsun  erikoismääräyksissä ei ole muuta sanottu, tarkoittaa 
+hylkääminen sitä, että ratsukko ei saa jatkaa suoritusta, mu tta urheilijalla on keskeytettyään tai tultuaan 
+hylätyksi oikeus tehdä yksi hyppy -yritys rataan kuuluvalla yksittäisesteellä. Edellä mainittu ei päde, mikäli 
+ratsukon suoritus on hylätty kumoon ratsastamisen tai satulasta putoamisen johdosta. Hylkääminen on 
+sattuneen virheen aiheuttama toimenpide eikä rangaistus. 
+Hylkääminen tapahtuu joko tuomariston harkinnan tai KS:n määräysten perusteella. 
+A. Seuraavissa tapauksissa hylkääminen on tuomariston harkinnassa: 
+1. Ratsukko ei saavu radalle, kun se on sinne kutsuttu. 
+2. Urheilija ei tule radalle tai ei poistu radalta ratsain (paitsi jos urheilija on pudonnut satulasta maalilinjan 
+jo ylitettyään, jolloin hänen ei edellytetä enää nousevan ratsaille ennen kilpailukentältä poistumista), tai 
+tuomariston luvalla ja onnettomuuden yhteydessä. 
+3. Urheilija vastaanottaa luvattoman avun (350.) (vrt. B:20). 
+4. Urheilija menee luvatta radalle sen jälkeen, kun luokka on alkanut (330.). 
+5. Urheilija ei keskeytä ratsastusta, kun merkki siitä on annettu (316.). 
+B. Seuraavissa tapauksissa suoritus hylätään: 
+1. Ratsukko hyppää tai yrittää hypätä esteen radalla ennen suorituksen alkua tai sen päätyttyä, ellei(vät)  
+kyseessä ole tuomariston hyväksymä(t) verryttelyeste(et). 
+2. Ratsukko lähtee ennen lähtömerkkiä ja hyppää ensimmäisen esteen (351.). 
+3. Ratsukko käyttää yli 45 sekuntia ensimmäisen esteen hyppäämiseen ajanoton käynnistyttyä, pois lukien 
+urheilijasta riippumattomat syyt (317.6). 
+4. Hevonen on tottelematon lähdön jälkeen yhtäjaksoisesti yli 45 sekuntia (347.) 
+5. Ratsukko käyttää yli 45 sekuntia yhden esteen ylittämiseen, tai ylittääkseen viimeisen esteen ja 
+maalilinjan (347.). 
+6. Ratsukko ylittää tai yrittää ylittää esteen ennen kuin on palannut väärältä tieltä (347.) 
+7. Ratsukko hyppää tai yrittää hypätä luokkaan kuulumattoman esteen (347.) 
+8. Ratsukko jättää hyppäämättä luokkaan kuuluvan esteen (347.) 
+9. Ratsukko hyppää luokkaan kuuluvat esteet väärässä järjestyksessä (347.) 
+10. Ratsukko hyppää esteen väärästä suunnasta (347.) 
+11. Ratsukko ylittää kaksinkertaisen enimmäisajan (345.). Kun ratsukko force majeure tapauksissa saa uusia 
+suorituksensa, uusi suoritus pitää tehdä enimmäisajassa myös niissä tapauksissa, joissa suoritusta 
+jatketaan keskeyttämiskohdasta. 
+12. Ratsukko hyppää kaatuneen esteen ennen kuin se on rakennettu uudestaan (320.) 
+=== PAGE 24 ===
+ 
+ 
+24 
+ 
+13. Ratsukko jatkaa keskeytettyä suoritusta hyppäämällä tai yrittämällä hypätä e steen ennen 
+jatkamismerkkiä (316.) 
+14. Ratsukko hyppää vapaavalintaisen esteen useammin kuin kerran tai hyppää sen väärästä suunnasta  
+15. Ratsukko ei tottelemattomuuden yhteydessä hyppää sarjaesteellä kaikkia sarjaan kuuluvia esteitä 
+uudestaan (304.). Edellä mainittu ei koske suljettua sarjaestettä (305.) 
+16. Ratsukko ylittää sarjaesteellä kaksi yksittäisestettä yhdellä hypyllä 
+17. Ratsukko hyppää ensimmäisen esteen ennen kuin on ylittänyt lähtölinjan 
+18. Urheilija ei ylitä maalilinjaa ratsain ennen kuin hän poistuu radalta 
+19. Urheilija ja/tai hevonen poistuu radalta ilman tuomariston lupaa ennen kuin suoritus on päättynyt, 
+koskee myös tilannetta ennen lähtölinjan ylitystä 
+20. Urheilija vastaanottaa ratsain muuta kuin kypärän tai silmälasit (350.) 
+21. Ratsukko hyppää umpinaisesta sarjaesteestä ulos (ylös, alas) väärää tietä tai ratsastaa esteen läpi (305.) 
+22. Toisen tottelemattomuusvirheen sattuessa 
+Toimintaohje: Luokissa, jotka ovat avoimia 4 – 6-vuotiaille hevosille, ratsukon annetaan jatkaa toisen 
+tottelemattomuusvirheen jälkeen (= hylätty suoritus). Kolmannen tottelemattomuusvirheen sattuessa 
+suoritus keskeytetään kolmella äänimerkillä. 
+23. Ratsukko ei pysty viemään suoritusta loppuun urheilijalle tai hevoselle sattuneen tapaturman vuoksi2.  
+24. Satulasta putoamisen ta i kumoon ratsastuksen sattuessa  kilpailusuorituksen aikana . Mikäli satulasta 
+putoaminen tai kumoon ratsastus tapahtuu ratsukon jo ylitettyä maalilinjan ei suoritusta hylätä.  Mikäli 
+satulasta putoaminen tai kumoon ratsastus tapahtuu ennen lähtölinjan ylittämistä kilpailuareenalle 
+saavuttua, ei ratsukolla ole lähtöoikeutta ko. luokkaan/kierrokseen. Tulosluetteloon merkitään ratsukolle 
+tilaksi ”ei lähtenyt” luokkaan/kierrokselle. 
+25. Jos tuomaristo, mistä syystä tahansa, katsoo, että suorituksen keskeyttäminen ja hylkääminen olisi 
+hevosen tai urheilijan hyvinvoinnin ja/tai turvallisuuden edun mukaista . Päätös suorituksen 
+keskeyttämisestä ja hylkäämisestä on lopullinen eikä siitä voi valittaa tai esittää vastalausetta. 
+26. Ratsukko saa suorituksen aikana 20 estevirhettä  (vastaa arvosteluissa C, vaikeutuva tai muut 
+erityisarvostelut 5 kertaa pudotus/vesihautaan astuminen tai 4 kertaa pudotus/vesihautaan astuminen 
+ja tottelemattomuusvirhe). 
+27. Hevosella on kielletyt varusteet kilpailusuorituksen aikana. (326.) 
+C. Lähtöoikeuden epääminen 
+Lähtöoikeuden epääminen tarkoittaa sitä, ettei urheilija ei(vät)kä hänen hevosensa saa osallistua käynnissä 
+olevaan luokkaan. Tuomaristo voi laajentaa lähtöoikeuden epäämisen koskemaan myös päivän tai samojen 
+kilpailujen jäljellä olevia luokkia. Osallistumiskielto voidaan SRL:n hallituksen päätöksellä laajentaa 
+käsittämään muitakin kilpailuja määräajaksi. 
+KSI:ssä (yleinen osa) mainittujen tapausten lisäksi seuraavat asiat voivat johtaa lähtöoikeuden epäämiseen: 
+1. Urheilija menee radalle jalan sen jälkeen, kun luokka on alkanut (330.) 
+2. Ratsukko hyppää tai yrittää hypätä radalla olevan verryttelyesteen useammin kuin on sallittu 
+3. Urheilija hyppää tai yrittää hypätä luvatta esteen, joka sisältyy luokkaan, johon hän tulee myöhemmin 
+osallistumaan 
+4. Urheilija kieltäytyy ilman tuomariston lupaa tai pätevää syytä osallistumasta uusintaan (335.) 
+5. Urheilijan hevosta on barrattu (328.) 
+6. Urheilija käyttää omaa materiaalia verryttelyssä (329). 
+=== PAGE 25 ===
+ 
+ 
+25 
+ 
+7. Ratsukko hyppää verryttelyalueen esteen väärässä suunnassa (328.) 
+8. Urheilija kohtelee hevosta sopimattomasti  
+9. Urheilija ratsastaa radalla luvatta (330) 
+10. Urheilija osallistuu luokkaan, johon hän tai hevonen ei ole osallistumiskelpoinen. 
+11. Eläinsuojelulliset syyt 
+12. Hevosen suusta tai kyljistä tulee verta, hevonen ontuu.  Lähtöoikeuden epääminen on pakollista, mikäli 
+hevosesta tulee verta ja kyljissä tai missä tahansa hevosessa on merkkejä kannusten tai raipan liiallisesta 
+käytöstä. Jos hevosen suusta tulee vähän verta, stewardi tai tuomari voi  tarkistaa huuhtelemalla tai 
+pyyhkimällä hevosen suuta, aiheutuuko verenvuoto hevosen purtua kieleensä tai huuliinsa. Mikäli 
+verenvuoto suussa aiheutuu jostain muusta syystä, tulee lähtöoikeus evätä.  Jos verenvuot o hevosessa 
+havaitaan välittömästi suorituksen jälkeen, tulee edellä mainituissa tapauksissa muiden luokkien 
+lähtöoikeuden epäämisen lisäksi ko. suoritus hylätä. 
+13. Kohta 346.D.3:ssa mainittu tapaus. 
+D. Sakko 
+Seuraavissa tapauksissa TPJ voi määrätä urheilijalle keltaisen kortin tai sakon KSI:n mukaisesti: 
+1. Ratsukko ei suorituksen jälkeen tai sen tultua hylätyksi viipymättä poistu radalta 
+2. Ratsukko ei tule radalle tai poistu radalta ratapiirroksen osoittamasta portista 
+3. Ratsukko tekee keskeytettyään tai tultuaan hylätyksi ennen radalta poistumistaan useamman kuin yhden 
+hyppy-yrityksen yksittäisesteellä, tekee sen väärästä suunnasta tai sarjaesteen yksittäisesteellä. Kumoon 
+ratsastuksen vuoksi hylätyllä ratsukolla ei ole edellä mainittua oikeutta. 
+4. Ratsukko hyppää suorituksen jälkeen yhden tai useamman radalla olevan esteen 
+5. Ratsukko hyppää verryttelyalueella muita esteitä kuin niitä, jotka kilpailujen johto on asettanut käyttöön 
+6. Ratsukko aiheuttaa hylkäämisen tai keskeyttää ilman pätevää syytä uusinnassa, kun sillä on vielä 
+mahdollisuus sijoittua. 
+7. Urheilija ei tervehdi tuomaristoa perusradalle tullessaan (332 ja 351). 
+8. Urheilija syyllistyy hevosen sopimattomaan kohteluun. 
+9. Urheilija ei kehotuksesta huolimatta poista mainoksia asustaan/hevosen varusteista. 
+10. Urheilija ratsastaa sääntöjä vastoin pukeutuneena, väärin varustein tai hänen hevosensa on vää rin 
+satuloitu tai suitsittu (325., 326.). 
+ 
+9. VIRHEPISTETAULUKON SOVELTAMISOHJEET 
+347. Tottelemattomuus 
+1. Seuraavia virheitä pidetään tottelemattomuusvirheinä: 
+- Väärä tie, jolta on palattu ajoissa  
+- Kieltäytyminen 
+- Sivuun poikkeaminen 
+- Niskurointi 
+- Jokainen voltti tai täyskaarros tai useita sellaisia, millä kohdalla rataa tahansa, syystä riippumatta  
+- Ratsukko kiertää viimeksi hyppäämänsä esteen, ellei radan kulku niin vaadi.  
+2. Seuraavia tapauksia ei pidetä tottelemattomuusvirheinä: 
+=== PAGE 26 ===
+ 
+ 
+26 
+ 
+2.1 Ratsukko tekee voltteja enintään 45 sekunnin ajan voidakseen tehdä uuden hyppy -yrityksen 
+kieltäytymisen yhteydessä tai sivuun poikkeamisen jälkeen. 
+2.2 Lähestymistä vinosti (kyljittäin) esteelle, polvekkeiden ratsastamista omaa uraa leikkaamatta tai 
+kääntymistä jyrkästi kohti estettä ylittämistarkoituksessa ei pidetä tottelemattomuusvirheenä, ellei 
+ratsukko ohita estettä tai maalilinjaa sitä lähestyessään eli ylitä sitä viivaa, jonka ajatellaan kulkevan 
+esteen tai maalilinjan jatkeena sen leveyssuunnassa. 
+3. Väärä tie syntyy, kun ratsukko 
+a) ei seuraa ratapiirrokseen merkittyä tietä 
+b) sivuuttaa väärältä puolelta merkkilaatan, joka osoittaa seurattavaa tietä, lähtö- tai maalilinjaa 
+c) ei hyppää esteitä ratapiirroksessa määrätyssä järjestyksessä tai määrätystä suunnasta 
+d) hyppää tai yrittää hypätä luokkaan kuulumattoman esteen tai jättää luokkaan kuuluvan esteen 
+hyppäämättä 
+4. Väärä tie, jolta on ajoissa palattu 
+a) Korjatakseen väärän tien ratsukon on palattava sille kohdalle rataa, missä väärälle tielle meno tapahtui 
+b) Maalilinjan tai seurattavan tien merkkilaatan ohittaminen väärältä puolelta ja tämän korjaaminen 
+katsotaan vääräksi tieksi, jolta on ajoissa palattu. Siitä rangaistaan tottelemattomuusvirheenä. 
+c) Lähtölinjan ylittäminen väärästä suunnasta ei ole virhe, jos ratsukko ylittää sen myöhemmin oikeasta 
+suunnasta ennen kuin hyppää ensimmäisen esteen. Kello käynnistetään, kun ratsukko ylittää lähtölinjan 
+oikeasta suunnasta. 
+5. Kieltäytymistä on: 
+a) Kun hevonen pysähtyy esteen eteen pudottamatta/siirtämättä sitä tai sen osaa ja jää selvästi seisomaan 
+tai astuu taaksepäin (vaikkapa askeleen verran) tai kääntyy pois esteeltä. 
+Ratsukon on tällöin heti tehtävä uusi yritys esteen ylittämiseksi. 
+Ratsukkoa ei hylätä, jos urheilija hevosen kieltäydyttyä, ennen lähtemistään uuteen hyppy -yritykseen, 
+näyttää estettä hevoselle. 
+Huom. 1. Kieltäytymisenä ei pidetä sitä, että hevonen pysähtyy aivan esteen eteen pudottamatta sitä tai 
+sen osaa, ja astumatta taaksepäin välittömästi sen jälkeen hyppää esteen yli paikaltaan. 
+Huom. 2.  Kieltäytymisen sattuessa kokonaan umpinaisella esteellä (karsina tai penger) , ratsukon on 
+jatkettava eteenpäin. Ratsukko saa viipyä esteen sisällä enintään 45 sekuntia tai, kunnes toinen 
+tottelemattomuus (kokonaissuoritus huomioon ottaen) tapahtuu. Jos ratsukko hyppää ulos esteestä tai 
+alas penkereeltä väärään suuntaan, suoritus hylätään. 
+b) Kun hevonen pysähtyy niin lähelle mitä tahansa ylitettävää estettä, että este tai sen osa tai mikä tahansa 
+sarjaesteen osa putoaa tai siirtyy joko urheilijan tai hevosen kosketuksesta, on välittömästi annettava 
+äänimerkki suorituksen keskeyttämiseksi. Kun urheilija odottaa esteen kunnostamista, punaista lippua on 
+pidettävä ylhäällä esteen luona. Ratsukon tulee pysyä esteen läheisyydessä, kun sitä pystytetään 
+uudelleen. 
+Tuomaristo antaa äänimerkin, k un este on pystytetty uudelleen,  ja käynnistää kellon, kun hevonen 
+ponnistaa hyppyyn. Mikäli tottelemattomuus tapahtuu sarjaesteellä, kello  käynnistetään, kun hevonen 
+ponnistaa hyppyyn sen A-osalla.  
+Mikäli voidaan epäillä, ettei urheilija ole kuullut keskeytysmerkkiä, tulee kuuluttajan lisäksi ilmoittaa 
+"odota", "jatka". 
+Ratsukolle tuomitaan virhepisteitä tottelemattomuudesta, muttei esteen pudottamisesta. Odotusaikana 
+sattunutta tottelemattomuutta ei tuomita virheeksi. Putoaminen ja kumoon ratsastus aiheuttaa 
+hylkäämisen myös, kun suoritus on keskeytetty. Samoin muut hylk äämistä koskevat määräykset ovat 
+voimassa. 
+=== PAGE 27 ===
+ 
+ 
+27 
+ 
+Aika kieltäyty misen yhteydessä annetusta ääni merkistä siihen, kun hevonen ponnistaa hyppyyn  
+vähennetään kokonaisajasta, mutta ratsukko saa 6 sekunnin aikalisän. 
+Huom. 1.  Jos rats ukko pudottaa tai siirtää sarja esteeseen kuuluvan esteen ja kieltää seuraavalla 
+sarjaesteeseen kuuluvalla esteellä tämän putoamatta tai siirtymättä, annetaan keskeyttämismerkki. Kun 
+pudotettu este on korjattu, annetaan jatkamismerkki. Lisäaikaa annetaan 6 sekuntia. 
+Huom. 2.  Hevosen luisuessa esteen läpi on olosuhteista riippuen tuomittava joko pudottamisesta tai 
+kieltäytymisestä. Jos tapaus tuomitaan kieltäytymiseksi, annetaan äänimerkki, ja ratsukon on hypättävä 
+este sen kunnostamisen jälkeen uudelleen. Jos tapaus tuomitaan  esteen pudottamiseksi, ratsukko saa 
+jatkaa. 
+Jos hevonen vesihaudalla kieltäytyessään koskettaa veden pintaa, tuomitaan tottelemattomuudesta, ei 
+vesihautaan astumisesta. 
+Huom. 3. Jos hevonen pysähtyy vesihaudan eteen, astuu siihen perääntymättä tai kääntymättä ja sen 
+jälkeen kahlaa haudan poikki, tuomitaan se vain vesihautaan astumisena eikä tottelemattomuutena. 
+c) Kun hevonen pengeresteelle yrittäessään epäonnistuu ja luisuu takaisin. 
+6. Sivuun poikkeamista on 
+a) kun hevonen riistäytyy urheilijalta ja sivuuttaa hypättävän esteen 
+b) kun ratsukko hyppää esteen rajoittimien ulkopuolelta 
+c) kun hevonen, tai mikä tahansa sen osa ohittaa hyppyvuorossa olevan esteen, sarjan osan, maalilinjan tai 
+seurattavan tien merkkilaatan oletetun jatkeen. 
+Ratsukon on kummassakin tapauksessa yritettävä uudelleen. 
+7. Niskurointi 
+a) Niskurointia on, kun hevonen milloin tahansa ja mistä syystä tahansa (paitsi 347 5.a. huom. 1.) pysähtyy 
+tai astuu taakse tai nousee pystyyn. Vaikka urheilija tarkoituksellisesti pysäyttää hevosen, tämä katsotaan 
+niskuroinniksi. 
+b) Niskurointi johtaa hylkäämiseen seuraavissa tapauksissa: 
+- Niskurointi kestää yhtäjaksoisesti yli 45 s 
+- Jos esteen ylittäminen kestää yli 45 s  
+8. Voltti tai täyskaarros 
+syntyy, kun hevonen kulkee oman kaviouransa ylitse kahden peräkkäisen, tiehen kuuluvan esteen välillä 
+(lähtö- ja maalilinja ovat esteeseen verrattavia). 
+Vaikka urheilija tarkoituksellisestikin tekisi voltin (esim. saadakseen hevosen hallintaansa), se tuomitaan 
+tottelemattomuudeksi. Peräkkäiset tarkoitukselliset, suunnilleen samalla paikalla tehdyt voltit tuomitaan 
+yhtenä tottelemattomuutena. Kieltäytymisen tai sivuun poikkeamisen yhteydessä (mahdollisen peruutuksen 
+jälkeen) ratsukko saa tehdä yhden tai useamman voltin tai täyskaarr oksen esteen uudelleen hyppäämistä 
+varten, ilman että ne tuomitaan useana tottelemattomuutena. 
+348. Esteen pudottaminen 
+Esteen pudottaminen tapahtuu, kun urheilija tai hevonen kaataa esteen tai pudottaa sen osan niin, että se on 
+nostamalla (ei työntämällä) asetettava paikoilleen. 
+Pudottamiseksi katsotaan myös, kun urheilija tai hevonen pudottaa esteen tai sen osan siten, että se jää vain 
+yhden kannattimen varaan. 
+Este katsotaan pudonneeksi myös, jos esteen jokin osa estää toisen osan putoamisen. Esimerkiksi kun 
+pituusesteen ensimmäinen osa jää seuraavan osan varaan, katsotaan este pudonneeksi, jos ensimmäinen osa 
+putoaisi, kun tämä jälkimmäinen osa poistetaan. 
+=== PAGE 28 ===
+ 
+ 
+28 
+ 
+Jos esteeseen kuuluu luotisuoraan toistensa yläpuolella olevia osia, katsotaan pudotukseksi vain ylimmän 
+osan pudottaminen. 
+Esteellä, joka on tarkoitettu hypättäväksi yhdellä hypyllä ja joka koostuu useista toistensa yläpuolella olevista 
+osista, jotka eivät ole luoti suorassa linjassa, kuten kalteva puomiaita, kaksois - tai kolmoispuomieste, 
+tuomitaan vain yhdestä pudotuksesta, riippumatta esteen putoavien osien lukumäärästä. 
+Jos pudotettu esteen osa estää hevosta ylittämästä jotakin toista estettä, se on poistettava. Tarvittaessa 
+ratsastus keskeytetään äänimerkillä ja odotusaika vähennetään kokonaisajasta. 
+Jos ratsukon koskettama este, tai sen osa putoaa vasta sen jälkeen, kun maalilinja on ylitetty, pudottaminen 
+tuomitaan virheeksi vain siinä tapauksessa, että tämä este on radan viimeinen. Jos tämä este , tai sen osa 
+putoaa vasta sen jälkeen, kun ratsukko on poistunut radalta, sitä ei tuomita virheeksi. 
+Hevosen katsotaan astuneen vesihautaan (rajaviivan rikkominen), kun se kaviollaan koskettaa veden pintaa 
+tai es teen ponnahdus - ja/tai alastulo puolella olevaa rajaviivaa. Ponnahduselementin kaatamista tai 
+siirtämistä ei tuomita vesihaudalla virheeksi. Estetuomarin päätös on lopullinen. 
+Kuivaan hautaan astumista ei tuomita virheeksi. 
+Ratsukon aikaisemmin, saman suorituksen aikana, täysin pudottaman esteen ylittämistä ei katsota virheeksi. 
+Ratsukon suoritus hylätään, jos se hyppää hyppyvuorossa olevan pudotetun esteen , ennen kuin se on 
+rakennettu uudelleen. Jos este on pudonnut itsestään, ilman ratsukon vaikutusta, tuomaristo päättää, 
+hylätäänkö suoritus vai ei. 
+Jos ratsukko ylittää virheettömästi esteen, joka on väärin pystytetty (esim. ylin puomi puuttuu), sitä ei tuomita 
+virheeksi, mutta jos ratsukko sen pudottaa, pudotus tuomitaan virheeksi. 
+349. Kumoon ratsastus, satulasta putoaminen 
+Kumoon ratsastaminen on tapahtunut, kun hevonen kaatuu siten, että sen lapa ja takaosa samanaikaisesti 
+koskettavat maata tai maata ja estettä. 
+Urheilija on pudonnut satulasta, jos hän irtautuu hevosesta niin, että hän koskettaa maata tai jos hän tarvitsee 
+apua tai tukea päästäkseen takaisin satulaan. 
+Jos ei ole varmaa, että ratsastaja on käyttänyt jonkinlaista tukea tai ulkopuolista apua satulasta putoamisen 
+estämiseksi, tapaus tuomitaan ratsastajan eduksi. 
+Jos urheilija astuu ratsailta esim. satuloinnin ja suitsituksen korjaamisen vuoksi, katsotaan tämä satulasta 
+putoamiseksi. 
+Kumoon ratsastus ja satulasta putoaminen johtavat aina suorituksen hylkäämiseen.  
+Kumoon ratsastamisesta tai satulasta putoamisesta rangaistaan, tapahtuu se millä kohdalla ja mistä syystä 
+tahansa lähdön ja maalilinjan välillä.  
+350. Luvaton apu 
+Luvattomalla avulla ymmärretään kaikkien sivullisten (avustaja, toimitsija, yleisö) fyysistä puuttumista 
+suoritukseen lähtö - ja maalilinjojen välillä , jonka tarkoituksena on auttaa urheilijaa tai hänen hevostaan 
+auttaakseen ratsukkoa. Kysymys on luvattomasta avusta huolimatta siitä, onko urheilija pyytänyt apua vai ei. 
+Luvattoman avun vastaanottaminen ratsain lähtö- ja maalilinjojen välillä aiheuttaa suorituksen hylkäämisen. 
+Tuomariston on ratkaistava, onko sattunut tapaus katsottava luvattomaksi avuksi vai ei (346.A.3).  
+Poikkeustapauksessa tuomaristo voi antaa urheilijalle luvan tulla radalle jalkautuneena tai ratsain avustajan 
+taluttamana. Tällöin kysymys ei ole luvattomasta avusta. 
+Ratsain olevan urheilijan auttaminen suorituksen aikana satuloinnissa tai suitsituksessa tai raipan 
+ojentaminen hänelle johtaa suorituksen hylkäämiseen. Pudonneen kypärän ja/tai silmälasien ojentamista 
+ratsain olevalle urheilijalle ei katsota luvattomaksi avuksi (346.B.20). 
+=== PAGE 29 ===
+ 
+ 
+29 
+ 
+Jos urheilijan turvaliivin airbag laukeaa sellaisen kieltäytymisen seurauksena, mikä aihettaa  esteen 
+hajoaminen (tuomari antaa äänimerkin ja pysäyttää ajanoton), urheilija voi poistaa liivin, tarvittaessa maassa 
+olevan henkilön avustamana. Tuomari ei anna äänimerkkiä  suorituksen jatkamiseksi ennen kuin liivi on 
+poistettu. 
+Jos turvaliivin airbag laukeaa muusta syystä radalla, urheilija voi pysähtyä ja poistaa liivin, tarvittaessa maassa 
+olevan henkilön avustamana. Urheilijaa ei rangaista hevosen pysäyttämisestä, mutta tuomari ei pysäytä 
+ajanottoa. 
+Mikäli radalla olevat toimihenkilöt tai muu ratahenkilöstö huomauttavat urheilijalle väärästä tiestä, on kyse 
+luvattomasta avusta. Urheilijan suoritus voidaan hylätä tuomariston harkinnan mukaan (3 46.A.3). SRL voi 
+määrätä huomauttajalle rangaistuksen. 
+351. Lähtö ja maaliin tulo 
+Ratsukko ei saa lähteä ennen kuin lähtölupa on annettu. 
+Tuomari voi evätä lähtöluvan perusradalle, jos urheilija ei tervehdi tuomaristoa (327 ja 338.D.6.) 
+Ratsukko on lähtenyt ja suoritus alkanut, kun ratsukko on oikeassa suunnassa ylittänyt lähtölinjan lähtömerkin 
+antamisen jälkeen. 
+Suoritus on päättynyt, kun urheilija on viimeisen esteen hypättyään  ylittänyt maalilinjan ratsain oikeasta 
+suunnasta, tai jos maalilinjaa ei ole, kun viimeinen este on hypätty. 
+Suorituksen aikana maali- ja lähtölinjan saa ylittää, jollei toisin ole määrätty. 
+352. Aika 
+Ratsukon suoritusajalla tarkoitetaan suoritukseen kulunutta aikaa vähennettynä keskeytyksiin käytetyllä ajalla 
+(345.) ja lisättynä tottelemattomuudesta aiheutuneella lisäajalla (347. 5.b)  
+Ajanotto alkaa, kun hevosen ryntäät, lähtömerkin antamisen jälkeen, ylittävät lähtölinjan oikeasta suunnasta 
+tai kun 45 sekuntia on kulunut lähtömerkin antamisesta  (poikkeus 317.2). Ajanotto päättyy, kun hevosen 
+ryntäät ylittävät maalilinjan oikeasta suunnasta ratsukon ylitettyä viimeisen esteen. 
+Luokan enimmäisaika lasketaan liitteen 4 mukaan. Sekä perusradan että uusinnan enimmäisaika on selvästi 
+merkittävä ratapiirrokseen. 
+Jos suoritusaika 1. kappaleessa mainitut vähennykset ja lisäykset huomioon ottaen ylittää enimmäisajan, 
+lasketaan ratsukolle yliajasta virhepisteitä eri arvostelumenetelmissä määritellyin perustein. 
+Kaksinkertainen enimmäisajan ylittäminen aiheuttaa suorituksen hylkäämisen. 
+Huom. Arvostelumenetelmässä A on suoritusaika = tulosaika. 
+353. Ajanotto 
+Kansallisista kilpailuista alkaen ratsukon suoritusaika otetaan sähkölaitteilla ja kahdella digitaalisella 
+sekuntikellolla. Jos sähkölaite ei toimi, aika otetaan aina samasta sekuntikellosta. Ellei sekään toimi, aika 
+otetaan toisesta sekuntikellosta. Aika otetaan 1/100 sekunnin tarkkuudella. 
+Ajanottajan on oltava tuomarin välittömässä läheisyydessä. 
+Ajanottolaitteiden lisäksi tuomariston käytössä on oltava ylimääräisiä sekuntikelloja, joilla otetaan aikaa mm 
+seuraavissa ratsukon tulokseen vaikuttavissa tilanteissa: 
+a) Aika lähtöluvan antamisesta lähtölinjan ylitykseen 
+b) Hevosen yhtäjaksoinen niskurointi 
+c) Kahden perättäisen esteen hyppyjen välinen aika 
+Jos ajanotto on pysäytettävä tottelemattomuuden yhteydessä, annetaan lisäaikaa (347. 5.b.). 
+=== PAGE 30 ===
+ 
+ 
+30 
+ 
+Tottelemattomuuden aiheuttamaa ajanhukkaa ei vähennetä suoritusajasta lukuun ottamatta 3 47. 
+5.b. -kohdassa mainittua tapausta. 
+Ratsukon tulosaika on kuulutettava heti suorituksen jälkeen, paitsi kohdassa 310 mainitussa tapauksessa. 
+Digitaalisista tallenteista ei voida selvittää ratsukon suoritusaikaa. 
+ 
+10. ERIKOISLUOKAT 
+354.- 362. Varalla 
+363. Joukkue-esteratsastus 
+1. Joukkue-esteratsastuksessa käytetään arvostelua A. 
+2. Joukkue-esteratsastus on kilpailu, jossa tietyn urheilijamäärän(joukkueen) henkilökohtaiset tulokset 
+lasketaan yhteen. Kilpailu voi samalla olla henkilökohtainen. 
+3. Joukkueeseen kuuluu kolme tai neljä urheilijaa. Kukin ratsastaja saa ratsastaa vain yhdellä hevosella ja  
+kullakin hevosella saa ratsastaa vain yksi urheilija. 
+4. Jos joukkueeseen saa kuulua neljä ratsukkoa , eikä se voi asettaa kilpailuun enempää kuin kolme 
+ratsukkoa, joukkueenjohtaja saa määrätä, mihin arvontaryhmään ei aseteta ratsukkoa. 
+5. Joukkueen ratsukot ratsastavat tien joko kerran tai kaksi  kertaa saman päivän kuluessa. Jos kilpailu 
+suoritetaan kahtena kilpailukertana, se on mainittava kutsussa. 
+6. Lähtöön ilmoitettuja hevosia ei saa vaihtaa ilmoittautumisajan päätyttyä, ellei hevonen tai urheilija 
+todistettavasti ole loukkaantunut. 
+Mahdolliselle toiselle kierrokselle ei saa vaihtaa hevosta eikä urheilijaa. 
+7. Joukkueen jokaisen jäsenen suoritus arvostellaan virhepistetaulukon mukaisesti. 
+Joukkuetta, jonka ratsukoiden lukumäärä kilpailun aikana jostain syystä vähenee, ei hylätä. Ratsukko, 
+jonka suoritus on keskeytynyt, saa 20 pistettä suuremman virhepistemäärän , kuin sillä kilpailukerralla 
+huonoimman tuloksen saanut joukkuekilpailuun osallistunut ratsukko. Niitä virhepisteitä, jotka ratsukko 
+on saanut ennen suorituksen keskeytymistä, ei oteta huomioon, paitsi silloin , kun sen siihenastinen 
+virhepistemäärä on suurempi kuin muuten huonoimman ratsukon virhepistemäärä, jolloin sen omaan 
+virhepistemäärään on lisättävä 20 pistettä. 
+8. Joukkue, jonka kolmen parhaan ratsukon yhteinen virhepistemäärä on pienin, on voittaja, lähinnä 
+seuraava toinen jne. 
+Jos tie ratsastetaan kahteen kertaan, lasketaan erikseen kummankin kilpailukerran kolmen parhaan 
+ratsukon tulokset yhteen. 
+Jos kahdella tai useammalla joukkueella on sama virhepistemäärä, voitosta suoritetaan yksi uusinta 
+kuuden korotetun ja/tai pidennetyn esteen yli. Kolmen parhaan tulos otetaan huomioon. 
+Jos tulokset uusinnassakin ovat samat, ratkaisee siinä saavutettu yhteenlaskettu aika. Jos aikakin on sama, 
+joukkueet ovat tasaveroiset. 
+Uusinta voidaan suorittaa myös siten, että siihen osallistuu yksi urheilija/joukkue. Jos tällöin kahden tai 
+useamman joukkueen tulokset ovat samat, ovat joukkueet tasaveroiset.  
+Kierrosten ja uusintaan osallistuvien määrä on mainittava kilpailukutsussa. 
+Jos joukkueilla, jotka eivät olleet oikeutettuja uusintaan, on sama virhepistemäärä, ratkaisee 
+paremmuusjärjestyksen joukkueen kolmen par haan ratsukon yhteenlaskettu aika (2 kierroksen 
+kilpailussa 2. kierroksen aika). Jos sekin on sama, joukkueet ovat tasaveroiset.  
+=== PAGE 31 ===
+ 
+ 
+31 
+ 
+364. Zürich-esteratsastus 
+1. Radalla tulee olla 8–12 estettä, joista osa saa olla sarjaesteitä. 
+2. Ratsukko ratsastaa valitsemaansa tietä. Lähtö- ja maalilinjan saa ylittää ja esteet saa hypätä ratapiirroksen 
+määräämästä suunnasta (mahdollisimman moni este pyritään rakentamaan siten, että se voidaan hypätä 
+kummastakin suunnasta). Kunkin esteen saa hypät ä vain kerran. Sarjaesteen kaikki osat on hypättävä. 
+Ratsukon yritettyä hypätä jotakin estettä, se ei saa siirtyä seuraavalle esteelle, ennen kuin tämä este on 
+ylitetty. 
+3. Arvostelu A.2.0. tai arvostelu C (4 s/pudotus). 
+4. Arvostelua ei saa käyttää alle 120cm:n luokissa. 
+365. Hasardiesteratsastus 
+1. Radalla on 10–12 estettä, joista osa saa olla sarjaesteitä (ei kuitenkaan kolmoissarjaa suurempaa). 
+Kullakin esteellä (myös kullakin sarjaesteen osalla) on vaikeusasteen ja rakenteen perusteella määräytyvä 
+pistearvo. Ratapiirroksessa on ilmoitettava hypättävien esteiden (yleensä 6–8) määrä sekä suoritettavien 
+hyppyjen enimmäismäärä. Urheilija ratsastaa valitsemaansa tietä, ja ratsukon on hypättävä vaadittu 
+estemäärä. Esteet saa hypätä vain kerran. Ratsukon yritettyä hypätä jotakin estettä, se ei saa siirtyä 
+seuraavalle esteelle, ennen kuin tämä este on ylitetty. 
+Esteen pistearvon on oltava sama hyppysuunnasta riippumatta. 
+2. Ratsukko saa esteen arvon mukaiset pisteet esteeltä, jota se ei ole pudottanut. Pudotetusta esteestä 
+ratsukko saa 0 pistettä. Tottelemattomuus aiheuttaa ainoastaan ajanhukkaa. Toisen tottelemattomuuden 
+jälkeen suoritus kuitenkin hylätään. 
+Tottelemattomuuden tapahtuessa sarjaesteen toisella tai kolmannella osalla koko sarjaeste on hypättävä 
+uudelleen. Ne pisteet, jotka ratsukko on saavuttanut sarjaesteen osilla ennen tottelemattomuutta, 
+otetaan huomioon ratsukon tulosta laskettaessa. Saman esteen ylittäminen muuten kahdesti aiheuttaa 
+suorituksen hylkäämisen. 
+3. Suurimman pistemäärän saavuttanut on voittaja. Pistemäärän ollessa sama, ratkaisee aika. Jos aikakin on 
+sama, ratsukot ovat tasaveroiset. 
+4. Arvostelua ei saa käyttää alle 120cm:n luokissa. 
+366. Vaikeutuva ratsastus 
+1. Kilpailu tapahtuu 6, 8 tai 10 vaikeutuvan esteen ylitse. Sarjaesteitä ei sallita. 
+2. Ylitetyistä esteistä saadaan pisteitä seuraavasti: 1  piste ensimmäisestä, 2 pistettä toisesta, 3 pistettä 
+kolmannesta jne. Enimmäispisteet ovat täten 21, 36 tai 55 pistettä. Pudotetusta esteestä ei saa pisteitä. 
+Muut virheet tuomitaan arvostelu A:n mukaisesti. 
+3. Kilpailu voidaan ratsastaa joko arvostelulla AM5 tai AM3 tai suoraan arvoste lulla A.2. Uusinnassa tulee 
+olla vähintään kuusi estettä, joiden korkeutta ja/pituutta voidaan lisätä. Esteet ratsastetaan samassa 
+järjestyksessä kuin perusradalla ja ne säilyttävät perusradan pistearvot.  
+4. Radan viimeiselle esteelle voidaan rakentaa vaihtoehtoeste. Toisesta esteestä tehdään Jokerieste, joka on 
+vaihtoehtoa vaikeampi ja sen pistearvo on kaksinkertainen. Jokerieste voi olla maksimissaan 15  cm 
+korkeampi kuin luokan enimmäiskorkeus. Jos Jokerieste putoaa, sen pistearvo vähennetään ratsukon 
+siihen mennessä saavuttamasta pistemäärästä. 
+367. Kilpailu kahdessa vaiheessa 
+• Kohdassa 367.1  ensimmäisen vaiheen arvosteluna voidaan käyttää arvostelumenetelmää A.0, A.1 tai A.2 
+ja toisen vaiheen arvosteluna arvostelumenetelmiä A.0, A.1, A.2 tai C tai taitoarvostelu. Arvostelussa 
+367.3 käytetään ensimmäisessä vaiheessa arvostelua A.2 ja toisessa vaiheessa arvostelua A.2 tai C.  
+Arvostelussa 367.4 käytetään ensimmäisessä vaiheessa arvostelua A.0 ja toisessa vaiheessa A.2. 
+=== PAGE 32 ===
+ 
+ 
+32 
+ 
+• Arvostelumenetelmää A käytettäessä enimmäisajan ylitys aiheuttaa aina 1 virhepisteen jokaisesta 
+alkavasta sekunnista. Arvostelumenetelmää C käytettäessä pudotus aiheuttaa 3 virhesekuntia, ja 
+aikarajan ylittäminen johtaa suorituksen hylkäämiseen. 
+• Arvostelumenetelmä on ilmoitettava kutsussa, esim. 367.1 (A.1/A.2). Arvostelussa 367.3. ilmoitetaan 
+vaiheiden korkeudet, esim. Luokka 2 130/120 cm, arv. 367.3.(A2/C) 
+• Valiomerkkipisteet lasketaan ensimmäisen vaiheen korkeuden mukaan. 
+367.1. Välitön II vaihe 
+• Kilpailu suoritetaan kahdessa vaiheessa ilman taukoa. Ensimmäisen vaiheen maalilinja on samalla 
+toisen vaiheen lähtölinja. 
+• Ensimmäiseen vaiheeseen kuuluu 7–9 estettä, joihin saa kuulua sarjaesteitä. Toiseen vaiheeseen 
+kuuluu 4–6 estettä, joihin saa kuulua yksi sarjaeste. Toiseen vaiheeseen saa kuulua esteitä 
+ensimmäisestä vaiheesta. Kummankin vaiheen esteet numeroidaan juoksevasti siten, että toisen 
+vaiheen esteiden numerointi jatkuu siitä, mihin ensimmäisen vaiheen numerointi päättyi. 
+• Kansallisissa kilpailuluokissa toisen vaiheen esteet saavat ylittää luokan enimmäismitat enintään 10 
+cm. 
+• Ratsukko, joka on saanut virhepisteitä ensimmäisessä vaiheessa, pysäytetään äänimerkillä, kun se on 
+hypännyt ensimmäisen vaiheen viimeisen esteen. Ratsukon on keskeytettävä suoritus ensimmäisen 
+vaiheen maalilinjan jälkeen. Ratsukon tulos on saadut virhepisteet ja aika. 
+• Ratsukko, joka ei ole saanut virhepisteitä ensimmäisessä vaiheessa, jatkaa toiseen vaiheeseen, joka 
+päättyy toisen vaiheen maaliin. 
+367.2 Varalla 
+367.3. Korkealta ja nopeasti 
+• Kilpailu suoritetaan kahdessa vaiheessa ilman taukoa. Ensimmäisen vaiheen maalilinja on samalla 
+toisen vaiheen lähtölinja. 
+• Ensimmäiseen vaiheeseen kuuluu 5–7 estettä. Toiseen vaiheeseen kuuluu 6–8 estettä. Kumpaankin 
+vaiheeseen saa kuulua yksi kaksoissarja. Molempien vaiheiden esteet numeroidaan juoksevasti siten, 
+että toisen vaiheen esteiden numerointi jatkuu siitä, mihin ensimmäisen vaiheen numerointi päättyi. 
+• Kummankin vaiheen estekorkeus ilmoitetaan kilpailukutsussa. Ensimmäisen vaiheen esteet ovat 10 
+cm korkeampia ja/tai pidempiä, kuin toisen vaiheen esteet. 
+• Ensimmäisen vaiheen tempovaatimus on sama tai pienempi, kuin toisen vaiheen tempovaatimus. 
+• Ratsukko, joka on saanut virhepisteitä ensimmäisessä vaiheessa, pysäytetään äänimerkillä, kun se on 
+hypännyt ensimmäisen vaiheen viimeisen esteen. Ratsukon on keskeytettävä suoritus ensimmäisen 
+vaiheen maalilinjan jälkeen. Ratsukon tulos on saadut virhepisteet ja aika. 
+• Ratsukko, joka ei ole saanut virhepisteitä ensimmäisessä vaiheessa, jatkaa toiseen vaiheeseen, joka 
+päättyy toisen vaiheen maaliin 
+367.4 Yhteisvirhepistemäärä 
+• Kilpailu suoritetaan kahdessa vaiheessa ilman taukoa. Ensimmäisen vaiheen maalilinja on samalla 
+toisen vaiheen lähtölinja. 
+• Ensimmäiseen vaiheeseen kuuluu 5–7 estettä, joihin saa kuulua sarjaesteitä . Toiseen vaiheeseen 
+kuuluu 4–8 estettä, johon saa kuulua yksi sarjaeste . Esteiden lukumäärä molemmat vaiheet yhteen 
+laskettuna on  vähintään 11 ja enintään 13 estettä.  Molempien vaiheiden esteet numeroidaan 
+juoksevasti siten, että toisen vaiheen esteiden numerointi jatkuu siitä, mihin ensimmäisen vaiheen 
+numerointi päättyi.  
+=== PAGE 33 ===
+ 
+ 
+33 
+ 
+• Toiseen vaiheeseen jatkavat kaikki ratsukot, joita ei ole hylätty ensimmäisessä vaiheessa.  
+• Sijoitus määräytyy ensimmäisen ja toisen vaiheen yhteenlaskettujen virhepisteiden perusteella. 
+Mikäli ne ovat samat useammalla ratsukolla, sijoituksen ratkaisee yhteenlaskettujen virhepisteiden 
+lisäksi toisen vaiheen aika. 
+• Mikäli ratsukko hylät ään tai keskeyttää suorituksensa toisessa vaiheessa , on koko kilpailusuoritus 
+hylätty / keskeytynyt ja tulos on tasavertainen ensimmäisessä vaiheessa hylättyjen / keskeyttäneiden 
+ratsukoiden kanssa. 
+368. Piste-esteratsastus 
+1. Radalla on joukko yksittäisesteitä. Kullakin esteellä on esteen vaikeusasteen perusteella annettu pistearvo 
+10:stä 120:een. Esteet on rakennettava siten, että ne voidaan hypätä molempiin suuntiin. 
+2. Ratsukko saa jokaisesta virheettömästi hypätystä esteestä esteelle annetun pistemäärän. Pudotetusta 
+esteestä ei anneta pisteitä. 
+3. Enimmäisaika on 45 tai 60 sekuntia. Tässä ajassa ratsukko saa hypätä kaikki haluamansa esteet missä 
+tahansa järjestyksessä ja mistä suunnasta tahansa. Lähtölinja on ylitettävä jompaankumpaan suuntaan. 
+4. Ratsukon ei tarvitse kieltäytymisen jälkeen jatkaa hyppy -yrityksiä tällä esteellä, vaan se saa siirtyä 
+jatkamaan suoritustaan valitsemallaan esteellä. 
+5. Kun aika päättyy, annetaan äänimerkki. Sen jälkeen ratsukon on ylitettävä maalilinja jompaankumpaan 
+suuntaan, jotta sille saataisiin aika. Ellei ratsukko ylitä maalilinjaa, se sijoitetaan viimeiseksi niistä 
+kilpailijoista, joilla on sama pistemäärä. 
+6. Jos aika täyttyy, kun hevonen on jo ponnistanut hyppyyn, tämä este lasketaan mukaan, jos se hyppää sen 
+virheettömästi. 
+7. Pudotettuja esteitä ei korjata. Jos ratsukko hyppää sellaisen esteen, siitä ei anneta pisteitä. Sama koskee 
+esteen pudottamista ja lipun tai esteen alemman vaakasuoran osan siirtämistä. 
+8. Jokainen este voidaan hypätä kahdesti. Jos jokin este hypätään kolmannen kerran, vapaaehtoisesti tai ei, 
+tai jos kuljetaan jo pudotetun esteen lippujen välistä, tämä ei aiheuta hylkäämistä. Ratsukko ei kuitenkaan 
+saa tästä esteestä pisteitä. 
+9. Tottelemattomuuteen kulunut aika lasketaan suoritusaikaan. Kahden tottelemattomuuden jälkeen 
+suoritus keskeytetään. 
+10. Suurimman pistemäärän saanut on voittaja. Jos pisteet ovat tasan, ratkaisee aika. Jos sekä pisteet että 
+aika ovat samat, suoritetaan uusinta samojen sääntöjen mukaan, mutta enimmäisaika on 40 sekuntia. 
+11. Arvostelua ei saa käyttää alle 120cm:n luokissa 
+369. Jokeri 
+1. Radalla on joukko yksittäisesteitä. Kullakin esteellä on esteen vaikeusasteen perusteella annettu pistearvo 
+10:stä 120:een. Esteet on rakennettava siten, että ne voidaan hypätä molempiin suuntiin. 
+2. Jokaisesta virheettömästi hypätystä esteestä ratsukko saa esteelle annetun pistemäärän. Pudotetusta 
+esteestä ei anneta pisteitä. 
+3. Enimmäisaika on 45 tai 60 sekuntia. Tässä ajassa ratsukko saa hypätä kaikki haluamansa esteet missä 
+tahansa järjestyksessä ja mistä suunnasta tahansa. Lähtölinja on ylitettävä jompaankumpaan suuntaan. 
+4. Kun aika päättyy, annetaan äänimerkki. Sen jälkeen ratsukon on ylitettävä maalilinja jompaankumpaan 
+suuntaan, jotta sille saataisiin aika. Ellei ratsukko ylitä maalilinjaa, se sijoitetaan viimeiseksi niistä 
+kilpailijoista, joilla on sama pistemäärä. 
+5. Jos aika täyttyy, kun hevonen on jo ponnistanut hyppyyn, tämä este lasketaan mukaan, jos se hyppää sen 
+virheettömästi. 
+=== PAGE 34 ===
+ 
+ 
+34 
+ 
+6. Pudotettua estettä ei korjata. Jos ratsukko hyppää sen, siitä ei anneta pisteitä. Sama koskee esteen 
+pudottamista ja lipun tai esteen alemman vaakasuoran osan siirtämistä. 
+7. Jokainen este voidaan hypätä kahdesti. Jos jokin este hypätään kolmannen kerran , tai jos kuljetaan jo 
+pudotetun esteen lippujen välistä, tämä ei aiheuta hylkäämistä. Ratsukko ei kuitenkaan saa tästä esteestä 
+pisteitä. 
+8. Tottelemattomuuteen kulunut aika lasketaan suoritusaikaan. Kahden tottelemattomuuden jälkeen 
+suoritus keskeytetään. 
+9. Suurimman pistemäärän saanut on voittaja. Jos pisteet ovat tasan, ratkaisee aika. Jos sekä pisteet että 
+aika ovat samat, suoritetaan uusinta samojen sääntöjen mukaan, mutta enimmäisaika on 40 sekuntia. 
+10. Jokeri 
+10.1 Radalla on asianmukaisesti lipuin varustettu este, jokeri. Tämän esteen saa hypätä kahdesti. 200 pistettä 
+annetaan joka kerta, kun tämä este hypätään virheettömästi, mutta jos se putoaa, vähennetään 200 
+pistettä. 
+10.2 Jokerieste voi olla maksimissaan 15 cm korkeampi kuin luokan enimmäiskorkeus. 
+11.  Arvostelua ei saa käyttää alle 120cm:n luokissa. 
+ 
+370. Varalla 
+371. Voittokierros 
+371.1. Kaksi kierrosta ja voittokierros 
+• Ensimmäisen kierroksen 16 parasta ratsukkoa jatkaa toiselle kierrokselle, jolle ne lähtevät 
+ensimmäisen kierroksen käänteisessä paremmuusjärjestyksessä (virhepisteet ja aika). 
+• Kahdeksan (8) parasta ratsukkoa molempien kierrosten yhteenlaskettujen virhepisteiden ja ajan TAI 
+vain toisen kierroksen virhepisteiden ja ajan perusteella osallistuu voittokierrokselle. 
+• Toisen kierroksen rata voi olla erilainen kuin ensimmäisen kierroksen rata. 
+• Voittokierroksen rata on lyhennetty, ja siinä käytetään ensimmäisen ja/tai toisen kierroksen esteitä. 
+• Voittokierroksen lähtöjärjestys on molempien kierrosten kokonaisvirheiden ja ajan TAI toisen 
+kierroksen virhepisteiden ja ajan käännetty paremmuusjärjestys kilpailukutsun mukaisesti. 
+• Voittokierrokselle ratsukot lähtevät 0 virhepistein. 
+• Arvostelu kaikilla kolmella kierroksella on A.2. Voittokierroksella ylitetystä enimmäisajasta 
+rangaistaan yksi virhepiste alkavaa neljää sekuntia kohti. 
+• Tätä arvostelua ei käytetä GP-luokassa, eikä myöskään minkään luokan karsintaluokassa. 
+371.2. Perusrata ja voittokierros 
+• Kilpailuun kuuluu perusrata ja voittokierros , jolle ratsukot lähtevät ilman virhepisteitä. Kutsun 
+mukaan joko: Perusradan 10 parasta ratsukkoa TAI Perusradan 10 parasta ratsukkoa, kuitenkin 
+vähintään 25 % lähtijöistä, ja joka tapauksessa kaikki virhepisteittä ratsastaneet selviytyvät 
+voittokierrokselle, jolle he lähtevät perusradan käänteisessä paremmuusjärjestyksessä (virhepisteet 
+ja aika). 
+• Voittokierrokselle kaikki ratsukot lähtevät 0 virhepisteellä. 
+• Kummallakin kierroksella arvostelu on A.2. 
+• Tätä arvostelua ei käytetä GP-luokassa, eikä myöskään minkään luokan karsintaluokassa. 
+• Voittokierrokselta pois jääneen ratsukon tilalle ei oteta toista ratsukkoa. 
+372. Taitoarvostelu 
+1. Yleistä 
+=== PAGE 35 ===
+ 
+ 
+35 
+ 
+Esteratsastuksen taitoarvostelussa palkitaan klassista esteratsastusta, jossa urheilija istuu tasapainossa ja 
+suorittaa radalla olevat tehtävät eleettömästi hevosen edetessä sopivassa tempossa ja tasaisessa rytmissä.  
+Taitoarvostelun tavoite on kehittää ratsastajia tulevia vaativampia esteratoja varten ja siinä tulee palkita niitä 
+suorituksen osatekijöitä, jotka mahdollistavat virheettömän suorituksen. 
+Taitoesteratsastuksen tarkoitus on myös yhdenmukaistaa esteratsastusta Suomessa ja taitoluokkia tulee 
+käyttää etenkin poni - ja junioriratsastajien koulutuksessa. Taitopöytäkirja a (liite 5 ja 6 ) voi käyttää kaiken 
+tasoisissa kilpailuissa. 
+Taitoarvostelussa noudatetaan SRL:n estesääntöjä seuraavin sovellutuksin: 
+- Arvosteluna käytetään vain taitoarvostelua, 367.1 (A0/taitoarv.) tai (A1/taitoarv.). Toisessa vaiheessa on 
+tällöin vähintään 7 estettä. 1. vaihe voi sisältää vain 5-6 estettä. 80 cm:n luokissa sekä sitä korkeammissa 
+luokissa voidaan käyttää arvosteluna myös taitoarvostelu uusinnalla.  
+- Taitotuomari(t) toimivat TPJ:n alaisuudessa ja käyttävät omaa sihteeriä 
+- Urheilijat tervehtivät luokan tuomaria 
+- Ponit ja hevoset pyritään arvostelemaan erikseen. Mikäli taitoarvosteluluokkaan osallistuu yli 40 
+ratsukkoa, suositellaan luokan jakamista esim. a)ponit, b)hevoset tai muulla tavoin, esimerkiksi 
+arpomalla. 
+- Taitotuomareita pitää olla 1–3. Jos käytetään useampaa tuomaria, suositellaan käytettäväksi kollegiaalista 
+arvostelua. Mikäli tuomarille syntyy eturistiriita alue- tai kansallisessa kilpailussa, suositellaan käytettävän 
+kahden tai useamman tuomarin kollegiaalista arvostelua. 
+- Ratojen suunnittelussa keskitytään normaaleihin etäisyystehtäviin: Sarja, pitkä lähestyminen, kaareva- ja 
+suora linja. 
+- Mahdolliset ravi- yms. erityistehtävät merkitään ratapiirrokseen. 
+- Tulosten laskun jälkeen pöytäkirja (t) annetaan urheilijalle. 
+- Arvostelussa voidaan käyttää myös yhden numeron pöytäkirjaa (liite 5) .  
+Tuomarin tulee arvostella vain sitä, mitä näkee, vaikka tuntisi ratsukon. Jokaisen tuomarin tulee käyttää koko 
+numeroskaalaa; arvostelukohdissa, missä on ruudut vahvuuksia ja heikkouksia varten, tulee tuomarin 
+perustella ainakin arvosanat alle 5 ja siitä alaspäin sekä 7 ja siitä ylöspäin. Molemmissa pöytäkirjoissa (liite 5 
+ja 6) saa käyttää desimaaleja. 
+Arvosana-asteikko on seuraava: 
+Erinomainen 10 
+Erittäin hyvä 9 
+Hyvä  8 
+Melko hyvä  7 
+Tyydyttävä   6 
+Välttävä  5  
+Heikko  4 
+Melko huono 3 
+Huono  2 
+Erittäin huono 1  
+Ei esitetty  0 
+2. Arvosteluperusteet 
+2.1 Urheilija (ratsastaja) 
+Urheilijan istunta esteiden välillä ja esteillä 
+Urheilija istuu esteiden välillä tasapainossa: kevyessä tai esteistunnassa tai tehtävän vaatiessa vähän 
+syvemmässä istunnassa. Katse on eteen ylös, tulevan tehtävän suuntaisesti. Kädet ovat linjassa hevosen 
+=== PAGE 36 ===
+ 
+ 
+36 
+ 
+suuhun ja rinnakkain, nyrkit suljettuna ja peukalonsyrjä ylöspäin. Ylävartalo on ryhdikäs ja liikkeen mukana. 
+Kantapäät alhaalla, jalustin jalkaterällä, varpaat hivenen ulospäin ja alapohje kiinni. 
+Urheilija mukautuu ylävartalollaan hyppyyn sukeltamatta tai pyöristämättä selkää. Käsi myötää 
+tehtävänmukaisesti, lyhyt-/pitkä/automaattinen myötääminen, harjaote on sallittu, ohja saa roikkua hypyssä, 
+kyynärkulmat rentoina ja nyrkit suljettuina. Katse on eteenpäin ja kohti seuraavaa tehtävää. Pohje pysyy 
+vakaana, jalka rentona läpi hypyn ja kantapää säilyy alas painettuna.  
+2.2 Radan ratsastus    
+Oikeat tiet ja lähestymiset, tempo, rytmi, tasapaino ja laukat, urheilijan vaikutus 
+Lähestyminen eli 3 –4 viimeistä askelta ennen estettä. Ratsukko käyttää tilan hyväkseen kuitenkin välttäen 
+ylisuuria kaarteita. Hevonen on kaarteissa sisäpohkeen ympäri ja suorilla linjoilla suora. Lähestymiset esteille 
+tasaisessa rytmissä, keskelle estettä ja oikeat ponnistuspaikat löytyvät ilman suuria tempon muutoksia. 
+Rytmin tulee säilyä läpi koko suorituksen, myös urheilijan lyhentäessä ja pidentäessä laukkaa. Hevonen on 
+tasapainossa, kun se laukkaa etuosa keveänä, myötälaukassa ja kaarteissa sisäpohkeen ympäri. Laukanvaihto 
+tapahtuu rytmin säilyessä laukka -askeleessa, toissijaisesti muutaman raviaskeleen kautta. Tempo ja 
+”kierrokset” ovat tehtävään sopivat. 
+Urheilija vaikuttaa hevoseen pienin avuin hevosen rytmiä häiritsemättä. Kääntäessä tai pidättäessä käsien 
+vakaus säilyy ja ohjasotteet ovat pehmeät. Maiskutus tai muut ääniavut eivät häiritse suoritusta ja hevosen 
+keskittymistä tehtävään. Raipankäyttö on k ilpailusääntöjen mukaista. Hevonen suorittaa sille asetetut 
+tehtävät kuuliaisesti ja seuraa urheilijan apuja pyrkien halukkaasti eteenpäin 
+Annetut tuomaripisteet (liite 6) kerrotaan kahdella. 
+2.2 Yleisvaikutelma 
+Kokonaiskuva ratsukosta, ratsukon yhteistyökyky ja hevosmiestaito 
+Ratsukko tulee radalle valmistautuneena tehtävään. Hevosen ikä, ja koulutustaso ovat tehtävään sopivat ja 
+hevonen ja urheilija muodostavat yhteistyökykyisen ja sopusuhtaisen ratsukon. Hevonen on hyvin hoidettu, 
+siisti ja varusteet ovat puhtaat, hevoselle oikein sovitetut ja tarkoituksenmukaiset. Urheilija on sääntöjen 
+mukaisesti ja kilpailun tason mukaan pukeutunut. kunto 
+Urheilijan käytös jo radalle tullessa aina radalta poistumiseen saakka on maltillista ja hevostaitojen mukaista. 
+Hevosen tulee voida luottaa urheilijaan ja mahdollisen virheen sattuessa korjauksen tulee tapahtua 
+asiallisesti ja sääntöjä noudattaen.  
+Urheilijan pukeutumisen ja hevosen varusteiden tulee olla turvalliset sekä sääntöjen mukaiset. 
+2.4. Vähennykset 
+2.4.1 Tottelemattomuusvirheet 
+Ensimmäisestä tottelemattomuudesta vähennetään 3 pistettä. Toisesta tottelemattomuudesta ratsukko 
+hylätään. Yhden pisteen pöytäkirjassa (liite 5) ensimmäisestä tottelemattomuudesta vähennetään 1 piste. 
+2.4.2 Pudotukset 
+Jokaisesta pudotuksesta vähennetään 2 pistettä. Yhden pisteen pöytäkirjassa (liite 5) jokaisesta pudotuksesta 
+vähennetään 0,5 pistettä. 
+2.4.3 Aikavirheet 
+Maksimiajan ylityksestä vähennetään 2 pistettä. Yhden pisteen pöytäkirjassa (liite 5) maksimiajan ylityksestä 
+vähennetään 0,5 pistettä. 
+3. Mestaruuskilpailut 
+Mestaruuskilpailuissa (pl. seuran mestaruudet tai siihen verrattavat mestaruudet) tulee olla vähintään 2 
+taitotuomaria. Suositellaan käytettäväksi kollegiaalista arvostelua.  
+=== PAGE 37 ===
+ 
+ 
+37 
+ 
+Mestaruuskilpailussa; mikäli on useampi kuin yksi tuomari, eikä kollegiaalista arvostelua käytetä, valitaan 
+päätuomari, jonka pisteet ratkaisevat tasapisteissä. Jos tuomareiden pisteet ovat samat, ratkaisee 
+arvostelukohta 2. Radan ratsastus -pisteet, ja jos tämän arvostelukohdan pisteet ovat samat, ratkaisee 
+arvostelukohtien 1 ja 3 pisteet tässä järjestyksessä.  
+Mestaruuskilpailuissa käytetään aina 3 numeron pöytäkirjaa. 
+ 
+4. Taitoarvostelu uusinnalla 
+Perusrata suoritetaan taitoarvostelulla. Uusintaan osallistuvat 25 % (vähintään luokan sijoittuneiden määrä) 
+ratsukoista, jotka ovat saavuttaneet perusradalla suurimmat taitoarvostelupisteet. Mikäli kahdella tai 
+useammalla ratsukolla on tasavertaiset pienimmät taitoarvostelupisteet, jotka oikeuttavat osallistumisen 
+uusintaan, saavat he kaikki osallistumisoikeuden uusintaan. Tällöin voi uusintaan osallistua enemmän 
+ratsukoita, kuin 25 %. Uusintaan osallistuminen edellyttää lisäksi, että ratsukko on saavuttanut vähintään 70 
+% taitoarvostelupisteiden maksimimäärästä (7,0 yhden pisteen pöytäkirjassa, 28,0 pistettä kolmen pisteen 
+pöytäkirjassa).  Uusinnassa paremmuuden ratkaisevat virhepisteet ja aika.  Muut ratsukot  sijoittuvat 
+perusradan taitoarvostelupisteiden perusteella.  
+Uusinnassa noudatetaan pykälän 344 määräyksiä pl. kohdan 4 määräyksiä. Uusintaesteitä ei koroteta eikä 
+pidennetä. 
+Mikäli luokkaan osallistuu yli 40 ratsukkoa, tulee luokka jakaa ilmoittautumisajan jälkeen esim. a)ponit b) 
+hevoset tai muulla tavoin, esim. arpomalla.  
+Arvostelumenetelmää voidaan käyttää 80cm luokissa ja sitä korkeammissa luokissa. 
+373. Nuorten hevosten suorituskyvyn arviointi:  
+Nuorten hevosten luokissa voidaan käyttää arvosteluna myös nuorten hevosten suorituskyvyn arviointia . 
+Tällöin hevoset arvostellaan arvosana-asteikoilla 0–10. Arvioinnissa voidaan käyttää 0,1 desimaalin 
+tarkkuutta. 
+Suorituksessa arvioidaan hevosen ratsastettavuutta sekä hyppykykyä ja tekniikkaa.  
+Pistemäärästä vähennetään jokaisesta esteen pudotuksesta 0,5 pistettä , ensimmäisestä 
+tottelemattomuusvirheestä 1 piste ja maksimiajan ylityksestä 0,1 pistettä jokaisesta alkavasta sekunnista. 
+Tuomarina toimii nuorten hevosten suorituskykytuomari.  Mikäli tuomarille syntyy eturistiriita alue - tai 
+kansallisessa kilpailussa, suositellaan käytettävän kahden tuomarin kollegiaalista arvostelua. 
+374. Kaksi kierrosta – kilpailu 
+1. Kilpailu koostuu kahdesta identtisestä tai erilaisesta radasta, joissa molemmissa on sama tempo. Esteiden 
+lukumäärä ja enimmäismitat voivat poiketa eri kierroksilla. Urheilijan on osallistuttava molemmille 
+kierroksille samalla hevosella. Ratsukot, jotka eivät ole osallistuneet ensimmäiselle kierrokselle tai ovat 
+keskeyttäneet/hylätty ensimmäisellä kierroksella, eivät saa osallistua toiselle kierrokselle, eivätkä voi 
+sijoittua palkintosijalle luokassa. 
+2. Toiselle kierrokselle voivat osallistua kilpailukutsun mukaisesti: 
+2.1 Kaikki hyväksytyn suorituksen saaneet ratsukot 
+2.2. Rajoitettu määrä urheilijoita/ratsukoita (joko prosenttiosuus ensimmäiselle kierrokselle lähteneistä tai 
+asetettu määrä urheilijoita/ratsukoita) ensimmäisen kierroksen tuloksiin nähden sekä heidän kanssaan 
+ensimmäisen kierroksen jälkeen samalla sijaluvulla olevat urheilijat/ratsukot. Lukumäärä tai prosenttiosuus 
+on mainittava kilpailukutsussa. 
+3. Kahden kierroksen kilpailu voidaan kilpailla seuraavilla arvostelumenetelmillä (arvostelumenetelmät 
+mainittava kilpailukutsussa): 
+3.1 A1+A1  
+Lähtöjärjestys toiselle kierrokselle on käänteinen ensimmäisen kierroksen virhepisteisiin nähden. Mikäli 
+ratsukoilla on sama virhepistemäärä. ensimmäiseltä kierrokselta, lähtevät ko. ratsukot toiselle kierrokselle 
+=== PAGE 38 ===
+ 
+ 
+38 
+ 
+ensimmäisen kierroksen lähtöjärjestyksessä. Tulos määräytyy ensimmäisen ja toisen kierroksen 
+yhteenlaskettujen virhepisteiden mukaan. Mikäli ratsukko ei ole osallistunut toiselle kierrokselle, määräytyy 
+tulos ensimmäisen kierroksen virhepisteiden mukaan.  
+3.2 A2+A2  
+Lähtöjärjestys toiselle kierrokselle on käänteinen ensimmäisen kierroksen tuloksiin (virhepisteet + aika) 
+nähden. Mikäli ratsukoilla on sama tulos ensimmäiseltä kierrokselta, lähtevät ko. ratsukot toiselle 
+kierrokselle ensimmäisen kierroksen lähtöjärjestyksessä. Tulos määräytyy ensimmäisen ja toisen kierroksen 
+yhteenlaskettujen virhepisteiden ja toisen kierroksen ajan mukaan. Mikäli ratsukko ei ole osallistunut 
+toiselle kierrokselle, määräytyy tulos ensimmäisen kierroksen virhepisteiden ja ajan mukaan, 
+ 
+375.-378. Varalla 
+ 
+11. SM-KILPAILUT 
+379. Yleistä 
+379.1. Järjestelyt 
+Mestaruusluokkien tulee olla avoimia vain mestaruudesta kilpaileville ratsukoille. 
+Mikäli ratsukko hylätään tai se keskeyttää jossakin osakilpailussa, ei ratsukko voi enää osallistua muihin 
+osakilpailuihin. 
+SM-kilpailuissa järjestetään ennen ensimmäistä osakilpailua verryttelyluokka, jonka estekorkeus tulee olla 
+alempi tai sama kuin I osakilpailu. Tähän luokkaan osallistuminen ei ole pakollista.  
+SM-osakilpailuluokissa voidaan käyttää joko luokkakohtaista osallistumismaksua tai vain yhtä 
+meetingmaksua, joka sisältää kaikkien SM -luokkien sekä ns. lohdutusfinaalien osallistumismaksut, 
+eläinlääkäri- ja turvallisuusmaksut. Meetingmaksu voi sisältää myö s karsinapaikkamaksuja, mutta tällöin 
+urheilijalla oltava mahdollisuus valita maksu ilman karsinapaikkaa. Meetingmaksu on ratsukkokohtainen. 
+SM-osakilpailuluokissa jaetaan sijoittuneille ruusukkeet. Mikäli järjestäjä ei jaa osakilpailuluokkien 
+sijoittuneille raha - tai esinepalkintoja, jaetaan kokonaiskilpailun kymmenelle (10) parhaalle hyväksytyn 
+tuloksen saaneelle kilpailukutsun mukaiset palkinnot. Mikäli hyväksyttyjä tuloksia on vähemmän kuin 
+kymmenen, tulee kutsuun merkitty palkintosumma jakaa kaikkien hyväksytyn suorituksen saaneiden kesken. 
+Tuomaristo päättää esinepalkintojen jakoperusteista. 
+379.2. Osallistumisoikeus 
+Katso KS I §6–7.  Poniratsastaja voi kuitenkin kilpailla sekä poniratsastajien Suomenmestaruudesta että 
+junioreiden tai lapsiratsastajien Suomenmestaruudesta eri ratsulla. 
+Kilpailuun osallistuvan ratsukon tulee olla saavuttanut saman vuoden tai edellisen vuoden aikana vähintään 
+kaksi suoritusta, joissa perusradalta (A -arvosteluluokista) tai ensimmäisestä vaiheesta (ei kuitenkaan 367.4 
+arvostelun ensimmäisestä vaiheesta) on kertynyt enintään 8 virhepistettä.  
+  - Senioreiden SM -kilpailuun osallistuvilta suoritusten tulee olla 145 cm:n luokista.  
+   - Muissa SM -kilpailuluokissa suoritusten tulee olla ensimmäistä osakilpailua vastaavalta 
+korkeudelta. 
+Suoritukset hyväksytään kansallisista (poniratsukoilla, lapsi- ja veteraaniratsastailla myös aluekilpailuluokista) 
+kilpailuluokista, ulkomailla ratsastetuista vastaavista kilpailuista  tai kansainvälisist ä kilpailuista. 
+Osallistumisoikeuden antavat suoritukset tulee olla ennen ilmoittautumisajan päättymistä. Edellä mainittu ja 
+ei koske hallimestaruuksia. 
+Hevonen voi osallistua SM -kilpailuihin, suomenhevosten ja veteraaniratsastajien mestaruuskilpailuihin sen 
+vuoden alusta, kun se täyttää 7 vuotta. 
+=== PAGE 39 ===
+ 
+ 
+39 
+ 
+Hallimestaruuksissa urheilija voi kilpailla useammassa kategoriassa ikärajoitusten puitteissa. Hevonen/poni 
+voi osallistua samalla urheilijalla vain yhteen hallimestaruusluokkaan. 
+380. Senioreiden esteratsastuksen SM-säännöt 
+Kilpailu suoritetaan yhdessä kilpailussa kolmena päivänä. Osakilpailujen välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+140 cm, Arvostelu C 
+Ratsukoiden tulosajat muutetaan pisteiksi kertomalla aika 0,50:llä; tulos ilmoitetaan kahden desimaalin 
+tarkkuudella. Toinen desimaali pyöristetään ylöspäin, 005:stä alkaen ja alaspäin, 004:ään saakka. 
+Ratsukko, jolla on tämän jälkeen pienin pistemäärä, saa 0 virhepistettä. Muut ratsukot saavat virhepisteitä 
+yhtä paljon kuin heidän pisteensä eroavat voittajan pisteistä.  
+Lähtöjärjestys arvotaan. Jälki-ilmoittautuneet lähtevät luokassa ensin. 
+II Osakilpailu 
+145 cm, Arvostelu A.2.0, nopeus 400 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Läh töjärjestys on käänteinen I osa kilpailun 
+lähtöjärjestykseen nähden. Kilpailuun jälki -ilmoittautuneet lähtevät omana ryhmänään käänteisessä 
+lähtöjärjestyksessä luokan alussa. 
+III Osakilpailu 
+145+150 cm, Kaksi kierrosta, arvostelu A.1.0, nopeus 350 m/min. Toisella kierroksella lyhempi rata, enintään 
+6–9 estettä/10 hyppyä. 
+III osakilpailuun pääsee kaksitoista (12) parasta ratsukkoa I ja II osakilpailun yhteenlaskettujen tulosten 
+perusteella, sekä ratsukot, joilla on sama virhepistemäärä kuin viimeisellä III osakilpailuun päässeellä 
+ratsukolla. Kukin urheilija voi osallistua III osakilpailuun vain yhdellä hevosella. 
+I kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun yhteenlaskettuihin tuloksiin. II kierroksen 
+lähtöjärjestys on käänteinen I ja II osakilpailun ja III osakilpailun ensimmäisen kierroksen yhteenlaskettuihin 
+tuloksiin. 
+Sijoitus määräytyy I -III osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta (virhepisteet ja aika). Muut ratsukot, joilla on sama virhepistemäärä, ovat 
+tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa, ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+III osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+381. Nuorten ratsastajien esteratsastuksen SM-säännöt 
+Kilpailu suoritetaan yhdessä kilpailussa kolmena päivänä. Osakilpailujen välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+135 cm, Arvostelu C 
+Ratsukoiden tulosajat muutetaan pisteiksi kertomalla aika 0,50:llä; tulos ilmoitetaan kahden desimaalin 
+tarkkuudella. Toinen desimaali pyöristetään ylöspäin, 005:stä alkaen ja alaspäin, 004:ään saakka. 
+Ratsukko, jolla on tämän jälkeen pienin pistemäärä, saa 0 virhepistettä . Muut ratsukot saavat virhepisteitä 
+yhtä paljon kuin heidän pisteensä eroavat voittajan pisteistä.  
+Lähtöjärjestys arvotaan. Jälki-ilmoittautuneet lähtevät luokassa ensin. 
+=== PAGE 40 ===
+ 
+ 
+40 
+ 
+II Osakilpailu 
+140 cm, Arvostelu A.2.0, nopeus 400 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Läh töjärjestys on käänteinen I osa kilpailun 
+lähtöjärjestykseen nähden. Kilpailuun jälki -ilmoittautuneet lähtevät omana ryhmänään käänteisessä 
+lähtöjärjestyksessä luokan alussa. 
+III Osakilpailu 
+140+145 cm, Kaksi kierrosta, arvostelu A.1.0, nopeus 350 m/min. Toisella kierroksella lyhyempi rata, enintään 
+6–9 estettä/10hyppyä. 
+III osakilpailuun pääsee kaksitoista (12) parasta ratsukkoa I ja II osakilpailun yhteenlaskettujen tulosten 
+perusteella, sekä ratsukot, joilla on sama virhepistemäärä kuin viimeisellä III osakilpailuun päässeellä 
+ratsukolla. Kukin urheilija voi osallistua III osakilpailuun vain yhdellä hevosella. 
+I kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun yhteenlaskettuihin tuloksiin. II kierroksen 
+lähtöjärjestys on käänteinen I ja II osakilpailun ja III osakilpailun ensimmäisen kierroksen yhteenlaskettuihin 
+tuloksiin. 
+Sijoitus määräytyy I -III osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta. Muut ratsukot, joilla on sama virhepistemäärä, ovat tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa, ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+III osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+382. Junioreiden esteratsastuksen SM-säännöt 
+Kilpailu suoritetaan yhdessä kilpailussa kolmena päivänä. Osakilpailujen välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+130 cm, Arvostelu C  
+Ratsukoiden tulosajat muutetaan pisteiksi kertomalla aika 0,50:llä; tulos ilmoitetaan kahden desimaalin 
+tarkkuudella. Toinen desimaali pyöristetään ylöspäin, 005:stä alkaen ja alaspäin, 004:ään saakka. 
+Ratsukko, jolla on tämän jälkeen pienin pistemäärä, saa 0 virhepistettä. Muut ratsukot saavat virhepisteitä 
+yhtä paljon kuin heidän pisteensä eroavat voittajan pisteistä.  
+Lähtöjärjestys arvotaan. Jälki-ilmoittautuneet lähtevät luokassa ensin. 
+II Osakilpailu 
+130 cm, Arvostelu A.2.0, nopeus 400 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Lähtöjärjestys on käänteinen I osakilpailun 
+lähtöjärjestykseen nähden. Kilpailuun jälki -ilmoittautuneet lähtevät omana ryhmänään käänteisessä 
+lähtöjärjestyksessä luokan alussa. 
+III Osakilpailu 
+135+140 cm, Kaksi kierrosta, arvostelu A.1.0, nopeus 350 m/min. Toisella kierroksella lyhyempi rata, enintään 
+6–8 estettä/9 hyppyä. 
+III osakilpailuun pääsee viisitoista (15) parasta ratsukkoa I ja II osakilpailun yhteenlaskettujen tulosten 
+perusteella, sekä ratsukot, joilla on sama virhepistemäärä kuin viimeisellä III osakilpailuun päässeellä 
+ratsukolla. Kukin urheilija voi osallistua III osakilpailuun vain yhdellä hevosella. 
+I kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun yhteenlaskettuihin tuloksiin. II kierroksen 
+lähtöjärjestys on käänteinen I ja II osakilpailun ja III osakilpailun ensimmäisen kierroksen yhteenlaskettuihin 
+tuloksiin. 
+=== PAGE 41 ===
+ 
+ 
+41 
+ 
+Sijoitus määräytyy I -III osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta. Muut ratsukot, joilla on sama virhepistemäärä, ovat tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa, ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+III osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+383. Lapsiratsastajien esteratsastuksen SM-säännöt 
+Kilpailu suoritetaan yhdessä kilpailussa kolmena päivänä. Osakilpailujen välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+115 cm, arvostelu A.1.0, nopeus 350 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Lähtöjärjestys arvotaan. Jälki -ilmoittautuneet 
+lähtevät luokassa ensin. 
+II Osakilpailu 
+115 cm, arvostelu A.2.0, nopeus 350 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Lähtöjärjestys on käänteinen I osakilpailun 
+lähtöjärjestykseen nähden. Kilpailuun jälki -ilmoittautuneet lähtevät omana ryhmänään käänteisessä 
+lähtöjärjestyksessä luokan alussa. 
+III Osakilpailu 
+120+125 cm, kaksi kierrosta, arvostelu A.1.0, nopeus 350 m/min. Toisella kierroksella lyhempi rata, enintään 
+6–8 estettä/9 hyppyä. 
+III osakilpailuun pääsee viisitoista (15) parasta ratsukkoa I ja II osakilpailun yhteenlaskettujen tulosten 
+perusteella, sekä ratsukot, joilla on sama virhepistemäärä kuin viimeisellä III osakilpailuun päässeellä 
+ratsukolla. Kukin urheilija voi osallistua III osakilpailuun vain yhdellä hevosella. 
+I kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun yhteenlaskettuihin tuloksiin. II kierroksen 
+lähtöjärjestys on käänteinen I ja II osakilpailun ja III osakilpailun ensimmäisen kierroksen yhteenlaskettuihin 
+tuloksiin. 
+Sijoitus määräytyy I -III osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta. Muut ratsukot, joilla on sama virhepistemäärä, ovat tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa, ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+III osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+384. Poniratsastajien esteratsastuksen SM-säännöt  
+Kilpailu suoritetaan yhdessä kilpailussa , kolmena päivänä , molemmat kategoriat yhdessä.  Osakilpailujen 
+välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+Kategoria I (isot ponit) 110 cm, kategoria II (pienet ponit)  100cm, arvostelu A.1.0, nopeus 325 m/min. 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Lähtöjärjestys arvotaan. Jälki -ilmoittautuneet 
+lähtevät luokassa ensin. 
+II Osakilpailu 
+Kategoria I (isot ponit) 115 cm, kategoria II (pienet ponit) 105 cm, arvostelu A.2.0, nopeus 350 m/min. 
+=== PAGE 42 ===
+ 
+ 
+42 
+ 
+Virhepisteet otetaan huomioon lopullisessa sijoituksessa. Lähtöjärjestys on käänteinen I osakilpailun 
+lähtöjärjestykseen nähden. Kilpailuun jälki -ilmoittautuneet lähtevät omana ryhmänään käänteisessä 
+lähtöjärjestyksessä luokan alussa. 
+III Osakilpailu 
+Kategoria I (isot ponit) 115 + 120 cm, kategoria II (pienet ponit) 105 + 110 cm, arvostelu A.1.0, nopeus 325 
+m/min. 
+Toisella kierroksella lyhempi rata, enintään 6–8 estettä/9 hyppyä. 
+III osakilpailuun pääsee viisitoista (15) parasta ratsukkoa I ja II osakilpailun yhteenlaskettujen tulosten 
+perusteella, sekä ratsukot, joilla on sama virhepistemäärä kuin viimeisellä III osakilpailuun päässeellä 
+ratsukolla. Kukin urheilija voi osallistua III osakilpailuun vain yhdellä ponilla. 
+I kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun yhteenlaskettuihin tuloksiin, kuitenkin siten, että 
+kategorian II ponit lähtevät ensimmäisenä. II kierroksen lähtöjärjestys on käänteinen I ja II osakilpailun ja III 
+osakilpailun ensimmäisen kierroksen yhteenlaskettuihin tuloksiin , kuitenkin siten, että kategorian II ponit 
+lähtevät ensimmäisenä. 
+Sijoitus määräytyy I -III osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta. Muut ratsukot, joilla on sama virhepistemäärä, ovat tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+III osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+Urheilijan alaikäraja kategoriassa I on 12 vuotta ja kategoriassa II 10 vuotta. 
+385. Veteraaniratsastajien esteratsastuksen mestaruussäännöt 
+Kilpailu suoritetaan yhdessä kilpailussa kahtena päivänä. Osakilpailujen välillä voi pitää yhden välipäivän. 
+I Osakilpailu 
+ 110 cm, Arvostelu C 
+Ratsukoiden tulosajat muutetaan pisteiksi kertomalla aika 0,50:llä; tulos ilmoitetaan kahden desimaalin 
+tarkkuudella. Toinen desimaali pyöristetään ylöspäin, 005:stä alkaen ja alaspäin, 004:ään saakka. 
+Ratsukko, jolla on tämän jälkeen pienin pistemäärä, saa 0 virhepistettä. Muut ratsukot saavat virhepisteitä 
+yhtä paljon kuin heidän pisteensä eroavat voittajan pisteistä.  
+Lähtöjärjestys arvotaan. Jälki-ilmoittautuneet lähtevät luokassa ensin. 
+II Osakilpailu 
+115+120 cm, Kaksi kierrosta, arvostelu A.1.0, nopeus 350 m/min. Toisella kierroksella lyhyempi rata, enintään 
+6–9 estettä/10 hyppyä. 
+II osakilpailuun voi osallistua kaikki ne ratsukot, joilla on hyväksytty tulos I osakilpailusta. Toisella kierroksella 
+urheilija voi kilpailla vain yhdellä hevosella. 
+I kierroksen lähtöjärjestys on käänteinen I osakilpailun lähtöjärjestykseen nähden. II kierroksen lähtöjärjestys 
+on käänteinen I ja II osakilpailun ensimmäisen kierroksen yhteenlaskettuihin tuloksiin. 
+Sijoitus määräytyy I...II osakilpailun yhteenlaskettujen virhepisteiden mukaan. Virhepisteiden ollessa samat 
+suoritetaan mitalisijoista uusinta. Muut ratsukot, joilla on sama virhepistemäärä, ovat tasaveroisia. 
+Saavuttaakseen hyväksytyn suorituksen SM -kilpailussa, ratsukon on saatava hyväksytty tulos kaikissa 
+osakilpailuissa. 
+II osakilpailussa ei järjestetä luokan palkintojenjakotilaisuutta. Palkinnot jaetaan kansliassa.  
+=== PAGE 43 ===
+ 
+ 
+43 
+ 
+386. Senioreiden hallimestaruus 
+Urheilija voi kilpailla yhdellä tai useammalla hevosella hallimestaruusluokassa. Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoitukset määräytyvät sijoitussäännön mukaan. 
+Mestaruuspalkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta. 
+145 cm, Arvostelu AM3, nopeus 350 m/min. Kaikista mitaleista uusitaan. 
+387. Nuorten ratsastajien hallimestaruus  
+Urheilija voi kilpailla yhdellä tai useammalla hevosella hallimestaruusluokassa.  Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoitukset määräytyvät sijoitussäännön mukaan. 
+Mestaruuspalkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta. 
+135 cm, arvostelu AM3, nopeus 350 m/min. Kaikista mitaleista uusitaan. 
+388. Juniorien hallimestaruus 
+Urheilija voi kilpailla yhdellä tai useammalla hevosella hallimestaruusluokassa. Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoitukset määräytyvät sijoitussäännön mukaan. 
+Mestaruuspalkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta.  
+130 cm, arvostelu AM3, nopeus 350 m/min. Kaikista mitaleista uusitaan 
+389. Lapsiratsastajien hallimestaruus 
+Urheilija voi kilpailla yhdellä tai useammalla hevosella hallimestaruusluokassa. Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoitukset määräytyvät sijoitussäännön mukaan. 
+Mestaruuspalkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta. 
+120 cm, arvostelu AM3, nopeus 350 m/min. Kaikista mitaleista uusitaan 
+390. Poniratsastajien hallimestaruus 
+Mestaruus ratkaistaan yhdessä luokassa molemmat kategoriat yhdessä. 
+Urheilija voi kilpailla yhdellä tai useammalla ponilla hallimestaruusluokassa. Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoituksen määräytyvät sijoitussäännon mukaan. 
+Mestaruus palkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta. 
+115cm (kategoria I, isot ponit), 105cm (kategoria II, pienet ponit), nopeus 325m/min. Kaikista mitaleista 
+uusitaan. 
+391. Veteraaniratsastajien hallimestaruus 
+Urheilija voi kilpailla yhdellä tai useammalla hevosella hallimestaruusluokassa. Urheilijan tuloksista paras 
+määrittää sijoituksen mestaruuskilpailussa, muut luokan sijoitukset määräytyvät sijoitussäännön mukaan. 
+Mestaruuspalkinnot jaetaan kolmelle parhaalle (mitalistit). Muille sijoittuneille palkinnot jaetaan kansliasta. 
+115 cm, arvostelu AM3, nopeus 350 m/min. Kaikista mitaleista uusitaan 
+392. Joukkue-esteratsastuksen SM-säännöt 
+1. Joukkueeseen kuuluu kolme tai neljä ratsukkoa, jotka voivat olla senioreja, nuoria ratsastajia tai junioreja. 
+Joukkueen kunkin kierroksen kolmen parhaan ratsukon tulos huomioidaan. Jos joukkueella on asettaa 
+vain kolme ratsukkoa, jää sen ratsukko pois viimeisestä arvontaryhmästä. 
+2. Kukin seura saa asettaa yhden joukkueen. 
+3. Kilpailu suoritetaan yhtenä kierroksena seuraavasti: 
+- Joukkueen ensimmäiset kaksi ratsukkoa ratsastavat 120 cm korkeudella ja joukkueen muut ratsukot 
+130 cm korkeudella 
+=== PAGE 44 ===
+ 
+ 
+44 
+ 
+- Arvostelu AM5, vain mitalisijoista järjestetään uusinta. Uusintaan osallistuu yksi ratsukko/ joukkue.  
+Uusinta ratsastetaan 130cm:n korkeudella. 
+4. Kilpailussa noudatetaan muilta osin kohdan 363 määräyksiä  
+5. Kilpailuun osallistuvien joukkueiden määrää voidaan rajoittaa karsimalla. Estekomitea päättää tarpeesta 
+ja karsintatavasta vuosittain. 
+ 
+12. TOIMIHENKILÖOIKEUDET 
+393. Estetuomarit 
+1. Vaatimukset 
+1.1 Estetuomari 
+- tuntee kilpailusäännöt 
+- on osallistunut SRL:n järjestämälle estetuomarikurssille ja saanut kirjallisessa kokeessa hyväksytyn 
+arvosanan sekä suorittanut vaadittavat käytännön harjoittelut. 
+1.2 C-puheenjohtajatuomari 
+- on toiminut tuomariston jäsenenä  vähintään viidessä (5)  alue- tai kansallisissa kilpailuissa viimeisen 
+kahden vuoden aikana. 
+- on käynyt C-puheenjohtajatuomari kurssin sekä suorittanut teoriakokeen ja työnäytteen hyväksytysti. 
+1.3 B-puheenjohtajatuomari 
+- omaa C-puheenjohtajatuomarioikeudet 
+- on toiminut kahden edeltävän vuoden aikana tuomariston jäsenenä vähintään kuudessa kansallisessa 
+kilpailussa tai neljässä kansallisessa kilpailussa ja neljässä aluekilpailussa 
+- on osallistunut SRL:n järjestämälle B -puheenjohtajatuomarikurssille ja saanut kirjallisessa kokeessa 
+hyväksytyn arvosanan sekä suorittanut työnäytteen. 
+- tuntee liiton tulospalveluohjelman käyttöperiaatteet 
+- hallitsee liiton ajanottolaitteiston käytön 
+- on osallistunut SRL:n stewardikoulutukseen 
+- on toiminut stewardina kansallisissa mestaruus- tai GP-kilpailuissa 
+- on suorittanut hyväksytysti C-ratamestarikurssin 
+1.4 A-puheenjohtajatuomari 
+- kokemus 
+- omaa B-puheenjohtajatuomari- ja estestewardioikeudet 
+- on suorittanut C-ratamestarikurssin hyväksytysti 
+- tuntee FEI:n säännöt pääpiirteittäin. 
+1.5 C-taitotuomari 
+- estetuomari tai ratsastuksenopettaja, joka on osallistunut SRL:n  taitotuomarikoulutukseen ja saanut 
+kirjallisessa kokeessa hyväksytyn arvosanan. 
+- on suorittanut hyväksytysti koearvostelun. 
+- voi toimia taitotuomarina seurakilpailuluokissa. 
+1.6 B-taitotuomari 
+- on osallistunut SRL:n taitotuomarikoulutukseen ja saanut kirjallisessa kokeessa hyväksytyn arvosanan 
+- on suorittanut hyväksytysti koearvostelun. 
+1.7 A-taitotuomari 
+- omaa B-taitotuomarioikeudet 
+=== PAGE 45 ===
+ 
+ 
+45 
+ 
+- on toiminut taitotuomarina vähintään vuoden ajan  ja arvostellut vähintään 5 luokkaa seura- tai 
+aluekilpailuissa 
+- on suorittanut hyväksytyn koearvostelun A-taitotuomarin kanssa samassa luokassa. 
+2. Oikeudet  
+2.1 Estetuomari voi toimia tuomariston jäsenenä kaikissa kilpailussa. Käytyään C -
+puheenjohtajatuomarikurssin ja läpäistyään kirjallisen kokeen , estetuomari voi toimia 
+puheenjohtajatuomarina myös aluekilpailussa. 
+2.1 B-puheenjohtajatuomari voi toimia tuomariston puheenjohtajana kaikissa kilpailussa 140 cm tasolle 
+saakka 
+2.2 A-puheenjohtajatuomari voi toimia tuomariston puheenjohtajana kaikissa kilpailuissa mukaan lukien SM-
+kilpailut. 
+3. Oikeuksien myöntäminen 
+Este- ja B-puheenjohtajatuomarioikeudet myönnetään anomuksesta. SRL nimeää A -puheenjohtajatuomarit 
+kokemuksen perusteella. 
+4. Ikäraja  
+Tuomarin alaikäraja on 18 vuotta. 
+5. Oikeuksien tarkistaminen  
+Tuomarioikeudet tarkistetaan joka toinen vuosi. 
+Tuomarioikeuksien säilyttämisen perusteena on, että tuomari on viimeisten kahden vuoden aikana: 
+Estetuomari 
+- Toiminut tuomariston jäsenenä neljässä kilpailussa kahden vuoden aikana 
+- Osallistunut lisenssikoulutukseen joka 2. vuosi 
+C-puheenjohtajatuomari 
+- Toiminut vähintään neljässä (4) aluekilpailussa tuomaristossa, joista vähintään kahdessa (2) tuomariston 
+puheenjohtajana kahden (2) vuoden aikana. 
+- Osallistunut lisenssikoulutukseen joka 2. vuosi 
+B-puheenjohtajatuomari 
+- Toiminut vähintään neljässä (4) kansallisessa kilpailussa tuomariston puheenjohtajana kahden (2) vuoden 
+aikana. 
+- Osallistunut lisenssikoulutukseen joka 2. vuosi 
+A-puheenjohtajatuomari 
+- Toiminut vähintään neljässä (4) kansallisessa kilpailussa tuomariston puheenjohtajana kahden (2) vuoden 
+aikana 
+- Osallistunut lisenssikoulutukseen joka 2. vuosi 
+C-taitotuomari, B-taitotuomari ja A-taitotuomari 
+- on osallistunut skaalantarkastukseen joka toinen vuosi 
+394. Estestewardi 
+2. Oikeudet  
+2.1. Estestewardi voi toimia päästewardina kilpailussa käytyään estestewardikurssin ja läpäistyään kirjallisen 
+kokeen sekä suoritettuaan vaaditut käytännön harjoittelut. 
+3. Oikeuksien myöntäminen 
+=== PAGE 46 ===
+ 
+ 
+46 
+ 
+Stewardin-oikeudet myönnetään anomuksesta.  
+4. Ikäraja  
+Stewardin alaikäraja on 25 vuotta. 
+5. Oikeuksien tarkistaminen   
+Osallistunut lisenssikoulutukseen joka 2. vuosi 
+395. Stewardi 
+1. Oikeudet  
+1.1. Stewardi voi toimia päästewardina seura- ja aluekilpailussa sekä stewardina päästewardin alaisuudessa 
+kansallisissa kilpailuissa.  
+2. Oikeuksien myöntäminen 
+Stewardin-oikeudet myönnetään anomuksesta. Oikeuksien myöntämisen edellytyksenä on hyväksytysti 
+suoritettu stewardikurssi, kirjallinen koe sekä vaaditut käytännön harjoittelut. 
+3. Ikäraja 
+Stewardin alaikäraja on 22 vuotta.  
+4. Oikeuksien tarkistaminen 
+Osallistunut lisenssikoulutukseen joka 2. vuosi 
+396. Ratamestarit 
+1. Vaatimukset 
+1.1 C-ratamestari 
+- on osallistunut SRL:n järjestämälle C -ratamestarikurssille ja saavuttanut siellä vähintään hyväksytyn 
+arvosanan 
+- on suorittanut vaaditut käytännönharjoittelut  
+- on kilpaillut vähintään aluekilpailuluokissa. 
+1.2 B-ratamestari 
+- on saavuttanut hyväksytyn tuloksen vähintään 120 cm:n kansallisessa kilpailuluokassa  
+- omaa C-ratamestarioikeudet 
+- on osallistunut SRL:n  järjestämälle B-ratamestarikurssille ja suorittanut teoriakokeen sekä vaadittavat 
+käytännön harjoittelut hyväksytysti 
+- hallitsee SRL:n ajanottolaitteiston käytön 
+1.3 A-ratamestari 
+- omaa B-ratamestarioikeudet 
+- kokemus 
+2. Oikeudet 
+2.1 C-ratamestari on oikeutettu rakentamaan seura- ja aluekilpailujen ratoja 130 cm:n tasolle saakka ja 
+toimimaan apulaisratamestarina kansallisissa kilpailuissa. 
+2.2 B-ratamestari on oikeutettu rakentamaan ratoja 140 cm:n tasolle saakka. 
+2.3 A-ratamestari voi toimia ratamestarina kaikissa kilpailuissa, mukaan lukien SM-kilpailut.  
+SRL nimeää SM-kilpailujen ratamestarin. 
+3. Oikeuksien myöntäminen  
+=== PAGE 47 ===
+ 
+ 
+47 
+ 
+Ratamestarioikeudet myönnetään anomuksesta. SRL nimeää A-ratamestarit kokemuksen perusteella. 
+4. Ikäraja 
+Ratamestarien alaikäraja on 20 vuotta. 
+5. Oikeuksien tarkistaminen 
+- Toiminut vähintään neljässä (4) kilpailussa ratamestarina tai ratamestarin apulaisena kahden (2) vuoden 
+aikana. 
+- Osallistunut lisenssikoulutukseen joka 2. vuosi 
+  
+=== PAGE 48 ===
+ 
+ 
+48 
+ 
+LIITTEET 
+Liite 1. Sarjaesteet 
+         
+SARJAESTEET 
+ 
+ 
+sarjaeste 
+ 
+ 
+ 
+  
+umpinainen sarjaeste 
+  
+ 
+ 
+ 
+osittain umpinainen sarjaeste 
+  
+ 
+
+=== PAGE 49 ===
+ 
+ 
+49 
+ 
+Liite 2. Sallitut kuolaimet poniratsukoille 
+ 
+SRL noudattaa ponienkuolainrajoitusten osalta FEI:n kulloinkin voimassa olevia sääntöjä. 
+Sallitut kuolaimet ovat nähtävissä FEI:n Tack App:ssa.  
+ 
+Sallitut kuolaimet poniratsukoilla estekilpailuissa 
+(Kuvallinen taulukko on poistettu. Sen korvaa alla oleva kirjallinen kuvaus sallituista kuolaimista.) 
+ 
+1.  Kuolaimet 
+Seuraavat kuolaimet ovat sallittuja. Kaikista materiaaleista (metalli, kumi, muovi, nahka…) valmistetut 
+alkuperäisessä käyttömuodossa olevat kuolaimet ovat sallittuja. Kaksoiskuolainten käyttö on kielletty. 
+Kuolaimen suuosan vähimmäishalkaisija on 10 mm. 
+Ohjat tulee kiinnittää kuolaimeen tai yhdistävään osaan (deltaohja) tai suoraan suitsiin. Ainoastaan pessoa-
+kuolaimen kanssa voi käyttää kahta ohjaa. 
+Kaikki nivelkuolaimet:  Myös kolmipala ja suoranivel, kierteellä tai ilman  sekä taivutetulla 
+kielentilalla  
+Kaikki gagit: Tavallinen nivelgagi, myös kolmipalalla tai suoralla suuosalla. 
+Huomio:    Vaijeri, kaksoisvaijeri ja ketjusuuosa ovat kiellettyjä.  
+Kaikki pelhamit:  Myös kolmipala, ja suoranivel sekä kaareva suukappale, kierteellä tai ilman. 
+Kuolainvarren enimmäispituus on 15 cm.  
+Deltaohja on sallittu. 
+Huomio:  Pelhamkuolainta käytettäessä sallitaan vain yksi ohja. Ohja tulee kiinnittää 
+deltaohjaan tai kuolaimen suurempaan renkaaseen.  
+Kaikki Kimberwickit  
+Pessoakuolaimet:  Vain ilman kierrettä oleva pehmeä Pessoa on sallittu.  Enintään neljä 
+rengasta. Ohjat voidaan kiinnittää mihin renkaaseen tahansa. Voidaan 
+käyttää kaksia ohjia tai deltaohjaa.  Leuan alla olevan yhdistävän hihnan 
+käyttö on sallittu. 
+Myös kolmipala ja suoranivel. 
+Kuolainvarren enimmäispituus on 16 cm.  
+Hackamore:  Kuolainvarren enimmäispituus on 17 cm. Hackamoren turpahihna on oltava 
+sileä ja valmistettu hankaamattomasta materiaalista. Lampaankarvaa tai 
+muuta suojaa voi käyttää turpahihnassa. Mitään metallikappaleita ei saa 
+lisätä turpahihnaan tai sen suojaan. 
+Huomio:  Hackamorea ei saa käyttää yhdistettynä toiseen kuolaimeen.  
+ 
+
+=== PAGE 50 ===
+ 
+ 
+50 
+ 
+2. Turparemmit 
+Sallitut turparemmit poniratsukoilla ja lapsiratsastajilla esteratsastuskilpailuissa. 
+Turparemmien tulee olla sileät ja valmistettu nahasta (lukuun ottamatta turparemmin etuosaa, joka voi olla 
+hankaamatonta nahan kaltaista materiaalia). Lampaankarvaa voi käyttää turpahihnassa. Pieni 
+lampaannahkainen suoja on sallittu meksikolaisen turparemmin leikkauskohdassa.  
+ 
+hannoverilainen turparemmi englantilainen turparemmi 
+  
+englantilainen alaturparemmillä meksikolainen turparemmi 
+  
+Muunnelmat yllä kuvatuista turparemmeistä voivat 
+olla sallittuja (kuten esim. alla oleva 
+turparemmi), mikäli ne ovat tämän 
+kohdan määräysten mukaisia, ne on 
+asennettu asianmukaisesti ponin 
+päähän eivätkä ne häiritse ponin 
+hengitystä. (katso lisää FEI Tack APP  
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 51 ===
+ 
+ 
+51 
+ 
+Liite 3/a. Esteitä koskevat määräykset 
+ 
+HEVOSET. SM- ja mestaruuskilpailuissa määräyksistä voidaan poiketa A/FEI-ratamestarin ja TPJ:n päätöksellä 
+(esteiden ja hyppyjen enimmäis- ja vähimmäismäärät koskevat vain A- ja C-arvosteluja) 
+ 
+Luokka 160 
+ 
+kansall. 
+150/155 
+ 
+kansall. 
+140/145 
+ 
+kansall. 
+130/135 
+alue 
+kansall. 
+120/125 
+seura/alue 
+kansall. 
+110/115 
+seura/alue 
+kansall 
+100/105 
+seura/alue 
+kansall. 
+95 – 0 
+seura/alue 
+ 
+Esteiden 
+enimmäismäärä 
+ 
+14 
+ 
+14 
+ 
+14 
+12 
+14 
+10 
+12 
+10 
+12 
+10 
+10 
+ 
+10 
+ 
+Esteiden 
+vähimmäismäärä 
+ 
+10 
+ 
+10 
+ 
+10 
+8 
+10 
+8 
+9 
+8 
+9 
+8 
+8 
+6 
+ 
+Hyppyjen 
+enimmäismäärä 
+ 
+18 
+ 
+18 
+ 
+18 
+15 
+18 
+12 
+15 
+12 
+15 
+12 
+12 
+12 
+ 
+Sarjaesteitä 
+enintään 
+ 
+3 
+ 
+3 
+ 
+3 
+2 
+3 
+2 
+3 
+2 
+2 
+2 
+2 
+1,  
+alle 80cm 0 
+Sarjaesteitä 
+vähintään 
+ 
+2 
+ 
+2 
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+ 
+Korkeus enintään  
+163 
+ 
+153/158 
+ 
+143/148 
+130/135 
+133/138 
+120/125 
+123/128 
+110/115 
+113/118 
+100/105 
+103/108 
+luokan 
+korkeus 
+Korkeus vähintään  
+145 
+ 
+140 
+ 
+130/135 
+120 
+123/128 
+110/115 
+113/118 
+100/105 
+103/108 
+90/95 
+93/98 
+luokan 
+korkeus  
+– 10 cm 
+Esteitä enimmäis-
+korkeudessa 
+ 
+väh 3 
+ 
+väh 3 
+ 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+väh 5 
+väh 2 
+ 
+Esteiden 
+enimmäispituus 
+ 
+200 
+ 
+180 
+ 
+160 
+140 
+150 
+130 
+140 
+120 
+130 
+100/105 
+110 
+ 
+sama kuin 
+luokan 
+korkeus 
+Vesihaudan 
+enimmäispituus 
+ 
+450 
+ 
+450 
+ 
+400 
+320 
+350 
+300 
+320 
+250 
+300 
+200 
+250 
+200 
+ 
+Vesihaudan 
+vähimmäispituus 
+ 
+350 
+ 
+350 
+ 
+300 
+250 
+300 
+- 
+250 
+- 
+200 
+- 
+150 
+- 
+- 
+Enimmäisnopeus  
+400 
+ 
+400 
+ 
+400 
+350 
+375 
+350 
+350 
+350 
+350 
+350 
+350 
+325 
+Vähimmäisnopeus  
+350 
+ 
+350 
+ 
+350 
+300 
+325 
+300 
+325 /nh 300 
+300 
+300 
+275 
+300 
+250 
+ 
+Vesihaudan käytössä otettava huomioon erityismääräykset lapsiratsastajien ja poniratsukoiden osalta § 302 
+Ohje: Aikaratsastusluokissa käytetään pääsääntöisesti suurempaa nopeusvaatimusta, muissa luokissa 
+alempaa vaatimusta kentän koko ja olosuhteet huomioiden 
+ 
+Taitoarvosteluluokat, kts § 372: 
+Seura- ja aluekilpailuluokissa: 
+- 8-10 estettä 
+- 1 sarjaeste ja 1–2 suhteutettua etäisyystehtävää suoralla tai kaarevalla uralla (väh 4 askeleen väli) 
+TAI 2 - 3 suhteutettua etäisyystehtävää (väh 4 askeleen väli). Sarjaesteen käyttöä suositellaan 
+100 cm luokista alkaen) 
+Kansallisissa kilpailuluokissa: 
+- 10–12 estettä 
+- 2 kaksoissarjaa tai 1 kolmoissarja 
+- 2–4 etäisyystehtävää suoralla sekä kaarevalla uralla (väh 4 askeleen) 
+=== PAGE 52 ===
+ 
+ 
+52 
+ 
+Liite 3/b. Poniluokat 
+Ryhmä 1 (esteiden ja hyppyjen enimmäis- ja vähimmäismäärät koskevat vain A- ja C-arvosteluja) 
+ 
+Luokka 130/135 
+alue  
+kansall. 
+120/125 
+seura/alue 
+kansall. 
+110/115 
+seura/alue 
+kansall. 
+100/105 
+seura/alue 
+kansall. 
+90/95 
+seura/alue 
+kansall. 
+80/85 
+seura/alue 
+ 
+70/75 
+seura/alue 
+65 – 0 
+seura 
+ 
+Esteiden 
+enimmäismäärä 
+10 
+12 
+10 
+12 
+10 
+12 
+10 
+12 
+10 
+10 
+8 
+ 
+8 
+ 
+8 
+ 
+Esteiden 
+vähimmäismäärä 
+10 
+10 
+10 
+10 
+8 
+10 
+8 
+8 
+8 
+8 
+8 
+ 
+6 6 
+ 
+Hyppyjen 
+enimmäismäärä 
+13 
+15 
+13 
+15 
+13 
+15 
+12 
+14 
+10 
+12 
+10 
+ 
+9 
+ 
+9 
+ 
+Sarjaesteitä 
+enintään 
+2 
+3 
+2 
+3 
+2 
+3 
+2 
+2 
+2 
+2 
+1 0 
+ 
+0 
+ 
+Sarjaesteitä 
+vähintään 
+1 
+2 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+ 
+0 
+ 
+0 
+ 
+Korkeus enintään 130/135 
+133/138 
+120/125 
+123/128 
+110/115 
+113/118 
+100/105 
+103/108 
+90/95 
+93/98 
+80/85 
+ 
+luokan 
+korkeus 
+luokan 
+korkeus 
+Korkeus vähintään luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+luokan 
+korkeus  
+– 10 cm 
+Esteitä enimmäis-
+korkeudessa 
+väh 2 
+väh 3 
+väh 2 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+väh 6 
+väh 2 
+ 
+väh 2 
+ 
+väh 2 
+ 
+Esteiden 
+enimmäispituus 
+130 
+140 
+130 
+140 
+120 
+130 
+100/105 
+110 
+90/95 
+100 
+80/85 
+ 
+sama kuin 
+luokan 
+korkeus 
+sama kuin 
+luokan 
+korkeus 
+Vesihaudan 
+enimmäispituus 
+300 
+330 
+300 
+330 
+250/200 
+330/250 
+250/200 
+330/250 
+ei  
+käytetä 
+ei  ei  ei  
+Vesihaudan 
+vähimmäispituus 
+250 
+280 
+250 
+280 
+200/150 
+250/200 
+200/150 
+250/200 
+- 
+250 
+- 
+ 
+- 
+ 
+- 
+- 
+Enimmäisnopeus 350 
+350 
+350 
+350 
+350 
+350 
+325 
+350 
+300 
+325 
+300 
+ 
+300 
+ 
+300 
+ 
+Vähimmäisnopeus 300 
+300 
+300 
+300 
+275 
+300 
+275 
+300 
+250 
+250 
+250 
+ 
+250 
+ 
+200 
+ 
+ 
+ 
+  
+=== PAGE 53 ===
+ 
+ 
+53 
+ 
+Liite 4/a. Enimmäisajan laskeminen, 250 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 250 m/min 
+            
+ 00 10 20 30 40 50  60 70 80 90     
+100 m 24" 26" 29" 31" 34" 36" 38" 41" 43" 46" 
+200 m 48" 50" 53" 55" 58" 60" 62" 65" 67" 70" 
+300 m 72" 74" 77" 79" 82" 84" 86" 89" 91" 94" 
+400 m 96" 98" 101" 103" 106" 108" 110" 113" 115" 118" 
+500 m 120" 122" 125" 127" 130" 132" 134" 137" 139" 142" 
+600 m  144" 146" 149" 151" 154" 156" 158" 161" 163" 166" 
+700 m  168" 170" 173" 175" 178" 180" 182" 185" 187" 190" 
+800 m  192" 194" 197" 199" 202" 204" 206" 209" 211" 214" 
+900 m 216" 218" 221" 223" 226" 228" 230" 233" 235" 238" 
+           
+Liite 4/b. Enimmäisajan laskeminen, 275 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 275 m/min 
+       
+  00 10 20 30 40 50 60 70 80 90    
+100 m 22" 24" 26" 28" 31" 33" 35"  37" 39" 41" 
+200 m 44" 46" 48" 50" 52" 55" 57" 59" 61" 63" 
+300 m  65" 68" 70" 72" 74" 76" 79" 81" 83" 85" 
+400 m 87" 89" 92" 94" 96" 98" 100" 103" 105" 107"  
+500 m  109" 111" 113" 116" 117" 120" 122" 124" 127" 129" 
+600 m 131" 133" 135" 137" 140" 142" 144" 146" 148" 151" 
+700 m  153" 155" 157" 159" 161" 164" 166" 168" 170" 172" 
+800 m 175" 177" 179" 181" 183" 185" 188" 190" 192" 194" 
+900 m  196" 199" 201" 203" 205" 207" 209" 212" 214" 216" 
+ 
+Liite 4/c. Enimmäisajan laskeminen, 300 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 300 m/min 
+  00 10 20 30 40 50 60 70 80 90    
+100 m 20" 22" 24" 26" 28" 30" 32" 34" 36" 38" 
+200 m 40" 42" 44" 46" 48" 50" 52" 54" 56" 58" 
+300 m 60" 62" 64" 66" 68" 70" 72" 74" 76" 78" 
+400 m 80" 82" 84" 86" 88" 90" 92" 94" 96" 98" 
+500 m 100" 102" 104" 106" 108" 110" 112" 114" 116" 118" 
+600 m 120" 122" 124" 126" 128" 130" 132" 134" 136" 138" 
+700 m 140" 142" 144" 146" 148" 150" 152" 154" 156" 158" 
+800 m 160" 162" 164" 166" 168" 170" 172" 174" 176" 178" 
+900 m 180" 182" 184" 186" 188" 190" 192" 194" 196" 198" 
+=== PAGE 54 ===
+ 
+ 
+54 
+ 
+Liite 4/d. Enimmäisajan laskeminen, 325 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 325 m/min 
+ 00 10 20 30 40 50 60 70 80 90     
+100 m 19" 21" 23" 24" 26" 28" 30" 32" 34" 36" 
+200 m 37" 39" 41" 43" 45" 47" 48" 50" 52" 54" 
+300 m 56" 58" 60" 61" 63" 65" 67" 69" 71" 72" 
+400 m 74" 76" 78" 80" 82" 84" 85" 87" 89" 91" 
+500 m 93" 95" 96" 98" 100" 102" 104" 106" 108" 109" 
+600 m 111" 113" 115" 117" 119" 120" 122" 124" 126" 128" 
+700 m 130" 132" 133" 135" 137" 139" 141" 143" 144" 146" 
+800 m 148" 150" 152" 154" 156" 157" 159" 161" 163" 165" 
+900 m 167" 169" 170" 172" 174" 176" 178" 180" 181" 183" 
+ 
+Liite 4/e. Enimmäisajan laskeminen, 350 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 350 m/min           
+ 00 10 20 30 40 50 60 70 80 90   
+ 
+100 m 18" 19" 21" 23" 24" 26" 28" 30" 31" 33" 
+200 m 35" 36" 38" 40" 42" 43" 45" 47" 48" 50" 
+300 m 52" 54" 55" 57" 59" 60" 62" 64" 66" 67" 
+400 m 69" 71" 72" 74" 76" 78" 79" 81" 82" 84" 
+500 m 86" 88" 90" 91" 93" 95" 96" 98" 100" 102" 
+600 m 103" 105" 107" 108" 110" 112" 114" 115" 117" 119" 
+700 m 120" 122" 124" 126" 127" 129" 131" 132" 134" 136" 
+800 m 138" 139" 141" 143" 144" 146" 148" 150" 151" 153" 
+900 m 155" 156" 158" 160" 162" 163" 165" 167" 168" 170"   
+       
+  
+=== PAGE 55 ===
+ 
+ 
+55 
+ 
+Liite 4/f. Enimmäisajan laskeminen, 375 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 375 m/min            
+  00 10 20 30 40 50 60 70 80 90    
+ 
+100 m  16" 18" 20" 21" 23" 24" 26" 28" 29" 31" 
+200 m  32" 34" 36" 37" 39" 40" 42" 44" 45" 47" 
+300 m  48" 50" 52" 53" 55" 56" 58" 60" 61" 63" 
+400 m  64" 66" 68" 69" 71" 72" 74" 76" 77" 79" 
+500 m  80" 82" 84" 85" 87" 88" 90" 92" 93" 95" 
+600 m  96" 98" 100" 101" 103" 104" 106" 108" 109" 111" 
+700 m  112" 114" 116" 117" 119" 120" 122" 124" 125" 127" 
+800 m  128" 130" 132" 133" 135" 136" 138" 140" 141" 143" 
+900 m  144" 146" 148" 149" 151" 152" 154" 156" 157" 159" 
+ 
+Liite 4/g. Enimmäisajan laskeminen, 400 m 
+ 
+ENIMMÄISAJAN LASKEMINEN 
+Nopeus 400 m/min 
+ 00 10 20 30 40 50 60 70 80 90    
+ 
+100 m 15" 17" 18" 20" 21" 23" 24" 26" 27" 29" 
+200 m 30" 32" 33" 35" 36" 38" 39" 41" 42" 44" 
+300 m 45" 47" 48" 50" 51" 53" 54" 56" 57" 59" 
+400 m 60" 62" 63" 65" 66" 68" 69" 71" 72" 74" 
+500 m 75" 77" 78" 80" 81" 83" 84" 86" 87" 89" 
+600 m 90" 92" 93" 95" 96" 98" 99" 101" 102" 104" 
+700 m 105" 107" 108" 110" 111" 113" 114" 116" 117" 119" 
+800 m 120" 122" 123" 125" 126" 128" 129" 131" 132" 134" 
+900 m 135" 137" 138" 140" 141" 143" 144" 146" 147" 149" 
+ 
+       
+=== PAGE 56 ===
+ 
+56 
+ 
+Liite 5. Taitoarvostelupöytäkirja 
+ 
+ESTERATSASTUKSEN TAITOARVOSTELUPÖYTÄKIRJA 
+KILPAILU         
+RATSUKKO        
+PVM          
+ 
+vahvuus heikkous 
+      [ ]             [ ]        istunta esteiden välillä       
+      [ ]             [ ]        istunta esteillä        
+      [ ]             [ ]        tiet ja lähestymiset        
+      [ ]             [ ]        rytmi, tempo        
+      [ ]             [ ]        laukat, tasapaino        
+      [ ]             [ ]        yleisvaikutelma        
+ 
+Muuta              
+             
+             
+             
+              
+ 
+VÄHENNYKSET:     1. tottelemattomuus 1,0 miinuspistettä 
+       pudotus  0,5 miinuspistettä/pudotus             vähennykset yhteensä 
+    aikavirheet  0,5 miinuspistettä 
+ 
+ 
+NUMERO   LOPPUTULOS    
+ 
+ 
+     
+______________________________________     
+Arvosteluasteikko: 
+Tuomarin allekirjoitus       Erinomainen 10 
+Erittäin hyvä  9 
+Hyvä                      8 
+Melko hyvä 7 
+Tyydyttävä 6 
+Välttävä  5 
+Heikko  4  
+Melko huono 3 
+Huono  2 
+Erittäin huono 1 
+   Ei esitetty  0   
+ 
+=== PAGE 57 ===
+ 
+57 
+ 
+Liite 6. 
+TAITOARVOSTELUPÖYTÄKIRJA  
+ 
+1. Urheilija 
+Urheilijan istunta esteiden välissä – esteillä 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+ 
+ 
+ 
+ 
+2. Radan ratsastus 
+Oikeat tie ja lähestyminen – Tempo ja rytmi – Tasapaino ja laukat – Urheilijan vaikutus 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________           X 2 
+ 
+ 
+3. Yleisvaikutelma 
+Kokonaiskuva ratsukosta – Ratsukon yhteistyökyky – Horsemanship 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+____________________________________________________ 
+  
+ 
+4. Vähennykset 
+4.1 Tottelemattomuus  3 miinuspistettä 
+4.2 Pudotukset  2 miinuspistettä/pudotus 
+4.3 Aikavirheet  2 miinuspistettä 
+Vähennykset yhteensä 
+ 
+ 
+         
+ 
+ LOPPUTULOS 
+ Yhteispisteet max 40 p. 
+ 
+ 
+Tuomarin allekirjoitus: _______________________________       
+Luokka  Lähtönumero  
+Kilpailu/pvm
+ ________________________ 
+Ratsastaja
+ ________________________ 
+Hevonen
+ ________________________ 
+Seura ________________________ 
+ 
+Pisteet 1–10 
+10 – erinomainen 
+ 9 – erittäin hyvä 
+ 8 – hyvä 
+ 7 – melko hyvä 
+ 6 – tyydyttävä 
+ 5 – välttävä 
+ 4 – heikko 
+ 3 – melko huono 
+ 2 – huono 
+ 1 – erittäin huono 
+ 
+ 
+  
+ 
+Tuomarin tulee 
+perustella ainakin 
+arvosanat 5 ja siitä 
+alaspäin, sekä 7 ja siitä 
+ylöspäin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         X 2 
+=== PAGE 58 ===
+ 
+58 
+ 
+Liite 7. Hevosen hyvinvointi 
+ 
+Hevosen hyvinvointi 
+1. Hevosen hyvinvointi on etusijalla kaikessa hevosurheilussa 
+2. Hevosten kasvattajien, valmentajien, ratsastajien, omistajien, kauppiaitten, kilpailunjärjestäjien, 
+yhteistyöyritysten tai toimihenkilöiden toivomukset ovat toissijaisia hevosen hyvinvointiin verrattuna. 
+3. Kaikki hevosiin kohdistettavat toimenpiteet ja eläinlääkärin antamat hoidot suoritetaan hevosen 
+terveyden ja hyvinvoinnin edistämiseksi. 
+4. Hevosten ruokinnassa, terveydenhuollossa, lääkinnässä sekä turvallisuuden edistämisessä noudatetaan 
+kaikissa tilanteissa korkeinta mahdollista laatutasoa. 
+5. Hevoskuljetusten aikana huolehditaan ilmastoinnista, ruokinnassa, juottamisesta sekä terveellisestä 
+ympäristöstä. 
+6. Työskentelemme valmennuksen, hevostaitokoulutuksen ja hevosten terveyttä tutkivien tieteenalojen 
+edistämiseksi. 
+7. Myös urheilijan kunto ja suorituskyky ovat tärkeitä hevosen hyvinvoinnin vuoksi. 
+8. Hevonen huomioidaan elävänä olentona kaikessa ratsastuk sessa ja siihen liittyvässä val mennuksessa. 
+Kaikkien FEI:n sopimattomiksi määrittelemien menetelmien käyttö on kielletty. 
+9. Kansallisten liittojen on valvottava, että heidän edustajansa kunnioittavat hevosen hyvinvointia. 
+10. Hevosen hyvinvointia koskevia kansallisia ja kansainvälisiä sääntöjä ja määräyksiä on noudatettava sekä 
+kilpailuissa että valmennuksessa ja niitä on jatkuvasti pidettävä ajan tasalla 
+ 
+=== PAGE 59 ===
+ 
+59 
+ 
+Liite 8. Tarkistuslista 
+              SENIORIT 
+                  (18+) 
+NUORET RATSASTAJAT ja U25 
+(16–21) 
+JUNIORIT 
+(14–18) 
+LAPSIRATSASTAJAT 
+(-14) 
+PONIRATSASTAJAT 
+(-16)  
+KYPÄRÄ 
+Kiinnitettynä 
+3-pistekiinnityksellä 
+KAIKKIALLA KILPAILUALUEELLA AINA PAKOLLINEN 
+(KS III 325)  
+KANNUKSET Ei hammasreunaisia rissoja (KS III 325)  
+Tylpät metallikannukset, enimmäispituus 4 cm 
+mitattuna saappaasta kannuksen kärkeen (KS III 325) 
+RAIPPA Max 75 cm, ei painoja (KS III 325) 
+KOULURAIPPA Sallittu vain sileätyöskentelyssä,  
+kielletty puomeilla, hypätessä, radalla (KS III 326)                            AINA KIELLETTY (KS III 326) 
+KIINTEÄ MARTINGAALI KIELLETTY KILPASUORITUKSEN AIKANA (KS III 326) AINA SALLITTU KIELLETTY (KS III 326) 
+JUOKSEVA MARTINGAALI     AINA SALLITTU     
+GRAMAANIT  KIELLETTY KILPAILUSUORITUKSEN AIKANA 
+(KS III 326) 
+KIELLETTY KILPAILUSUORITUKSEN 
+AIKANA (KS III 326) 
+KUOLAIMET Ei rajoituksia, ottaen huomioon hevosen hyvinvointi (KS III 5/322§ 5)  
+Vain FEI:n hyväksymät kuolaimet 
+(KS III 326) 
+HACKAMORES AINA SALLITTU  Sallittu, varsi max 17 cm 
+KIELEN SITOMINEN AINA KIELLETTY (KS III 326) 
+PEHMUSTE/LAMPAANNAHKA 
+(nahkakappale) SUITSISSA Maksimikorkeus poskesta 3 cm (KS III 326)  
+KÄRPÄSSUOJA KIELLETTY KILPAILUSUORITUKSEN AIKANA (KS III 326) 
+  
+SILMÄLAPUT/SILMÄHUPUT 
+  
+KIELLETTY KILPAILUSUORITUKSEN AIKANA (KS III 326)  
+KIELLETTY KILPAILUSUORITUK- 
+SEN AIKANA (KS III 326) 
+Dion Blinkersit alle 3 cm sallittu 
+SALLITUT ESTEIDEN MITAT           
+  
+KILPAILUVERRYTTELY 
+  
+Esteiden korkeus saa ylittää hypättävän luokan perusradan korkeuden max 10 cm 120 cm luokista alkaen.  
+Alle 120 cm luokissa samat kuin hypättävän luokan esteiden maksimimitat.  
+Esteen pituus sama kuin hypättävän luokan esteiden enimmäispituus. (KS III 329)   
+Samat kuin hypättävän luokan 
+esteiden maksimimitat 
+(KS III 329) 
+KINESIOTEIPPAUS Kielletty kilpailualueella ratsastettaessa tai muuten valmennettaessa. Tallialueella käyttö on sallittua.  
+KUKA SAA RATSASTAA 
+HEVOSELLA KILPAILUIDEN 
+AIKANA? 
+Ei rajoituksia  Vain ratsastaja kilpailualueella (KS III 329)  
+=== PAGE 60 ===
+ 
+60 
+ 
+Liite 9. Hevostarkastus 
+ 
+1. Saapumistarkastus 
+Kilpailupaikalla eläinlääkäri tarkastaa hevosen terveydentilan ja  rokotusten voimassaolo n. Samalla 
+hevonen tunnistetaan. Tutkimuksen tulisi tapahtua siten, että siitä on mahdollisimman vähän haittaa 
+hevoselle ja siitä huolehtiville henkilöille. 
+1.1. Hevonen tunnistetaan vertaamalla rekisterikirjan tietoja tuntomerkkeihin. 
+1.2. Tarkistetaan hevosen rokotustodistuksen tiedot ja rokotusten voimassaolo. 
+1.3. Tarkistetaan hevosen ikä, mikäli kilpailu on rajattu tietyn ikäryhmän hevosille. 
+1.4. Suoritetaan kliininen tarkastus, jotta voidaan varmistaa, että hevosella ei ole tulehduksia tai tarttuvia 
+tauteja.  
+Kaikki merkittävät epätäsmällisyydet tunniste- ym. tiedoissa ilmoitetaan mahdollisimman pian kilpailun 
+puheenjohtajatuomarille, jonka tulee ratkaista hevosen kilpailukelpoisuus ennen hevosen 
+kilpailusuoritusta. 
+ 
+2. Varsinainen tarkastus 
+Ennen kilpailusuoritusta on tutkittava myös hevosen edellytykset osallistua kilpailuun. Tarkastuksen 
+suorittaa kilpailujen eläinlääkäri yhdessä tuomariston edustajan kanssa. Ainoastaan ko. toimihenkilöillä 
+on oikeus tarkastuksen perusteella päättää hevosen kilpailukelpoisuudesta. Hevoset, jotka  eivät 
+ensimmäisellä tarkastuskerralla täytä asetettuja vaatimuksia, voidaan tarkastaa uudelleen. Tämän 
+suorittavat samat toimihenkilöt kuin ensimmäisellä kerralla, ja ainoastaan asiaankuuluvien henkilöiden 
+läsnä olle ssa. Varsinainen tarkastus tulee suorittaa lajisääntöjen edellyttämissä kilpailuissa ja ainakin 
+Breeders Prize-kilpailussa, kaikkien ikäluokkien SM -kilpailuissa (mukaan lukien II kategorian 
+poniratsastajien ja veteraaniratsastajien mestaruudet), , Pohjola GP:n, Pohjola Silver GP:n, MiniGP:n, 
+osakilpailuissa ja finaalissa. 
+Hevosten tarkastus tapahtuu seuraavasti (katso alueen pohjapiirros): 
+2.1. Hevonen esitetään joko nivel- tai kankisuitsitettuna. Muita varusteita ei sallita. Loimet, pintelit, jne. 
+on poistettava.  Kilpailunumero (ID-numero) on selkeästi näkyvillä. 
+2.2. Hevosen esittäjällä tulee olla turvakypärä. Esittelijällä saa olla raippa, jonka pituus on enintään 120 
+cm. 
+2.3. Hevosen tuntomerkkejä eikä kavioita saa peittää väriaineilla.  
+2.4. Alustan, jolla hevonen esitetään, on oltava noin 50 metriä pitkä, tukeva, tasainen ja puhdas, mutta 
+ei kuitenkaan liukas. Se on sijoitettava rauhalliseen paikkaan, eristettynä selkeästi yleisöltä.  
+2.5. Tarkastukseen osallistuvat eläinlääkäri ja tuomariston edustaja. 
+2.6. Eläinlääkäri tunnistaa hevosen ja toteaa mahdollisesti ilmenevät vammat tai sairaudet 
+silmämääräisesti. Tarkastus ei ole perusteellinen kliininen tutkimus, vaan sen tulee tapahtua 
+mahdollisimman joutuisasti, mutta tarkoituksenmukaisesti.  Raajan tai muun r uumiinosan 
+tunnustelu tulee tehdä vain, jos se katsotaan tarpeelliseksi. 
+2.7. Hevonen esitetään käynnissä ja ravissa löysällä ohjalla. Tarkastajat arvioivat liikkeiden puhtauden. 
+Tarvittaessa käynti ja ravi esitetään toistamiseen.  
+2.8. Tarkastuksen päätyttyä siihen osallistunut tuomari ilmoittaa päätöksen hevosen 
+kilpailukelpoisuudesta ennen kuin hevonen poistuu tarkastusalueelta todeten, että hevonen on 
+HYVÄKSYTTY , HYLÄTTY tai se lähetetään valvotulle odotusalueelle (Holding Box). Hylkä yksistä 
+tiedotetaan kilpailun puheenjohtajatuomarille. 
+=== PAGE 61 ===
+ 
+61 
+ 
+Epäselvissä tapauksissa hevonen siirretään Holding Boxiin uusintatarkastusta varten, joka suoritetaan 
+välittömästi viimeisen hevosen tarkastuksen jälkeen. Kilpailujen eläinlääkäri tutkii hevosen 
+odotusalueella ja voi tarvittaessa neuvotella hevosen oman ta i joukkueen eläinlääkärin kanssa. 
+Tutkimuksen jälkeen hän voi lähettää hevosen uusintatarkastukseen lopullista ratkaisua varten. 
+Ristiriitatilanteissa tuomariston edustaja ratkaisee yksin hevosen kilpailukelpoisuuden ja antaa 
+päätöksensä välittömästi.  
+Ratsukko voi osallistua vain yhden kerran hevostarkastukseen. Ratsukko, joka ei läpäise tarkastusta ei voi 
+osallistua ns. seuraavaan tarkastukseen, jos hevostarkastus on aikataulutettu useampaan ryhmään tai 
+useammalle päivälle.  
+2.9. Hevosenhoitajan ja/ta i urheilijan on oltava läsnä tarkastuksessa ja joukkuekilpailussa myös 
+joukkueenjohtajan on oltava paikalla. Hevosen esittäjien odotetaan pukeutuvan asiallisesti.  
+3. Tarkastus verryttelyä seuraamalla 
+Nimetyissä kilpailuissa hevostarkastus voidaan suorittaa suppeammin verryttelyä seuraamalla. Tällöin 
+tarkistetaan hevosen asiakirjat (rokotustiedot) ja hevosen terveydentila arvioidaan ennen ko. luokan / 
+ratsukon suoritusta verryttelyn yhteydessä. Eläinlääkäri tekee arvion kilpailukelpoisuudest a ratsukon 
+verryttelyä seuraamalla.  
+ 
+Kuva: Hevostarkastus, ohjeellinen pohjapiirustus  
+ 
+ 
+ 
+ 
+
+=== PAGE 62 ===
+ 
+62 
+ 
+Liite 10. Kilpailutasojen kuvaukset 
+ESTERATSASTUS 
+Vaatimukset Seurakilpailut Aluekilpailut Kansalliset kilpailut 
+Sallitut luokat ✓ Max. 120 cm ✓ Alkaen 80 cm, ponit 70 cm 
+✓ max 130 cm 
+ 
+✓ Alkaen 115 cm 
+✓ ponit II 90 cm 
+✓ ponit I 100 cm 
+✓ sh 100 cm 
+✓ lapsiratsastajat 100 cm 
+✓ juniorit 110 cm 
+✓ nuoret hevoset 110 cm 
+Vaaditut 
+kilpailuluvat 
+✓ väh. seurakilpailulupa ✓ väh. aluekilpailulupa 
+✓ hevosen vuosimaksu 
+✓ Matalammat luokat seurakilpailuluokkia 
+(seurakilpailulupa) 
+✓ väh. kansallinen kilpailulupa, 
+✓ hevosen vuosimaksu 
+✓ Matalammat luokat aluekilpailuluokkia 
+(aluekilpailulupa) tai seurakilpailuluokkia (väh 
+seurakilpailulupa) 
+Sallitut arvostelut 
+ 
+✓ A arvosteluja, 367.1 sekä taitoarvostelut  
+✓ Ei aikaratsastusta 
+✓ Vakioratojen käyttö 
+✓ Ikäluokille avoimia luokkia 
+✓ 90 cm ja matalammissa luokissa sallittu vain 
+A.0, A.1, taitoarvostelut, 367.1  edellä 
+mainituin arvosteluin 
+✓ A arvosteluja, 367.1, sekä taitoarvostelut 
+✓ Ei aikaratsastusta alle 100 cm luokissa 
+✓ Ikäluokille avoimia luokkia 
+✓ Rankingpisteiden perusteella avoimia luokkia 
+suositellaan. 
+✓ 90 cm ja matalammissa luokissa sallittu vain 
+A.0, A.1, taitoarvostelut, 367.1  edellä 
+mainituin arvosteluin  
+Aluekilpailuluokissa, joissa estekorkeus on 
+80…90 cm, voidaan arvostelumenetelmänä 
+käyttää myös arvostelua 367.1 (A0/A2) tai 
+367.1 (A1/A2). Tämä määräys koskee lisäksi 
+poniratsukoille avoimia 70 cm:n 
+aluekilpailuluokkia 
+ 
+✓ Ei vain kaikille avoimia luokkia 
+✓ Ikäluokille avoimia luokkia 
+✓ Rankingpisteiden perusteella avoimia luokkia 
+suositellaan 
+✓ 90 cm ja matalammissa luokissa sallittu vain A.0, 
+A.1, taitoarvostelut,  367.1 edellä mainituin 
+arvosteluin 
+Aluekilpailuluokissa, joissa estekorkeus on 80…90 
+cm, voidaan arvostelumenetelmänä käyttää myös 
+arvostelua 367.1 (A0/A2) tai 367.1 (A1/A2). Tämä 
+määräys koskee lisäksi poniratsukoille avoimia 70 
+cm:n aluekilpailuluokkia 
+Toimihenkilöt 
+ 
+✓ Min. 1 estetuomari, joka toimii TPJ:nä 
+✓ Taitotuomarina voi toimia taitotuomari tai 
+estetuomari/ratsastuksenopettaja, joka on 
+osallistunut taitotuomarikoulutukseen (C-
+taitotuomari) 
+✓ min. 1 C-TPJ, väh. C-ratamestari, stewardi  
+✓ muu henkilöstö kilpailun koon mukaan ja 
+pykälän 319.1 mukaan. 
+✓ 1 A/B-TPJ + väh. 1 estetuomari,  
+✓ ratamestari luokkien tason mukaan, estestewardi, 
+muu henkilöstö kilpailun koon mukaan ja pykälän 
+319.1 mukaan. 
+=== PAGE 63 ===
+ 
+63 
+ 
+✓ Ratoina käytetään SRL:n vakioratoja tai 
+ratojen suunnittelusta vastaa 
+toimihenkilölisenssin omaava ratamestari. 
+Kilpailijoiden 
+kvaalautuminen 
+ 
+✓ Siirtyäkseen 80 cm:ä korkeampiin luokkiin, urheilijalla tulee olla seura- tai aluekilpailuista 80 cm luokista kaksi enintään 4 virhepisteen tulosta 
+perusradalta/ensimmäisestä vaiheesta. Tästä eteenpäin vaaditaan kaksi enintään 4 virhepisteen tulosta perusradalta/ensimmäisestä vaiheesta enintään 10 
+cm alemmalta tasolta seura-, alue- tai kansallisesta kilpailusta. Tulokset tulee olla saavutettu kuluvan tai kahden tätä edeltävän kalenterivuoden aikana. 
+Katso tarkemmat säännöt 333. 
+✓ Katso poikkeukset 333.10. SM-kvaalautuminen on ratsukkokohtainen. 
+Palkintorahat/ 
+esinepalkinnot 
+✓ Ruusukkeet 
+✓ Esinepalkinnot mahdollisia 
+✓ Rahapalkintoja ei suositella, jos niin max. 
+1000 €/kilpailu. 
+✓ Ruusukkeet 
+✓ Esine- ja rahapalkinnot mahdollisia 
+✓ Pääluokissa rahapalkinnot 
+✓ Ruusukkeet  
+✓ Esine- ja rahapalkinnot mahdollisia 
+Kilpailumaksut ✓ Kilpailumaksut suhteessa palkintoihin ja kilpailuolosuhteisiin.  
+Kilpailukenttä ✓ SRL:n hyväksymä estemateriaali (turvakannattimet)  
+✓ aidattu kilpailukenttä (vähintään 800 m2)  
+✓ erillinen verryttelyalue suhteessa kilpailukenttään tai kilpailukentällä. 
+ 
+✓ SRL:n hyväksymä estemateriaali (turvakannattimet) 
+✓ aidattu kilpailukenttä (vähintään 1200 m2) 
+✓ erillinen verryttelyalue suhteessa kilpailukenttään tai 
+hallikilpailussa kilpailukentällä. 
+Olosuhteet 
+ 
+✓ Kutsu ja tulokset KIPA:ssa  
+✓ Kanslia 
+✓ WC 
+✓ Kutsu ja tulokset KIPA:ssa 
+✓ Kanslia 
+✓ Kahvila, WC 
+✓ Paikoitusalueet yleisölle ja hevosautoille 
+ 
+✓ Kutsu ja tulokset KIPA:ssa 
+✓ Kanslia 
+✓ Kahvila, sosiaalitilat, katsomo 
+✓ Paikoitusalueet yleisölle ja hevosautoille  
+✓ Useampi päiväisessä kilpailussa hevosten 
+majoitusmahdollisuus suositeltava. 
+Turvallisuus ✓ Ensiapuvalmius (suositus: vähintään yksi 
+EA1, mikäli kilpailut taajama-alueen 
+ulkopuolella suositellaan EA2) 
+✓ turvallisuudesta vastaava henkilö nimetty 
+✓ kirjallinen pelastussuunnitelma 
+✓ ilmoitus kaupungin/kunnan eläinlääkärille 
+kilpailuista 
+✓ EAryhmä/lääkäri/ambulanssi (ensivasteauto), 
+✓ nimetty turvallisuuspäällikkö, 
+✓ kirjallinen pelastussuunnitelma 
+✓ ilmoitus kaupungin/kunnan eläinlääkärille 
+kilpailuista  
+✓ lääkäri/ambulanssi (ensivasteauto)/EA2 ryhmä 
+✓ eläinlääkäri kilpailupaikalla 
+✓ nimetty turvallisuuspäällikkö 
+✓ kirjallinen pelastussuunnitelma 
+✓ tallivartiointi 24 h, jos hevosmajoitus 
+ 
+ 
+ 
+=== PAGE 64 ===
+ 
+64 
+ 
+ 

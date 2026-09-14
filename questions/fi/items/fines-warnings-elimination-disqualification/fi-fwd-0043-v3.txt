@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Karsintakilpailun jälkeen urheilija saa hypätä yhden esteen edellyttäen, että:
-OPTION_A: Este on osa meneillään olevan kilpailun rataa, eikä karsinta johtunut kaatumisesta.
-OPTION_B: Tuomaristo antaa luvan suullisesti
-OPTION_C: Se on vasta ensimmäinen este
+STEM: Millä ehdolla urheilija saa hylkäämisen jälkeen hypätä yhden esteen?
+OPTION_A: Este kuuluu meneillään olevan kilpailun rataan eikä hylkääminen johtunut kaatumisesta
+OPTION_B: Tuomaristo antaa siihen suullisen luvan
+OPTION_C: Kyse on vain ensimmäisestä esteestä
 OPTION_D: Urheilija maksaa sakon
 CORRECT: A
-EXPLANATION: Kilpailusääntöjen artiklassa 263.3 määrätään, että urheilija saa hypätä yhden esteen hylättyään kilpailusta, edellyttäen että se on osa meneillään olevaa kilpailurataa eikä hylätty kilpailusta johtuvan kaatumisen seurauksena.
+EXPLANATION: Artiklassa 263.3 määrätään, että urheilija saa hylkäämisen jälkeen tehdä yhden hyppy-yrityksen edellyttäen, että este kuuluu meneillään olevan kilpailun rataan eikä hylkääminen johtunut kaatumisesta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

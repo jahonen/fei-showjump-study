@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: JR:n artiklan 246.4.3 mukaan 45 sekunnin vastustussääntö mitataan:
-OPTION_A: Lähtömerkistä maaliviivalle
-OPTION_B: Peräkkäin kierroksen aikana
-OPTION_C: Vasta ensimmäisen esteen kohdalla
-OPTION_D: Koko kilpailun ajan
+STEM: Miten artiklan 246.4.3 mukainen 45 sekunnin niskurointiaika mitataan?
+OPTION_A: Lähtömerkistä maalilinjalle
+OPTION_B: Yhtäjaksoisesti suorituksen aikana
+OPTION_C: Vain ensimmäisellä esteellä
+OPTION_D: Koko kilpailun ajalta
 CORRECT: B
-EXPLANATION: JR:n artikla 348 määrittelee '45 peräkkäisen sekunnin' vastusta kierroksen aikana, ei kumulatiivista aikaa.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 tarkoitetaan 45 yhtäjaksoista sekuntia suorituksen aikana, ei yhteen laskettua aikaa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

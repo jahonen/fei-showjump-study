@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: JR:n artiklan 233.1 mukaan triplapalkin suurin sallittu spreadi on:
+STEM: Kilpailusääntöjen artiklan 233.1 mukaan trippelin suurin sallittu leveys on:
 OPTION_A: 2,00 metriä
 OPTION_B: 2,10 metriä
 OPTION_C: 2,20 metriä
 OPTION_D: 2,40 metriä
 CORRECT: C
-EXPLANATION: JR:n artikla 301 sallii kolmoispuomien enimmäisleveyden 2,20 m, kun taas muiden leveäpuomien enimmäisleveys on 2,00 m.
+EXPLANATION: Kilpailusääntöjen artikla 301 sallii trippelin enimmäisleveydeksi 2,20 m, kun taas muiden pituusesteiden enimmäisleveys on 2,00 m.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

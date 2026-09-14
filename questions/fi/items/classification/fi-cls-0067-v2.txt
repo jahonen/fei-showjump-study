@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Minkä tyyppinen loimi on aina poikkeus JR:n artiklan 267.4 mukaisesta yleisestä loimien käyttökiellosta palkintojenjaossa?
+STEM: Millainen loimi on aina poikkeus kilpailusääntöjen artiklan 267.4 mukaisesta yleisestä loimien käyttökiellosta palkintojenjaossa?
 OPTION_A: Mikä tahansa talliloimi
-OPTION_B: Kilpailujen sponsorien lahjoittamat matot
-OPTION_C: Vain FEI-merkkisiä loimia
+OPTION_B: Kilpailun sponsorien lahjoittamat loimet
+OPTION_C: Vain FEI:n merkillä varustetut loimet
 OPTION_D: Loimet mestaruuskilpailuissa
 CORRECT: B
-EXPLANATION: Kilpailujen sponsorien esittämät loimet on vapautettu yleissäännöstä JR:n artikla 341 mukaisesti.
+EXPLANATION: Kilpailun sponsorien lahjoittamat loimet on kilpailusääntöjen artiklan 341 nojalla vapautettu yleisestä kiellosta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

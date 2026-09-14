@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: JR:n artiklan 244.1 mukaan vesihypyn virhe sisältyy virheluetteloon, joka:
-OPTION_A: Johtaa aina eliminointiin
-OPTION_B: Sakkoja, ellei toisin mainita
-OPTION_C: Ei huomioida taulukossa C
-OPTION_D: Hae vain ensimmäiselle kierrokselle
+STEM: Kilpailusääntöjen artiklan 244.1 mukaan vesihautaan astuminen kuuluu niiden virheiden luetteloon, joista:
+OPTION_A: Seuraa aina hylkääminen
+OPTION_B: Tuomitaan virhepisteitä, ellei toisin määrätä
+OPTION_C: Ei tuomita virhepisteitä arvostelussa C
+OPTION_D: Rangaistaan vain ensimmäisellä kierroksella
 CORRECT: B
-EXPLANATION: Yhteisten sääntöjen artikla 348 sisältää vesihypyn virheen rangaistuksia aiheuttavien virheiden joukossa, ellei yhteisissä säännöissä toisin määrätä.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 vesihautaan astuminen luetellaan niiden virheiden joukossa, joista tuomitaan virhepisteitä, ellei säännöissä toisin määrätä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Mikä on hevosen vähimmäisikä seniorien mannertenmestaruuskilpailuissa juniorisääntöjen artiklan 202.2 mukaisesti?
+STEM: Mikä on hevosen vähimmäisikä seniorien mannermestaruuskilpailuissa kilpailusääntöjen artiklan 202.2 mukaan?
 OPTION_A: Kuusi vuotta
 OPTION_B: Seitsemän vuotta
 OPTION_C: Kahdeksan vuotta
 OPTION_D: Yhdeksän vuotta
 CORRECT: C
-EXPLANATION: JR:n artikla 333 asettaa hevosen vähimmäisiän seniorien mannertenmestaruuskilpailuihin kahdeksaksi vuodeksi.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 hevosen vähimmäisiäksi seniorien mannermestaruuskilpailuissa määrätään kahdeksan vuotta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

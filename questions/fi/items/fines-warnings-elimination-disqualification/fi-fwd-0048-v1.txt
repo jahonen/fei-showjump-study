@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: JR:n artiklan 263.4.29 mukaisesti urheilijaa EI hylätä kilpailusta kiinnittämättömän leukahihnan vuoksi, jos:
-OPTION_A: He huomasivat sen maaliviivan jälkeen
-OPTION_B: Olosuhteet tekivät välittömän pysähtymisen hihnan uudelleen kiinnittämiseksi vaaralliseksi
-OPTION_C: He ovat juniori
-OPTION_D: Tuomaristo ei nähnyt sitä
+STEM: Milloin urheilijaa ei artiklan 263.4.29 mukaan hylätä kiinnittämättömän leukahihnan vuoksi?
+OPTION_A: Kun hän huomaa asian vasta maalilinjan jälkeen
+OPTION_B: Kun olosuhteet tekisivät välittömän pysähtymisen hihnan kiinnittämiseksi vaaralliseksi
+OPTION_C: Kun hän on juniori
+OPTION_D: Kun tuomaristo ei ole havainnut asiaa
 CORRECT: B
-EXPLANATION: JR:n artikla 346 sisältää poikkeuksen eliminoinnista, jos olosuhteet tekevät urheilijan vaaralliseksi pysähtyä välittömästi kiinnittääkseen hihnan uudelleen.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 säädetään poikkeuksesta hylkäämiseen, jos olosuhteiden vuoksi urheilijalle olisi vaarallista pysähtyä välittömästi kiinnittämään leukahihna.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Mikä on radan suurin sallittu kokonaispituus suhteessa esteiden määrään?
+STEM: Mikä on radan suurin sallittu kokonaispituus suhteessa esteiden lukumäärään?
 OPTION_A: 40 metriä estettä kohden
 OPTION_B: 50 metriä estettä kohden
 OPTION_C: 60 metriä estettä kohden
 OPTION_D: 70 metriä estettä kohden
 CORRECT: C
-EXPLANATION: JR:n artikla 329 määrää, että radan kokonaispituus metreinä ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60:llä.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 määrätään, että radan kokonaispituus metreinä ei saa koskaan ylittää esteiden lukumäärää kerrottuna 60:llä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

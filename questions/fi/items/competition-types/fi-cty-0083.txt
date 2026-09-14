@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Kaksikierroskilpailussa, pitääkö jokaisen urheilijan käyttää samaa hevosta molemmilla kierroksilla?
-OPTION_A: Ei, urheilija voi vaihtaa hevosta kierrosten välillä.
-OPTION_B: Kyllä, jokaisen urheilijan on osallistuttava samalla hevosella molempiin kierroksiin.
-OPTION_C: Vain jos aikataulussa niin sanotaan
+STEM: Onko jokaisen urheilijan ratsastettava kahden kierroksen kilpailussa samalla hevosella molemmilla kierroksilla?
+OPTION_A: Ei, urheilija voi vaihtaa hevosta kierrosten välillä
+OPTION_B: Kyllä, jokaisen urheilijan on osallistuttava molemmille kierroksille samalla hevosella
+OPTION_C: Vain, jos kilpailukutsussa niin määrätään
 OPTION_D: Vain Grand Prix -kilpailuissa
 CORRECT: B
-EXPLANATION: JR:n artikla 354 määrää, että jokaisen urheilijan on osallistuttava samalla hevosella molempiin kierroksiin kahden kierroksen kilpailussa.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 määrätään, että kahden kierroksen kilpailussa jokaisen urheilijan on osallistuttava molemmille kierroksille samalla hevosella.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

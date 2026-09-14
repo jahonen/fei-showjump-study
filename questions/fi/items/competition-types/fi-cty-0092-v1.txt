@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Vain missä kilpailutyypissä Jokeria saa käyttää?
-OPTION_A: Derby
-OPTION_B: Keräilykilpailu
-OPTION_C: Voima ja taito
-OPTION_D: Kansakuntien Cup
+STEM: Minkä kilpailutyypin radalla jokeriestettä saa käyttää?
+OPTION_A: Derbyn
+OPTION_B: Pisteidenkeräilykilpailun
+OPTION_C: Voima ja taito -kilpailun
+OPTION_D: Nations Cupin
 CORRECT: B
-EXPLANATION: JR:n artikla 354 rajoittaa Jokerin kerrannaiskilpailuihin.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 jokeriesteen käyttö rajataan pisteidenkeräilykilpailuihin.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

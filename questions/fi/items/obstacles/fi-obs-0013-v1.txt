@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: multi-select
-STEM: Mikä seuraavista olisi virhe vesihypyllä JR:n artiklan 236.1.3 mukaisesti?
-OPTION_A: Jalka tai kenkä koskettaa listaa ja jättää jäljen
-OPTION_B: Vuohisnivel jättää jäljen rimaan
+STEM: Mitkä seuraavista ovat kilpailusääntöjen artiklan 236.1.3 mukaisia virheitä vesihaudalla?
+OPTION_A: Jalka tai kenkä koskettaa rimaa ja jättää siihen jäljen
+OPTION_B: Vuohisnivel jättää rimaan jäljen
 OPTION_C: Hevonen koskettaa vettä yhdellä jalalla
-OPTION_D: Lähtöpuolen harja on siirtynyt pois paikaltaan
+OPTION_D: Ponnahduspuolen risulaatikko siirtyy paikaltaan
 CORRECT: A,C
-EXPLANATION: JR:n artikla 301 tekee virheen, jos hevosen jalka tai kenkä koskettaa listaa ja jättää jäljen, ja artikla 301 tekee virheen, jos hevonen koskettaa vettä yhdellä tai useammalla jalalla. Vuohisnivelen tai saappaan jälki ei ole virhe, eikä harjan siirtäminen paikaltaan ole virhe artikla 301 nojalla.
+EXPLANATION: Kilpailusääntöjen artiklan 301 mukaan virhe syntyy, kun hevosen jalka tai kenkä koskettaa rimaa ja jättää siihen jäljen tai kun hevonen koskettaa vettä yhdellä tai useammalla jalalla. Vuohisnivelen tai suojan jättämä jälki ei ole virhe, eikä risulaatikon siirtyminen paikaltaan aiheuta virhettä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

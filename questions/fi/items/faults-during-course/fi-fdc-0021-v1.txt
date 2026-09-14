@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Yhteisen pelisäännön artiklan 246.1.4 mukaan säännöllinen ympyrä tai ympyräryhmä on tottelemattomuutta, ellei:
-OPTION_A: Se tapahtuu lämmittelyalueella
-OPTION_B: Se kiertää jopa 45 sekuntia sen jälkeen, kun se on kieltäytynyt asettumasta paikalleen tai on rynninyt ulos.
-OPTION_C: Urheilija kiertää viimeisen hypätyn esteen
-OPTION_D: Se tehdään stewardin pyynnöstä
+STEM: Artiklan 246.1.4 mukaan voltti tai useampi voltti on tottelemattomuutta. Missä tapauksessa sitä ei tuomita tottelemattomuudeksi?
+OPTION_A: Kun voltti tehdään verryttelyalueella
+OPTION_B: Kun voltteja tehdään enintään 45 sekunnin ajan kieltäytymisen tai sivuun poikkeamisen jälkeen
+OPTION_C: Kun urheilija kiertää viimeksi hyppäämänsä esteen
+OPTION_D: Kun voltti tehdään stewardin pyynnöstä
 CORRECT: B
-EXPLANATION: JR:n artikla 348 toteaa, että enintään 45 sekunnin kiertäminen esteen ylityksen tai esteen hyppäämisasentoon asettumisen kieltäytymisen jälkeen ei ole tottelemattomuutta.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 todetaan, että enintään 45 sekunnin ajan tehdyt voltit sivuun poikkeamisen jälkeen tai uuden hyppy-yrityksen tekemiseksi kieltäytymisen jälkeen eivät ole tottelemattomuutta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

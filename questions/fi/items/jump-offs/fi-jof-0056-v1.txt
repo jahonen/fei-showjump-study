@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Jos kilpailuohjelmassa ei ole määritelty, onko kilpailussa uusintahyppy, mikä on oletusarvoinen menettelytapa JR:n artiklan 218.1.2 mukaan?
-OPTION_A: Siellä on hyppy
-OPTION_B: Ei ole hyppyä
-OPTION_C: Järjestäjä päättää päivän
-OPTION_D: Tuomaristo päättää
+STEM: Jos kilpailukutsussa ei ole määritelty, järjestetäänkö luokassa uusinta, mikä on artiklan 218.1.2 mukainen oletus?
+OPTION_A: Uusinta järjestetään
+OPTION_B: Uusintaa ei järjestetä
+OPTION_C: Järjestäjä päättää asiasta kilpailupäivänä
+OPTION_D: Tuomaristo päättää asiasta
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artikla 344 määrää, että jos aikataulussa ei ole toisin määrätty, kilpailua ei katsota järjestettävän uusintahyppyä.
+EXPLANATION: Kilpailusääntöjen artiklan 344 mukaan luokan katsotaan olevan ilman uusintaa, ellei kilpailukutsussa ole toisin määrätty.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

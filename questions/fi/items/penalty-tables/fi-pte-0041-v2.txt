@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Millä pöydillä harjoituskierrossääntöä sovelletaan JR:n artiklan 217.3 mukaan aikaa vastaan pelattaviin kilpailuihin?
-OPTION_A: Vain pöytä A
-OPTION_B: Vain taulukko C
-OPTION_C: Taulukko A tai C
-OPTION_D: Kumpikaan
+STEM: Mitä arvosteluja harjoituskierrosta koskeva sääntö koskee kilpailusääntöjen kohdan 217.3 mukaan kilpailuissa, joissa aika ratkaisee?
+OPTION_A: Vain arvostelua A
+OPTION_B: Vain arvostelua C
+OPTION_C: Arvostelua A tai arvostelua C
+OPTION_D: Ei kumpaakaan
 CORRECT: C
-EXPLANATION: JR:n artikla 342 koskee taulukon A tai C mukaisten aikaa vastaan käytävän kilpailun harjoituskierroksia.
+EXPLANATION: Kilpailusääntöjen kohta 342 koskee harjoituskierroksia arvostelun A tai arvostelun C mukaisissa kilpailuissa, joissa aika ratkaisee.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

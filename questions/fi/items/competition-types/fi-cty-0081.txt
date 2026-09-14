@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Mitä tapahtuu, jos urheilijoilla on samat rangaistukset missä tahansa sijoituksessa taulukon A kilpailussa, jossa ei kilpailla aikaa vastaan?
-OPTION_A: Heillä on aina hyppy
-OPTION_B: He jakavat palkinnot, eikä uusintahyppyä järjestetä, ellei ohjelmassa ole määrättyä ensimmäiselle sijalle varattua uusintahyppyä.
-OPTION_C: Nopeampi kierros voittaa
-OPTION_D: Ne asetetaan tasaväkisesti ensimmäiseksi
+STEM: Mitä tapahtuu, jos urheilijoilla on millä tahansa sijalla samat virhepisteet arvostelu A:n mukaisessa kilpailussa, jota ei ratsasteta aikaa vastaan?
+OPTION_A: Heille järjestetään aina uusinta
+OPTION_B: He jakavat palkinnot, eikä uusintaa järjestetä, ellei kilpailukutsussa ole määrätty ensimmäisen sijan uusinnasta
+OPTION_C: Nopeampi suoritus voittaa
+OPTION_D: Heidät sijoitetaan jaetulle ensimmäiselle sijalle
 CORRECT: B
-EXPLANATION: JR:n artiklassa 220.1.1.1 todetaan, että taulukossa A (ei aikaa vastaan) urheilijat, joilla on samat rangaistuspisteet missä tahansa sijoituksessa, jakavat palkinnot eikä uusintaa ole.
+EXPLANATION: Kilpailusääntöjen artiklassa 220.1.1.1 todetaan, että arvostelu A:n mukaisessa kilpailussa, jota ei ratsasteta aikaa vastaan, samat virhepisteet millä tahansa sijalla saaneet urheilijat jakavat palkinnot eikä uusintaa järjestetä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

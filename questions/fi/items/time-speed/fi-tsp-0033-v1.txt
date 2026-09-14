@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Este kaadetaan tottelemattomuuden seurauksena ja este rakennetaan uudelleen. Mitä aikakorjausta sovelletaan JR:n artiklan 256 nojalla?
-OPTION_A: Ei aikakorjausta
-OPTION_B: Kierroksen suorittamiseen kuluvaan aikaan lisätään kuusi sekuntia
+STEM: Este putoaa tottelemattomuuden seurauksena, ja se pystytetään uudelleen. Mitä aikalisää kilpailusääntöjen kohdan 256 nojalla sovelletaan?
+OPTION_A: Aikalisää ei anneta
+OPTION_B: Suoritusaikaan lisätään kuusi sekuntia
 OPTION_C: Aika nollataan
-OPTION_D: Esteen uudelleenrakentamiseen kuluva aika lisätään
+OPTION_D: Suoritusaikaan lisätään esteen pystyttämiseen kulunut aika
 CORRECT: B
-EXPLANATION: JR:n artikla 352 määrää, että määritellyn tottelemattomuuden ja alaslyönnin jälkeen urheilijan kierroksen suorittamiseen käyttämään aikaan lisätään kuusi sekuntia aikakorjausta.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 määrätään, että tottelemattomuuden ja esteen pudottamisen jälkeen ratsukon suoritusaikaan lisätään kuuden sekunnin aikalisä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Normaalioloissa uusinta on pidettävä samojen sääntöjen ja taulukon mukaisesti kuin alkuerä(t). Mikä poikkeus on sallittu?
-OPTION_A: Pöytä A -kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaan, jos ohjelmassa niin määrätään.
-OPTION_B: Nopeus voi kaksinkertaistua
-OPTION_C: Esteet voidaan tehdä eri materiaaleista
-OPTION_D: Urheilija voi vaihtaa hevosta
+STEM: Uusinta on pääsääntöisesti ratsastettava samojen sääntöjen ja saman arvostelun mukaan kuin perusrata. Mikä poikkeus on sallittu?
+OPTION_A: Arvostelun A mukaan ratsastetun luokan uusinta voidaan arvostella arvostelun C mukaan, jos kilpailukutsussa niin määrätään
+OPTION_B: Vauhti voidaan kaksinkertaistaa
+OPTION_C: Esteet voidaan rakentaa eri materiaaleista
+OPTION_D: Urheilija saa vaihtaa hevosta
 CORRECT: A
-EXPLANATION: Yhteisösääntöjen artiklassa 218.1.6 todetaan, että periaatteessa uusintahyppy on suoritettava samojen sääntöjen ja taulukon mukaisesti kuin alkuerä(t), mutta taulukon A mukaisen kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaisesti, jos ohjelmassa niin määrätään.
+EXPLANATION: Kilpailusääntöjen artiklassa 218.1.6 todetaan, että uusinta on lähtökohtaisesti ratsastettava samojen sääntöjen ja saman arvostelun mukaan kuin perusrata, mutta arvostelun A mukaan ratsastetun luokan uusinta voidaan arvostella arvostelun C mukaan, jos kilpailukutsussa niin määrätään.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

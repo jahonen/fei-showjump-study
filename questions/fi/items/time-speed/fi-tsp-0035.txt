@@ -6,12 +6,12 @@ EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
 STEM: Mitä nopeusvaatimuksia sovelletaan voima- ja taitokilpailuissa?
-OPTION_A: Vähintään 325 m minuutissa
-OPTION_B: Vähintään 350 m minuutissa
-OPTION_C: Ei vaadittua vähimmäisnopeutta
-OPTION_D: enintään 400 m minuutissa
+OPTION_A: Vähintään 325 m/min
+OPTION_B: Vähintään 350 m/min
+OPTION_C: Vähimmäisnopeutta ei vaadita
+OPTION_D: Enintään 400 m/min
 CORRECT: C
-EXPLANATION: JR:n artiklassa 258.1.6 todetaan, että voima- ja taitokilpailuissa ei ole vähimmäisnopeusvaatimusta.
+EXPLANATION: Kilpailusääntöjen kohdassa 258.1.6 todetaan, ettei voima- ja taitokilpailuissa ole vähimmäisnopeusvaatimusta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

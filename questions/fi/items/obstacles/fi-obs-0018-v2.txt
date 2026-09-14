@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä Jokeria koskeva väittämä on oikein JR:n artiklan 240.3 nojalla?
-OPTION_A: Se on pakollinen kaikissa erikoiskilpailuissa
-OPTION_B: Sen täytyy aina olla radan ensimmäinen este
-OPTION_C: Se on valinnainen ja voi esiintyä vain keräilykilpailussa
-OPTION_D: Se on eräänlainen vesihyppy
+STEM: Mikä seuraavista jokeriestettä koskevista väittämistä on oikein kilpailusääntöjen artiklan 240.3 mukaan?
+OPTION_A: Se on pakollinen kaikissa erikoisluokissa
+OPTION_B: Sen on aina oltava radan ensimmäinen este
+OPTION_C: Se on vapaaehtoinen, ja sitä saa käyttää vain vaikeutuvassa ratsastuksessa
+OPTION_D: Se on eräänlainen vesieste
 CORRECT: C
-EXPLANATION: JR:n artikla 301 määrittelee Jokerin vaikeaksi valinnaiseksi esteeksi, joka on sallittu vain yhdistettyssä kilpailussa.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 jokerieste määritellään vaikeaksi vapaaehtoiseksi esteeksi, joka on sallittu vain vaikeutuvassa ratsastuksessa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

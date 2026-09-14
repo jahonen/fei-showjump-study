@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Missä yhteisen ohjeiston artiklan 266 nojalla löytyvät yksityiskohtaiset vaatimukset kenkien ja siteiden valvonnalle?
-OPTION_A: Vain JR:n 266 artiklassa itsessään
-OPTION_B: VR-reaktioissa ja kengän ja siteen hallintaprotokollassa
-OPTION_C: Yleisten sääntöjen 142 artiklassa
-OPTION_D: Yhteisten suositusten liitteessä VIII
+STEM: Mistä artiklassa 266 tarkoitetut suojien ja siteiden tarkastusta koskevat yksityiskohtaiset vaatimukset löytyvät?
+OPTION_A: Vain artiklasta 266 itsestään
+OPTION_B: Veterinaarisäännöistä ja suojien ja siteiden tarkastusta koskevasta ohjeesta
+OPTION_C: Yleisten sääntöjen artiklasta 142
+OPTION_D: Sääntöjen liitteestä VIII
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artikla 346 edellyttää jalkojen ja siteiden tarkastusta tietyissä kilpailuissa ja toteaa, että lisätietoja löytyy kilpailusäännöistä ja jalkojen ja siteiden tarkastusprotokollasta, jotka ovat saatavilla FEI:n verkkosivujen stewardiit Hubissa.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 edellytetään suojien ja siteiden tarkastusta tietyissä kilpailuissa ja todetaan, että tarkemmat tiedot löytyvät säännöistä ja suojien ja siteiden tarkastusta koskevasta ohjeesta, jotka ovat saatavilla FEI:n verkkosivujen Stewards Hub -osiossa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

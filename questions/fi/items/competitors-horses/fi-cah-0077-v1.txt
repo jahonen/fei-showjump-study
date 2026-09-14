@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Junioriurheilijasääntöjen artiklan 205.3.3 mukaan urheilija voi kilpailla juniorina 14-vuotiaasta sen vuoden loppuun asti, jona hän täyttää:
-OPTION_A: 16
-OPTION_B: 18
-OPTION_C: 21
-OPTION_D: 25
+STEM: Artiklan 205.3.3 mukaan urheilija voi kilpailla juniorina 14 vuoden iästä sen vuoden loppuun, jona hän täyttää:
+OPTION_A: 16 vuotta
+OPTION_B: 18 vuotta
+OPTION_C: 21 vuotta
+OPTION_D: 25 vuotta
 CORRECT: B
-EXPLANATION: Junioriurheilijoiden sääntöjen artiklassa 205.3.3 todetaan, että urheilijat voivat kilpailla juniorisarjoissa siitä vuodesta, kun he täyttävät 14 vuotta, siihen vuoteen, kun he täyttävät 18 vuotta.
+EXPLANATION: Kilpailusääntöjen artiklassa 205.3.3 todetaan, että urheilijat voivat kilpailla junioreiden kilpailuissa siitä vuodesta alkaen, jona he täyttävät 14 vuotta, sen vuoden loppuun, jona he täyttävät 18 vuotta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

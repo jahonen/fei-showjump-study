@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: JR:n artikla 263.4.29 on eliminointisääntö, joka koskee erityisesti:
-OPTION_A: Piiskan käyttö
-OPTION_B: Elektroniset laitteet
-OPTION_C: Suojaava pääpanssari leukahihnalla
-OPTION_D: Saappaat ja siteet
+STEM: Mitä artiklassa 263.4.29 säädetty hylkäämisperuste koskee nimenomaisesti?
+OPTION_A: Raipan käyttöä
+OPTION_B: Elektronisia laitteita
+OPTION_C: Suojapäähineen leukahihnaa
+OPTION_D: Suojia ja siteitä
 CORRECT: C
-EXPLANATION: JR:n artikla 346 käsittelee hyppimistä suojakypärän leukahihna väärin kiinnitettynä tai kiinnittämättä jääneenä.
+EXPLANATION: Kilpailusääntöjen artikla 346 koskee esteen hyppäämistä silloin, kun suojapäähineen leukahihna on kiinnitetty väärin tai se on jäänyt kiinnittämättä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

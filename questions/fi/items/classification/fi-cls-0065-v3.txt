@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: JRs Art 267.2 suosittelee, että palkinnonsaajat osallistuvat palkintojenjakotilaisuuteen seuraavien kanssa:
-OPTION_A: Heidän valmentajansa
-OPTION_B: Sijoitetut hevoset
-OPTION_C: Heidän kansallisen liittonsa edustaja
-OPTION_D: Sponsorin edustaja
+STEM: Kenen kanssa palkinnonsaajien tulee kilpailusääntöjen artiklan 267.2 mukaan osallistua palkintojenjakotilaisuuteen?
+OPTION_A: Valmentajansa kanssa
+OPTION_B: Sijoittuneiden hevosten kanssa
+OPTION_C: Kansallisen liittonsa edustajan kanssa
+OPTION_D: Sponsorin edustajan kanssa
 CORRECT: B
-EXPLANATION: JR:n artiklassa 267.2 määrätään, että palkintojen voittajien tulee osallistua palkintojenjakotilaisuuteen sijoittuneiden hevosten kanssa.
+EXPLANATION: Kilpailusääntöjen artiklassa 267.2 määrätään, että palkinnonsaajien tulee osallistua palkintojenjakotilaisuuteen sijoittuneiden hevosten kanssa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

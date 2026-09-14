@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Henkilöllisyyden salaamisen kielto hevostarkastuksessa pyrkii varmistamaan:
-OPTION_A: Oikea tunnistus
-OPTION_B: Yhtenäinen väri
-OPTION_C: Sponsorin näkyvyys
-OPTION_D: Lämpötilan säätö
+STEM: Mitä hevostarkastuksessa tuntomerkkien peittämistä koskevalla kiellolla pyritään varmistamaan?
+OPTION_A: Hevosen luotettava tunnistaminen
+OPTION_B: Yhtenäinen väritys
+OPTION_C: Sponsorien näkyvyys
+OPTION_D: Lämmönsäätely
 CORRECT: A
-EXPLANATION: JR:n artikla 321 on osa passin/henkilöllisyyden tarkastusta sen varmistamiseksi, että esitetty hevonen vastaa virallista identiteettiään.
+EXPLANATION: Kilpailusääntöjen kohta 321 on osa passin- ja tunnistustarkastusta, jolla varmistetaan, että esitetty hevonen vastaa virallisia tunnistetietojaan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

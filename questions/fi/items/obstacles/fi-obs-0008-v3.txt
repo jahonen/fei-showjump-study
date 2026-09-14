@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä esteiden tuentoja koskeva väittämä on oikein JR:n artiklan 232.3 nojalla?
-OPTION_A: Kupit on kiinnitettävä niin, että tangot eivät pääse vierimään
-OPTION_B: Kuppien on sallittava tangon vieriminen ja niiden on oltava 18–20 mm syviä
-OPTION_C: Turvakupit ovat syvyysrajoituksista vapautettuja
-OPTION_D: Kupin syvyys mitataan standardin ulkopuolelta
+STEM: Mikä seuraavista kannattimia koskevista väittämistä on oikein kilpailusääntöjen artiklan 232.3 mukaan?
+OPTION_A: Kannattimet on kiinnitettävä niin, etteivät puomit pääse vierimään
+OPTION_B: Kannattimen on sallittava puomin vieriminen, ja sen syvyyden on oltava 18–20 mm
+OPTION_C: Syvyysrajoitukset eivät koske turvakannattimia
+OPTION_D: Kannattimen syvyys mitataan esteen pylvään ulkopuolelta
 CORRECT: B
-EXPLANATION: JR:n artikla 301 edellyttää, että tanko voi vieriä tuellaan, ja asettaa kupin syvyydeksi vähintään 18 mm ja enintään 20 mm.
+EXPLANATION: Kilpailusääntöjen artikla 301 edellyttää, että puomi pääsee vierimään kannattimellaan, ja määrää kannattimen syvyydeksi vähintään 18 mm ja enintään 20 mm.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

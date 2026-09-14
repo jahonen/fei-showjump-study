@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mikä on kolmoispuomin esteen suurin leveys JR:n artiklan 233.1 mukaan?
+STEM: Mikä on trippelin suurin sallittu leveys kilpailusääntöjen artiklan 233.1 mukaan?
 OPTION_A: 1,80 metriä
 OPTION_B: 2,00 metriä
 OPTION_C: 2,20 metriä
 OPTION_D: 2,40 metriä
 CORRECT: C
-EXPLANATION: JR:n artikla 301 sallii kolmoispuomien enimmäisleveyden 2,20 m.
+EXPLANATION: Kilpailusääntöjen artikla 301 sallii trippelille 2,20 metrin enimmäisleveyden.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

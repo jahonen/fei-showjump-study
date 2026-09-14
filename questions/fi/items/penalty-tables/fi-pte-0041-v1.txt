@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Urheilijat, jotka eivät noudata harjoituskierrosten ilmoitussääntöä JR:n artiklan 217.3 mukaisesti, voidaan tuomita:
-OPTION_A: Sakoitettu
-OPTION_B: Tuomariston pudottama
-OPTION_C: Annettu varoitus
-OPTION_D: Hylätty tapahtumasta
+STEM: Mitä urheilijalle voi seurata, jos hän ei noudata kilpailusääntöjen kohdan 217.3 mukaista harjoituskierroksen ilmoitusvelvollisuutta?
+OPTION_A: Sakko
+OPTION_B: Tuomariston päätös hylätä suoritus
+OPTION_C: Varoitus
+OPTION_D: Sulkeminen koko kilpailusta
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen artiklassa 217.3 todetaan, että tuomaristo voi poistaa sääntöä rikkovat urheilijat kilpailusta (katso yhteisösääntöjen artikla 342).
+EXPLANATION: Kilpailusääntöjen kohdassa 217.3 todetaan, että tuomaristo voi hylätä sääntöä rikkovan urheilijan suorituksen (ks. Kilpailusääntöjen kohta 342).
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

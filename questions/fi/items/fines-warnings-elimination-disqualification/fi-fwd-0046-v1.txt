@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Yhteisen ohjesäännön artiklan 263.4.13 mukaan enimmäisaikarajan ylittäminen on peruste:
-OPTION_A: Sakko
-OPTION_B: Varoitus
-OPTION_C: Eliminaatio
-OPTION_D: Keltainen kortti
+STEM: Mihin aikarajan ylittäminen johtaa artiklan 263.4.13 mukaan?
+OPTION_A: Sakkoon
+OPTION_B: Varoitukseen
+OPTION_C: Hylkäämiseen
+OPTION_D: Keltaiseen korttiin
 CORRECT: C
-EXPLANATION: Yhteisen sääntöjen artiklassa 263.4.13 aikarajan ylittäminen on pakollinen eliminointi.
+EXPLANATION: Artiklassa 263.4.13 aikarajan ylittäminen mainitaan pakollisena hylkäämisperusteena.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

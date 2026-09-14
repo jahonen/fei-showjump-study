@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Pöydän A kilpailun uusintahyppy voidaan tuomaroida taulukon C mukaan vain, jos:
-OPTION_A: Tuomaristo ilmoittaa sen kilpailun aikana
-OPTION_B: Se on määritelty aikataulussa
-OPTION_C: Kaikki urheilijat ovat samaa mieltä
-OPTION_D: Se on Kansakuntien Cup
+STEM: Millä edellytyksellä arvostelun A mukaan ratsastetun luokan uusinta voidaan arvostella arvostelun C mukaan?
+OPTION_A: Tuomaristo ilmoittaa siitä kilpailun aikana
+OPTION_B: Siitä on määrätty kilpailukutsussa
+OPTION_C: Kaikki urheilijat suostuvat siihen
+OPTION_D: Kyseessä on Nations Cup -kilpailu
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen artikla 344 sallii taulukon A mukaisen uusinnan tuomaroinnin taulukon C mukaisesti vain, jos se on mainittu ohjelmassa.
+EXPLANATION: Kilpailusääntöjen artikla 344 sallii arvostelun A mukaan ratsastetun luokan uusinnan arvostelemisen arvostelun C mukaan vain, jos siitä on mainittu kilpailukutsussa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

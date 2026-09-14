@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Suljettu yhdistelmä erotetaan osittain suljetusta yhdistelmästä seuraavasti:
-OPTION_A: Elementtien lukumäärä
-OPTION_B: Onko yhdistelmä kokonaan sellaisten sivujen ympäröimä, jotka voidaan ylittää vain hyppäämällä, vai onko vain yksi osa suljettu
-OPTION_C: Elementtien välinen etäisyys
-OPTION_D: Vesihypyn läsnäolo
+STEM: Mikä erottaa umpinaisen sarjaesteen osittain umpinaisesta sarjaesteestä?
+OPTION_A: Osaesteiden lukumäärä
+OPTION_B: Se, onko sarjaeste kokonaan sellaisten sivujen ympäröimä, jotka voi ylittää vain hyppäämällä, vai onko vain yksi sivu suljettu
+OPTION_C: Osaesteiden välinen etäisyys
+OPTION_D: Vesihaudan käyttäminen sarjaesteessä
 CORRECT: B
-EXPLANATION: Yhteistyösääntöjen artikla 301 määrittelee täysin suljetun sarjan sellaiseksi, jonka ympäröivät sivut voidaan ylittää vain hyppäämällä, kun taas yhteissääntöjen artikla 301 määrittelee osittain suljetun sarjan sellaiseksi, jossa on yksi suljettu ja yksi avoin osa.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 täysin umpinaiseksi sarjaesteeksi määritellään sarjaeste, jonka ympäröivät sivut voi ylittää vain hyppäämällä, kun taas osittain umpinaisessa sarjaesteessä on yksi suljettu ja yksi avoin sivu.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

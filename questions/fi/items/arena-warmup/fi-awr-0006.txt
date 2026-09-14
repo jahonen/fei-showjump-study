@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: single-select
-STEM: Kilpailussa, jossa esteiden enimmäiskorkeus on 1,40 m tai vähemmän, mikä on harjoitusesteiden sallittu enimmäiskorkeus lämmittelyalueella?
+STEM: Mikä on verryttelyalueen esteiden suurin sallittu korkeus kilpailussa, jossa esteiden enimmäiskorkeus on 1,40 m tai vähemmän?
 OPTION_A: 1,40 metriä
 OPTION_B: 1,50 metriä
-OPTION_C: 10 cm enemmän kuin kilpailun enimmäispituus, jopa 1,50 m
+OPTION_C: 10 cm enemmän kuin kilpailun enimmäiskorkeus, enintään 1,50 m
 OPTION_D: 1,65 metriä
 CORRECT: C
-EXPLANATION: Kilpailusääntöjen artikla 329 määrää, että kilpailuissa (poikkeamalla ponikilpailut), joissa esteiden enimmäiskorkeus on 1,40 m tai vähemmän, lämmittelyesteet eivät saa ylittää 10 cm kilpailuesteiden todellista enimmäiskorkeutta ja -leveyttä.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 määrätään, että kilpailuissa, joissa esteiden enimmäiskorkeus on 1,40 m tai vähemmän, verryttelyesteet saavat ylittää kilpailuesteiden todellisen enimmäiskorkeuden ja -pituuden enintään 10 senttimetrillä. Poniluokat ovat tästä poikkeus.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

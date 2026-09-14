@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Mitkä säännökset käsittelevät erityisesti hevosten antidopingia ja valvottua lääkitystä?
+STEM: Mitkä määräykset koskevat nimenomaan hevosten antidopingia ja valvottua lääkitystä?
 OPTION_A: FEI:n säännöt
-OPTION_B: FEI:n hevosten antidoping- ja valvottujen lääkkeiden säännöt
+OPTION_B: FEI:n hevosten antidoping- ja valvotun lääkityksen määräykset
 OPTION_C: Vain FEI:n yleiset säännöt
-OPTION_D: Vain esteratsastuksen säännöt
+OPTION_D: Vain esteratsastuksen kilpailusäännöt
 CORRECT: B
-EXPLANATION: Yhteisen ohjeistuksen artiklassa 275.2 viitataan hevosten antidoping- ja valvottujen lääkkeiden määräyksiin osana lääkkeiden valvonnan kehystä.
+EXPLANATION: Kilpailusääntöjen kohdassa 275.2 viitataan hevosten antidoping- ja valvotun lääkityksen määräyksiin osana lääkitysvalvonnan säännöstöä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

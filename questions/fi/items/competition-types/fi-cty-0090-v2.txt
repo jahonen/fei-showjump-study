@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Mitä estetyyppejä EI sallita puissance-kilpailussa JR:n artiklan 230.2.1 nojalla?
-OPTION_A: Pystysuorat ja seinät
-OPTION_B: Yhdistelmäesteet, vesihypyt, ojat ja luonnonesteet
-OPTION_C: Levitä esteitä
-OPTION_D: Yksittäisnavat
+STEM: Mitä estetyyppejä Puissance-kilpailussa ei kilpailusääntöjen artiklan 230.2.1 nojalla sallita?
+OPTION_A: Pystyesteitä ja muureja
+OPTION_B: Sarjaesteitä, vesiesteitä, ojia ja luonnonesteitä
+OPTION_C: Pituusesteitä
+OPTION_D: Yksittäisesteitä
 CORRECT: B
-EXPLANATION: JR:n artikla 354 kieltää yhdistelmäesteet, vesihypyt, ojat ja luonnonesteet ponnistelukilpailuissa.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 kielletään sarjaesteet, vesiesteet, ojat ja luonnonesteet Puissance-kilpailuissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

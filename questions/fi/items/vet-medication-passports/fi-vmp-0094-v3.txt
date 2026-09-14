@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Yhteisen ohjesäännön artikla 275.1.3.3 toteaa, että suitsia ja varusteita koskevasta säännöstä ei voida poiketa. Onko tämä väite oikein?
-OPTION_A: Ei, poikkeukset ovat tuomariston harkinnassa.
-OPTION_B: Kyllä, poikkeuksia ei sallita
-OPTION_C: Vain poneille
-OPTION_D: Vain huonolla säällä
+STEM: Kilpailusääntöjen kohdassa 275.1.3.3 todetaan, ettei suitsia ja varusteita koskevasta säännöstä voi poiketa. Onko väite oikein?
+OPTION_A: Ei, sillä poikkeukset ovat tuomariston harkinnassa
+OPTION_B: Kyllä, sillä poikkeuksia ei sallita
+OPTION_C: Se pätee vain poneihin
+OPTION_D: Se pätee vain huonolla säällä
 CORRECT: B
-EXPLANATION: Yhteisen säännöstön artiklassa 275.1.3.3 todetaan nimenomaisesti, että "tästä ei voida tehdä poikkeuksia".
+EXPLANATION: Kilpailusääntöjen kohdassa 275.1.3.3 todetaan nimenomaisesti, ettei säännöstä voi poiketa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

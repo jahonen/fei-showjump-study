@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Milloin kello käynnistetään uudelleen JR:n artiklan 256 mukaan sen jälkeen, kun este on rakennettu uudelleen määritellyn tottelemattomuuden ja kaatamisen jälkeen?
-OPTION_A: Kun kello soitetaan
-OPTION_B: Kun urheilija saavuttaa esteen
-OPTION_C: Kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtui
-OPTION_D: Kun hevonen laskeutuu esteen ylityksen jälkeen
+STEM: Milloin kello käynnistetään kilpailusääntöjen kohdan 256 mukaan uudelleen sen jälkeen, kun tottelemattomuuden yhteydessä pudonnut este on pystytetty uudelleen?
+OPTION_A: Kun äänimerkki annetaan
+OPTION_B: Kun ratsukko saapuu esteelle
+OPTION_C: Kun hevonen ponnistaa hyppyyn sillä esteellä, jolla kieltäytyminen tapahtui
+OPTION_D: Kun hevonen laskeutuu esteen ylitettyään
 CORRECT: C
-EXPLANATION: JR:n artiklassa 256 määrätään, että kello käynnistetään uudelleen, kun hevonen nousee maasta esteen kohdalla, jossa hylkääminen tapahtui; jos hylkääminen tapahtui sarjan toisessa tai sitä seuraavassa osassa, kello käynnistetään uudelleen, kun hevonen nousee maasta esteen ensimmäisessä osassa.
+EXPLANATION: Kilpailusääntöjen kohdassa 256 määrätään, että kello käynnistetään uudelleen, kun hevonen ponnistaa hyppyyn sillä esteellä, jolla kieltäytyminen tapahtui. Jos kieltäytyminen tapahtui sarjaesteen toisella tai sitä seuraavalla osalla, kello käynnistetään uudelleen, kun hevonen ponnistaa hyppyyn sarjan ensimmäisellä osalla.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

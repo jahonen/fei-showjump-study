@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Hevonen ylittää esteen jatkeen hyppäämättä sitä. Yhteisösääntöjen artiklan 246.3 mukaan tämä on:
+STEM: Hevonen ohittaa hypättävän esteen oletetun jatkeen hyppäämättä estettä. Mitä tämä on artiklan 246.3 mukaan?
 OPTION_A: Kieltäytyminen
-OPTION_B: Loppuunmyyty
-OPTION_C: Syksy
-OPTION_D: Ei vikaa
+OPTION_B: Sivuun poikkeaminen
+OPTION_C: Kaatuminen
+OPTION_D: Ei virhe
 CORRECT: B
-EXPLANATION: JR:n artikla 348 määrää, että kyseessä on loppukiri, jos hevonen tai mikä tahansa hevosen osa ylittää hypättävän esteen jatkeen.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 määrätään, että kyse on sivuun poikkeamisesta, kun hevonen tai mikä tahansa sen osa ohittaa hypättävän esteen oletetun jatkeen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Hevonen osoittaa vastustusta 45 sekuntia peräkkäin kierroksen aikana. Mitä siitä seuraa?
-OPTION_A: 4 rangaistusta
+STEM: Hevonen niskuroi suorituksen aikana 45 sekuntia yhtäjaksoisesti. Mitä siitä seuraa?
+OPTION_A: 4 virhepistettä
 OPTION_B: Varoitus
-OPTION_C: Eliminaatio
+OPTION_C: Suorituksen hylkääminen
 OPTION_D: Urheilijan on jatkettava lyhyen tauon jälkeen
 CORRECT: C
-EXPLANATION: JR:n artikla 346 määrää, että jos hevonen vastustaa 45 sekuntia yhtäjaksoisesti kierroksen aikana, se johtaa kilpailusta poistumiseen.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 määrätään, että jos hevonen niskuroi suorituksen aikana 45 sekuntia yhtäjaksoisesti, suoritus hylätään.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

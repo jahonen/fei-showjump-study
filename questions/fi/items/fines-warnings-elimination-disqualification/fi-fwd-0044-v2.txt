@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Urheilijalla on ensimmäinen hylkääminen ja sitten toinen loppukiri samassa erässä. Yhteisösääntöjen artiklan 263.4.25 mukaan seuraus on:
-OPTION_A: Ei rangaistusta
-OPTION_B: 4 rangaistusta
-OPTION_C: Eliminaatio
+STEM: Urheilija saa samalla suorituksella ensin kieltäytymisen ja sitten sivuun poikkeamisen. Mitä tästä seuraa artiklan 263.4.25 mukaan?
+OPTION_A: Ei seurausta
+OPTION_B: 4 virhepistettä
+OPTION_C: Suorituksen hylkääminen
 OPTION_D: Varoitus
 CORRECT: C
-EXPLANATION: JR:n artikla 346 määrää, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin; kieltäytyminen ja loppukiri ovat molemmat tottelemattomuus.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 määrätään, että toinen tottelemattomuus suorituksen aikana johtaa hylkäämiseen; sekä kieltäytyminen että sivuun poikkeaminen ovat tottelemattomuutta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Nuorten sääntöjen artiklan 205.3.1 mukaan U25-sarja on voimassa 16-vuotiaasta sen vuoden loppuun asti, jolloin urheilija täyttää:
-OPTION_A: 21
-OPTION_B: 23
-OPTION_C: 25
-OPTION_D: 30
+STEM: Artiklan 205.3.1 mukaan urheilija voi kilpailla U25-sarjassa 16 vuoden iästä sen vuoden loppuun, jona hän täyttää:
+OPTION_A: 21 vuotta
+OPTION_B: 23 vuotta
+OPTION_C: 25 vuotta
+OPTION_D: 30 vuotta
 CORRECT: C
-EXPLANATION: JR:n artikla 333 määrää, että urheilijat voivat kilpailla U25-sarjassa siitä vuodesta, jona he täyttävät 16 vuotta, sen vuoden loppuun, jona he täyttävät 25 vuotta.
+EXPLANATION: Kilpailusääntöjen artiklassa 333 määrätään, että urheilijat voivat kilpailla U25-sarjassa siitä vuodesta alkaen, jona he täyttävät 16 vuotta, sen vuoden loppuun, jona he täyttävät 25 vuotta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

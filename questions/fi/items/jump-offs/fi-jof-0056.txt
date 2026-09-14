@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Missä kilpailussa on mainittava, onko siinä uusintahyppy?
-OPTION_A: Palkintolistalla
-OPTION_B: Aikataulussa
-OPTION_C: Vain kurssisuunnitelmassa
-OPTION_D: Oletetaan, ellei toisin mainita
+STEM: Missä on mainittava, järjestetäänkö luokassa uusinta?
+OPTION_A: Palkintoluettelossa
+OPTION_B: Kilpailukutsussa
+OPTION_C: Vain ratapiirroksessa
+OPTION_D: Ei missään, sillä uusinta oletetaan, ellei toisin mainita
 CORRECT: B
-EXPLANATION: JR:n artiklassa 218.1.2 määrätään, että aikataulussa on mainittava, onko kilpailussa uusintahyppy; jos sitä ei ole mainittu, kilpailun katsotaan olevan ilman uusintahyppyä.
+EXPLANATION: Kilpailusääntöjen artiklassa 218.1.2 määrätään, että kilpailukutsussa on mainittava, järjestetäänkö luokassa uusinta. Jos asiaa ei mainita, luokan katsotaan olevan ilman uusintaa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

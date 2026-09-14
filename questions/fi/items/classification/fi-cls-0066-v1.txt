@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Urheilijan kilpailusääntöjen artiklan 218.3.1 mukaan sallittu vetäytyminen toiselta kierrokselta asettaa urheilijan:
-OPTION_A: Ensimmäinen
-OPTION_B: Tasainen viimeinen niiden jälkeen, jotka suorittivat
-OPTION_C: Ensimmäisen kierroksen ajan mukaan
-OPTION_D: Ei luokiteltu
+STEM: Mihin kilpailusääntöjen artiklan 218.3.1 mukainen luvallinen vetäytyminen toiselta kierrokselta sijoittaa urheilijan?
+OPTION_A: Ensimmäiselle sijalle
+OPTION_B: Jaetulle viimeiselle sijalle suorituksen päättäneiden jälkeen
+OPTION_C: Ensimmäisen kierroksen ajan mukaiselle sijalle
+OPTION_D: Ei mihinkään sijalle, eli urheilija jää sijoittumatta
 CORRECT: B
-EXPLANATION: JR:n artikla 341 koskee uusintoja, toisia kierroksia ja voittaneita kierroksia, ja luopuneet/pudotetut/luvan saaneet urheilijat sijoittuvat tasan viimeisiksi maaliin tulleiden jälkeen.
+EXPLANATION: Kilpailusääntöjen artikla 341 koskee uusintoja, toisia kierroksia ja voittokierroksia. Keskeyttäneet, hylätyt ja luvalla vetäytyneet urheilijat sijoittuvat jaetulle viimeiselle sijalle suorituksen päättäneiden jälkeen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

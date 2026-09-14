@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mitä vaikutuksia Jokerin hyppäämisellä on moninpelissä?
-OPTION_A: Se vähentää aikarangaistuksia
-OPTION_B: Se kerää enemmän pisteitä kuin vaihtoehtoinen vakioeste
+STEM: Mikä vaikutus jokeriesteen hyppäämisellä on vaikeutuvassa ratsastuksessa?
+OPTION_A: Se vähentää aikavirhepisteitä
+OPTION_B: Siitä saa enemmän pisteitä kuin vaihtoehtoisesta tavallisesta esteestä
 OPTION_C: Se poistaa aiemmat virheet
-OPTION_D: Se myöntää välittömän uudelleenajon
+OPTION_D: Se oikeuttaa välittömään uusintasuoritukseen
 CORRECT: B
-EXPLANATION: JR:n artiklassa 240.3 todetaan, että urheilija/hevonen -yhdistelmä kerää enemmän pisteitä, jos se valitsee hyppääväksi jokerin vaihtoehtoisen vakioesteen sijaan.
+EXPLANATION: Kilpailusääntöjen artiklassa 240.3 todetaan, että ratsukko saa enemmän pisteitä, jos se hyppää jokeriesteen vaihtoehtoisen tavallisen esteen sijasta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

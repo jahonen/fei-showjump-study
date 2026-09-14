@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Siitä vuodesta lähtien, kun urheilijat täyttävät 16 vuotta, he voivat kilpailla kaikissa CSI1*–CSI5*- ja CSIO1*–CSIO5*-lajeissa nuorten sääntöjen artiklan 205.2.4 mukaisesti. Seniorien alueellisissa kisoissa aloituskierroksen korkeus ei saa ylittää:
+STEM: Siitä vuodesta alkaen, jona urheilijat täyttävät 16 vuotta, he voivat artiklan 205.2.4 mukaan kilpailla kaikissa CSI1*–CSI5*- ja CSIO1*–CSIO5*-kilpailuissa. Seniorien alueellisissa kilpailuissa ensimmäisen kierroksen esteiden korkeus ei kuitenkaan saa ylittää:
 OPTION_A: 1,30 metriä
 OPTION_B: 1,35 metriä
 OPTION_C: 1,40 metriä
 OPTION_D: 1,45 metriä
 CORRECT: D
-EXPLANATION: Juniorisääntöjen artikla 333 sallii urheilijoiden 16 vuotta täyttäessään kilpailla kaikissa CSI/CSIO 1*-5* -kilpailuissa ja seniorien alueellisissa kisoissa, edellyttäen, että aloituskierroksen korkeus ei ylitä 1,45 m seniorien alueellisissa kisoissa.
+EXPLANATION: Kilpailusääntöjen artikla 333 sallii urheilijoiden kilpailla siitä vuodesta alkaen, jona he täyttävät 16 vuotta, kaikissa CSI1*–5*- ja CSIO1*–5*-kilpailuissa sekä seniorien alueellisissa kilpailuissa edellyttäen, että ensimmäisen kierroksen esteiden korkeus ei ylitä seniorien alueellisissa kilpailuissa 1,45 metriä.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

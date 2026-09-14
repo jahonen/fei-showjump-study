@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Mikä on suurin mahdollinen spreadi kolmoisvedolle 5 tähden Nations Cupissa JR:n artiklan 226.3.1 nojalla?
+STEM: Mikä on trippelin suurin sallittu pituus viiden tähden Nations Cupissa kilpailusääntöjen artiklan 226.3.1 nojalla?
 OPTION_A: 2,00 metriä
 OPTION_B: 2,10 metriä
 OPTION_C: 2,20 metriä
 OPTION_D: 2,30 metriä
 CORRECT: C
-EXPLANATION: JR:n artikla 354 taulukossa kolmoispuomin enimmäisleveys 5 tähden NC:ssä on 2,20 m.
+EXPLANATION: Kilpailusääntöjen artiklan 354 taulukon mukaan trippelin enimmäispituus viiden tähden Nations Cupissa on 2,20 m.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

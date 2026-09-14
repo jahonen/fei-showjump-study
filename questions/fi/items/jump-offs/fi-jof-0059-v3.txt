@@ -5,13 +5,13 @@ ARTICLE: 344
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 22
 TYPE: single-select
-STEM: Yhteisen sääntöjen artiklan 218.2.3 mukaan uusintahyppyä voidaan lyhentää vähintään:
-OPTION_A: 4 estettä
-OPTION_B: 5 estettä
-OPTION_C: 6 estettä
-OPTION_D: 7 estettä
+STEM: Kilpailusääntöjen artiklan 218.2.3 mukaan uusintarataa voidaan lyhentää siten, että esteitä on vähintään:
+OPTION_A: neljä
+OPTION_B: viisi
+OPTION_C: kuusi
+OPTION_D: seitsemän
 CORRECT: C
-EXPLANATION: JR:n artikla 344 sallii esteiden määrän vähentämisen uusinnassa vähintään kuuteen.
+EXPLANATION: Kilpailusääntöjen artikla 344 sallii esteiden määrän vähentämisen uusinnassa kuuteen esteeseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

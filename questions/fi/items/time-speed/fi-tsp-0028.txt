@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Milloin urheilija/hevosyhdistelmästä seuraa aikarangaistus JR:n artiklan 250.1 nojalla?
-OPTION_A: Kun yhdistelmä päättyy ennen sallittua aikaa
-OPTION_B: Kun yhdistelmä ylittää kierrokselle sallitun ajan
-OPTION_C: Vain silloin, kun yhdistelmä ylittää enimmäisaikarajan
-OPTION_D: Aina kun kelloa soitetaan kierroksen aikana
+STEM: Milloin ratsukolle annetaan aikavirhepisteitä kilpailusääntöjen kohdan 250.1 nojalla?
+OPTION_A: Kun ratsukko suorittaa radan enimmäisaikaa nopeammin
+OPTION_B: Kun ratsukko ylittää suoritukselle asetetun enimmäisajan
+OPTION_C: Vain silloin, kun ratsukko ylittää aikarajan
+OPTION_D: Aina kun suorituksen aikana annetaan äänimerkki
 CORRECT: B
-EXPLANATION: JR:n artikla 352 toteaa, että urheilija/hevonen -yhdistelmälle määrätään aikarangaistus, jos se ylittää kierrokselle sallitun ajan.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 todetaan, että ratsukolle annetaan aikavirhepisteitä, jos se ylittää suoritukselle asetetun enimmäisajan.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

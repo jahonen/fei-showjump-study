@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Taulukossa C enimmäisaikarajan ylittäminen johtaa seuraavaan:
-OPTION_A: 4 Rangaistukset
-OPTION_B: Vain aikarangaistukset
-OPTION_C: Eliminaatio
+STEM: Mitä arvostelussa C aikarajan ylittämisestä seuraa?
+OPTION_A: 4 virhepistettä
+OPTION_B: Vain aikavirhepisteet
+OPTION_C: Suorituksen hylkääminen
 OPTION_D: Sakko
 CORRECT: C
-EXPLANATION: Yhteisen ohjeiston artikla 346 määrää, että taulukon C mukaisen enimmäisaikarajan ylittäminen johtaa hylkäämiseen, ja artikla 346 vahvistaa tämän yleisesti.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 määrätään, että arvostelun C aikarajan ylittäminen johtaa hylkäämiseen, ja sama sääntö vahvistetaan yleisesti artiklassa 346.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

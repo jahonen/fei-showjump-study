@@ -5,13 +5,13 @@ ARTICLE: 321
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 11
 TYPE: single-select
-STEM: Yhteisen ohjeistuksen artiklan 275.1.3.1 mukaan, jos hevoset eivät voi olla läsnä ensimmäisessä tarkastuksessa poikkeuksellisten, odottamattomien olosuhteiden vuoksi, kuka voi sallia toisen tarkastuksen myöhemmin?
+STEM: Kuka voi kilpailusääntöjen kohdan 275.1.3.1 mukaan sallia toisen tarkastuksen myöhemmin, jos hevoset eivät ole voineet olla läsnä ensimmäisessä tarkastuksessa poikkeuksellisten ja odottamattomien olosuhteiden vuoksi?
 OPTION_A: Joukkueenjohtaja
-OPTION_B: OC
-OPTION_C: Tuomaristo yhdessä eläinlääkäriasiantuntijan kanssa
+OPTION_B: Järjestäjä
+OPTION_C: Tuomaristo eläinlääkäriedustajaa kuultuaan
 OPTION_D: Tekninen edustaja yksin
 CORRECT: C
-EXPLANATION: Yhteisösääntöjen artikla 321 määrää, että tuomariston on eläinlääkäriasiantuntijan kanssa neuvoteltuaan mahdollista harkintansa mukaan sallia toinen hevostarkastus myöhemmin hevosille, jotka eivät ole voineet olla läsnä poikkeuksellisten ja odottamattomien olosuhteiden vuoksi.
+EXPLANATION: Kilpailusääntöjen kohdassa 321 määrätään, että tuomaristo voi eläinlääkäriedustajaa kuultuaan harkintansa mukaan sallia myöhemmin toisen hevostarkastuksen niille hevosille, jotka eivät ole voineet olla läsnä poikkeuksellisten ja odottamattomien olosuhteiden vuoksi.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

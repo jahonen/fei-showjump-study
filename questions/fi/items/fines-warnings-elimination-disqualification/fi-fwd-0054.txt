@@ -8,10 +8,10 @@ TYPE: single-select
 STEM: Kuka voi määrätä sakkoja esteratsastussääntöjen rikkomisesta?
 OPTION_A: Vain FEI:n pääsihteeri
 OPTION_B: Vain tuomariston puheenjohtaja
-OPTION_C: Tuomaristo, päätuomari ja tekninen asiantuntija, riippuen rikkomuksesta
-OPTION_D: Urheilijoiden kansallinen liitto
+OPTION_C: Tuomaristo, päätuomari ja tekninen asiantuntija rikkomuksen mukaan
+OPTION_D: Urheilijan kansallinen liitto
 CORRECT: B
-EXPLANATION: Yleisten kilpailusääntöjen artikla 346 määrää, että tuomariston puheenjohtaja voi määrätä sakkoja yleisten kilpailusääntöjen mukaisesti luetelluissa olosuhteissa.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 määrätään, että tuomariston puheenjohtaja voi määrätä sakkoja säännöissä luetelluissa tapauksissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Missä kilpailutyypissä aika ei ole koskaan ratkaiseva tekijä JR:n artiklan 230.1.4 mukaan?
-OPTION_A: Pöydän A Grand Prix
-OPTION_B: Voima ja taito
-OPTION_C: Kansakuntien Cup
-OPTION_D: Taulukon C nopeus
+STEM: Missä kilpailutyypissä aika ei koskaan ratkaise kilpailusääntöjen kohdan 230.1.4 mukaan?
+OPTION_A: Arvostelun A mukaisessa Grand Prix -luokassa
+OPTION_B: Voima- ja taitokilpailussa
+OPTION_C: Nations Cupissa
+OPTION_D: Arvostelun C mukaisessa nopeuskilpailussa
 CORRECT: B
-EXPLANATION: JR:n artikla 352 toteaa, että aika ei ole koskaan ratkaiseva tekijä voima- ja taitokilpailuissa; aikaa ei ole sallittua eikä aikarajaa.
+EXPLANATION: Kilpailusääntöjen kohdassa 352 todetaan, että aika ei koskaan ratkaise voima- ja taitokilpailuissa; niissä ei ole enimmäisaikaa eikä aikarajaa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

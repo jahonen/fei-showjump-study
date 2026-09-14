@@ -6,12 +6,12 @@ EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
 STEM: Mikä on kilpailuissa yleisesti sallittu nopeusalue?
-OPTION_A: 300–375 m minuutissa
-OPTION_B: 325–400 m minuutissa
-OPTION_C: 350–425 m minuutissa
-OPTION_D: 375–450 m minuutissa
+OPTION_A: 300–375 m/min
+OPTION_B: 325–400 m/min
+OPTION_C: 350–425 m/min
+OPTION_D: 375–450 m/min
 CORRECT: B
-EXPLANATION: JR:n artiklan 352 mukaan yleinen nopeusalue on vähintään 325 m minuutissa ja enintään 400 m minuutissa.
+EXPLANATION: Kilpailusääntöjen kohdan 352 mukaan yleinen nopeusalue on vähintään 325 m/min ja enintään 400 m/min.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

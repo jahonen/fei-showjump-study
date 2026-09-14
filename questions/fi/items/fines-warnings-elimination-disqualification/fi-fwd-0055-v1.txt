@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Hevosen kielestä vuotaa verta kilpailun aikana. Kilpailusääntöjen artiklan 259.2 nojalla toimitsijat voivat sallia huuhtelun tai pyyhkimisen ja antaa urheilija/hevosyhdistelmän jatkaa, jos:
+STEM: Hevosen kielestä vuotaa verta kilpailun aikana. Millä ehdolla toimihenkilöt voivat artiklan 259.2 mukaan sallia suun huuhtelun tai pyyhkimisen ja antaa ratsukon jatkaa?
 OPTION_A: Urheilija toimittaa eläinlääkärintodistuksen
-OPTION_B: Hevonen katsotaan kilpailukelpoiseksi artiklan 259.3 mukaisesti
+OPTION_B: Hevonen katsotaan artiklan 259.3 mukaisesti kilpailukelpoiseksi
 OPTION_C: Verenvuoto tyrehtyy 10 sekunnissa
 OPTION_D: Urheilija pyytää anteeksi
 CORRECT: B
-EXPLANATION: JR:n artikla 346 sallii huuhtelun/pyyhkimisen tietyissä veritapauksissa, mutta artikla 346 edellyttää, että tuomaristo katsoo hevosen kilpailukelpoiseksi eläinlääkäriasiantuntijan kanssa neuvoteltuaan.
+EXPLANATION: Kilpailusääntöjen artikla 346 sallii suun huuhtelun tai pyyhkimisen tietyissä verenvuototapauksissa, mutta edellyttää, että tuomaristo katsoo hevosen kilpailukelpoiseksi neuvoteltuaan eläinlääkäriasiantuntijan kanssa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

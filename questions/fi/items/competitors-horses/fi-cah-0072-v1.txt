@@ -5,13 +5,13 @@ ARTICLE: 333
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 18
 TYPE: single-select
-STEM: Minkä ikäisen hevosen on oltava JR:n artiklan 202.2 mukaan voidakseen kilpailla olympialaisissa?
+STEM: Minkä ikäinen hevosen on vähintään oltava, jotta se voi kilpailla olympialaisissa kilpailusääntöjen artiklan 202.2 mukaan?
 OPTION_A: Seitsemän vuotta
 OPTION_B: Kahdeksan vuotta
 OPTION_C: Yhdeksän vuotta
 OPTION_D: Kymmenen vuotta
 CORRECT: C
-EXPLANATION: Junioriratsastajan sääntöjen artikla 333 edellyttää hevosten olevan vähintään yhdeksänvuotiaita olympialaisissa, maailmanmestaruuskilpailuissa ja FEI:n esteratsastuksen maailmancupin finaalissa.
+EXPLANATION: Kilpailusääntöjen artikla 333 edellyttää, että hevonen on vähintään yhdeksänvuotias olympialaisissa, maailmanmestaruuskilpailuissa ja FEI:n esteratsastuksen maailmancupin finaalissa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

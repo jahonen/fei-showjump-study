@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mikä tottelemattomuussääntö johtaa pakolliseen hylkäämiseen JR:n artiklan 263.4.25 mukaan?
+STEM: Mikä tottelemattomuus johtaa artiklan 263.4.25 mukaan pakolliseen hylkäämiseen?
 OPTION_A: Ensimmäinen
 OPTION_B: Toinen
 OPTION_C: Kolmas
 OPTION_D: Neljäs
 CORRECT: B
-EXPLANATION: JR:n artikla 346 toteaa, että toinen tottelemattomuus kierroksen aikana johtaa eliminointiin.
+EXPLANATION: Kilpailusääntöjen artiklassa 346 todetaan, että toinen tottelemattomuus suorituksen aikana johtaa hylkäämiseen.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

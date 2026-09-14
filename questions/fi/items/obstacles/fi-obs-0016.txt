@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Mitä urheilijan on tehtävä normaalien sääntöjen mukaan hylkäämisen tai loppukirin jälkeen yhdistetyssä suorituksessa?
-OPTION_A: Hyppää uudelleen vain siihen elementtiin, jossa vika ilmeni
-OPTION_B: Hyppää uudelleen kaikki yhdistelmän elementit
-OPTION_C: Jatka seuraavalle esteelle
-OPTION_D: Ympyröi kerran ja jatka seuraavasta elementistä
+STEM: Mitä ratsukon on pääsäännön mukaan tehtävä, jos se tekee sarjaesteellä kiellon tai ohituksen?
+OPTION_A: Hypättävä uudelleen vain se osaeste, jolla virhe tapahtui
+OPTION_B: Hypättävä uudelleen kaikki sarjaesteen osaesteet
+OPTION_C: Jatkettava seuraavalle esteelle
+OPTION_D: Ratsastettava yksi ympyrä ja jatkettava seuraavasta osaesteestä
 CORRECT: B
-EXPLANATION: JR:n artiklassa 237.3 määrätään, että hylkäyksen tai loppukirin sattuessa urheilija/hevosyhdistelmän on hypättävä kaikki yhdistelmän elementit uudelleen, ellei kyseessä ole suljettu tai osittain suljettu yhdistelmä tai kuuden palkin hyppy.
+EXPLANATION: Kilpailusääntöjen artiklassa 237.3 määrätään, että kiellon tai ohituksen sattuessa ratsukon on hypättävä uudelleen kaikki sarjaesteen osaesteet, ellei kyseessä ole umpinainen tai osittain umpinainen sarjaeste tai kuuden esteen kilpailu.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

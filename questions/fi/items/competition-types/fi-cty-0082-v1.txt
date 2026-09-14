@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: single-select
-STEM: Yhteisösääntöjen artiklan 220.2.1.3 mukaan taulukon A aikakilpailun uusintahyppy voidaan tuomaroida taulukon C mukaan vain, jos:
-OPTION_A: Kaikki urheilijat ovat samaa mieltä
-OPTION_B: Longines Ranking -pisteitä ei ole, ja aikataulussa se on määritelty.
-OPTION_C: Se on Grand Prix
-OPTION_D: Se pidetään sisätiloissa
+STEM: Milloin aikaa vastaan ratsastettavan arvostelu A:n kilpailun uusinta voidaan kilpailusääntöjen artiklan 220.2.1.3 mukaan arvostella arvostelu C:n mukaan?
+OPTION_A: Kun kaikki urheilijat ovat siitä samaa mieltä
+OPTION_B: Kun kilpailussa ei jaeta Longines Ranking -pisteitä ja tästä on määrätty kilpailukutsussa
+OPTION_C: Kun kyseessä on Grand Prix -kilpailu
+OPTION_D: Kun kilpailu järjestetään sisätiloissa
 CORRECT: B
-EXPLANATION: Yhteisösääntöjen artiklassa 220.2.1.3 todetaan, että taulukon C mukainen uusintahyppyformaatti on sallittu vain kilpailuissa, joissa ei ole Longines Ranking -pisteitä, ja se on mainittava aikataulussa.
+EXPLANATION: Kilpailusääntöjen artiklassa 220.2.1.3 todetaan, että arvostelu C:n mukainen uusinta on sallittu vain kilpailuissa, joissa ei jaeta Longines Ranking -pisteitä, ja että siitä on mainittava kilpailukutsussa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

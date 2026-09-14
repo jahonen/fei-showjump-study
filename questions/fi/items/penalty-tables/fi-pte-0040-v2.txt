@@ -5,13 +5,13 @@ ARTICLE: 342
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 20
 TYPE: single-select
-STEM: Missä rangaistuspistetaulukossa tuloksissa on erikseen määriteltävä aikarangaistukset?
-OPTION_A: Vain pöytä A
-OPTION_B: Vain taulukko C
-OPTION_C: Sekä taulukko A että taulukko C
-OPTION_D: Kumpikaan
+STEM: Missä arvostelussa aikavirhepisteet on eriteltävä tuloksissa erikseen?
+OPTION_A: Vain arvostelussa A
+OPTION_B: Vain arvostelussa C
+OPTION_C: Sekä arvostelussa A että arvostelussa C
+OPTION_D: Ei kummassakaan
 CORRECT: A
-EXPLANATION: Yhteisösääntöjen artikla 342 asettaa tämän vaatimuksen taulukon A mukaisesti tuomaroiduille kilpailuille.
+EXPLANATION: Kilpailusääntöjen kohdassa 342 tämä vaatimus koskee arvostelun A mukaan tuomittavia kilpailuja.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

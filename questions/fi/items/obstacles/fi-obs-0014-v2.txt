@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Minkä tyyppiseksi esteeksi tuomitaan vesihypyn päälle asetettu pystysuora este?
-OPTION_A: Vesihyppynä
-OPTION_B: Pystysuorana esteenä
-OPTION_C: Liverpoolina
-OPTION_D: Leviämisen esteenä
+STEM: Millaisena esteenä arvostellaan vesihaudan päälle sijoitettu pystyeste?
+OPTION_A: Vesihautana
+OPTION_B: Pystyesteenä
+OPTION_C: Liverpool-esteenä
+OPTION_D: Pituusesteenä
 CORRECT: B
-EXPLANATION: JR:n artikla 301 toteaa nimenomaisesti, että veden päälle asetettu pystysuora este tuomitaan pystysuorana esteenä eikä vesihyppynä.
+EXPLANATION: Kilpailusääntöjen artiklassa 301 todetaan nimenomaisesti, että vesihaudan päälle sijoitettu pystyeste arvostellaan pystyesteenä eikä vesihautana.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

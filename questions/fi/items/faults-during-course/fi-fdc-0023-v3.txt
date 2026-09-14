@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Minkä väristen lippujen on oltava urheilijan oikealla puolella esteen ohittaessa oikein?
-OPTION_A: Valkoinen
-OPTION_B: Punainen
-OPTION_C: Sininen
-OPTION_D: Keltainen
+STEM: Minkä värisen lipun on oltava urheilijan oikealla puolella, kun este ylitetään oikein?
+OPTION_A: Valkoisen
+OPTION_B: Punaisen
+OPTION_C: Sinisen
+OPTION_D: Keltaisen
 CORRECT: B
-EXPLANATION: JR:n artikla 348 edellyttää urheilijan ohittavan lippujen välistä, joissa punainen lippu on oikealla ja valkoinen lippu vasemmalla. Esteen hyppääminen kahden samanvärisen lipun välistä rangaistaan heittona artikla 348 mukaisesti.
+EXPLANATION: Kilpailusääntöjen artiklan 348 mukaan ratsukon on ylitettävä este lippujen välistä siten, että punainen lippu on oikealla ja valkoinen lippu vasemmalla. Esteen hyppääminen kahden samanvärisen lipun välistä tuomitaan sivuun poikkeamiseksi.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

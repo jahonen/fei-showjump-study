@@ -5,13 +5,13 @@ ARTICLE: 341
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 19
 TYPE: single-select
-STEM: Mitä seremoniavaatimusta koskee yhteisen ohjesäännön artikla 267.4?
-OPTION_A: Kansallislaulu
-OPTION_B: Urheilijoiden pukukoodi
-OPTION_C: Loimet hevosilla palkintojenjaon aikana
-OPTION_D: Palkintojen jakojärjestys
+STEM: Mitä palkintojenjakotilaisuuden vaatimusta kilpailusääntöjen artikla 267.4 koskee?
+OPTION_A: Kansallislaulua
+OPTION_B: Urheilijoiden kilpailuasua
+OPTION_C: Hevosten loimien käyttöä palkintojenjaossa
+OPTION_D: Palkintojen jakojärjestystä
 CORRECT: C
-EXPLANATION: JR:n artikla 341 säätelee, voivatko hevoset käyttää loimia palkintojenjakotilaisuudessa.
+EXPLANATION: Kilpailusääntöjen artiklassa 341 säädellään sitä, saavatko hevoset käyttää loimia palkintojenjakotilaisuudessa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

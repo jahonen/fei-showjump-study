@@ -5,13 +5,13 @@ ARTICLE: 354
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 30
 TYPE: multi-select
-STEM: Mitkä väittämät tasa- ja uusintahyppyistä ovat oikein taulukon A mukaisessa kilpailussa aikaa vastaan?
-OPTION_A: Tasapelit rangaistuspotkuissa missä tahansa paikassa voidaan ratkaista ajan avulla ilman aloitushyppyä.
-OPTION_B: Rangaistuspotkujen tasatilanteet voi ratkaista taulukon A mukaisella aikahypyllä.
-OPTION_C: Tasapelit ensimmäisestä sijasta voidaan ratkaista taulukon C mukaisella aikahypyllä, jos niin on määrätty eikä Longines Ranking -pisteitä jaeta.
-OPTION_D: Tasapelit rangaistuspotkukilpailussa ja ensimmäisen sijan aika johtaa aina jatkoon.
+STEM: Mitkä tasapisteitä ja uusintoja koskevat väittämät ovat oikein aikaa vastaan ratsastettavassa arvostelu A:n kilpailussa?
+OPTION_A: Tasapisteet millä tahansa sijalla voidaan ratkaista ajan perusteella ilman uusintaa
+OPTION_B: Virhepisteiden tasatilanne voidaan ratkaista arvostelu A:n mukaisella, aikaa vastaan ratsastettavalla uusinnalla
+OPTION_C: Ensimmäisen sijan tasapisteet voidaan ratkaista arvostelu C:n mukaisella uusinnalla, jos siitä on määrätty eikä Longines Ranking -pisteitä jaeta
+OPTION_D: Virhepisteiden ja ajan tasatilanne ensimmäisellä sijalla johtaa aina uuteen uusintaan
 CORRECT: A,B,C
-EXPLANATION: Kilpailusääntöjen artikla 354 luettelee taulukon A mukaisten aikakilpailujen formaatit: tasapelit ratkeaa aikahyppyjen jälkeen ilman uusintaa (kohta 220.2.1.1); uusintahyppy taulukon A mukaisesti (kohta 220.2.1.2); ja uusintahyppy taulukon C mukaisesti ilman Longines-rankingpisteitä, jos aikataulussa niin määrätään (kohta 220.2.1.3). artikla 354 sanoo, että uusintahyppyjä voi olla lisää, jos rangaistukset ja aika ovat ensin tasan, mutta sellaista ei aina ole.
+EXPLANATION: Kilpailusääntöjen artiklassa 354 luetellaan aikaa vastaan ratsastettavien arvostelu A:n kilpailujen vaihtoehdot: tasapisteet ratkaistaan ajan perusteella ilman uusintaa (kohta 220.2.1.1), uusinta ratsastetaan arvostelu A:n mukaan (kohta 220.2.1.2) tai uusinta ratsastetaan arvostelu C:n mukaan kilpailuissa, joissa ei jaeta Longines Ranking -pisteitä, jos kilpailukutsussa niin määrätään (kohta 220.2.1.3). Lisäuusinta on mahdollinen, jos virhepisteet ja aika ovat tasan, mutta sitä ei järjestetä aina.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

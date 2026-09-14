@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: JR:n artiklan 246.3.3 mukaan, jos hevonen hyppää kahden valkoisen lipun välistä, oikea reaktio on:
-OPTION_A: Jatka seuraavalle esteelle
-OPTION_B: Palaa takaisin ja hyppää oikein
-OPTION_C: Pysähdy 45 sekunniksi
-OPTION_D: Hyväksy este hypättynä
+STEM: Miten urheilijan on artiklan 246.3.3 mukaan toimittava, jos hevonen hyppää esteen kahden valkoisen lipun välistä?
+OPTION_A: Jatkettava seuraavalle esteelle
+OPTION_B: Palattava takaisin ja hypättävä este oikein
+OPTION_C: Pysähdyttävä 45 sekunniksi
+OPTION_D: Katsottava este hypätyksi
 CORRECT: B
-EXPLANATION: JR:n artikla 348 käsittelee kahden valkoisen tai kahden punaisen lipun välistä hyppäämistä ulosajosta ja vaatii esteen hyppäämisen uudelleen oikein.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 kahden valkoisen tai kahden punaisen lipun välistä hyppäämistä käsitellään sivuun poikkeamisena, ja este on hypättävä uudelleen oikein.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

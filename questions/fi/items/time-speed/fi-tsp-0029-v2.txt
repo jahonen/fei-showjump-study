@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Milloin kierroksen aika päättyy JR:n artiklan 251.1.2 mukaisesti?
-OPTION_A: Kun urheilija on ylittänyt viimeisen esteen
-OPTION_B: Kun ratsastaja/hevosyhdistelmä ylittää maaliviivan oikeaan suuntaan viimeisen esteen hypättyään
-OPTION_C: Kun kello soitetaan
-OPTION_D: Kun urheilija poistuu areenalta
+STEM: Milloin ajanotto päättyy kilpailusääntöjen kohdan 251.1.2 mukaan?
+OPTION_A: Kun ratsukko on hypännyt viimeisen esteen
+OPTION_B: Kun ratsukko ylittää maalilinjan oikeasta suunnasta viimeisen esteen hypättyään
+OPTION_C: Kun äänimerkki annetaan
+OPTION_D: Kun ratsukko poistuu kilpailualueelta
 CORRECT: B
-EXPLANATION: JR:n artiklassa 251.1.2 määrätään, että aika pysähtyy, kun urheilija/hevosyhdistelmä ylittää maaliviivan oikeaan suuntaan hypättyään viimeisen esteen.
+EXPLANATION: Kilpailusääntöjen kohdassa 251.1.2 määrätään, että ajanotto päättyy, kun ratsukko ylittää maalilinjan oikeasta suunnasta viimeisen esteen hypättyään.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 329
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 16
 TYPE: multi-select
-STEM: Mitkä lähtömenettelyä koskevat väittämät ovat oikein JR:n artiklan 241.6.1.2 nojalla?
-OPTION_A: 45 sekunnin lähtölaskenta voi keskeytyä odottamattomien olosuhteiden vuoksi.
-OPTION_B: Kaatuminen radalle astumisen jälkeen, mutta ennen lähtöviivan ylittämistä, estää urheilijaa lähtemästä.
-OPTION_C: Tottelemattomuudesta ennen lähtöviivan ylittämistä rangaistaan aina
-OPTION_D: Tuomariston jäsenet voivat peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen.
+STEM: Mitkä lähtömenettelyä koskevat väittämät ovat oikein kilpailusääntöjen artiklan 241.6.1.2 nojalla?
+OPTION_A: 45 sekunnin lähtölaskenta voidaan keskeyttää odottamattomien olosuhteiden vuoksi
+OPTION_B: Kilpailualueelle tulon jälkeen mutta ennen lähtölinjan ylittämistä tapahtuva kaatuminen estää urheilijan lähdön
+OPTION_C: Tottelemattomuudesta ennen lähtölinjan ylittämistä rangaistaan aina
+OPTION_D: Tuomaristo voi peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen
 CORRECT: A,B,D
-EXPLANATION: JR:n artikla 329 antaa tuomaristolle oikeuden keskeyttää lähtölaskennan odottamattomissa olosuhteissa, määrää, että kaatuminen radalle astumisen jälkeen lähtöviivan ylitykseen asti estää lähdön, ja sallii tuomaristolle oikeuden peruuttaa lähtömenettelyn ja käynnistää lähtölaskennan uudelleen. Tottelemattomuudesta ennen lähtöviivan ylittämistä ei rangaista.
+EXPLANATION: Kilpailusääntöjen artiklassa 329 annetaan tuomaristolle oikeus keskeyttää lähtölaskenta odottamattomissa olosuhteissa, määrätään, että kilpailualueelle tulon jälkeen mutta ennen lähtölinjan ylitystä tapahtuva kaatuminen estää lähdön, ja sallitaan tuomariston peruuttaa lähtömenettely ja käynnistää lähtölaskenta uudelleen. Tottelemattomuudesta ennen lähtölinjan ylittämistä ei rangaista.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

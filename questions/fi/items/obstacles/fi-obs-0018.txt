@@ -5,13 +5,13 @@ ARTICLE: 301
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 5
 TYPE: single-select
-STEM: Minkä tyyppisessä kilpailussa Jokeria saa käyttää?
-OPTION_A: Mikä tahansa Grand Prix
-OPTION_B: Vain keräilykilpailu
-OPTION_C: Kansakuntien Cup-kilpailu
-OPTION_D: Puissance-kilpailu
+STEM: Millaisessa kilpailussa jokeriestettä saa käyttää?
+OPTION_A: Kaikissa Grand Prix -kilpailuissa
+OPTION_B: Vain vaikeutuvassa ratsastuksessa
+OPTION_C: Nations Cup -kilpailussa
+OPTION_D: Puissance-kilpailussa
 CORRECT: B
-EXPLANATION: JR:n artiklassa 240.3 todetaan, että Jokeri on vaikea valinnainen este, jota saa käyttää vain keräilykilpailussa.
+EXPLANATION: Kilpailusääntöjen artiklassa 240.3 todetaan, että jokerieste on vaikea vapaaehtoinen este, jota saa käyttää vain vaikeutuvassa ratsastuksessa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

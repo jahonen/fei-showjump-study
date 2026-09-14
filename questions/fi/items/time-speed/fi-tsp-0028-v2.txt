@@ -5,13 +5,13 @@ ARTICLE: 352
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 29
 TYPE: single-select
-STEM: Missä kilpailutyypissä ei ole aikarajaa, mutta on olemassa enimmäisaikaraja?
-OPTION_A: Taulukko A aikaa vastaan
-OPTION_B: Taulukko A Ei aikaa vastaan
-OPTION_C: Taulukko C
-OPTION_D: Voimakkuus
+STEM: Missä kilpailutyypissä ei ole enimmäisaikaa mutta on aikaraja?
+OPTION_A: Arvostelu A, jossa aika ratkaisee
+OPTION_B: Arvostelu A, jossa aika ei ratkaise
+OPTION_C: Arvostelu C
+OPTION_D: Voima- ja taitokilpailu
 CORRECT: C
-EXPLANATION: JR:n artiklassa 217.2.3 todetaan, että taulukon C mukaisissa kilpailuissa ei ole aikarajoitusta, mutta niillä on enimmäisaikaraja.
+EXPLANATION: Kilpailusääntöjen kohdassa 217.2.3 todetaan, että arvostelun C mukaisissa kilpailuissa ei ole enimmäisaikaa, mutta niissä on aikaraja.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: multi-select
-STEM: Mitkä seuraavista katsotaan tottelemattomuudeksi JR:n artiklan 246.1 nojalla?
+STEM: Mitkä seuraavista katsotaan artiklan 246.1 mukaan tottelemattomuudeksi?
 OPTION_A: Kieltäytyminen
-OPTION_B: Loppuunmyyty
-OPTION_C: Kierrä kerran 30 sekunnin ajan palauttaaksesi aseman kieltäytymisen jälkeen
-OPTION_D: Vastarinta
+OPTION_B: Sivuun poikkeaminen
+OPTION_C: Yksi voltti 30 sekunnin ajan uuden hyppy-yrityksen tekemiseksi kieltäytymisen jälkeen
+OPTION_D: Niskurointi
 CORRECT: A,B,D
-EXPLANATION: JR:n artikla 348 luettelee tottelemattomuudeksi kieltäytymisen, ulosajon, vastustamisen ja ympyrää liikkumisen. Ympyrässä liikkuminen jopa 45 sekuntia ulosajon tai kieltäytymisen asettua paikalleen jälkeen ei kuitenkaan ole tottelemattomuutta.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 tottelemattomuudeksi luetellaan kieltäytyminen, sivuun poikkeaminen, niskurointi ja voltin tekeminen. Enintään 45 sekunnin ajan tehdyt voltit sivuun poikkeamisen tai kieltäytymisen jälkeen eivät kuitenkaan ole tottelemattomuutta.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

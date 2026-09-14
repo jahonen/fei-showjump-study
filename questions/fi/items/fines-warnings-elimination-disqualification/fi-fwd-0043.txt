@@ -5,13 +5,13 @@ ARTICLE: 346
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 23
 TYPE: single-select
-STEM: Mikä on eliminoinnin yleinen vaikutus kilpailussa?
-OPTION_A: Urheilija voi jatkaa, mutta neljällä lisärangaistuksella
-OPTION_B: Kyseisen hevosen ratsastaja ei saa jatkaa kyseisessä kilpailussa.
-OPTION_C: Urheilijalle 1 000 Sveitsin frangin sakko
-OPTION_D: Urheilija sijoittuu viimeiseksi, mutta säilyttää oikeuden osallistua myöhempään kilpailuun.
+STEM: Mikä on hylkäämisen yleinen vaikutus kilpailussa?
+OPTION_A: Urheilija saa jatkaa, mutta hänelle tuomitaan neljä virhepistettä
+OPTION_B: Urheilija ei saa jatkaa kyseisellä hevosella meneillään olevassa kilpailussa
+OPTION_C: Urheilijalle määrätään 1 000 Sveitsin frangin sakko
+OPTION_D: Urheilija sijoittuu viimeiseksi mutta säilyttää oikeuden osallistua myöhempiin kilpailuihin
 CORRECT: B
-EXPLANATION: Kilpailusääntöjen artiklassa 263.1 todetaan, että ellei kilpailusäännöissä toisin määrätä, eliminointi tarkoittaa, että urheilija kyseisen hevosen kanssa ei saa jatkaa kyseisessä kilpailussa.
+EXPLANATION: Artiklassa 263.1 todetaan, että ellei säännöissä toisin määrätä, hylkääminen tarkoittaa, ettei urheilija saa jatkaa kyseisellä hevosella meneillään olevassa kilpailussa.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes

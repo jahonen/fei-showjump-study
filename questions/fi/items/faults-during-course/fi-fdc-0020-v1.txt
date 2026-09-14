@@ -5,13 +5,13 @@ ARTICLE: 348
 EDITION_REF: Kilpailusäännöt III – Esteratsastus, voimassa 1.2.2026
 SOURCE_PAGE: 27
 TYPE: single-select
-STEM: Levitetyllä esteellä on kaksi ylintä osaa, jotka eivät ole samassa pystytasossa. Toinen ylimmistä osasta putoaa kierroksen aikana. Kuinka monta virhepistettä lasketaan?
+STEM: Levitetyssä esteessä on kaksi ylintä osaa, jotka eivät ole samassa pystytasossa. Toinen ylimmistä osista putoaa suorituksen aikana. Kuinka monta virhettä tuomitaan?
 OPTION_A: Yksi
 OPTION_B: Kaksi
-OPTION_C: Yksi putoavaa osaa kohden
-OPTION_D: Ei mitään, elleivät molemmat putoa
+OPTION_C: Yksi jokaisesta pudonneesta osasta
+OPTION_D: Ei yhtään, elleivät molemmat osat putoa
 CORRECT: A
-EXPLANATION: JR:n artikla 348 määrää, että kun yhdellä suorituksella ylitettävä este koostuu osista, jotka eivät ole samassa pystytasossa, yhden tai useamman päällimmäisen osan putoaminen lasketaan vain yhdeksi virheeksi riippumatta pudonneiden osien lukumäärästä ja sijainnista.
+EXPLANATION: Kilpailusääntöjen artiklassa 348 määrätään, että kun yhdellä hypyllä ylitettävä este koostuu osista, jotka eivät ole samassa pystytasossa, yhden tai useamman ylimmän osan putoamisesta tuomitaan vain yksi virhe riippumatta pudonneiden osien lukumäärästä ja sijainnista.
 STATUS: verified
 CREATED: 2026-09-13
 VERIFIED_AGAINST_SOURCE: yes
